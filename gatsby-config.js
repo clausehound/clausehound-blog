@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `Clausehound Blog`,
+    author: `Joshua Koudys`,
+    description: `Legal tech blog. Discussing the latest developments in the law, and answering questions.`,
+    siteUrl: `https://blog.clausehound.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `jkoudys`,
     },
   },
   plugins: [
+    'gatsby-plugin-typescript',
     {
       resolve: `gatsby-source-filesystem`,
       options: {

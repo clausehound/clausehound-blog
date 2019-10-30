@@ -1,0 +1,17 @@
+{
+  "include": ["src/"],
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true,
+    "lib": ["ES2018", "DOM"],
+    "module": "esNext",
+    "moduleResolution": "Node",
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "typeRoots": [
+      "./node_modules/@types",
+    ]
+  }
+}
