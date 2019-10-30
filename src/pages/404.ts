@@ -1,22 +1,27 @@
-import React from "react"
-import { graphql } from "gatsby"
+import { FC, createElement as h } from 'react'
+import { graphql } from 'gatsby'
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from '../components/layout'
+import SEO from '../components/seo'
 
-class NotFoundPage extends React.Component {
-  render() {
-    const { data } = this.props
-    const siteTitle = data.site.siteMetadata.title
+interface Props {
+  data: any;
+  location: Location;
+}
 
-    return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="404: Not Found" />
-        <h1>Not Found</h1>
-        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-      </Layout>
+const NotFoundPage: FC<Props> = ({ data, location }) => {
+  const { title } = data.site.siteMetadata
+
+  return h(
+    Layout,
+    { location, title },
+    h(
+      SEO,
+      { title: '404: Not Found' },
+      h('h1', null, 'Not Found'),
+      h('p', null, "You just hit a route that doesn't exist... the sadness.")
     )
-  }
+  )
 }
 
 export default NotFoundPage

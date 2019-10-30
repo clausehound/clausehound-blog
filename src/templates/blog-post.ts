@@ -1,87 +1,118 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
+import { FC, createElement as h } from 'react'
+import { Link, graphql } from 'gatsby'
+import Bio from '../components/bio'
+import Layout from '../components/layout'
+import SEO from '../components/seo'
+import { rhythm, scale } from '../utils/typography'
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
+interface Props {
+  data: any
+  location: Location
+  pageContext: any
+}
 
-class BlogPostTemplate extends React.Component {
-  render() {
-    const post = this.props.data.markdownRemark
-    const siteTitle = this.props.data.site.siteMetadata.title
-    const { previous, next } = this.props.pageContext
-
-    return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title={post.frontmatter.title}
-          description={post.frontmatter.description || post.excerpt}
-        />
-        <article>
-          <header>
-            <h1
-              style={{
-                marginTop: rhythm(1),
-                marginBottom: 0,
-              }}
-            >
-              {post.frontmatter.title}
-            </h1>
-            <p
-              style={{
-                ...scale(-1 / 5),
-                display: `block`,
-                marginBottom: rhythm(1),
-              }}
-            >
-              {post.frontmatter.date}
-            </p>
-          </header>
-          <section dangerouslySetInnerHTML={{ __html: post.html }} />
-          <hr
-            style={{
+const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
+  const post = data.markdownRemark
+  const siteTitle = data.site.siteMetadata.title
+  const { previous, next } = pageContext
+  return h(
+    Layout,
+    {
+      location,
+      title: siteTitle,
+    },
+    h(SEO, {
+      title: post.frontmatter.title,
+      description: post.frontmatter.description || post.excerpt,
+    }),
+    h(
+      'article',
+      null,
+      h(
+        'header',
+        null,
+        h(
+          'h1',
+          {
+            style: {
+              marginTop: rhythm(1),
+              marginBottom: 0,
+            },
+          },
+          post.frontmatter.title
+        ),
+        h(
+          'p',
+          {
+            style: {
+              ...scale(-1 / 5),
+              display: `block`,
               marginBottom: rhythm(1),
-            }}
-          />
-          <footer>
-            <Bio />
-          </footer>
-        </article>
-
-        <nav>
-          <ul
-            style={{
-              display: `flex`,
-              flexWrap: `wrap`,
-              justifyContent: `space-between`,
-              listStyle: `none`,
-              padding: 0,
-            }}
-          >
-            <li>
-              {previous && (
-                <Link to={previous.fields.slug} rel="prev">
-                  ← {previous.frontmatter.title}
-                </Link>
-              )}
-            </li>
-            <li>
-              {next && (
-                <Link to={next.fields.slug} rel="next">
-                  {next.frontmatter.title} →
-                </Link>
-              )}
-            </li>
-          </ul>
-        </nav>
-      </Layout>
+            },
+          },
+          post.frontmatter.date
+        )
+      ),
+      h('section', {
+        dangerouslySetInnerHTML: {
+          __html: post.html,
+        },
+      }),
+      h('hr', {
+        style: {
+          marginBottom: rhythm(1),
+        },
+      }),
+      h('footer', null, h(Bio, null))
+    ),
+    h(
+      'nav',
+      null,
+      h(
+        'ul',
+        {
+          style: {
+            display: `flex`,
+            flexWrap: `wrap`,
+            justifyContent: `space-between`,
+            listStyle: `none`,
+            padding: 0,
+          },
+        },
+        h(
+          'li',
+          null,
+          previous &&
+            h(
+              Link,
+              {
+                to: previous.fields.slug,
+                rel: 'prev',
+              },
+              '\u2190 ',
+              previous.frontmatter.title
+            )
+        ),
+        h(
+          'li',
+          null,
+          next &&
+            h(
+              Link,
+              {
+                to: next.fields.slug,
+                rel: 'next',
+              },
+              next.frontmatter.title,
+              ' \u2192'
+            )
+        )
+      )
     )
-  }
+  )
 }
 
 export default BlogPostTemplate
-
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     site {
