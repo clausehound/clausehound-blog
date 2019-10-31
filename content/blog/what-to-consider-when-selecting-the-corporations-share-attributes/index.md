@@ -6,9 +6,6 @@ date: 2019-06-26 14:52:43
 description: "Introduction
 When drafting articles of incorporation, one is required to outline the share structure of the corporation. This article seeks to outline some basic requirements, and subsequently the i..."
 ---
-
-# Introduction
-
 When drafting [articles of incorporation](https://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2/), one is required to outline the share structure of the corporation. This article seeks to outline some basic requirements, and subsequently the importance of choosing a share structure that is most beneficial for the corporation.
 
 ## What is a Share? And Who is a Shareholder?
