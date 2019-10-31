@@ -3,13 +3,14 @@ import { Link } from 'gatsby'
 
 import { rhythm, scale } from '../utils/typography'
 
+declare var __PATH_PREFIX__: string;
+
 interface Props {
   location: Location
   title: string
 }
 
 const Layout: FC<Props> = ({ location, title, children }) => {
-  // @ts-ignore __PATH_PREFIX__ is a gatsby directive
   const rootPath = `${__PATH_PREFIX__}/`
   let header
 
