@@ -23,7 +23,6 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
     h(SEO, {
       title: 'All posts',
     }),
-    h(Bio, null),
     posts.map(({ node }: { node: any }) => {
       const title = node.frontmatter.title || node.fields.slug
       return h(

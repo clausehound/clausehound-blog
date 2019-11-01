@@ -3,22 +3,7 @@ title: "Pick of the Litter: This Robot Just Wants To Hug A Jellyfish Without Com
 author: alva@clausehound.com
 tags: ["aching","Newsletters"]
 date: 2018-08-03 16:12:41
-description: "The 'Hound is sniffing out cool innovations for you.
-
-
-
-
-
- Multiplicity's What's Cool Weekly
-
-
-
-
- This Robot Just Wants To Hug A Jellyfish Without Committing Jellymurder 
-
-
-
-Chinese Scientists Want to..."
+description: "This Robot Just Wants To Hug A Jellyfish Without Committing Jellymurder"
 ---
 
 The 'Hound is sniffing out cool innovations for you.
@@ -78,5 +63,3 @@ October 22nd, [Canadian Innovation Exchange 2018](https://blog.clausehound.com/c
 [https://www.linkedin.com/company/clausehound](https://www.linkedin.com/company/clausehound)
 
 [https://www.youtube.com/channel/UCyXJb5j3l4mqCw1xKoU6IFA](https://www.youtube.com/channel/UCyXJb5j3l4mqCw1xKoU6IFA)
-
-.gridDesc{transition: all .5s; padding-left: 3px; padding-right: 3px;padding-bottom: 10px;}.socialIcon{float:left; width: 25%;transition: all .5s;}.eventTitle{margin: 24px 0;}.eventsAndMedia{ margin:auto;max-width: 590px; font-size: 14px;transition: all .5s;overflow: auto;}.gridImage{width:197px; height:140px; margin: 0; }.imageGridBox{width: 33%; border-collapse: collapse;font-size: 14px;transition: all .5s; display: block; float: left; width: 33%; overflow: hidden;}@media screen and (max-width: 639px){.socialIcon{width: 50%;}.imageGridBox{width: 100%;clear: both;}.gridImage{width: 100%;height: auto;}}

@@ -14,67 +14,81 @@
   },
   {
     "id": "AssafWeisz@clausehound.com",
-    "first": ""
+    "first": "Assaf",
+    "last": "Weisz"
   },
   {
     "id": "IlanaBenAri@clausehound.com",
-    "first": ""
+    "first": "Ilana",
+    "last": "ben Ari"
   },
   {
     "id": "NicoleVerkindt@clausehound.com",
-    "first": ""
+    "first": "Nicole",
+    "last": "Verkindt"
   },
   {
     "id": "RyanGrantLittle@clausehoud.com",
-    "first": ""
+    "first": "Ryan",
+    "last": "Grant-Little"
   },
   {
     "id": "SheetalJaitly@clausehound.com",
-    "first": ""
+    "first": "Sheeta",
+    "last": "Jaitly"
   },
   {
     "id": "aidan@clausehound.com",
-    "first": ""
+    "first": "Aidan"
   },
   {
     "id": "alina@clausehound.com",
-    "first": ""
+    "first": "Alina"
   },
   {
     "id": "alva+AlkarimNasser@clausehound.com",
-    "first": ""
+    "first": "Alkarim",
+    "last": "Nasser"
   },
   {
     "id": "alva+ChrisKay@clausehound.com",
-    "first": ""
+    "first": "Chris",
+    "last": "Kay"
   },
   {
     "id": "alva+ChrisSnoyer@clausehound.com",
-    "first": ""
+    "first": "Chris",
+    "last": "Snoyer"
   },
   {
     "id": "alva+DominicBortolussi@clausehound.com",
-    "first": ""
+    "first": "Dominic",
+    "last": "Bortolussi"
   },
   {
     "id": "alva+EricJanssen@clausehound.com",
-    "first": ""
+    "first": "Eric",
+    "last": "Janssen"
   },
   {
     "id": "alva+LisaWinning@clausehound.com",
-    "first": ""
+    "first": "Lisa",
+    "last": "Winning"
   },
   {
     "id": "alva+NathanLev@clausehound.com",
-    "first": ""
+    "first": "Nathan",
+    "last": "Lev"
   },
   {
     "id": "alva+NavidNathoo@clausehound.com",
-    "first": ""
+    "first": "Navid",
+    "last": "Nathoo"
   },
   {
     "id": "alva@clausehound.com",
-    "first": ""
+    "first": "Alva",
+    "last": "Ching"
   },
   {
     "id": "aunterman@cobaltcounsel.com",
@@ -82,7 +96,8 @@
   },
   {
     "id": "cmcivor@cobaltcounsel.com",
-    "first": ""
+    "first": "Chris",
+    "last": "McIvor"
   },
   {
     "id": "frahman@cobaltcounsel.com",
@@ -90,7 +105,7 @@
   },
   {
     "id": "ian@clausehound.com",
-    "first": ""
+    "first": "Ian"
   },
   {
     "id": "info@clausehound.com",
@@ -98,30 +113,41 @@
   },
   {
     "id": "jenny@clausehound.com",
-    "first": ""
+    "first": "Jenny"
   },
   {
     "id": "jordan+1@clausehound.com",
-    "first": ""
+    "first": "Jordan"
   },
   {
     "id": "krysta@clausehound.com",
-    "first": ""
+    "first": "Krysta",
+    "last": "Boutin"
   },
   {
     "id": "margaret@clausehound.com",
-    "first": ""
+    "first": "Margaret",
+    "last": "Rimek"
   },
   {
     "id": "mifras@clausehound.com",
-    "first": ""
+    "first": "Mifras"
   },
   {
     "id": "rajah@cobaltcounsel.com",
-    "first": ""
+    "first": "Rajah",
+    "last": "Lehal",
+    "bio": "Founder of Clausehound"
   },
   {
     "id": "richard@clausehound.com",
-    "first": ""
+    "first": "Richard"
+  },
+  {
+    "id": "josh@clausehound.com",
+    "first": "Josh",
+    "last": "Koudys",
+    "bio": "The CTO of Clausehound, who is constantly looking for ways software can improve our access to the law.",
+    "avatar": "josh.png"
   }
 ]
