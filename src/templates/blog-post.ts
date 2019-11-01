@@ -41,6 +41,8 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           },
           post.frontmatter.title
         ),
+        // TODO: look up author email from an author bio
+        h('h3', null, `by ${post.frontmatter.author.first}`),
         h(
           'p',
           {
@@ -129,6 +131,12 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        author {
+          id
+          first
+          last
+        }
+        tags
       }
     }
   }

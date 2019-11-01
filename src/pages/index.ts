@@ -12,6 +12,7 @@ interface Props {
 
 const BlogIndex: FC<Props> = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
+  console.log(data.site.siteMetadata);
   const posts = data.allMarkdownRemark.edges
   return h(
     Layout,
@@ -86,6 +87,12 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            author {
+              id
+              first
+              last
+            }
+            tags
           }
         }
       }
