@@ -3,7 +3,7 @@
     "id": "sahil@clausehound.com",
     "first": "Sahil",
     "last": "Kanaya",
-    "bio": "Loves blogging and Clausehound!"
+    "bio": "Sahil loves blogging, and Clausehound!"
   },
   {
     "id": "info@clausehound.com",
@@ -149,5 +149,15 @@
     "last": "Koudys",
     "bio": "The CTO of Clausehound, who is constantly looking for ways software can improve our access to the law.",
     "avatar": "josh.png"
+  },
+  {
+    "id": "eashan@clausehound.com",
+    "first": "Eashan",
+    "last": "Karnik"
+  },
+  {
+    "id": "erin@clausehound.com",
+    "first": "Erin",
+    "last": "Adele Krawchuk"
   }
 ]

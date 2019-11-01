@@ -1,9 +1,9 @@
-import { FC, createElement as h } from "react"
-import { Link, graphql } from "gatsby"
+import { FC, createElement as h } from 'react'
+import { Link, graphql } from 'gatsby'
 import Bio from '../components/bio'
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
+import Layout from '../components/layout'
+import SEO from '../components/seo'
+import { rhythm, scale } from '../utils/typography'
 
 interface Props {
   data: any
@@ -18,10 +18,10 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
   const { author } = post.frontmatter
 
   const authorName = (() => {
-    if (author == null) return ""
+    if (author == null) return ''
 
     if (author.first) {
-      return `${author.first} ${author.last || ""}`.trim()
+      return `${author.first} ${author.last || ''}`.trim()
     }
     return author.id
   })()
@@ -37,13 +37,13 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
       description: post.frontmatter.description || post.excerpt,
     }),
     h(
-      "article",
+      'article',
       null,
       h(
-        "header",
+        'header',
         null,
         h(
-          "h1",
+          'h1',
           {
             style: {
               marginTop: rhythm(1),
@@ -53,9 +53,9 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           post.frontmatter.title
         ),
         // TODO: look up author email from an author bio
-        authorName && h("h3", null, `by ${authorName}`),
+        authorName && h('h3', null, `by ${authorName}`),
         h(
-          "p",
+          'p',
           {
             style: {
               ...scale(-1 / 5),
@@ -66,32 +66,33 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           post.frontmatter.date
         )
       ),
-      h("section", {
+      h('section', {
         dangerouslySetInnerHTML: {
           __html: post.html,
         },
       }),
-      h("hr", {
+      h('hr', {
         style: {
           marginBottom: rhythm(1),
         },
       }),
       h(
-        "footer",
+        'footer',
         null,
         h(Bio, {
           name: authorName,
           email: author.id,
           bio: author.bio,
-          avatar: author.avatar,
+          // TODO: Load mapped from the config
+          avatar: data.avatar,
         })
       )
     ),
     h(
-      "nav",
+      'nav',
       null,
       h(
-        "ul",
+        'ul',
         {
           style: {
             display: `flex`,
@@ -102,34 +103,41 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           },
         },
         h(
-          "li",
+          'li',
           null,
           previous &&
             h(
               Link,
               {
                 to: previous.fields.slug,
-                rel: "prev",
+                rel: 'prev',
               },
-              "\u2190 ",
+              '\u2190 ',
               previous.frontmatter.title
             )
         ),
         h(
-          "li",
+          'li',
           null,
           next &&
             h(
               Link,
               {
                 to: next.fields.slug,
-                rel: "next",
+                rel: 'next',
               },
               next.frontmatter.title,
-              " \u2192"
+              ' \u2192'
             )
         )
       )
+    ),
+    h(
+      'footer',
+      { style: { fontSize: '0.8em' } },
+      'This article is provided for informational purposes only and does not create a lawyer-client relationship with the reader. It is not legal advice and should not be regarded as such. Any reliance on the information is solely at the reader’s own risk. ',
+      h('a', { href: 'https://clausehound.com/documents' }, 'Clausehound.com'),
+      ' is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.'
     )
   )
 }
@@ -141,6 +149,13 @@ export const pageQuery = graphql`
       siteMetadata {
         title
         author
+      }
+    }
+    avatar: file(absolutePath: { regex: "/profiles/josh.png/" }) {
+      childImageSharp {
+        fixed(width: 50, height: 50) {
+          ...GatsbyImageSharpFixed
+        }
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -155,6 +170,7 @@ export const pageQuery = graphql`
           id
           first
           last
+          bio
         }
         tags
       }

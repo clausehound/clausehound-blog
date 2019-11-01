@@ -1,10 +1,9 @@
 ---
 title: "What to Consider When Selecting the Corporation's Share Attributes"
-author: sahil@clausehound.com
-tags: ["Company Formation","Corporate Finance","erin-adele-krawchuk"]
+author: erin@clausehound.com
+tags: ["Company Formation","Corporate Finance"]
 date: 2019-06-26 14:52:43
-description: "Introduction
-When drafting articles of incorporation, one is required to outline the share structure of the corporation. This article seeks to outline some basic requirements, and subsequently the i..."
+description: "When drafting articles of incorporation, one is required to outline the share structure of the corporation. This article seeks to outline some basic requirements, and subsequently the i..."
 ---
 When drafting [articles of incorporation](https://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2/), one is required to outline the share structure of the corporation. This article seeks to outline some basic requirements, and subsequently the importance of choosing a share structure that is most beneficial for the corporation.
 
@@ -43,8 +42,16 @@ If you want your corporation to remain privately held it is important to place r
 
 ## How Can Shareholders Protect Their Rights?
 
-Shareholders of each class are entitled to **vote separately or as a class**, in the event the corporation wishes to amend the articles of incorporation. This protects shareholder’s rights by granting them the power to rally together to preserve the rights of their class. (See OBCA, s.170(1))When drafting your Articles of Incorporation, you will want to consider the information in the following blogs:**Currently Live!**[1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)[2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)[3 of 4 – Selecting and protecting your company’s name](http://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2)[4 of 4 – What to consider when selecting Directors for my business?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-4-of-8-what-to-consider-when-selecting-directors-for-my-business)[5 of 5 – What to consider when selecting the corporation’s share attributes? ](https://blog.clausehound.com/what-to-consider-when-selecting-the-corporations-share-attributes/)
+Shareholders of each class are entitled to **vote separately or as a class**, in the event the corporation wishes to amend the articles of incorporation. This protects shareholder’s rights by granting them the power to rally together to preserve the rights of their class. (See OBCA, s.170(1))When drafting your Articles of Incorporation, you will want to consider the information in the following blogs:
+
+[1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)
+
+[2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)
+
+[3 of 4 – Selecting and protecting your company’s name](http://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2)
+
+[4 of 4 – What to consider when selecting Directors for my business?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-4-of-8-what-to-consider-when-selecting-directors-for-my-business)
+
+[5 of 5 – What to consider when selecting the corporation’s share attributes? ](https://blog.clausehound.com/what-to-consider-when-selecting-the-corporations-share-attributes/)
 
 Draft on!
-
-***Author: **Erin Adele Krawchuk*–  –  –This article is provided for informational purposes only and does not create a lawyer-client relationship with the reader. It is not legal advice and should not be regarded as such. Any reliance on the information is solely at the reader’s own risk. [Clausehound.com](https://clausehound.com/small-business-law-library/) is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.

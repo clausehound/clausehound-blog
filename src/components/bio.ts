@@ -5,34 +5,21 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import { createElement as h } from 'react'
+import { FC, createElement as h } from 'react'
 import { useStaticQuery, graphql } from 'gatsby'
 import Image from 'gatsby-image'
 
 import { rhythm } from '../utils/typography'
 
-const Bio = () => {
-  const data = useStaticQuery(graphql`
-    query BioQuery {
-      avatar: file(absolutePath: { regex: "/profiles/josh.png/" }) {
-        childImageSharp {
-          fixed(width: 50, height: 50) {
-            ...GatsbyImageSharpFixed
-          }
-        }
-      }
-      site {
-        siteMetadata {
-          author
-          social {
-            twitter
-          }
-        }
-      }
-    }
-  `)
+interface Props {
+  name: string
+  email: string
+  bio?: string
+  // TODO: pass in as image
+  avatar?: any
+}
 
-  const { author, social } = data.site.siteMetadata
+const Bio: FC<Props> = ({ name, email, bio, avatar }) => {
   return h(
     'div',
     {
@@ -41,26 +28,21 @@ const Bio = () => {
         marginBottom: rhythm(2.5),
       },
     },
-    h(Image, {
-      fixed: data.avatar.childImageSharp.fixed,
-      alt: author,
-      style: {
-        marginRight: rhythm(1 / 2),
-        marginBottom: 0,
-        minWidth: 50,
-        borderRadius: '100%',
-      },
-      imgStyle: {
-        borderRadius: '50%',
-      },
-    }),
-    h(
-      'p',
-      null,
-      'Written by ',
-      h('strong', null, author),
-      ', who is amazing!',
-    )
+    avatar &&
+      h(Image, {
+        fixed: avatar.childImageSharp.fixed,
+        alt: name,
+        style: {
+          marginRight: rhythm(1 / 2),
+          marginBottom: 0,
+          minWidth: 50,
+          borderRadius: '100%',
+        },
+        imgStyle: {
+          borderRadius: '50%',
+        },
+      }),
+    h('p', null, 'Written by ', h('strong', null, name), '.', bio && ` ${bio}`)
   )
 }
 
