@@ -85,8 +85,9 @@ const BlogList: FC<Props> = ({ data, location, pageContext }) => {
 };
 
 export default BlogList;
+
 export const pageQuery = graphql`
-  query($skip: Int, $limit: Int) {
+  query($skip: Int, $limit: Int, $subdir: String) {
     site {
       siteMetadata {
         title
@@ -94,6 +95,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
+      filter: { fields: { subdir: { eq: $subdir } } }
       limit: $limit
       skip: $skip
     ) {

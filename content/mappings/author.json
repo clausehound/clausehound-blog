@@ -170,5 +170,9 @@
     "id": "philweiss@clausehound.com",
     "first": "Phil",
     "last": "Weiss"
+  },
+  { "id": "greg@clausehound.com",
+    "first": "Greg",
+    "last": "O'Grady"
   }
 ]
