@@ -84,7 +84,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           email: author.id,
           bio: author.bio,
           // TODO: Load mapped from the config
-          avatar: data.avatar,
+          avatar: author.image,
         })
       )
     ),
@@ -151,13 +151,6 @@ export const pageQuery = graphql`
         author
       }
     }
-    avatar: file(absolutePath: { regex: "/profiles/josh.png/" }) {
-      childImageSharp {
-        fixed(width: 50, height: 50) {
-          ...GatsbyImageSharpFixed
-        }
-      }
-    }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       excerpt(pruneLength: 160)
@@ -171,6 +164,13 @@ export const pageQuery = graphql`
           first
           last
           bio
+          image {
+            childImageSharp {
+              fixed(width: 50, height: 50) {
+                ...GatsbyImageSharpFixed
+              }
+            }
+          }
         }
         tags
       }
