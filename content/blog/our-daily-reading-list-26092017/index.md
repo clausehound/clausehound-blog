@@ -3,15 +3,6 @@ title: "Our Daily Reading List - 26/09/2017"
 author: margaret@clausehound.com
 tags: ["margaret","Daily Readings"]
 date: 2017-09-26 05:06:02
-description: "1
-
-Study: Delaware losing edge as leading #corporate #litigation - by @AP @washingtonpost Read Here
-
-
-
-2
-
-Understanding what is means to unfairly compete - by @PaytonLaw #commercial #law Read Here..."
 ---
 
 [https://clausehound.com/](https://clausehound.com/)

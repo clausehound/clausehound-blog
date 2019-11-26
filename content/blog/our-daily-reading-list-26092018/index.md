@@ -4,6 +4,7 @@ author: margaret@clausehound.com
 tags: ["Corporate Finance","margaret"]
 date: 2018-09-26 10:35:02
 description: "Daily reading"
+---
 
 # Corporate Law Should Embrace Putting Workers On Boards: The Evidence Is Behind Them - by Ewan McGaughey @HarvardCorpGov
 [Read Here](https://corpgov.law.harvard.edu/2018/09/17/corporate-law-should-embrace-putting-workers-on-boards-the-evidence-is-behind-them/)

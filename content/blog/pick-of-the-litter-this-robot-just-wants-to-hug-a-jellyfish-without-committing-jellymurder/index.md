@@ -7,34 +7,8 @@ date: 2017-10-13 19:24:53
 
 <div class="post-content">
   <div
-    style="padding-bottom: 20px; margin: 0 auto; max-width: 591px; color: #000000; font-size: 14px; font-family: Lato, Calibri, sans-serif; line-height: 24px; transition: all .5s;"
-    align="center"
-  >
-    The ‘Hound is sniffing out cool innovations for you.
-  </div>
-  <div
-    class="container590 bg_color"
-    style="margin: auto; max-width: 592px; border: solid 1px #e4e4e4; font-size: 14px; transition: all .5s; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"
-    align="center"
-  >
-    <div class="section-img" style="transition: all .5s;" align="center">
-      <a
-        style="transition: all .5s;"
-        href="http://clausehound.com"
-        target="_blank"
-      >
-        <img
-          style="margin: 0; padding: 0; display: block; width: 590px; max-width: 100%; height: auto;"
-          src="https://blog.clausehound.com/wp-content/uploads/2017/06/Pick-of-the-Litter-Logo-Centered.png"
-          alt="section image"
-          border="0"
-        />
-      </a>
-    </div>
-  </div>
-  <div
     class="container590"
-    style="padding-top: 20px; margin: auto; max-width: 591px; font-size: 14px; border: 0; transition: all .5s; overflow: auto;"
+    style="margin: auto; max-width: 591px; font-size: 14px; border: 0; transition: all .5s; overflow: auto;"
     align="center"
   >
     <div
