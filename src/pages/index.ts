@@ -1,19 +1,19 @@
-import { FC, createElement as h } from "react"
-import { Typography } from "@material-ui/core"
-import { Link, graphql } from "gatsby"
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+import { FC, createElement as h } from "react";
+import { Typography } from "@material-ui/core";
+import { Link, graphql } from "gatsby";
+import Bio from "../components/bio";
+import Layout from "../components/layout";
+import SEO from "../components/seo";
+import { rhythm } from "../utils/typography";
 
 interface Props {
-  location: Location
-  data: any
+  location: Location;
+  data: any;
 }
 
 const BlogIndex: FC<Props> = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
+  const siteTitle = data.site.siteMetadata.title;
+  const posts = data.allMarkdownRemark.edges;
   return h(
     Layout,
     {
@@ -24,7 +24,7 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
       title: "All posts",
     }),
     posts.map(({ node }: { node: any }) => {
-      const title = node.frontmatter.title || node.fields.slug
+      const title = node.frontmatter.title || node.fields.slug;
       return h(
         "article",
         {
@@ -50,8 +50,8 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
                 },
                 to: node.fields.slug,
               },
-              title
-            )
+              title,
+            ),
           ),
           h(
             "small",
@@ -60,8 +60,8 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
                 marginBottom: rhythm(1 / 4),
               },
             },
-            node.frontmatter.date
-          )
+            node.frontmatter.date,
+          ),
         ),
         h(
           "section",
@@ -70,14 +70,14 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
             dangerouslySetInnerHTML: {
               __html: node.frontmatter.description || node.excerpt,
             },
-          })
-        )
-      )
-    })
-  )
-}
+          }),
+        ),
+      );
+    }),
+  );
+};
 
-export default BlogIndex
+export default BlogIndex;
 export const pageQuery = graphql`
   query($skip: Int, $limit: Int) {
     site {
@@ -111,4 +111,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

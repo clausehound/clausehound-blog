@@ -5,27 +5,27 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import { FC, createElement as h } from 'react'
-import PropTypes from 'prop-types'
-import Helmet from 'react-helmet'
-import { useStaticQuery, graphql } from 'gatsby'
+import { FC, createElement as h } from "react";
+import PropTypes from "prop-types";
+import Helmet from "react-helmet";
+import { useStaticQuery, graphql } from "gatsby";
 
 interface MetaDescription {
-  content: string
-  name?: string
-  property?: string
+  content: string;
+  name?: string;
+  property?: string;
 }
 
 interface Props {
-  description?: string
-  lang?: string
-  meta?: ReadonlyArray<MetaDescription>
-  title: string
+  description?: string;
+  lang?: string;
+  meta?: ReadonlyArray<MetaDescription>;
+  title: string;
 }
 
 const SEO: FC<Props> = ({
-  description = '',
-  lang = 'en',
+  description = "",
+  lang = "en",
   meta = [],
   title,
 }) => {
@@ -40,10 +40,10 @@ const SEO: FC<Props> = ({
           }
         }
       }
-    `
-  )
+    `,
+  );
 
-  const metaDescription = description || site.siteMetadata.description
+  const metaDescription = description || site.siteMetadata.description;
 
   const defaultMeta: ReadonlyArray<MetaDescription> = [
     {
@@ -78,7 +78,7 @@ const SEO: FC<Props> = ({
       name: `twitter:description`,
       content: metaDescription,
     },
-  ]
+  ];
   return h(Helmet, {
     htmlAttributes: {
       lang,
@@ -86,7 +86,7 @@ const SEO: FC<Props> = ({
     title,
     titleTemplate: `%s | ${site.siteMetadata.title}`,
     meta: defaultMeta.concat(meta),
-  })
-}
+  });
+};
 
-export default SEO
+export default SEO;

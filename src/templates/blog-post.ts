@@ -1,23 +1,23 @@
-import { FC, createElement as h } from "react"
-import { Typography } from "@material-ui/core"
-import { Link, graphql } from "gatsby"
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import Author from "../components/author"
-import { rhythm, scale } from "../utils/typography"
+import { FC, createElement as h } from "react";
+import { Typography } from "@material-ui/core";
+import { Link, graphql } from "gatsby";
+import Bio from "../components/bio";
+import Layout from "../components/layout";
+import SEO from "../components/seo";
+import Author from "../components/author";
+import { rhythm, scale } from "../utils/typography";
 
 interface Props {
-  data: any
-  location: Location
-  pageContext: any
+  data: any;
+  location: Location;
+  pageContext: any;
 }
 
 const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
-  const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
-  const { author } = post.frontmatter
+  const post = data.markdownRemark;
+  const siteTitle = data.site.siteMetadata.title;
+  const { previous, next } = pageContext;
+  const { author } = post.frontmatter;
 
   return h(
     Layout,
@@ -42,7 +42,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
             style: { marginTop: "1rem" },
             variant: "h1",
           },
-          post.frontmatter.title
+          post.frontmatter.title,
         ),
         h(
           "p",
@@ -53,8 +53,8 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
               marginBottom: rhythm(1),
             },
           },
-          post.frontmatter.date
-        )
+          post.frontmatter.date,
+        ),
       ),
       h(Typography, {
         variant: "body1",
@@ -74,8 +74,8 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           name: author.first,
           email: author.id,
           bio: author.bio,
-        })
-      )
+        }),
+      ),
     ),
     h(
       "nav",
@@ -102,8 +102,8 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
                 rel: "prev",
               },
               "\u2190 ",
-              previous.frontmatter.title
-            )
+              previous.frontmatter.title,
+            ),
         ),
         h(
           "li",
@@ -116,10 +116,10 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
                 rel: "next",
               },
               next.frontmatter.title,
-              " \u2192"
-            )
-        )
-      )
+              " \u2192",
+            ),
+        ),
+      ),
     ),
     h(
       "footer",
@@ -131,15 +131,15 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         h(
           "a",
           { href: "https://clausehound.com/documents" },
-          "Clausehound.com"
+          "Clausehound.com",
         ),
-        " is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive."
-      )
-    )
-  )
-}
+        " is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.",
+      ),
+    ),
+  );
+};
 
-export default BlogPostTemplate
+export default BlogPostTemplate;
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     site {
@@ -173,4 +173,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

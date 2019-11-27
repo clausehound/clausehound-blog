@@ -5,17 +5,17 @@
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
 
-import { FC, createElement as h } from 'react'
-import { Typography } from "@material-ui/core"
-import { useStaticQuery, graphql } from 'gatsby'
-import Image from 'gatsby-image'
+import { FC, createElement as h } from "react";
+import { Typography } from "@material-ui/core";
+import { useStaticQuery, graphql } from "gatsby";
+import Image from "gatsby-image";
 
-import { rhythm } from '../utils/typography'
+import { rhythm } from "../utils/typography";
 
 interface Props {
-  name: string
-  email: string
-  bio?: string
+  name: string;
+  email: string;
+  bio?: string;
 }
 
 const Bio: FC<Props> = ({ name, email, bio }) => {
@@ -26,8 +26,8 @@ const Bio: FC<Props> = ({ name, email, bio }) => {
         marginBottom: rhythm(2.5),
       },
     },
-    h('p', null, 'Written by ', h('strong', null, name), '.', bio && ` ${bio}`)
-  )
-}
+    h("p", null, "Written by ", h("strong", null, name), ".", bio && ` ${bio}`),
+  );
+};
 
-export default Bio
+export default Bio;

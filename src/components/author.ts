@@ -1,7 +1,7 @@
-import { FC, createElement as h } from "react"
-import { Typography } from "@material-ui/core"
-import { useTheme } from "@material-ui/core/styles"
-import Image from "gatsby-image"
+import { FC, createElement as h } from "react";
+import { Typography } from "@material-ui/core";
+import { useTheme } from "@material-ui/core/styles";
+import Image from "gatsby-image";
 
 interface Props {
   id: string;

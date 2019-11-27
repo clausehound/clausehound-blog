@@ -1,8 +1,8 @@
-import { FC, createElement as h } from 'react'
-import { graphql } from 'gatsby'
+import { FC, createElement as h } from "react";
+import { graphql } from "gatsby";
 
-import Layout from '../components/layout'
-import SEO from '../components/seo'
+import Layout from "../components/layout";
+import SEO from "../components/seo";
 
 interface Props {
   data: any;
@@ -10,21 +10,21 @@ interface Props {
 }
 
 const NotFoundPage: FC<Props> = ({ data, location }) => {
-  const { title } = data.site.siteMetadata
+  const { title } = data.site.siteMetadata;
 
   return h(
     Layout,
     { location, title },
     h(
       SEO,
-      { title: '404: Not Found' },
-      h('h1', null, 'Not Found'),
-      h('p', null, "You just hit a route that doesn't exist... the sadness.")
-    )
-  )
-}
+      { title: "404: Not Found" },
+      h("h1", null, "Not Found"),
+      h("p", null, "You just hit a route that doesn't exist... the sadness."),
+    ),
+  );
+};
 
-export default NotFoundPage
+export default NotFoundPage;
 
 export const pageQuery = graphql`
   query {
@@ -34,4 +34,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
