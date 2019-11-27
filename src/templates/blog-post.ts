@@ -29,11 +29,14 @@ const Author: FC<{ id: string; first?: string; last?: string; image: any }> = ({
   }
 
   return h(
-    "div",
+    "a",
     {
       style: {
         display: "flex",
+        boxShadow: "none",
+        color: "inherit",
       },
+      href: `mailto:${id}`,
     },
     image &&
       h(Image, {
@@ -67,7 +70,7 @@ const Author: FC<{ id: string; first?: string; last?: string; image: any }> = ({
             color: theme.palette.primary.main,
           },
         },
-        last && last.toUpperCase(),
+        last && last.toUpperCase()
       )
     )
   )
