@@ -1,9 +1,38 @@
-import { FC, createElement as h } from 'react'
-import { Link } from 'gatsby'
+import { FC, createElement as h } from "react"
+import { Link } from "gatsby"
+import { createMuiTheme, MuiThemeProvider } from "@material-ui/core/styles"
+import { amber, lightBlue, grey } from "@material-ui/core/colors"
 
-import { rhythm, scale } from '../utils/typography'
+import { rhythm, scale } from "../utils/typography"
 
-declare var __PATH_PREFIX__: string;
+declare var __PATH_PREFIX__: string
+
+const theme = createMuiTheme({
+  palette: {
+    primary: {
+      light: amber[500],
+      main: amber[700],
+      dark: amber[900],
+      contrastText: "#ffffff",
+    },
+    secondary: {
+      light: lightBlue[100],
+      main: lightBlue[300],
+      dark: lightBlue[500],
+      contrastText: "#ffffff",
+    },
+  },
+  typography: {
+    fontFamily: ["Montserrat", "sans-serif"].join(","),
+    h1: {
+      fontSize: '2.2rem',
+      fontWeight: 700,
+    },
+    h5: {
+      fontWeight: 700,
+    }
+  },
+})
 
 interface Props {
   location: Location
@@ -16,7 +45,7 @@ const Layout: FC<Props> = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = h(
-      'h1',
+      "h1",
       {
         style: { ...scale(1.5), marginBottom: rhythm(1.5), marginTop: 0 },
       },
@@ -35,11 +64,12 @@ const Layout: FC<Props> = ({ location, title, children }) => {
     )
   } else {
     header = h(
-      'h3',
+      "h3",
       {
         style: {
           fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
+          marginBottom: 0,
         },
       },
       h(
@@ -58,30 +88,37 @@ const Layout: FC<Props> = ({ location, title, children }) => {
   }
 
   return h(
-    'div',
+    MuiThemeProvider,
     {
-      style: {
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(24),
-        padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-      },
+      theme,
     },
-    h('header', null, header),
-    h('main', null, children),
+    // TODO: Replace with company logo and standard header
+    h("header", { style: { paddingTop: '1rem', paddingLeft: '1rem' } }, header),
     h(
-      'footer',
-      null,
-      '\xA9 ',
+      "main",
+      {
+        style: {
+          marginLeft: `auto`,
+          marginRight: `auto`,
+          maxWidth: rhythm(24),
+          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        },
+      },
+      children
+    ),
+    h(
+      "footer",
+      { style: { textAlign: "right", marginRight: "1rem" } },
+      "\xA9 ",
       new Date().getFullYear(),
-      ', Built with',
+      ", Built with",
       ` `,
       h(
-        'a',
+        "a",
         {
-          href: 'https://www.gatsbyjs.org',
+          href: "https://www.gatsbyjs.org",
         },
-        'Gatsby'
+        "Gatsby"
       )
     )
   )

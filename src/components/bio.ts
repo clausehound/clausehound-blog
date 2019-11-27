@@ -6,6 +6,7 @@
  */
 
 import { FC, createElement as h } from 'react'
+import { Typography } from "@material-ui/core"
 import { useStaticQuery, graphql } from 'gatsby'
 import Image from 'gatsby-image'
 
@@ -15,33 +16,16 @@ interface Props {
   name: string
   email: string
   bio?: string
-  // TODO: pass in as image
-  avatar?: any
 }
 
-const Bio: FC<Props> = ({ name, email, bio, avatar }) => {
+const Bio: FC<Props> = ({ name, email, bio }) => {
   return h(
-    'div',
+    Typography,
     {
       style: {
-        display: 'flex',
         marginBottom: rhythm(2.5),
       },
     },
-    avatar &&
-      h(Image, {
-        fixed: avatar.childImageSharp.fixed,
-        alt: name,
-        style: {
-          marginRight: rhythm(1 / 2),
-          marginBottom: 0,
-          minWidth: 50,
-          borderRadius: '100%',
-        },
-        imgStyle: {
-          borderRadius: '50%',
-        },
-      }),
     h('p', null, 'Written by ', h('strong', null, name), '.', bio && ` ${bio}`)
   )
 }

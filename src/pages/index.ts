@@ -1,13 +1,14 @@
-import { FC, createElement as h } from 'react'
-import { Link, graphql } from 'gatsby'
-import Bio from '../components/bio'
-import Layout from '../components/layout'
-import SEO from '../components/seo'
-import { rhythm } from '../utils/typography'
+import { FC, createElement as h } from "react"
+import { Typography } from "@material-ui/core"
+import { Link, graphql } from "gatsby"
+import Bio from "../components/bio"
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import { rhythm } from "../utils/typography"
 
 interface Props {
-  location: Location;
-  data: any;
+  location: Location
+  data: any
 }
 
 const BlogIndex: FC<Props> = ({ data, location }) => {
@@ -20,42 +21,52 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
       title: siteTitle,
     },
     h(SEO, {
-      title: 'All posts',
+      title: "All posts",
     }),
     posts.map(({ node }: { node: any }) => {
       const title = node.frontmatter.title || node.fields.slug
       return h(
-        'article',
+        "article",
         {
           key: node.fields.slug,
+          style: {
+            marginBottom: rhythm(1),
+          },
         },
         h(
-          'header',
+          "header",
           null,
           h(
-            'h3',
+            Typography,
             {
-              style: {
-                marginBottom: rhythm(1 / 4),
-              },
+              variant: "h5",
             },
             h(
               Link,
               {
                 style: {
                   boxShadow: `none`,
+                  textDecoration: "none",
                 },
                 to: node.fields.slug,
               },
               title
             )
           ),
-          h('small', null, node.frontmatter.date)
+          h(
+            "small",
+            {
+              style: {
+                marginBottom: rhythm(1 / 4),
+              },
+            },
+            node.frontmatter.date
+          )
         ),
         h(
-          'section',
+          "section",
           null,
-          h('p', {
+          h(Typography, {
             dangerouslySetInnerHTML: {
               __html: node.frontmatter.description || node.excerpt,
             },
@@ -68,12 +79,12 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
 
 export default BlogIndex
 export const pageQuery = graphql`
-  query ($skip: Int, $limit: Int) {
+  query($skip: Int, $limit: Int) {
     site {
       siteMetadata {
         title
       }
-    } 
+    }
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       limit: $limit

@@ -53,7 +53,6 @@ module.exports = {
         ],
       },
     },
-    `gatsby-transformer-json`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -83,6 +82,7 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    `gatsby-transformer-json`,
   ],
   mapping: {
     'MarkdownRemark.frontmatter.author': `AuthorJson`,
