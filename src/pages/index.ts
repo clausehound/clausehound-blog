@@ -46,7 +46,7 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
               {
                 style: {
                   boxShadow: `none`,
-                  textUnderline: "none",
+                  textDecoration: "none",
                 },
                 to: node.fields.slug,
               },
