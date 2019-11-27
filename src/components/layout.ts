@@ -1,9 +1,10 @@
-import { FC, createElement as h } from 'react'
-import { Link } from 'gatsby'
+import { FC, createElement as h } from "react"
+import { Link } from "gatsby"
 
-import { rhythm, scale } from '../utils/typography'
+import { rhythm, scale } from "../utils/typography"
+import headerLogo from "./header"
 
-declare var __PATH_PREFIX__: string;
+declare var __PATH_PREFIX__: string
 
 interface Props {
   location: Location
@@ -16,7 +17,7 @@ const Layout: FC<Props> = ({ location, title, children }) => {
 
   if (location.pathname === rootPath) {
     header = h(
-      'h1',
+      "h1",
       {
         style: { ...scale(1.5), marginBottom: rhythm(1.5), marginTop: 0 },
       },
@@ -30,12 +31,12 @@ const Layout: FC<Props> = ({ location, title, children }) => {
           },
           to: `/`,
         },
-        title
+        h(headerLogo, { title: title })
       )
     )
   } else {
     header = h(
-      'h3',
+      "h3",
       {
         style: {
           fontFamily: `Montserrat, sans-serif`,
@@ -58,7 +59,7 @@ const Layout: FC<Props> = ({ location, title, children }) => {
   }
 
   return h(
-    'div',
+    "div",
     {
       style: {
         marginLeft: `auto`,
@@ -67,21 +68,21 @@ const Layout: FC<Props> = ({ location, title, children }) => {
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
       },
     },
-    h('header', null, header),
-    h('main', null, children),
+    h("header", null, header),
+    h("main", null, children),
     h(
-      'footer',
+      "footer",
       null,
-      '\xA9 ',
+      "\xA9 ",
       new Date().getFullYear(),
-      ', Built with',
+      ", Built with",
       ` `,
       h(
-        'a',
+        "a",
         {
-          href: 'https://www.gatsbyjs.org',
+          href: "https://www.gatsbyjs.org",
         },
-        'Gatsby'
+        "Gatsby"
       )
     )
   )
