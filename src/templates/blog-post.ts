@@ -1,9 +1,13 @@
-import { FC, createElement as h } from 'react'
-import { Link, graphql } from 'gatsby'
-import Bio from '../components/bio'
-import Layout from '../components/layout'
-import SEO from '../components/seo'
-import { rhythm, scale } from '../utils/typography'
+import { FC, createElement as h } from "react"
+import { Typography } from "@material-ui/core"
+import { useTheme } from "@material-ui/core/styles"
+import { Link, graphql } from "gatsby"
+import Bio from "../components/bio"
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+import { rhythm, scale } from "../utils/typography"
+// TODO: Load these from the theme, not directly
+import Image from "gatsby-image"
 
 interface Props {
   data: any
@@ -11,20 +15,69 @@ interface Props {
   pageContext: any
 }
 
+// TODO: Use a proper image type
+const Author: FC<{ id: string; first?: string; last?: string; image: any }> = ({
+  first,
+  id,
+  image,
+  last = "",
+}) => {
+  const theme = useTheme()
+
+  if (first == null) {
+    return h("div", null, `by ${id}`)
+  }
+
+  return h(
+    "div",
+    {
+      style: {
+        display: "flex",
+      },
+    },
+    image &&
+      h(Image, {
+        fluid: image.childImageSharp.fluid,
+        alt: `picture of ${first}`,
+        style: {
+          marginRight: "0.5rem",
+          minWidth: 50,
+          borderRadius: "100%",
+        },
+        imgStyle: {
+          borderRadius: "50%",
+        },
+      }),
+
+    h(
+      Typography,
+      {
+        variant: "h5",
+        style: {
+          alignSelf: "flex-start",
+        },
+      },
+      h("span", null, first.toUpperCase()),
+      h(
+        "span",
+        {
+          style: {
+            display: "block",
+            lineHeight: 0.7,
+            color: theme.palette.primary.main,
+          },
+        },
+        last.toUpperCase()
+      )
+    )
+  )
+}
+
 const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
   const { author } = post.frontmatter
-
-  const authorName = (() => {
-    if (author == null) return ''
-
-    if (author.first) {
-      return `${author.first} ${author.last || ''}`.trim()
-    }
-    return author.id
-  })()
 
   return h(
     Layout,
@@ -37,25 +90,22 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
       description: post.frontmatter.description || post.excerpt,
     }),
     h(
-      'article',
+      "article",
       null,
       h(
-        'header',
+        "header",
         null,
+        h(Author, author),
         h(
-          'h1',
+          Typography,
           {
-            style: {
-              marginTop: rhythm(1),
-              marginBottom: 0,
-            },
+            style: { marginTop: "1rem" },
+            variant: "h1",
           },
           post.frontmatter.title
         ),
-        // TODO: look up author email from an author bio
-        authorName && h('h3', null, `by ${authorName}`),
         h(
-          'p',
+          "p",
           {
             style: {
               ...scale(-1 / 5),
@@ -66,33 +116,32 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           post.frontmatter.date
         )
       ),
-      h('section', {
+      h(Typography, {
+        variant: "body1",
         dangerouslySetInnerHTML: {
           __html: post.html,
         },
       }),
-      h('hr', {
+      h("hr", {
         style: {
           marginBottom: rhythm(1),
         },
       }),
       h(
-        'footer',
+        "footer",
         null,
         h(Bio, {
-          name: authorName,
+          name: author.first,
           email: author.id,
           bio: author.bio,
-          // TODO: Load mapped from the config
-          avatar: author.image,
         })
       )
     ),
     h(
-      'nav',
+      "nav",
       null,
       h(
-        'ul',
+        "ul",
         {
           style: {
             display: `flex`,
@@ -103,41 +152,49 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           },
         },
         h(
-          'li',
+          "li",
           null,
           previous &&
             h(
               Link,
               {
                 to: previous.fields.slug,
-                rel: 'prev',
+                rel: "prev",
               },
-              '\u2190 ',
+              "\u2190 ",
               previous.frontmatter.title
             )
         ),
         h(
-          'li',
+          "li",
           null,
           next &&
             h(
               Link,
               {
                 to: next.fields.slug,
-                rel: 'next',
+                rel: "next",
               },
               next.frontmatter.title,
-              ' \u2192'
+              " \u2192"
             )
         )
       )
     ),
     h(
-      'footer',
-      { style: { fontSize: '0.8em' } },
-      'This article is provided for informational purposes only and does not create a lawyer-client relationship with the reader. It is not legal advice and should not be regarded as such. Any reliance on the information is solely at the reader’s own risk. ',
-      h('a', { href: 'https://clausehound.com/documents' }, 'Clausehound.com'),
-      ' is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.'
+      "footer",
+      null,
+      h(
+        Typography,
+        { variant: "body2" },
+        "This article is provided for informational purposes only and does not create a lawyer-client relationship with the reader. It is not legal advice and should not be regarded as such. Any reliance on the information is solely at the reader’s own risk. ",
+        h(
+          "a",
+          { href: "https://clausehound.com/documents" },
+          "Clausehound.com"
+        ),
+        " is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive."
+      )
     )
   )
 }
@@ -166,8 +223,8 @@ export const pageQuery = graphql`
           bio
           image {
             childImageSharp {
-              fixed(width: 50, height: 50) {
-                ...GatsbyImageSharpFixed
+              fluid(maxWidth: 320, maxHeight: 320) {
+                ...GatsbyImageSharpFluid
               }
             }
           }
