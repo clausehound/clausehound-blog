@@ -1,18 +1,20 @@
 import { createElement as h, FC } from "react";
 
 interface Props {
-  fillColor?: string;
-  textColor?: string;
-  tag?: boolean;
   className?: string;
+  fillColor?: string;
+  style?: Partial<CSSStyleDeclaration>;
+  tag?: boolean;
+  textColor?: string;
   viewBox?: string;
 }
 
 const Logo: FC<Props> = ({
-  fillColor = "#000000",
-  textColor = "#000000",
-  tag,
   className = "",
+  fillColor = "#000000",
+  style,
+  tag,
+  textColor = "#000000",
   viewBox = "0 0 50 50",
 }) =>
   h(
@@ -23,6 +25,7 @@ const Logo: FC<Props> = ({
       width: "400",
       height: "58.68055555555556",
       viewBox: "0 0 400 58.68055555555556",
+      style,
     },
     h(
       "g",

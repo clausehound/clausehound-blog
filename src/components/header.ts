@@ -1,35 +1,42 @@
-import { Link } from 'gatsby';
-import PropTypes from 'prop-types';
-import { createElement as h, useRef, FC, RefObject, useState } from 'react';
+import { Link } from "gatsby";
+import PropTypes from "prop-types";
+import { createElement as h, useRef, FC, RefObject, useState } from "react";
 import {
   AppBar,
   Button,
   IconButton,
+  Theme,
   Toolbar,
   Typography,
   makeStyles,
   useScrollTrigger,
-  Theme,
-} from '@material-ui/core';
-import LanguageIcon from '@material-ui/icons/Language';
+  useTheme,
+} from "@material-ui/core";
+import LanguageIcon from "@material-ui/icons/Language";
 
-import Logo from './logo';
+import Logo from "./logo";
 
 const useStyles = makeStyles((theme: Theme) => ({
   root: {
-    transition: 'all 0.2s ease-in-out',
-    padding: theme.spacing(1),
+    transition: "all 0.2s ease-in-out",
+    padding: `0 ${theme.spacing(2)}px`,
+    flexGrow: 1,
+    boxShadow: "none",
+    borderBottom: "4px solid black",
+  },
+  toolBar: {
+    padding: 0,
+    minHeight: "5rem",
+  },
+  logo: {
+    color: "#ffffff",
+    textDecoration: "none",
     flexGrow: 1,
   },
   faded: {
-    background: 'transparent',
-    boxShadow: 'none',
+    background: "transparent",
+    boxShadow: "none",
     padding: theme.spacing(5),
-  },
-  logo: {
-    color: '#ffffff',
-    textDecoration: 'none',
-    flexGrow: 1,
   },
   title: {
     fontWeight: 100,
@@ -46,32 +53,32 @@ const bottomAt = (ref: RefObject<HTMLElement>): number => {
   return ref.current.offsetTop + ref.current.offsetHeight;
 };
 
-interface Props {
-  title?: string;
-}
+interface Props {}
 
-const Header: FC<Props> = ({ title = '' }) => {
+const Header: FC<Props> = () => {
   const classes = useStyles();
   const head = useRef<HTMLElement>();
 
   return h(
     AppBar,
     {
-      color: 'primary',
+      color: "primary",
       className: classes.root,
       ref: head,
+      position: "sticky",
     },
     h(
       Toolbar,
-      null,
+      { className: classes.toolBar },
       h(
         Link,
-        { to: '/', className: classes.logo },
-        h(Logo),
+        {
+          to: "/",
+          className: classes.logo,
+          style: { boxShadow: "none", alignSelf: "flex-end" },
+        },
+        h(Logo, { style: { height: "1.2rem", width: "auto" } }),
       ),
-      h(Button, { color: 'inherit' }, 'हिंदी'),
-      h(Button, { color: 'inherit' }, 'বাঙালি'),
-      h(Button, { color: 'inherit' }, '800.555.1234'),
     ),
   );
 };
