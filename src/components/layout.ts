@@ -69,6 +69,7 @@ const Layout: FC<Props> = ({ location, title, children }) => {
         style: {
           fontFamily: `Montserrat, sans-serif`,
           marginTop: 0,
+          marginBottom: 0,
         },
       },
       h(
@@ -91,7 +92,8 @@ const Layout: FC<Props> = ({ location, title, children }) => {
     {
       theme,
     },
-    h("header", null, header),
+    // TODO: Replace with company logo and standard header
+    h("header", { style: { paddingTop: '1rem', paddingLeft: '1rem' } }, header),
     h(
       "main",
       {
