@@ -14,7 +14,7 @@ In many jurisdictions, brands will go to great expense to register a trademark t
 
 There are two reasons why this could get you into trouble:
 
-# 1. “Passing off”
+## 1. “Passing off”
 
 Passing off, in many jurisdictions, is both a common law tort and a statutory cause of action. It refers to the deceptive representation or marketing of goods or services by competitors in a manner that confuses consumers.You, as the writer, must be careful not to infringe upon the trademark of another person (whether or not it is registered).
 
@@ -24,7 +24,7 @@ Where that confusion creates financial benefit for you, the holder of the tradem
 
 Not also that this protection applies the unauthorized use of someone else’s trademarked name, slogan, fictional character, and/or brand identity in a way that would cause a “likelihood of confusion” as to who owned the mark.
 
-## What could happen?
+### What could happen?
 
 If you do infringe upon an individual or company's trademark, there are several ways in which they may choose to act in response.
 
@@ -32,7 +32,7 @@ A common first step is for a trademark-holder to send a cease and desist letter-
 
 At the other end of the spectrum, an aggressive trademark-holder may decide to use this as an opportunity to try and benefit financially from your infringement. They may first ask for monetary compensation as recompense for the infringement already done. If they decide to take a more proactive or litigious approach however, a lawsuit for infringement may be brought against you.' It is not unheard of for such a “takedown troll” to contact a publisher requesting that the offending image be removed, and accompanying with a statement of claim and an invoice requesting immediate compensation to avoid the filing of a lawsuit.
 
-# 2. Disparagement/Defamation
+## 2. Disparagement/Defamation
 
 You also want to be careful not to tarnish the brand’s name and/or identity. This doesn’t mean you can’t have an opinion about the brand, it just means you cannot tarnish the brand by making false claims.  Loosely defined, defamation occurs when a person makes an untrue statement, which is broadcasted, and which causes injury to the person referenced by the statement. Examples of defamatory statements include:
 
@@ -56,7 +56,7 @@ No!   There are instances however where the usage of the product or company may 
 
 [More information on trademarks and other forms of literary protection](http://www.mondaq.com/article.asp?article_id=11860&amp;signup=true)
 
-## Takeaways
+### Takeaways
 - Seek permission where possible.
 - Don’t “pass off” or try to derive benefit from someone else’s mark - or they may come after you.
 - Don’t disparage someone’s brand (either personal or registered mark) without being prepared for the possibility of being sued.
