@@ -1,11 +1,13 @@
-import { FC, createElement as h } from "react"
-import { Link } from "gatsby"
-import { createMuiTheme, MuiThemeProvider } from "@material-ui/core/styles"
-import { amber, lightBlue, grey } from "@material-ui/core/colors"
+import { FC, createElement as h } from "react";
+import { Link } from "gatsby";
+import { createMuiTheme, MuiThemeProvider } from "@material-ui/core/styles";
+import { amber, lightBlue, grey } from "@material-ui/core/colors";
 
-import { rhythm, scale } from "../utils/typography"
+import { rhythm, scale } from "../utils/typography";
 
-declare var __PATH_PREFIX__: string
+import Header from "./header";
+
+declare var __PATH_PREFIX__: string;
 
 const theme = createMuiTheme({
   palette: {
@@ -25,75 +27,29 @@ const theme = createMuiTheme({
   typography: {
     fontFamily: ["Montserrat", "sans-serif"].join(","),
     h1: {
-      fontSize: '2.2rem',
+      fontSize: "2.2rem",
       fontWeight: 700,
     },
     h5: {
       fontWeight: 700,
-    }
+    },
   },
-})
+});
 
 interface Props {
-  location: Location
-  title: string
+  location: Location;
+  title: string;
 }
 
 const Layout: FC<Props> = ({ location, title, children }) => {
-  const rootPath = `${__PATH_PREFIX__}/`
-  let header
-
-  if (location.pathname === rootPath) {
-    header = h(
-      "h1",
-      {
-        style: { ...scale(1.5), marginBottom: rhythm(1.5), marginTop: 0 },
-      },
-      h(
-        Link,
-        {
-          style: {
-            boxShadow: `none`,
-            textDecoration: `none`,
-            color: `inherit`,
-          },
-          to: `/`,
-        },
-        title
-      )
-    )
-  } else {
-    header = h(
-      "h3",
-      {
-        style: {
-          fontFamily: `Montserrat, sans-serif`,
-          marginTop: 0,
-          marginBottom: 0,
-        },
-      },
-      h(
-        Link,
-        {
-          style: {
-            boxShadow: `none`,
-            textDecoration: `none`,
-            color: `inherit`,
-          },
-          to: `/`,
-        },
-        title
-      )
-    )
-  }
+  const rootPath = `${__PATH_PREFIX__}/`;
 
   return h(
     MuiThemeProvider,
     {
       theme,
     },
-    // TODO: Replace with company logo and standard header
-    h("header", { style: { paddingTop: '1rem', paddingLeft: '1rem' } }, header),
+    h(Header),
     h(
       "main",
       {
@@ -104,7 +60,7 @@ const Layout: FC<Props> = ({ location, title, children }) => {
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         },
       },
-      children
+      children,
     ),
     h(
       "footer",
@@ -118,10 +74,10 @@ const Layout: FC<Props> = ({ location, title, children }) => {
         {
           href: "https://www.gatsbyjs.org",
         },
-        "Gatsby"
-      )
-    )
-  )
-}
+        "Gatsby",
+      ),
+    ),
+  );
+};
 
-export default Layout
+export default Layout;

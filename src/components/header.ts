@@ -13,8 +13,7 @@ import {
 } from '@material-ui/core';
 import LanguageIcon from '@material-ui/icons/Language';
 
-// @ts-ignore
-import PawLogo from '../../content/assets/paw-white.svg';
+import Logo from './logo';
 
 const useStyles = makeStyles((theme: Theme) => ({
   root: {
@@ -68,14 +67,7 @@ const Header: FC<Props> = ({ title = '' }) => {
       h(
         Link,
         { to: '/', className: classes.logo },
-        h(
-          Typography,
-          { variant: 'h6', className: classes.title },
-          //          h('img', { src: PawLogo }),
-          h('i', { className: 'fas fa-dog' }),
-          'Clausehound',
-          //          h(PawLogo, { style: { zoom: 0.5, marginTop: 10 } }),
-        ),
+        h(Logo),
       ),
       h(Button, { color: 'inherit' }, 'हिंदी'),
       h(Button, { color: 'inherit' }, 'বাঙালি'),
