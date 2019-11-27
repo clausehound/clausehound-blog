@@ -20,7 +20,7 @@ const Author: FC<{ id: string; first?: string; last?: string; image: any }> = ({
   first,
   id,
   image,
-  last = "",
+  last,
 }) => {
   const theme = useTheme()
 
@@ -67,7 +67,7 @@ const Author: FC<{ id: string; first?: string; last?: string; image: any }> = ({
             color: theme.palette.primary.main,
           },
         },
-        last.toUpperCase()
+        last && last.toUpperCase(),
       )
     )
   )
