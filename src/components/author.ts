@@ -50,7 +50,7 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
           alignSelf: "flex-start",
         },
       },
-      h("span", null, first.toUpperCase()),
+      h("span", null, `${first.toUpperCase()} `),
       h(
         "span",
         {
