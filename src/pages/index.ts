@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import { rhythm } from "../utils/typography";
+import ArticlePreview from "../components/article-preview";
 
 interface Props {
   location: Location;
@@ -24,55 +24,17 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
       title: "All posts",
     }),
     posts.map(({ node }: { node: any }) => {
-      const title = node.frontmatter.title || node.fields.slug;
-      return h(
-        "article",
-        {
-          key: node.fields.slug,
-          style: {
-            marginBottom: rhythm(1),
-          },
-        },
-        h(
-          "header",
-          null,
-          h(
-            Typography,
-            {
-              variant: "h5",
-            },
-            h(
-              Link,
-              {
-                style: {
-                  boxShadow: `none`,
-                  textDecoration: "none",
-                },
-                to: node.fields.slug,
-              },
-              title,
-            ),
-          ),
-          h(
-            "small",
-            {
-              style: {
-                marginBottom: rhythm(1 / 4),
-              },
-            },
-            node.frontmatter.date,
-          ),
-        ),
-        h(
-          "section",
-          null,
-          h(Typography, {
-            dangerouslySetInnerHTML: {
-              __html: node.frontmatter.description || node.excerpt,
-            },
-          }),
-        ),
-      );
+      const {
+        fields: { slug },
+        frontmatter: { date, description, title },
+      } = node;
+      return h(ArticlePreview, {
+        key: slug,
+        slug,
+        title: title || slug,
+        date,
+        description,
+      });
     }),
   );
 };

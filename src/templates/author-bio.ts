@@ -5,6 +5,7 @@ import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import Author from "../components/author";
+import ArticlePreview from "../components/article-preview";
 import { rhythm, scale } from "../utils/typography";
 
 interface Props {
@@ -27,12 +28,26 @@ const AuthorBioTemplate: FC<Props> = ({ data, location }) => {
       title: `${author.first} ${author.last} Bio, Clausehound`,
       description: author.bio,
     }),
+    h(Author, author),
     h(
       Typography,
       null,
-      `Hi, I'm ${author.first}! I wrote:`,
+      h("p", null, author.bio),
+      posts.length === 0
+        ? null
+        : h(
+            "p",
+            null,
+            `${author.first} has authored ${posts.length} articles.`,
+          ),
     ),
-    posts.map(({ node }) => h('p', null, h(Link, { to: node.fields.slug }, node.frontmatter.title))),
+    posts.map(({ node }) => {
+      const {
+        fields: { slug },
+        frontmatter: { date, description, title },
+      } = node;
+      return h(ArticlePreview, { key: slug, slug, title, description, date });
+    }),
   );
 };
 
@@ -44,7 +59,8 @@ export const pageQuery = graphql`
         title
       }
     }
-    authorJson( id: { eq: $slug } ) {
+    authorJson(id: { eq: $slug }) {
+      id
       first
       last
       bio
@@ -57,6 +73,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { author: { id: { eq: $slug } } } }
     ) {
       edges {
