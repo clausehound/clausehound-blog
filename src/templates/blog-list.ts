@@ -9,11 +9,14 @@ import ArticlePreview from "../components/article-preview";
 interface Props {
   location: Location;
   data: any;
+  pageContext: any;
 }
 
-const BlogIndex: FC<Props> = ({ data, location }) => {
+const BlogList: FC<Props> = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
+  const { previousPath, nextPath } = pageContext;
+
   return h(
     Layout,
     {
@@ -36,10 +39,52 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
         description,
       });
     }),
+    h(
+      "nav",
+      null,
+      h(
+        "ul",
+        {
+          style: {
+            display: `flex`,
+            flexWrap: `wrap`,
+            justifyContent: `space-between`,
+            listStyle: `none`,
+            padding: 0,
+          },
+        },
+        h(
+          "li",
+          null,
+          previousPath &&
+            h(
+              Link,
+              {
+                to: previousPath,
+                rel: "prev",
+              },
+              "\u2190 newer",
+            ),
+        ),
+        h(
+          "li",
+          null,
+          nextPath &&
+            h(
+              Link,
+              {
+                to: nextPath,
+                rel: "next",
+              },
+              "older \u2192",
+            ),
+        ),
+      ),
+    ),
   );
 };
 
-export default BlogIndex;
+export default BlogList;
 export const pageQuery = graphql`
   query($skip: Int, $limit: Int) {
     site {

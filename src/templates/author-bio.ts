@@ -41,17 +41,35 @@ const AuthorBioTemplate: FC<Props> = ({ data, location }) => {
             `${author.first} has authored ${posts.length} articles.`,
           ),
     ),
-    posts.map(({ node }) => {
-      const {
-        fields: { slug },
-        frontmatter: { date, description, title },
-      } = node;
-      return h(ArticlePreview, { key: slug, slug, title, description, date });
-    }),
+    posts.map(
+      ({
+        node,
+      }: {
+        node: {
+          id: string;
+          fields: {
+            slug: string;
+          };
+          frontmatter: {
+            title: string;
+            date: string;
+            description: string;
+          };
+        };
+      }) => {
+        const {
+          fields: { slug },
+          frontmatter: { date, description, title },
+        } = node;
+        return h(ArticlePreview, { key: slug, slug, title, description, date });
+      },
+    ),
   );
 };
 
 export default AuthorBioTemplate;
+
+// TODO: See if we can load the highlight colour from the material theme
 export const pageQuery = graphql`
   query AuthorBioBySlug($slug: String!) {
     site {

@@ -7,7 +7,7 @@ async function getPosts({ graphql }) {
       {
         allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: DESC }
-          limit: 50
+          limit: 65535
         ) {
           edges {
             node {
@@ -65,26 +65,55 @@ async function getAuthors({ graphql }) {
 
 const blogPost = path.resolve(`./src/templates/blog-post.ts`);
 const authorBio = path.resolve(`./src/templates/author-bio.ts`);
+const blogList = path.resolve(`./src/templates/blog-list.ts`);
+
+const postsPerPage = 0xff;
+
+const listPath = i => {
+  if (i < 0) return null;
+  if (i === 0) return "/";
+  return `/page/${i + 1}`;
+};
 
 exports.createPages = async ({ graphql, actions }) =>
   Promise.all([
-    getPosts({ graphql }).then(posts =>
-      posts.map((post, index) => {
-        const previous =
-          index === posts.length - 1 ? null : posts[index + 1].node;
-        const next = index === 0 ? null : posts[index - 1].node;
+    getPosts({ graphql }).then(posts => {
+      const numPages = Math.ceil(posts.length / postsPerPage);
 
-        return {
-          path: post.node.fields.slug,
-          component: blogPost,
-          context: {
-            slug: post.node.fields.slug,
-            previous,
-            next,
-          },
-        };
-      }),
-    ),
+      return [
+        // Make all the full blog entry pages
+        posts.map((post, index) => {
+          const previous =
+            index === posts.length - 1 ? null : posts[index + 1].node;
+          const next = index === 0 ? null : posts[index - 1].node;
+
+          return {
+            path: post.node.fields.slug,
+            component: blogPost,
+            context: {
+              slug: post.node.fields.slug,
+              previous,
+              next,
+            },
+          };
+        }),
+        // Build all the paginated main pages
+        Array.from({ length: numPages }, (_, i) => {
+          return {
+            path: listPath(i),
+            component: blogList,
+            context: {
+              limit: postsPerPage,
+              skip: i * postsPerPage,
+              numPages,
+              currentPage: i + 1,
+              previousPath: listPath(i - 1),
+              nextPath: listPath(i + 1),
+            },
+          };
+        }),
+      ];
+    }),
     getAuthors({ graphql }).then(authors =>
       authors.map(({ node }) => ({
         path: node.id,
@@ -94,11 +123,9 @@ exports.createPages = async ({ graphql, actions }) =>
         },
       })),
     ),
-  ]).then(([posts, authors]) => {
+  ]).then(([[posts, lists], authors]) => {
     // TODO: Check here if we have a slug collision and rename appropriately
-    // TODO: flatten
-    posts.concat(authors).forEach(page => {
-      console.log(page);
+    [...posts, ...lists, ...authors].forEach(page => {
       actions.createPage(page);
     });
   });
