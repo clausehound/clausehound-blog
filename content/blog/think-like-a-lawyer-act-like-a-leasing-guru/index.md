@@ -1,11 +1,9 @@
 ---
 title: "Think like a lawyer, act like a leasing guru"
-author: jordan+1@clausehound.com
+author: jordan@clausehound.com
 tags: ["Business","Commercial Lease","Commercial Activities","Relocation","Natalka"]
 date: 2016-05-13 14:03:59
-description: "Introduction
-
-You’re a professional. You’ve been trained to understand what your client needs. And you know how to find the best real estate. You and your client are excited, you sign the offers and t..."
+description: "You’re a professional. You’ve been trained to understand what your client needs. And you know how to find the best real estate. You and your client are excited, you sign the offers and t..."
 ---
 
 **Introduction**

@@ -1,6 +1,6 @@
 ---
 title: "Beware the Continuous Operation Leasing Clause"
-author: jordan+1@clausehound.com
+author: jordan@clausehound.com
 tags: ["Business","Commercial Lease","Commercial Activities","Continuous Operation","Natalka"]
 date: 2017-04-02 10:10:00
 description: "Links from this article:
