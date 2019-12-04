@@ -142,7 +142,7 @@ const Popular = () =>
         className: "tree-heading",
         variant: "h5",
       },
-      "More Popular Posts",
+      "Popular Articles",
     ),
     popularPosts.map(({ to, title }) =>
       h(Typography, { key: to, variant: "body2" }, h(Link, { to }, title)),
