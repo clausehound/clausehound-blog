@@ -1,6 +1,6 @@
 ---
 title: "The Mistake: Tenants Need to Know About Estoppel Certificates"
-author: jordan+1@clausehound.com
+author: jordan@clausehound.com
 tags: ["Business","Commercial Lease","Commercial Activities","Estoppel","Natalka"]
 date: 2016-05-27 10:51:37
 description: "We all hear about the big commercial deal where millions or even billions exchanged hands. But what we don’t hear about is an unusual document that can make or break that deal. Yet, few agents not onl..."
@@ -8,11 +8,7 @@ description: "We all hear about the big commercial deal where millions or even b
 
 We all hear about the big commercial deal where millions or even billions exchanged hands. But what we don’t hear about is an unusual document that can make or break that deal. Yet, few agents not only don’t know about this document and even fewer address this document during lease negotiations. This means that you can be leaving your clients exposed to risk and that you’re not using your full negotiation power to get better terms.
 
- 
-
-**What is this Document?**
-
- 
+**What is this Document?** 
 
 This powerful document is the Tenant Estoppel Certificate (TEC). The TEC is a legally binding document where a tenant represents or promises certain things to be true. These “things” relate to the relationship between the landlord and the terms of the lease. Common “things” found in TECs are:
 

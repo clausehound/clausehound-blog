@@ -5,6 +5,7 @@ import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import Author from "../components/author";
+import Popular from "../components/popular";
 import { rhythm, scale } from "../utils/typography";
 
 interface Props {
@@ -135,6 +136,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         ),
         " is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.",
       ),
+      h(Popular),
     ),
   );
 };

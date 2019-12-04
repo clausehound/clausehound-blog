@@ -1,6 +1,7 @@
 import { FC, createElement as h } from "react";
 import { Typography } from "@material-ui/core";
 import { useTheme } from "@material-ui/core/styles";
+import { Link } from "gatsby";
 import Image from "gatsby-image";
 
 interface Props {
@@ -19,14 +20,14 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
   }
 
   return h(
-    "a",
+    Link,
     {
       style: {
         display: "flex",
         boxShadow: "none",
         color: "inherit",
       },
-      href: `mailto:${id}`,
+      to: id,
     },
     image &&
       h(Image, {
@@ -48,9 +49,10 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
         variant: "h5",
         style: {
           alignSelf: "flex-start",
+          textTransform: "uppercase",
         },
       },
-      h("span", null, first.toUpperCase()),
+      h("span", null, `${first} `),
       h(
         "span",
         {
@@ -60,7 +62,7 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
             color: theme.palette.primary.main,
           },
         },
-        last && last.toUpperCase(),
+        last,
       ),
     ),
   );

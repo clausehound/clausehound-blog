@@ -1,6 +1,6 @@
 ---
 title: "The dangers of the insurance clause"
-author: jordan+1@clausehound.com
+author: jordan@clausehound.com
 tags: ["Business","Commercial Lease","Commercial Activities","Insurance","Natalka"]
 date: 2016-05-13 16:38:57
 description: "The most hated of lease clauses – the insurance clause – is not only frequently ignored, but is also poorly understood by almost everyone in the real estate industry. And that includes real estate law..."

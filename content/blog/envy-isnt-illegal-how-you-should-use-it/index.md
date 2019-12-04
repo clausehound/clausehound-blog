@@ -1,15 +1,13 @@
 ---
 title: "Envy Isn't Illegal: How You Should Use It"
-author: jordan+1@clausehound.com
+author: jordan@clausehound.com
 tags: ["Business","Commercial Activities","Natalka"]
 date: 2016-03-23 12:56:10
 description: "Links from this article:
 Gordon Gekko
  Why Envy Outperforms Admiration
 The Science of Sin: The Psychology of the Seven Deadlies (and Why They Are So Good For You)
-Johnson & Stapel, 2007
-
-[insert page..."
+Johnson & Stapel, 2007"
 ---
 
 **Links from this article:**[Gordon Gekko](http://natalkafalcomer.us6.list-manage.com/track/click?u=019ca10094e4286c692652bd0&amp;id=7de304e2f2&amp;e=ccec4456f1)[ Why Envy Outperforms Admiration](http://natalkafalcomer.us6.list-manage.com/track/click?u=019ca10094e4286c692652bd0&amp;id=e11d9375b9&amp;e=ccec4456f1)[The Science of Sin: The Psychology of the Seven Deadlies (and Why They Are So Good For You)](http://natalkafalcomer.us6.list-manage1.com/track/click?u=019ca10094e4286c692652bd0&amp;id=26bc8b0433&amp;e=ccec4456f1)[Johnson & Stapel, 2007](http://natalkafalcomer.us6.list-manage.com/track/click?u=019ca10094e4286c692652bd0&amp;id=598f22d74a&amp;e=ccec4456f1)

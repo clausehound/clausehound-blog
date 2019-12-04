@@ -1,6 +1,6 @@
 ---
 title: "How to Identify Harmful Clauses and Avoid Litigation"
-author: jordan+1@clausehound.com
+author: jordan@clausehound.com
 tags: ["Commercial Lease","Commercial Activities","Natalka"]
 date: 2015-12-01 13:10:43
 description: "Links from this article:[1]www.groundworksfirm.com

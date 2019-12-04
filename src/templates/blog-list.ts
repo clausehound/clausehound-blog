@@ -4,16 +4,19 @@ import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import { rhythm } from "../utils/typography";
+import ArticlePreview from "../components/article-preview";
 
 interface Props {
   location: Location;
   data: any;
+  pageContext: any;
 }
 
-const BlogIndex: FC<Props> = ({ data, location }) => {
+const BlogList: FC<Props> = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
+  const { previousPath, nextPath } = pageContext;
+
   return h(
     Layout,
     {
@@ -24,60 +27,64 @@ const BlogIndex: FC<Props> = ({ data, location }) => {
       title: "All posts",
     }),
     posts.map(({ node }: { node: any }) => {
-      const title = node.frontmatter.title || node.fields.slug;
-      return h(
-        "article",
+      const {
+        fields: { slug },
+        frontmatter: { date, description, title },
+      } = node;
+      return h(ArticlePreview, {
+        key: slug,
+        slug,
+        title: title || slug,
+        date,
+        description,
+      });
+    }),
+    h(
+      "nav",
+      null,
+      h(
+        "ul",
         {
-          key: node.fields.slug,
           style: {
-            marginBottom: rhythm(1),
+            display: `flex`,
+            flexWrap: `wrap`,
+            justifyContent: `space-between`,
+            listStyle: `none`,
+            padding: 0,
           },
         },
         h(
-          "header",
+          "li",
           null,
-          h(
-            Typography,
-            {
-              variant: "h5",
-            },
+          previousPath &&
             h(
               Link,
               {
-                style: {
-                  boxShadow: `none`,
-                  textDecoration: "none",
-                },
-                to: node.fields.slug,
+                to: previousPath,
+                rel: "prev",
               },
-              title,
+              "⇦ newer",
             ),
-          ),
-          h(
-            "small",
-            {
-              style: {
-                marginBottom: rhythm(1 / 4),
-              },
-            },
-            node.frontmatter.date,
-          ),
         ),
         h(
-          "section",
+          "li",
           null,
-          h(Typography, {
-            dangerouslySetInnerHTML: {
-              __html: node.frontmatter.description || node.excerpt,
-            },
-          }),
+          nextPath &&
+            h(
+              Link,
+              {
+                to: nextPath,
+                rel: "next",
+              },
+              "older ⇨",
+            ),
         ),
-      );
-    }),
+      ),
+    ),
   );
 };
 
-export default BlogIndex;
+export default BlogList;
 export const pageQuery = graphql`
   query($skip: Int, $limit: Int) {
     site {

@@ -1,14 +1,9 @@
 ---
 title: "Why You Have to Care About Exclusive Use Clauses"
-author: jordan+1@clausehound.com
+author: jordan@clausehound.com
 tags: ["Commercial Lease","Commercial Activities","Natalka"]
 date: 2015-11-02 11:30:53
-description: "Links from this article:www.groundworksfirm.com
-
-
-
-
-It felt like I had a gun to my head: either lease up one of the most unpopular rundown buil..."
+description: "It felt like I had a gun to my head: either lease up one of the most unpopular rundown buil..."
 ---
 
 **Links from this article:**
