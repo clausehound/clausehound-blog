@@ -98,20 +98,18 @@ exports.createPages = async ({ graphql, actions }) =>
           };
         }),
         // Build all the paginated main pages
-        Array.from({ length: numPages }, (_, i) => {
-          return {
-            path: listPath(i),
-            component: blogList,
-            context: {
-              limit: postsPerPage,
-              skip: i * postsPerPage,
-              numPages,
-              currentPage: i + 1,
-              previousPath: listPath(i - 1),
-              nextPath: listPath(i + 1),
-            },
-          };
-        }),
+        Array.from({ length: numPages }, (_, i) => ({
+          path: listPath(i),
+          component: blogList,
+          context: {
+            limit: postsPerPage,
+            skip: i * postsPerPage,
+            numPages,
+            currentPage: i + 1,
+            previousPath: listPath(i - 1),
+            nextPath: listPath(i + 1),
+          },
+        })),
       ];
     }),
     getAuthors({ graphql }).then(authors =>
