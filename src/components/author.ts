@@ -49,9 +49,10 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
         variant: "h5",
         style: {
           alignSelf: "flex-start",
+          textTransform: "uppercase",
         },
       },
-      h("span", null, `${first.toUpperCase()} `),
+      h("span", null, `${first} `),
       h(
         "span",
         {
@@ -61,7 +62,7 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
             color: theme.palette.primary.main,
           },
         },
-        last && last.toUpperCase(),
+        last,
       ),
     ),
   );

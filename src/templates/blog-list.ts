@@ -63,7 +63,7 @@ const BlogList: FC<Props> = ({ data, location, pageContext }) => {
                 to: previousPath,
                 rel: "prev",
               },
-              "\u2190 newer",
+              "⇦ newer",
             ),
         ),
         h(
@@ -76,7 +76,7 @@ const BlogList: FC<Props> = ({ data, location, pageContext }) => {
                 to: nextPath,
                 rel: "next",
               },
-              "older \u2192",
+              "older ⇨",
             ),
         ),
       ),
