@@ -3,17 +3,19 @@ import { createElement as h, FC } from "react";
 interface Props {
   className?: string;
   fillColor?: string;
+  style?: Partial<CSSStyleDeclaration>;
   viewBox?: string;
 }
 
 const Paw: FC<Props> = ({
   className = "",
-  viewBox = "0 0 50 50",
   fillColor = "#000000",
+  style,
+  viewBox = "0 0 50 50",
 }) =>
   h(
     "svg",
-    { className, viewBox },
+    { className, viewBox, style },
     h(
       "g",
       null,
