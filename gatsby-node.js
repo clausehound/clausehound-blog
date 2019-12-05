@@ -1,4 +1,5 @@
 const path = require(`path`);
+const slugify = require(`slugify`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
 async function getPosts({ graphql }) {
@@ -16,6 +17,7 @@ async function getPosts({ graphql }) {
               }
               frontmatter {
                 title
+                tags
                 author {
                   id
                   first
@@ -66,6 +68,7 @@ async function getAuthors({ graphql }) {
 const blogPost = path.resolve(`./src/templates/blog-post.ts`);
 const authorBio = path.resolve(`./src/templates/author-bio.ts`);
 const blogList = path.resolve(`./src/templates/blog-list.ts`);
+const tagList = path.resolve(`./src/templates/tag-list.ts`);
 
 const postsPerPage = 0xff;
 
@@ -110,6 +113,21 @@ exports.createPages = async ({ graphql, actions }) =>
             nextPath: listPath(i + 1),
           },
         })),
+        Array.from(
+          posts.reduce((allByCat, post) => {
+            for (const tag of post.node.frontmatter.tags) {
+              allByCat.add(tag);
+            }
+            return allByCat;
+          }, new Set()),
+          tag => ({
+            path: `/tags/${slugify(tag)}`,
+            component: tagList,
+            context: {
+              tag,
+            },
+          }),
+        ),
       ];
     }),
     getAuthors({ graphql }).then(authors =>
@@ -121,9 +139,9 @@ exports.createPages = async ({ graphql, actions }) =>
         },
       })),
     ),
-  ]).then(([[posts, lists], authors]) => {
+  ]).then(([[posts, lists, tags], authors]) => {
     // TODO: Check here if we have a slug collision and rename appropriately
-    [...posts, ...lists, ...authors].forEach(page => {
+    [...posts, ...lists, ...tags, ...authors].forEach(page => {
       actions.createPage(page);
     });
   });
