@@ -81,7 +81,7 @@ const SEO: FC<Props> = ({
       content: metaDescription,
     },
     {
-      property: `theme-color`,
+      name: `theme-color`,
       content: theme.palette.primary.main,
     },
   ];
