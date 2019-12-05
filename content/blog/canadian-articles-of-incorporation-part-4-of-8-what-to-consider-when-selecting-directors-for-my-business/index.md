@@ -12,7 +12,7 @@ Canada Business Corporations Act
 [insert page='CTA 1: NOT FOR PROFIT ARTICLES OF INCORPORATION'..."
 ---
 
-**Links from this article:**[Canadian Controlled Private Corporation](http://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.pdf)[Lifetime Capital Gains Exemption](http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/rtrn/cmpltng/ddctns/lns248-260/254/menu-eng.html)[here](http://www.cra-arc.gc.ca/tx/nnrsdnts/ndvdls/nnrs-eng.html#rsdncstts)[Canada Business Corporations Act](http://laws-lois.justice.gc.ca/eng/acts/c-44/FullText.html)
+**Links from this article:**[Canadian Controlled Private Corporation](https://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.pdf)[Lifetime Capital Gains Exemption](https://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/rtrn/cmpltng/ddctns/lns248-260/254/menu-eng.html)[here](https://www.cra-arc.gc.ca/tx/nnrsdnts/ndvdls/nnrs-eng.html#rsdncstts)[Canada Business Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-44/FullText.html)
 
 Canadian Articles of Incorporation – Part 4 of 4:
 What to consider when selecting Directors for my business?
@@ -39,11 +39,11 @@ Quorum is the minimum number of Directors that the Board of Directors must have 
 • not have been declared incapable by a court in Canada or in another country; • be an individual (a corporation cannot be a director); and
 • not be in bankrupt status.
 **(b) Residency of Directors:**
-When selecting Directors for a corporation, the controlling shareholder(s) (whom will usually be the Founder in the context of a startup) should ensure that the business meets the definition of a [Canadian Controlled Private Corporation](http://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.pdf) in order to eligible for reduced tax rates on active income, have the ability to utilize the Small Business Dividend Tax Credit when withdrawing profits from the business, and have the ability to depend on the [Lifetime Capital Gains Exemption](http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/rtrn/cmpltng/ddctns/lns248-260/254/menu-eng.html) up to $800,000+ per individual.
+When selecting Directors for a corporation, the controlling shareholder(s) (whom will usually be the Founder in the context of a startup) should ensure that the business meets the definition of a [Canadian Controlled Private Corporation](https://www.cra-arc.gc.ca/E/pub/tp/it458r2/it458r2-e.pdf) in order to eligible for reduced tax rates on active income, have the ability to utilize the Small Business Dividend Tax Credit when withdrawing profits from the business, and have the ability to depend on the [Lifetime Capital Gains Exemption](https://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/rtrn/cmpltng/ddctns/lns248-260/254/menu-eng.html) up to $800,000+ per individual.
 
-In order to be eligible for these benefits, at least 25% of Directors must be resident in Canada. If a corporation has less than four Directors, at least one must be resident in Canada. To see the factors that determine residency, please click [here](http://www.cra-arc.gc.ca/tx/nnrsdnts/ndvdls/nnrs-eng.html#rsdncstts).
+In order to be eligible for these benefits, at least 25% of Directors must be resident in Canada. If a corporation has less than four Directors, at least one must be resident in Canada. To see the factors that determine residency, please click [here](https://www.cra-arc.gc.ca/tx/nnrsdnts/ndvdls/nnrs-eng.html#rsdncstts).
 **(c) End of Director’s term:**
-Directors may leave or be removed from the Board of Directors for various reasons. A corporation must have at least one active Director, otherwise it may be dissolved by Corporations Canada as per subsection 212(1) of the [Canada Business Corporations Act](http://laws-lois.justice.gc.ca/eng/acts/c-44/FullText.html). Directors may leave or be removed from the Board of Directors by means of:
+Directors may leave or be removed from the Board of Directors for various reasons. A corporation must have at least one active Director, otherwise it may be dissolved by Corporations Canada as per subsection 212(1) of the [Canada Business Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-44/FullText.html). Directors may leave or be removed from the Board of Directors by means of:
 • Removal by the shareholders
 • Disqualification (such as entering bankrupt status)
 • Resignation
@@ -51,13 +51,13 @@ Directors may leave or be removed from the Board of Directors for various reason
 
  
 
-Drafting the Articles of Incorporation is a crucial consideration for any DIY drafter. You can use [Clausehound.com](http://clausehound.com)'s incorporation templates to ensure that your incorporation process is as easy and cheap as possible!
+Drafting the Articles of Incorporation is a crucial consideration for any DIY drafter. You can use [Clausehound.com](https://clausehound.com)'s incorporation templates to ensure that your incorporation process is as easy and cheap as possible!
 
  
 
 When drafting your Articles of Incorporation, you will want to consider the information in the following blogs:
 
-Currently Live![1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)[2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)[3 of 4 – Selecting and protecting your company’s name](http://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2)**[4 of 4 – What to consider when selecting Directors for my business?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-4-of-8-what-to-consider-when-selecting-directors-for-my-business)**
+Currently Live![1 of 4 – Introduction to Incorporating a business](https://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)[2 of 4 – Which Articles of Incorporation should my company use?](https://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)[3 of 4 – Selecting and protecting your company’s name](https://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2)**[4 of 4 – What to consider when selecting Directors for my business?](https://blog.clausehound.com/canadian-articles-of-incorporation-part-4-of-8-what-to-consider-when-selecting-directors-for-my-business)**
 
 Coming Soon!
 Part 5 – What to consider when selecting the corporation’s share attributes?
@@ -65,6 +65,6 @@ Part 6  – What type of restrictions should be in place?
 Part 7 – Other Important Information
 Part 8 – What’s else should I consider before developing my business?
 
-For access to Clausehound’s blogs related to various legal & business topics, please visit [blog.clausehound.com](http://blog.clausehound.com/).
+For access to Clausehound’s blogs related to various legal & business topics, please visit [blog.clausehound.com](https://blog.clausehound.com/).
 
 Draft on!

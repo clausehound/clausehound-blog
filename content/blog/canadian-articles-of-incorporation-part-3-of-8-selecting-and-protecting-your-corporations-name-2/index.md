@@ -14,12 +14,12 @@ Clausehound.com
 Canadian Art..."
 ---
 
-**Links from this article:**[blog](http://blog.clausehound.com/protect-your-goodwill-register-your-trademark/)[online](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/hm.html?locale=en_CA)[Clausehound.com](http://clausehound.com)[1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)
+**Links from this article:**[blog](https://blog.clausehound.com/protect-your-goodwill-register-your-trademark/)[online](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/hm.html?locale=en_CA)[Clausehound.com](https://clausehound.com)[1 of 4 – Introduction to Incorporating a business](https://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)
 
 **Canadian Articles of Incorporation – Part 3 of 4:****Selecting and Protecting Your Corporation’s Name****Introduction- **
 Choosing a business’ name is an extremely important decision that an entrepreneur may be forced to make even before their products or customers are really established. There are multiple considerations that an entrepreneur must take when selecting their business’ official name in the Articles of Incorporation.
 
-In addition to the requirements outlined in the provincial and federal *Business Corporations Acts*, businesses must consider whether other businesses have already trademarked their desired name in the jurisdiction(s) where the business may operate. You may want to check out Clausehound’s [blog](http://blog.clausehound.com/protect-your-goodwill-register-your-trademark/) on this topic for further insight.
+In addition to the requirements outlined in the provincial and federal *Business Corporations Acts*, businesses must consider whether other businesses have already trademarked their desired name in the jurisdiction(s) where the business may operate. You may want to check out Clausehound’s [blog](https://blog.clausehound.com/protect-your-goodwill-register-your-trademark/) on this topic for further insight.
 
 All corporate names must meet certain requirements in order to be used in the Articles of Incorporation. An entrepreneur can defer this decision by using a numbered company name provided by the jurisdiction (e.g. 123456789 Ontario Inc.). The corporation can subsequently change its name or continue to operate as a numbered company. This is a slightly cheaper option and enables an entrepreneur to establish a corporation before some of the more intricate details of the business are worked out. Additionally, a business may continue to officially operate as a numbered company but have an “operating as” name as well, such as 123456789 Ontario Inc. O/A HoundCo.
 
@@ -42,13 +42,13 @@ You can get pre-approval for your desired business name before submitting your A
 
  
 
-Drafting the Articles of Incorporation is a crucial consideration for any DIY drafter. You can use [Clausehound.com](http://clausehound.com)'s incorporation templates to ensure that your incorporation process is as easy and cheap as possible!
+Drafting the Articles of Incorporation is a crucial consideration for any DIY drafter. You can use [Clausehound.com](https://clausehound.com)'s incorporation templates to ensure that your incorporation process is as easy and cheap as possible!
 
  
 
 When drafting your Articles of Incorporation, you will want to consider the information in the following blogs:
 
-Currently Live![1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)[2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)**[3 of 4 – Selecting and protecting your company’s name](http://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2)**[4 of 4 – What to consider when selecting Directors for my business?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-4-of-8-what-to-consider-when-selecting-directors-for-my-business)
+Currently Live![1 of 4 – Introduction to Incorporating a business](https://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)[2 of 4 – Which Articles of Incorporation should my company use?](https://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)**[3 of 4 – Selecting and protecting your company’s name](https://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2)**[4 of 4 – What to consider when selecting Directors for my business?](https://blog.clausehound.com/canadian-articles-of-incorporation-part-4-of-8-what-to-consider-when-selecting-directors-for-my-business)
 
 Coming Soon!
 Part 5 – What to consider when selecting the corporation’s share attributes?
@@ -56,6 +56,6 @@ Part 6 – What type of restrictions should be in place?
 Part 7 – Other Important Information
 Part 8 – What’s else should I consider before developing my business?
 
-For access to Clausehound’s blogs related to various legal & business topics, please visit [blog.clausehound.com](http://blog.clausehound.com/).
+For access to Clausehound’s blogs related to various legal & business topics, please visit [blog.clausehound.com](https://blog.clausehound.com/).
 
 Draft on!
