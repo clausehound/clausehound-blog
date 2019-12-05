@@ -9,6 +9,7 @@ import { FC, createElement as h } from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
+import { useTheme } from "@material-ui/core/styles";
 
 interface MetaDescription {
   content: string;
@@ -42,6 +43,7 @@ const SEO: FC<Props> = ({
       }
     `,
   );
+  const theme = useTheme();
 
   const metaDescription = description || site.siteMetadata.description;
 
@@ -77,6 +79,10 @@ const SEO: FC<Props> = ({
     {
       name: `twitter:description`,
       content: metaDescription,
+    },
+    {
+      property: `theme-color`,
+      content: theme.palette.primary.main,
     },
   ];
   return h(Helmet, {
