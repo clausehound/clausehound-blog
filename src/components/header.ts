@@ -5,6 +5,7 @@ import {
   AppBar,
   Button,
   IconButton,
+  Slide,
   Theme,
   Toolbar,
   Typography,
@@ -48,36 +49,36 @@ const useStyles = makeStyles((theme: Theme) => ({
   },
 }));
 
-const bottomAt = (ref: RefObject<HTMLElement>): number => {
-  if (ref.current == null) return 0;
-  return ref.current.offsetTop + ref.current.offsetHeight;
-};
-
 interface Props {}
 
 const Header: FC<Props> = () => {
   const classes = useStyles();
   const head = useRef<HTMLElement>();
+  const trigger = useScrollTrigger();
 
   return h(
-    AppBar,
-    {
-      color: "primary",
-      className: classes.root,
-      ref: head,
-      position: "sticky",
-    },
+    Slide,
+    { appear: false, direction: "down", in: !trigger },
     h(
-      Toolbar,
-      { className: classes.toolBar },
+      AppBar,
+      {
+        color: "primary",
+        className: classes.root,
+        ref: head,
+        position: "sticky",
+      },
       h(
-        Link,
-        {
-          to: "/",
-          className: classes.logo,
-          style: { boxShadow: "none", alignSelf: "flex-end" },
-        },
-        h(Logo, { style: { height: "1.2rem", width: "auto" } }),
+        Toolbar,
+        { className: classes.toolBar },
+        h(
+          Link,
+          {
+            to: "/",
+            className: classes.logo,
+            style: { boxShadow: "none", alignSelf: "flex-end" },
+          },
+          h(Logo, { style: { height: "1.2rem", width: "auto" } }),
+        ),
       ),
     ),
   );
