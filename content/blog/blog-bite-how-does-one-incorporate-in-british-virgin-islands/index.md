@@ -9,3 +9,5 @@ description: "This article posted on our partner site Mondaq.com describes the f
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/x/225110/offshore+company+formation/Guide+To+Establishing+A+British+Virgin+Islands+BVI+Company) describes the five types of companies that could be incorporated under the BVI Business Companies Act. The article highlights some of the essential elements required for incorporation including public record, directors, registered office, and other incorporation requirements.
 
 This comes to you as a part of Clausehound's exciting new collaboration with Mondaq!
+
+![Hi](garfield.jpg)
