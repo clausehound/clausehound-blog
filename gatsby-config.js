@@ -65,8 +65,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Clausehound Blog`,
+        short_name: `Clausehound`,
         start_url: `/`,
         background_color: `#ffffff`,
         display: `minimal-ui`,
