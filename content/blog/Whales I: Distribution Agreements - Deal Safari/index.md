@@ -3,8 +3,7 @@ title: "Whales I: Distribution Agreements - Deal Safari"
 author: thomas@clausehound.com
 tags: ["Deal Safari","Thomas Southmayd"]
 date: 2019-12-11 14:18:00
-description: "This article was originally posted on Medium.  Additional notes added within this Founder's Journey column.
-Amazing news this week from the Tribe! We just hit the century mark for the number of emplo..."
+description: "..."
 ---
 
 Whales I: Distribution Agreements - Deal Safari
@@ -64,4 +63,4 @@ For one, we’ve found that due to any number of reasons, distributors will some
 Another interesting example we’ve heard recently is how suppliers will sometimes train the distributors’ staff to handle customer support. This seems like it would be a lot more prominent in Whale deals and is something to consider when negotiating support terms.
 
 
-**About Us**: Clausehound, a legal tech company that firmly believes that lawyers are taking far too long to review customer agreements, to the point that revenue targets are missed and that deals are falling apart. Clausehound is **accelerating the deal closing speed for companies by 90 percent**, delighting sales teams by unblocking the lengthy legal review process on partner/collaboration deals, MSAs or license agreements. *[Click here to learn more!] (https://calendly.com/maxmessenger/live-demo-clausehound?month=2019-12)*
+***About Us**: Clausehound, a legal tech company that firmly believes that lawyers are taking far too long to review customer agreements, to the point that revenue targets are missed and that deals are falling apart. Clausehound is **accelerating the deal closing speed for companies by 90 percent**, delighting sales teams by unblocking the lengthy legal review process on partner/collaboration deals, MSAs or license agreements. *[Click here to learn more!] (https://calendly.com/maxmessenger/live-demo-clausehound?month=2019-12)**
