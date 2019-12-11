@@ -1,6 +1,6 @@
 ---
 title: "Exclusive use clauses: A classic real estate newbie mistake"
-author: jordan@clausehound.com
+author: natalka@clausehound.com
 tags: ["Business","Commercial Lease","Commercial Activities","Exclusive Use","Natalka"]
 date: 2016-05-16 12:01:39
 description: "It felt like I had a gun to my head. Either lease up one of the most unpopular rundown buildings in Alberta or go bust. We made a classic real estate “newbie” mistake. We bought a building based on t..."

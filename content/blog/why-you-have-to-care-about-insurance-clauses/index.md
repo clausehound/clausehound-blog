@@ -1,9 +1,9 @@
 ---
 title: "Why You Have to Care About Insurance Clauses"
-author: jordan@clausehound.com
+author: natalka@clausehound.com
 tags: ["Commercial Lease","Commercial Activities","Natalka"]
 date: 2015-10-16 15:22:48
-description: "Links from this article:[1]www.groundworksfirm.comThe most hated of lease clauses - the Insurance Clause - is not only frequently ignored, but..."
+description: "The most hated of lease clauses - the Insurance Clause - is not only frequently ignored, but..."
 ---
 
 **Links from this article:**

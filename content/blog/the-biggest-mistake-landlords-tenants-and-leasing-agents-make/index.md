@@ -1,9 +1,9 @@
 ---
 title: "The Biggest Mistake Landlords, Tenants, and Leasing Agents Make"
-author: jordan@clausehound.com
+author: natalka@clausehound.com
 tags: ["Commercial Lease","Commercial Activities","Natalka"]
 date: 2015-08-29 15:43:03
-description: "Links from this article:www.groundworksfirm.comI’ve had the opportunity to meet with numerous agents and lawyers who specialize in commercial l..."
+description: "I’ve had the opportunity to meet with numerous agents and lawyers who specialize in commercial l..."
 ---
 
 **Links from this article:**

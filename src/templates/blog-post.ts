@@ -1,12 +1,28 @@
 import { FC, createElement as h } from "react";
-import { Typography } from "@material-ui/core";
+import { Typography, useTheme, makeStyles } from "@material-ui/core";
 import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import Author from "../components/author";
 import Popular from "../components/popular";
-import { rhythm, scale } from "../utils/typography";
+import { scale } from "../utils/typography";
+
+const useStyles = makeStyles(theme => ({
+  line: {
+    marginBottom: theme.spacing(1),
+  },
+  date: {
+    marginBottom: theme.spacing(1),
+  },
+  navList: {
+    display: `flex`,
+    flexWrap: `wrap`,
+    justifyContent: `space-between`,
+    listStyle: `none`,
+    padding: 0,
+  },
+}));
 
 interface Props {
   data: any;
@@ -19,6 +35,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
   const siteTitle = data.site.siteMetadata.title;
   const { previous, next } = pageContext;
   const { author } = post.frontmatter;
+  const classes = useStyles();
 
   return h(
     Layout,
@@ -48,10 +65,9 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         h(
           "p",
           {
+            className: classes.date,
             style: {
               ...scale(-1 / 5),
-              display: `block`,
-              marginBottom: rhythm(1),
             },
           },
           post.frontmatter.date,
@@ -63,11 +79,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           __html: post.html,
         },
       }),
-      h("hr", {
-        style: {
-          marginBottom: rhythm(1),
-        },
-      }),
+      h("hr", { className: classes.line }),
       h(
         "footer",
         null,
@@ -83,15 +95,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
       null,
       h(
         "ul",
-        {
-          style: {
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          },
-        },
+        { className: classes.navList },
         h(
           "li",
           null,

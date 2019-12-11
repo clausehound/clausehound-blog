@@ -1,5 +1,5 @@
 import { FC, createElement as h } from "react";
-import { Typography } from "@material-ui/core";
+import { Typography, makeStyles } from "@material-ui/core";
 import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
@@ -12,10 +12,21 @@ interface Props {
   pageContext: any;
 }
 
+const useStyles = makeStyles(theme => ({
+  prevNext: {
+    display: `flex`,
+    flexWrap: `wrap`,
+    justifyContent: `space-between`,
+    listStyle: `none`,
+    padding: 0,
+  },
+}));
+
 const BlogList: FC<Props> = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title;
   const posts = data.allMarkdownRemark.edges;
   const { previousPath, nextPath } = pageContext;
+  const classes = useStyles();
 
   return h(
     Layout,
@@ -44,15 +55,7 @@ const BlogList: FC<Props> = ({ data, location, pageContext }) => {
       null,
       h(
         "ul",
-        {
-          style: {
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          },
-        },
+        { className: classes.prevNext },
         h(
           "li",
           null,

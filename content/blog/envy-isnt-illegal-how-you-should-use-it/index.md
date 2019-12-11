@@ -1,6 +1,6 @@
 ---
 title: "Envy Isn't Illegal: How You Should Use It"
-author: jordan@clausehound.com
+author: natalka@clausehound.com
 tags: ["Business","Commercial Activities","Natalka"]
 date: 2016-03-23 12:56:10
 description: "Links from this article:
