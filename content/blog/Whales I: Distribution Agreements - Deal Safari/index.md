@@ -2,7 +2,7 @@
 title: "Whales I: Distribution Agreements - Deal Safari"
 author: thomas@clausehound.com
 tags: ["Deal Safari","Thomas Southmayd"]
-date: 2019-12-11 14:18:00
+date: 2019-12-11 08:00:00
 description: "..."
 ---
 
