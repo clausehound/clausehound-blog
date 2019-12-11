@@ -2,13 +2,13 @@ import { FC, createElement as h } from "react";
 import { Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import { Link } from "gatsby";
-import Image from "gatsby-image";
+import Image, { GatsbyImageProps } from "gatsby-image";
 
 interface Props {
   id: string;
   first?: string;
   last?: string;
-  image: any;
+  image?: { childImageSharp: GatsbyImageProps };
 }
 
 const useStyles = makeStyles(theme => ({
@@ -47,7 +47,7 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
       className: classes.root,
       to: id,
     },
-    image &&
+    image?.childImageSharp?.fluid &&
       h(Image, {
         fluid: image.childImageSharp.fluid,
         alt: `picture of ${first}`,
