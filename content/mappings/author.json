@@ -138,7 +138,15 @@
     "first": "Rajah",
     "last": "Lehal",
     "bio": "Rajah Lehal is Founder and CEO of Clausehound.com.  Rajah is a legal technologist and technology lawyer who is, together with the Clausehound team, capturing and sharing lawyer expertise, building deal negotiation libraries, teaching negotiation in classrooms, and automating negotiation with software.",
-    "image": "profiles/Rajah.jpg"
+    "image": "profiles/Rajah.jpg",
+    "lawyer": true
+  },
+  {
+    "id": "adam@clausehound.com",
+    "first": "Adam",
+    "last": "Loo",
+    "lawyer": true,
+    "image": "profiles/adam.jpg"
   },
   {
     "id": "richard@clausehound.com",
