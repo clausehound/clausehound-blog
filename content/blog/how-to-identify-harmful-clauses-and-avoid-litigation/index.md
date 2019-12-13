@@ -1,10 +1,9 @@
 ---
 title: "How to Identify Harmful Clauses and Avoid Litigation"
-author: jordan@clausehound.com
+author: natalka@clausehound.com
 tags: ["Commercial Lease","Commercial Activities","Natalka"]
 date: 2015-12-01 13:10:43
-description: "Links from this article:[1]www.groundworksfirm.com
-Record high numbers of people are quitting their jobs to start their own businesses. This ri..."
+description: "Record high numbers of people are quitting their jobs to start their own businesses."
 ---
 
 **Links from this article:**

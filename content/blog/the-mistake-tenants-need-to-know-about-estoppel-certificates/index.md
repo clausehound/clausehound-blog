@@ -1,6 +1,6 @@
 ---
 title: "The Mistake: Tenants Need to Know About Estoppel Certificates"
-author: jordan@clausehound.com
+author: natalka@clausehound.com
 tags: ["Business","Commercial Lease","Commercial Activities","Estoppel","Natalka"]
 date: 2016-05-27 10:51:37
 description: "We all hear about the big commercial deal where millions or even billions exchanged hands. But what we don’t hear about is an unusual document that can make or break that deal. Yet, few agents not onl..."
@@ -24,11 +24,8 @@ This powerful document is the Tenant Estoppel Certificate (TEC). The TEC is a le
 
 - Renewals or Extensions: if such rights exist, the terms and the notification periods.
 
- 
 
 **Why have it?**
-
- 
 
 The TEC is a promise made to a lender or a potential buyer. The lender or buyer wants these promises because they support whatever the landlord claims to be true about its leases, rent and so on. Clearly, the TEC is imperative to the due diligence process of the sale or refinancing of a property. After all, if you’re going to spend significant amounts of money, you’ll want the security that it won’t be hit with financially devastating surprises.
 
@@ -36,11 +33,7 @@ In other words, a TEC prevents unsubstantiated surprises because it provides the
 
 For example, after we acquired a property, I’d be inundated with tenants claiming they wouldn’t be paying a few months of rent because the previous landlord owed them money for tenant improvements. Before I did a thing, I’d look at the TEC that the defaulting tenant signed. If what they said was inconsistent with the TEC, I’d tell them they had no claim or right to avoid paying rent.
 
- 
-
 **What do I do if I see it?**
-
- 
 
 Recognize this as an opportunity to negotiate in certain terms into your lease. The TEC is very important to landlords and you can use this provision to extract better rent rates or other terms important to the tenant.  To be clear, when the obligation to sign the TEC arises it’s not the time to negotiate terms in the lease; rather, it’s just the time to ensure that the terms in the lease are true.
 
@@ -54,11 +47,7 @@ Consider how much time the tenant has to review the TEC and what happens if the 
 
 Finally, delete any language that deems the draft submitted approved or appoints an agent to sign the document should the tenant not reply in a timely manner. As mentioned, above, if the tenant misses the opportunity to review the document this may hold her to unfair or untrue terms.
 
- 
-
 **What Should I tell my tenant to do when the obligation arises?**
-
- 
 
 If you think a tenant doesn’t have to provide a TEC, think again. The power to require a tenant to sign a TEC typically stems from a term in the lease, as alluded to above. And not providing a TEC could result in serious repercussions.
 
@@ -77,7 +66,5 @@ Distinguish yourself as an excellent agent by guiding your client through the po
 - Confirm how much the tenant is paying by contacting the tenant’s accounting department and reviewing the latest rent invoices.
 
 - Don’t let any landlords pull a fast one by using the TEC as an opportunity to expand the tenant’s obligations or delete the tenant’s rights. If something is unclear, qualify the language be inserting “as required under the Lease….”
-
- 
 
 Remember, success in the real estate business is all about the value you can provide to your client. By knowing a bit more about the secret TEC you’ll be sure to stand heads and shoulders above the crowd, as well as protect your client.

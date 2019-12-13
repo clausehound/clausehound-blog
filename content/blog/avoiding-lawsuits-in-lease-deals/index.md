@@ -1,6 +1,6 @@
 ---
 title: "Avoiding lawsuits in lease deals"
-author: jordan@clausehound.com
+author: natalka@clausehound.com
 tags: ["Business","Commercial Lease","Commercial Activities","Rentable Area","Useable Area","Natalka"]
 date: 2016-05-17 10:49:10
 description: "Lawyers are great assets for any real estate agent or realty team. They’ll help you craft a legally acceptable arrangement, but they have their limits.
