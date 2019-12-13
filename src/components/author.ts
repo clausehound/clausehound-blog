@@ -1,5 +1,4 @@
 import { FC, createElement as h } from "react";
-import { Typography } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
 import { Link } from "gatsby";
 import Image, { GatsbyImageProps } from "gatsby-image";
@@ -58,9 +57,8 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
       }),
 
     h(
-      Typography,
+      "h5",
       {
-        variant: "h5",
         className: classes.firstName,
       },
       h("span", null, `${first} `),

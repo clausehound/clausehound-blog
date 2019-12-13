@@ -8,7 +8,6 @@ import {
   Slide,
   Theme,
   Toolbar,
-  Typography,
   makeStyles,
   useScrollTrigger,
   useTheme,
@@ -20,32 +19,25 @@ import Logo from "./logo";
 const useStyles = makeStyles((theme: Theme) => ({
   root: {
     transition: "all 0.2s ease-in-out",
-    padding: `0 ${theme.spacing(2)}px`,
+    padding: "0 0.5rem",
     flexGrow: 1,
     boxShadow: "none",
     borderBottom: "4px solid black",
-  },
-  toolBar: {
-    padding: 0,
-    minHeight: "5rem",
+    backgroundColor: "var(--primary)",
+    minHeight: "6rem",
+    display: "flex",
+    position: "sticky",
+    top: 0,
+    zIndex: 100,
   },
   logo: {
     color: "#ffffff",
     textDecoration: "none",
     flexGrow: 1,
   },
-  faded: {
-    background: "transparent",
-    boxShadow: "none",
-    padding: theme.spacing(5),
-  },
   title: {
     fontWeight: 100,
     flexGrow: 1,
-  },
-  menuButton: {
-    marginRight: theme.spacing(1),
-    marginBottom: -6,
   },
 }));
 
@@ -60,16 +52,12 @@ const Header: FC<Props> = () => {
     Slide,
     { appear: false, direction: "down", in: !trigger },
     h(
-      AppBar,
+      "header",
       {
-        color: "primary",
         className: classes.root,
         ref: head,
-        position: "sticky",
+        style: { position: "sticky" },
       },
-      h(
-        Toolbar,
-        { className: classes.toolBar },
         h(
           Link,
           {
@@ -79,7 +67,6 @@ const Header: FC<Props> = () => {
           },
           h(Logo, { style: { height: "1.2rem", width: "auto" } }),
         ),
-      ),
     ),
   );
 };

@@ -6,7 +6,6 @@
  */
 
 import { FC, createElement as h } from "react";
-import { Typography } from "@material-ui/core";
 import { useStaticQuery, graphql } from "gatsby";
 import Image from "gatsby-image";
 
@@ -18,16 +17,18 @@ interface Props {
   bio?: string;
 }
 
-const Bio: FC<Props> = ({ name, email, bio }) => {
-  return h(
-    Typography,
+const Bio: FC<Props> = ({ name, email, bio }) =>
+  h(
+    "p",
     {
       style: {
         marginBottom: rhythm(2.5),
       },
     },
-    h("p", null, "Written by ", h("strong", null, name), ".", bio && ` ${bio}`),
+    "Written by ",
+    h("strong", null, name),
+    ".",
+    bio && ` ${bio}`,
   );
-};
 
 export default Bio;

@@ -1,5 +1,5 @@
 import { FC, createElement as h } from "react";
-import { Typography, useTheme, makeStyles } from "@material-ui/core";
+import { useTheme, makeStyles } from "@material-ui/core";
 import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
@@ -78,10 +78,9 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         null,
         author?.first && h(Author, author),
         h(
-          Typography,
+          "h1",
           {
             style: { marginTop: "1rem" },
-            variant: "h1",
           },
           post.frontmatter.title,
         ),
@@ -96,8 +95,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           post.frontmatter.date,
         ),
       ),
-      h(Typography, {
-        variant: "body1",
+      h("main", {
         dangerouslySetInnerHTML: {
           __html: post.html,
         },
@@ -153,8 +151,8 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
       "footer",
       null,
       h(
-        Typography,
-        { variant: "body2" },
+        "small",
+        null,
         "This article is provided for informational purposes only and does not create a lawyer-client relationship with the reader. It is not legal advice and should not be regarded as such. Any reliance on the information is solely at the reader’s own risk. ",
         h(
           "a",

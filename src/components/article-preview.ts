@@ -1,6 +1,5 @@
 import { FC, createElement as h } from "react";
 import { Link } from "gatsby";
-import { Typography } from "@material-ui/core";
 import { rhythm } from "../utils/typography";
 
 interface Props {
@@ -22,10 +21,8 @@ const ArticlePreview: FC<Props> = ({ date, description, slug, title }) =>
       "header",
       null,
       h(
-        Typography,
-        {
-          variant: "h5",
-        },
+        "h3",
+        { style: { marginBottom: 0 } },
         h(
           Link,
           {
@@ -51,7 +48,7 @@ const ArticlePreview: FC<Props> = ({ date, description, slug, title }) =>
     description && h(
       "section",
       null,
-      h(Typography, {
+      h("main", {
         dangerouslySetInnerHTML: {
           __html: description,
         },

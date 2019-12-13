@@ -1,5 +1,4 @@
 import { FC, createElement as h } from "react";
-import { Typography } from "@material-ui/core";
 import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
@@ -29,18 +28,10 @@ const AuthorBioTemplate: FC<Props> = ({ data, location }) => {
       description: author.bio,
     }),
     h(Author, author),
-    h(
-      Typography,
-      null,
-      h("p", null, author.bio),
-      posts.length === 0
-        ? null
-        : h(
-            "p",
-            null,
-            `${author.first} has authored ${posts.length} articles.`,
-          ),
-    ),
+    h("p", null, author.bio),
+    posts.length === 0
+      ? null
+      : h("p", null, `${author.first} has authored ${posts.length} articles.`),
     posts.map(
       ({
         node,
