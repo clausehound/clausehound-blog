@@ -8,6 +8,8 @@ import Author from "../components/author";
 import Popular from "../components/popular";
 import { rhythm, scale } from "../utils/typography";
 
+import NdaEmailer from "../components/ndaEmailer";
+
 interface Props {
   data: any;
   location: Location;
@@ -63,6 +65,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           __html: post.html,
         },
       }),
+      h(NdaEmailer),
       h("hr", {
         style: {
           marginBottom: rhythm(1),
