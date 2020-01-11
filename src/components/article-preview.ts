@@ -7,6 +7,7 @@ interface Props {
   description?: string;
   slug: string;
   title: string;
+  children?: never;
 }
 
 const ArticlePreview: FC<Props> = ({ date, description, slug, title }) =>
@@ -14,14 +15,14 @@ const ArticlePreview: FC<Props> = ({ date, description, slug, title }) =>
     "article",
     {
       style: {
-        marginBottom: rhythm(1),
+        marginBottom: "2.5rem",
       },
     },
     h(
       "header",
-      null,
+      { style: { marginBottom: "0.25rem" } },
       h(
-        "h3",
+        "h2",
         { style: { marginBottom: 0 } },
         h(
           Link,
@@ -39,7 +40,7 @@ const ArticlePreview: FC<Props> = ({ date, description, slug, title }) =>
         "small",
         {
           style: {
-            marginBottom: rhythm(1 / 4),
+            marginBottom: "0.5rem",
           },
         },
         date,

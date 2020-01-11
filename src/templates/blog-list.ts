@@ -48,7 +48,7 @@ const BlogList: FC<Props> = ({ data, location, pageContext }) => {
         title: title || slug,
         date,
         description,
-      });
+      }, 'hi');
     }),
     h(
       "nav",

@@ -14,7 +14,11 @@ const useStyles = makeStyles(theme => ({
   root: {
     display: "flex",
     boxShadow: "none",
+    textDecoration: "none",
     color: "inherit",
+    "& a": {
+      color: "inherit",
+    },
   },
   avatar: {
     marginRight: "0.5rem",
@@ -22,7 +26,8 @@ const useStyles = makeStyles(theme => ({
     borderRadius: "100%",
   },
   firstName: {
-    alignSelf: "flex-start",
+    margin: 0,
+    alignSelf: "center",
     textTransform: "uppercase",
   },
   lastName: {
@@ -57,7 +62,7 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
       }),
 
     h(
-      "h5",
+      "h3",
       {
         className: classes.firstName,
       },
