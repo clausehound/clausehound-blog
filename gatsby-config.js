@@ -84,6 +84,7 @@ module.exports = {
         head: false,
       },
     },
+    `gatsby-plugin-sitemap`,
   ],
   mapping: {
     'MarkdownRemark.frontmatter.author': `AuthorJson`,
