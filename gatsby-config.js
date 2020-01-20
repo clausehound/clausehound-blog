@@ -55,7 +55,50 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-feed`,
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+        {
+          site {
+            siteMetadata {
+              title
+              description
+              siteUrl
+              site_url: siteUrl
+            }
+          }
+        }
+        `,
+        feeds: [{
+          query: `
+          {
+            allMarkdownRemark(
+              sort: { fields: [frontmatter___date], order: DESC }
+              limit: 100
+            ) {
+              edges {
+                node {
+                  fields {
+                    slug
+                  }
+                  frontmatter {
+                    title
+                    date
+                    description
+                  }
+                }
+              }
+            }
+          }`,
+          serialize: ({ query: { site, allMarkdownRemark } }) => allMarkdownRemark.edges.map(edge => ({
+            ...edge.node.frontmatter,
+            url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
+          })),
+          output: "/rss.xml",
+        }],
+      },
+    },
     `gatsby-plugin-material-ui`,
     {
       resolve: `gatsby-plugin-manifest`,
