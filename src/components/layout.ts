@@ -15,16 +15,16 @@ declare var __PATH_PREFIX__: string;
 
 const palette = {
   primary: {
-    light: "gold",
-    main: "orange",
-    dark: "darkorange",
-    contrastText: "white",
+    //light: "gold",
+    main: amber[500],
+    //dark: "darkorange",
+    //contrastText: "white",
   },
   secondary: {
-    light: "powderblue",
-    main: "deepskyblue",
-    dark: "dodgerblue",
-    contrastText: "white",
+    //light: "powderblue",
+    main: lightBlue[500],
+    //dark: "dodgerblue",
+    //contrastText: "white",
   },
 } as const;
 
