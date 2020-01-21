@@ -1,11 +1,12 @@
 import { FC, createElement as h } from "react";
 import { useTheme, makeStyles } from "@material-ui/core";
-import { Link, graphql } from "gatsby";
+import { Link, graphql, navigate } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import Author from "../components/author";
 import Popular from "../components/popular";
+import TagChips from "../components/tag-chips";
 import { scale } from "../utils/typography";
 import { GatsbyImageProps } from "gatsby-image";
 
@@ -52,13 +53,14 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           childImageSharp: GatsbyImageProps;
         };
       };
+      tags: ReadonlyArray<string>;
     };
-    tags: ReadonlyArray<string>;
   } = data.markdownRemark;
   const siteTitle = data.site.siteMetadata.title;
   const { previous, next } = pageContext;
   const { author } = post.frontmatter;
   const classes = useStyles();
+  const tags = post.frontmatter.tags;
 
   return h(
     Layout,
@@ -100,15 +102,17 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           __html: post.html,
         },
       }),
+      h(TagChips, { tags }),
       h("hr", { className: classes.line }),
       h(
         "footer",
         null,
-        author?.first && h(Bio, {
-          name: author.first,
-          email: author.id,
-          bio: author.bio,
-        }),
+        author?.first &&
+          h(Bio, {
+            name: author.first,
+            email: author.id,
+            bio: author.bio,
+          }),
       ),
     ),
     h(
@@ -190,7 +194,7 @@ export const pageQuery = graphql`
           bio
           image {
             childImageSharp {
-             fluid(maxWidth: 320, maxHeight: 320) {
+              fluid(maxWidth: 320, maxHeight: 320) {
                 ...GatsbyImageSharpFluid
               }
             }
