@@ -40,11 +40,12 @@ const BlogList: FC<Props> = ({ data, location, pageContext }) => {
     posts.map(({ node }: { node: any }) => {
       const {
         fields: { slug },
-        frontmatter: { date, description, title },
+        frontmatter: { date, description, tags, title },
       } = node;
       return h(ArticlePreview, {
         key: slug,
         slug,
+        tags,
         title: title || slug,
         date,
         description,
