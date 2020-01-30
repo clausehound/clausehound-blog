@@ -2,6 +2,44 @@ const path = require(`path`);
 const slugify = require(`slugify`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
+const isAuthorTag = tag => ["aching",
+"Aidan",
+"AlkarimNasser",
+"alayna-r-kolodziechuk",
+"all",
+"Assaf Weisz",
+"aunterman",
+"braedon-beaulieau",
+"ChrisKay",
+"ChrisSnoyer",
+"cmcivor",
+"eashan-karnik",
+"EricJanssen",
+"erin-adele-krawchuk",
+"frahman",
+"Ian",
+"Ilana-Ben-Ari",
+"info@clausehound.com",
+"irbaz-wahab",
+"Jenny",
+"kboutin",
+"LisaWinning",
+"margaret",
+"Mauritius",
+"mnazeer",
+"Mondaq",
+"Natalka",
+"NathanLev",
+"NavidNathoo",
+"phil-weiss",
+"Rajah",
+"richard@clausehound.com",
+"Ryan Grant Little",
+"sahilkanaya",
+"Sheetal Jaitly",
+"Thomas Southmayd",
+].includes(tag);
+
 async function getPosts({ graphql }) {
   const result = await graphql(
     `
@@ -121,7 +159,7 @@ exports.createPages = async ({ graphql, actions }) =>
             nextPath: listPath(i + 1),
           },
         })),
-        tags.map(({ tag }) => ({
+        tags.filter(({ tag }) => !isAuthorTag(tag)).map(({ tag }) => ({
           path: `/tags/${slugify(tag)}`,
           component: tagList,
           context: {

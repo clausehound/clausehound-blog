@@ -7,6 +7,7 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 import ArticlePreview from "../components/article-preview";
 import { rhythm, scale } from "../utils/typography";
+import { isAuthorTag } from "../utils/filters";
 
 interface Data {
   site: {
@@ -47,6 +48,9 @@ const byTag = (rev: boolean) => ({ tag: a }, { tag: b }) => {
   return (rev ? -1 : 1) * a.localeCompare(b);
 };
 
+// TODO: this should be built in somewhere
+const formatTagLink = tag => tag.replace(/ /g, "-").replace(/#/g, "");
+
 const TagsTemplate: FC<Props> = ({
   data: {
     site: {
@@ -61,10 +65,10 @@ const TagsTemplate: FC<Props> = ({
   const sortedTags = useMemo(() => {
     switch (sortBy) {
       case "total":
-        return tags.sort(byTotalCount(rev));
+        return tags.filter(({ tag }) => !isAuthorTag(tag)).sort(byTotalCount(rev));
       case "tag":
       default: {
-        return tags.sort(byTag(rev));
+        return tags.filter(({ tag }) => !isAuthorTag(tag)).sort(byTag(rev));
       }
     }
   }, [tags, rev, sortBy]);
@@ -82,7 +86,7 @@ const TagsTemplate: FC<Props> = ({
       title,
     },
     h(SEO, {
-      title: `Clausehound articles by tag`,
+      title: `Clausehound - all tags`,
     }),
     h(
       ButtonGroup,
@@ -120,7 +124,7 @@ const TagsTemplate: FC<Props> = ({
           h(
             "li",
             { key: tag },
-            h(Link, { to: `/tags/${tag}` }, `${tag} (${totalCount})`),
+            h(Link, { to: `/tags/${formatTagLink(tag)}` }, `${tag} (${totalCount})`),
           ),
       ),
     ),
