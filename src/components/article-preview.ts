@@ -1,16 +1,18 @@
-import { FC, createElement as h } from "react";
-import { Link } from "gatsby";
+import { FC, createElement as h, Fragment } from "react";
+import { Chip } from '@material-ui/core';
+import { Link, navigate } from "gatsby";
 import { rhythm } from "../utils/typography";
 
 interface Props {
   date?: string;
   description?: string;
   slug: string;
+  tags: ReadonlyArray<string>;
   title: string;
   children?: never;
 }
 
-const ArticlePreview: FC<Props> = ({ date, description, slug, title }) =>
+const ArticlePreview: FC<Props> = ({ date, description, slug, tags, title }) =>
   h(
     "article",
     {
@@ -36,25 +38,37 @@ const ArticlePreview: FC<Props> = ({ date, description, slug, title }) =>
           title,
         ),
       ),
-      date && h(
-        "small",
-        {
-          style: {
-            marginBottom: "0.5rem",
+      date &&
+        h(
+          "small",
+          {
+            style: {
+              marginBottom: "0.5rem",
+            },
           },
-        },
-        date,
+          date,
+        ),
+    ),
+    description &&
+      h(
+        "section",
+        null,
+        h("main", {
+          dangerouslySetInnerHTML: {
+            __html: description,
+          },
+        }),
       ),
-    ),
-    description && h(
-      "section",
-      null,
-      h("main", {
-        dangerouslySetInnerHTML: {
-          __html: description,
-        },
-      }),
-    ),
+    tags &&
+      tags.map(tag =>
+        h(Chip, {
+          onClick: () => navigate(`/tags/${tag.replace(/ /g, '-')}`),
+          label: tag,
+          variant: "outlined",
+          clickable: true,
+          color: "secondary",
+        }),
+      ),
   );
 
 export default ArticlePreview;

@@ -2,11 +2,49 @@ const path = require(`path`);
 const slugify = require(`slugify`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
+const isAuthorTag = tag => ["aching",
+"Aidan",
+"AlkarimNasser",
+"alayna-r-kolodziechuk",
+"all",
+"Assaf Weisz",
+"aunterman",
+"braedon-beaulieau",
+"ChrisKay",
+"ChrisSnoyer",
+"cmcivor",
+"eashan-karnik",
+"EricJanssen",
+"erin-adele-krawchuk",
+"frahman",
+"Ian",
+"Ilana-Ben-Ari",
+"info@clausehound.com",
+"irbaz-wahab",
+"Jenny",
+"kboutin",
+"LisaWinning",
+"margaret",
+"Mauritius",
+"mnazeer",
+"Mondaq",
+"Natalka",
+"NathanLev",
+"NavidNathoo",
+"phil-weiss",
+"Rajah",
+"richard@clausehound.com",
+"Ryan Grant Little",
+"sahilkanaya",
+"Sheetal Jaitly",
+"Thomas Southmayd",
+].includes(tag);
+
 async function getPosts({ graphql }) {
   const result = await graphql(
     `
       {
-        allMarkdownRemark(
+        allPosts: allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: DESC }
           limit: 65535
         ) {
@@ -27,6 +65,11 @@ async function getPosts({ graphql }) {
             }
           }
         }
+        allTags: allMarkdownRemark {
+          group(field: frontmatter___tags) {
+            tag: fieldValue
+          }
+        }
       }
     `,
   );
@@ -36,7 +79,10 @@ async function getPosts({ graphql }) {
   }
 
   // get blog posts pages.
-  return result.data.allMarkdownRemark.edges;
+  return {
+    posts: result.data.allPosts.edges,
+    tags: result.data.allTags.group,
+  };
 }
 
 async function getAuthors({ graphql }) {
@@ -80,7 +126,7 @@ const listPath = i => {
 
 exports.createPages = async ({ graphql, actions }) =>
   Promise.all([
-    getPosts({ graphql }).then(posts => {
+    getPosts({ graphql }).then(({ posts, tags }) => {
       const numPages = Math.ceil(posts.length / postsPerPage);
 
       return [
@@ -113,21 +159,13 @@ exports.createPages = async ({ graphql, actions }) =>
             nextPath: listPath(i + 1),
           },
         })),
-        Array.from(
-          posts.reduce((allByCat, post) => {
-            for (const tag of post.node.frontmatter.tags) {
-              allByCat.add(tag);
-            }
-            return allByCat;
-          }, new Set()),
-          tag => ({
-            path: `/tags/${slugify(tag)}`,
-            component: tagList,
-            context: {
-              tag,
-            },
-          }),
-        ),
+        tags.filter(({ tag }) => !isAuthorTag(tag)).map(({ tag }) => ({
+          path: `/tags/${slugify(tag)}`,
+          component: tagList,
+          context: {
+            tag,
+          },
+        })),
       ];
     }),
     getAuthors({ graphql }).then(authors =>
