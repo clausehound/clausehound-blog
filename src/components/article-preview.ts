@@ -62,11 +62,13 @@ const ArticlePreview: FC<Props> = ({ date, description, slug, tags, title }) =>
     tags &&
       tags.map(tag =>
         h(Chip, {
-          onClick: () => navigate(`/tags/${tag.replace(/ /g, '-')}`),
-          label: tag,
-          variant: "outlined",
           clickable: true,
           color: "secondary",
+          label: tag,
+          onClick: () => navigate(`/tags/${tag.replace(/ /g, '-')}`),
+          size: "small",
+          style: { marginRight: "0.5rem" },
+          variant: "outlined",
         }),
       ),
   );

@@ -49,6 +49,7 @@ const colorVars = {
   "--secondary": palette.secondary.main,
   "--secondary-light": palette.secondary.light,
   "--secondary-dark": palette.secondary.dark,
+  "--text": palette.text.primary,
 } as const;
 
 // All the keys for these, so we can make sure we use the right vars
@@ -59,12 +60,12 @@ const useStyles = makeStyles({
   root: {
     ...colorVars,
     "& a": {
-      color: "var(--secondary-dark)",
+      color: "var(--text)",
       "&:visited": {
-        color: "var(--secondary-dark)",
+        color: "var(--text)",
       },
       "&:hover": {
-        color: "var(--secondary)",
+        color: "var(--secondary-dark)",
       },
     },
   },
