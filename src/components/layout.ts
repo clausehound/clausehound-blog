@@ -60,9 +60,9 @@ const useStyles = makeStyles({
   root: {
     ...colorVars,
     "& a": {
-      color: "var(--text)",
+      color: "var(--secondary)",
       "&:visited": {
-        color: "var(--text)",
+        color: "var(--secondary-light)",
       },
       "&:hover": {
         color: "var(--secondary-dark)",

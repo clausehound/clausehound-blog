@@ -8,6 +8,7 @@ import Author from "../components/author";
 import Popular from "../components/popular";
 import TagChips from "../components/tag-chips";
 import { scale } from "../utils/typography";
+import { authors } from "../utils/filters";
 import { GatsbyImageProps } from "gatsby-image";
 
 const useStyles = makeStyles(theme => ({
@@ -60,7 +61,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
   const { previous, next } = pageContext;
   const { author } = post.frontmatter;
   const classes = useStyles();
-  const tags = post.frontmatter.tags;
+  const tags = post.frontmatter.tags.filter(tag => !authors.has(tag));
 
   return h(
     Layout,
