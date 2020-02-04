@@ -1,7 +1,6 @@
 import { FC, Fragment, createElement as h, useState } from "react";
 import { graphql } from "gatsby";
 import { useTheme } from "@material-ui/core";
-import { amber, lightBlue, grey } from "@material-ui/core/colors";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 
