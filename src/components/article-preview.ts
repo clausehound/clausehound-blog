@@ -7,7 +7,7 @@ interface Props {
   date?: string;
   description?: string;
   slug: string;
-  tags: ReadonlyArray<string>;
+  tags?: ReadonlyArray<string>;
   title: string;
   children?: never;
 }

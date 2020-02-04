@@ -1,11 +1,11 @@
 import { FC, createElement as h } from "react";
-import { Chip } from '@material-ui/core';
+import { Chip, Theme } from "@material-ui/core";
 import { makeStyles } from "@material-ui/core/styles";
-import { Link } from "gatsby";
+import { Link, navigate } from "gatsby";
 import Image, { GatsbyImageProps } from "gatsby-image";
 
 interface Props {
-  tags: Reaodnly<string>;
+  tags: ReadonlyArray<string>;
 }
 
 const useStyles = makeStyles((theme: Theme) => ({
@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme: Theme) => ({
 }));
 
 // TODO: this should be built in somewhere
-const formatTagLink = tag => tag.replace(/ /g, "-").replace(/#/g, "");
+const formatTagLink = (tag: string): string => tag.replace(/ /g, "-").replace(/#/g, "");
 
 const TagChips: FC<Props> = ({ tags }) => {
   const classes = useStyles();

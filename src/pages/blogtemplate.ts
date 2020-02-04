@@ -1,4 +1,4 @@
-import { FC, Fragment, createElement as h, useState } from "react";
+import { FC, Fragment, createElement as h, useState, ChangeEvent } from "react";
 import { graphql } from "gatsby";
 import { useTheme } from "@material-ui/core";
 import slugify from "slugify";
@@ -14,7 +14,8 @@ const BlogTemplatePage: FC<Props> = ({ data, location }) => {
   const { title } = data.site.siteMetadata;
   const [articleTitle, setArticleTitle] = useState<string>("Article Title");
 
-  const onChange = ({ target: { value } }) => setArticleTitle(value);
+  const onChange = ({ target: { value } }: ChangeEvent<HTMLInputElement>) =>
+    setArticleTitle(value);
 
   return h(
     Layout,

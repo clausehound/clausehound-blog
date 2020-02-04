@@ -16,10 +16,10 @@ interface Data {
     };
   };
   allMarkdownRemark: {
-    tags: {
+    tags: ReadonlyArray<{
       tag: string;
       totalCount: number;
-    };
+    }>;
   };
 }
 
@@ -28,28 +28,19 @@ interface Props {
   location: Location;
 }
 
-const byTotalCount = (rev: boolean) => (
-  { totalCount: a, tag: aTag },
-  { totalCount: b, tag: bTag },
-) => {
-  let res = 0;
-  if (a < b) {
-    res = 1;
-  } else if (a > b) {
-    res = -1;
-  } else {
-    res = byTag(aTag, bTag);
-  }
+interface Tag {
+  totalCount: number;
+  tag: string;
+}
 
-  return (rev ? -1 : 1) * res;
-};
+const byTotalCount = (rev?: boolean) => (a: Tag, b: Tag) =>
+  (rev ? -1 : 1) * (a.totalCount - b.totalCount) || byTag(rev)(a, b);
 
-const byTag = (rev: boolean) => ({ tag: a }, { tag: b }) => {
-  return (rev ? -1 : 1) * a.localeCompare(b);
-};
+const byTag = (rev?: boolean) => (a: Tag, b: Tag) =>
+  (rev ? -1 : 1) * a.tag.localeCompare(b.tag);
 
 // TODO: this should be built in somewhere
-const formatTagLink = tag => tag.replace(/ /g, "-").replace(/#/g, "");
+const formatTagLink = (tag: string): string => tag.replace(/ /g, "-").replace(/#/g, "");
 
 const TagsTemplate: FC<Props> = ({
   data: {
@@ -65,7 +56,9 @@ const TagsTemplate: FC<Props> = ({
   const sortedTags = useMemo(() => {
     switch (sortBy) {
       case "total":
-        return tags.filter(({ tag }) => !isAuthorTag(tag)).sort(byTotalCount(rev));
+        return tags
+          .filter(({ tag }) => !isAuthorTag(tag))
+          .sort(byTotalCount(rev));
       case "tag":
       default: {
         return tags.filter(({ tag }) => !isAuthorTag(tag)).sort(byTag(rev));
@@ -91,7 +84,7 @@ const TagsTemplate: FC<Props> = ({
     h(
       ButtonGroup,
       {
-        variant: 'outlined',
+        variant: "outlined",
       },
       h(
         Button,
@@ -119,13 +112,16 @@ const TagsTemplate: FC<Props> = ({
     h(
       "ul",
       null,
-      sortedTags.map(
-        ({ tag, totalCount }: { tag: string; totalCount: number }) =>
+      sortedTags.map(({ tag, totalCount }: Tag) =>
+        h(
+          "li",
+          { key: tag },
           h(
-            "li",
-            { key: tag },
-            h(Link, { to: `/tags/${formatTagLink(tag)}` }, `${tag} (${totalCount})`),
+            Link,
+            { to: `/tags/${formatTagLink(tag)}` },
+            `${tag} (${totalCount})`,
           ),
+        ),
       ),
     ),
   );

@@ -1,4 +1,4 @@
-export const isAuthorTag = tag => ["aching",
+export const isAuthorTag = (tag: string): boolean => ["aching",
 "Aidan",
 "AlkarimNasser",
 "alayna-r-kolodziechuk",
