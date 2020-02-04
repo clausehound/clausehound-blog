@@ -1,7 +1,8 @@
 import { FC, createElement as h, Fragment } from "react";
-import { Chip } from '@material-ui/core';
+import { Chip } from "@material-ui/core";
 import { Link, navigate } from "gatsby";
 import { rhythm } from "../utils/typography";
+import { authors } from "../utils/filters";
 
 interface Props {
   date?: string;
@@ -11,6 +12,8 @@ interface Props {
   title: string;
   children?: never;
 }
+
+const notAuthor = (tag: string): boolean => !authors.has(tag);
 
 const ArticlePreview: FC<Props> = ({ date, description, slug, tags, title }) =>
   h(
@@ -60,12 +63,13 @@ const ArticlePreview: FC<Props> = ({ date, description, slug, tags, title }) =>
         }),
       ),
     tags &&
-      tags.map(tag =>
+      tags.filter(notAuthor).map(tag =>
         h(Chip, {
           clickable: true,
           color: "secondary",
+          key: tag,
           label: tag,
-          onClick: () => navigate(`/tags/${tag.replace(/ /g, '-')}`),
+          onClick: () => navigate(`/tags/${tag.replace(/ /g, "-")}`),
           size: "small",
           style: { marginRight: "0.5rem" },
           variant: "outlined",
