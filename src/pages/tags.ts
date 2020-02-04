@@ -42,8 +42,7 @@ const byTag = (rev?: boolean) => (a: Tag, b: Tag) =>
 // TODO: this should be built in somewhere
 const formatTagLink = (tag: string): string => tag.replace(/ /g, "-").replace(/#/g, "");
 
-// TODO: strip the authors during the GQL
-const notAuthor = ({ tag }: Tag) => !authors.has(tag);
+const notAuthor = ({ tag }: Tag): boolean => !authors.has(tag);
 
 const TagsTemplate: FC<Props> = ({
   data: {
@@ -59,11 +58,12 @@ const TagsTemplate: FC<Props> = ({
   const sortedTags = useMemo(() => {
     switch (sortBy) {
       case "total":
-        return tags.filter(notAuthor).sort(byTotalCount(rev));
+        return tags
+          .filter(notAuthor)
+          .sort(byTotalCount(rev));
       case "tag":
       default: {
-        // By tag is set in the GQL sort
-        return tags.filter(notAuthor);
+        return tags.filter(notAuthor).sort(byTag(rev));
       }
     }
   }, [tags, rev, sortBy]);
@@ -139,7 +139,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(limit: 2000) {
-      tags: group(field: frontmatter___tags, sort: { fields: [frontmatter___tags___tag], order: ASC }) {
+      tags: group(field: frontmatter___tags) {
         tag: fieldValue
         totalCount
       }
