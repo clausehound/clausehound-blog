@@ -49,7 +49,7 @@ const colorVars = {
   "--secondary": palette.secondary.main,
   "--secondary-light": palette.secondary.light,
   "--secondary-dark": palette.secondary.dark,
-  "--text": palette.text.primary,
+  "--text": theme.palette.text.primary,
 } as const;
 
 // All the keys for these, so we can make sure we use the right vars

@@ -7,7 +7,7 @@ import Layout from "../components/layout";
 import SEO from "../components/seo";
 import ArticlePreview from "../components/article-preview";
 import { rhythm, scale } from "../utils/typography";
-import { isAuthorTag } from "../utils/filters";
+import { authors } from "../utils/filters";
 
 interface Data {
   site: {
@@ -42,6 +42,9 @@ const byTag = (rev?: boolean) => (a: Tag, b: Tag) =>
 // TODO: this should be built in somewhere
 const formatTagLink = (tag: string): string => tag.replace(/ /g, "-").replace(/#/g, "");
 
+// TODO: strip the authors during the GQL
+const notAuthor = ({ tag }: Tag) => !authors.has(tag);
+
 const TagsTemplate: FC<Props> = ({
   data: {
     site: {
@@ -56,12 +59,11 @@ const TagsTemplate: FC<Props> = ({
   const sortedTags = useMemo(() => {
     switch (sortBy) {
       case "total":
-        return tags
-          .filter(({ tag }) => !isAuthorTag(tag))
-          .sort(byTotalCount(rev));
+        return tags.filter(notAuthor).sort(byTotalCount(rev));
       case "tag":
       default: {
-        return tags.filter(({ tag }) => !isAuthorTag(tag)).sort(byTag(rev));
+        // By tag is set in the GQL sort
+        return tags.filter(notAuthor);
       }
     }
   }, [tags, rev, sortBy]);
@@ -137,7 +139,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(limit: 2000) {
-      tags: group(field: frontmatter___tags) {
+      tags: group(field: frontmatter___tags, sort: { fields: [frontmatter___tags___tag], order: ASC }) {
         tag: fieldValue
         totalCount
       }
