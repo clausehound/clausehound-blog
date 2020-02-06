@@ -18,6 +18,7 @@ interface MetaDescription {
 }
 
 interface Props {
+  author?: string;
   description?: string;
   lang?: string;
   meta?: ReadonlyArray<MetaDescription>;
@@ -25,6 +26,7 @@ interface Props {
 }
 
 const SEO: FC<Props> = ({
+  author,
   description = "",
   lang = "en",
   meta = [],
@@ -70,7 +72,7 @@ const SEO: FC<Props> = ({
     },
     {
       name: `twitter:creator`,
-      content: site.siteMetadata.author,
+      content: author || site.siteMetadata.author,
     },
     {
       name: `twitter:title`,
@@ -85,14 +87,18 @@ const SEO: FC<Props> = ({
       content: theme.palette.primary.main,
     },
   ];
-  return h(Helmet, {
-    htmlAttributes: {
-      lang,
+  return h(
+    Helmet,
+    {
+      htmlAttributes: {
+        lang,
+      },
+      title,
+      titleTemplate: `%s | ${site.siteMetadata.title}`,
+      meta: defaultMeta.concat(meta),
     },
-    title,
-    titleTemplate: `%s | ${site.siteMetadata.title}`,
-    meta: defaultMeta.concat(meta),
-  });
+    defaultMeta.concat(meta).map((tag, i) => h("meta", { key: i, ...tag })),
+  );
 };
 
 export default SEO;
