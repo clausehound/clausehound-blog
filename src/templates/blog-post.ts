@@ -72,7 +72,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
     h(SEO, {
       title: post.frontmatter.title,
       description: post.frontmatter.description || post.excerpt,
-      author: author && `${author.first} ${author.last}`,
+      author: "@clausehound",
     }),
     h(
       "article",

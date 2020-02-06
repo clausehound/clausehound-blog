@@ -62,6 +62,11 @@ const SEO: FC<Props> = ({
       property: `og:description`,
       content: metaDescription,
     },
+    // TODO: Images from the articles themselves
+    {
+      name: `og:image`,
+      content: `/icons/icon-144x144.png`,
+    },
     {
       property: `og:type`,
       content: `website`,
@@ -95,7 +100,6 @@ const SEO: FC<Props> = ({
       },
       title,
       titleTemplate: `%s | ${site.siteMetadata.title}`,
-      meta: defaultMeta.concat(meta),
     },
     defaultMeta.concat(meta).map((tag, i) => h("meta", { key: i, ...tag })),
   );
