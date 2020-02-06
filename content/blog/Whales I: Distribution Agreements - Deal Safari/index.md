@@ -3,7 +3,7 @@ title: "Whales I: Distribution Agreements - Deal Safari"
 author: thomas@clausehound.com
 tags: ["Deal Safari","Thomas Southmayd"]
 date: 2019-12-11
-description: "Whales%20I:%20Distribution%20Agreements%20-%20Deal%20Safari/"
+description: "Whale accounts can involve parties such as major financial institutions, major technology companies like Google or Microsoft, or even major government bodies. When dealing with Whale accounts, there are plenty of common issues found but the one that always proves most difficult, in our experience, is time."
 ---
 
 In our teams’ experience working with companies of various industries, sizes, structures and stage, we’ve watched countless deals close and countless deals dissolve.
