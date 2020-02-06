@@ -128,6 +128,12 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
+    {
+      resolve: "gatsby-plugin-netlify-cache",
+      options: {
+        cachePublic: true
+      }
+    },
   ],
   mapping: {
     'MarkdownRemark.frontmatter.author': `AuthorJson`,
