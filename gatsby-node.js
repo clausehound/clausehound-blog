@@ -1,7 +1,13 @@
+require('ts-node').register({
+  compilerOptions: {
+    module: 'commonjs',
+    target: 'es2017',
+  },
+});
 const path = require(`path`);
 const slugify = require(`slugify`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
-const { authors } = require(`./src/utils/filters`);
+const { authors: filterAuthors } = require(`./src/utils/filters.ts`);
 
 async function getPosts({ graphql }) {
   const result = await graphql(
@@ -122,7 +128,7 @@ exports.createPages = async ({ graphql, actions }) =>
             nextPath: listPath(i + 1),
           },
         })),
-        tags.filter(({ tag }) => !authors.has(tag)).map(({ tag }) => ({
+        tags.filter(({ tag }) => !filterAuthors.has(tag)).map(({ tag }) => ({
           path: `/tags/${slugify(tag)}`,
           component: tagList,
           context: {

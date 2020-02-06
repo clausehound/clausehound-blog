@@ -51,6 +51,7 @@
     "@types/typography": "^0.16.3",
     "gatsby-plugin-typescript": "^2.1.20",
     "prettier": "^1.19.1",
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.3"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
