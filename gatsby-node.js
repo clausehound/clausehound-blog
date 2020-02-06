@@ -1,7 +1,7 @@
 const path = require(`path`);
 const slugify = require(`slugify`);
 const { createFilePath } = require(`gatsby-source-filesystem`);
-const { authors } = requre(`./src/utils/filters`);
+const { authors } = require(`./src/utils/filters`);
 
 async function getPosts({ graphql }) {
   const result = await graphql(
