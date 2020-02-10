@@ -26,7 +26,13 @@ When beginning your articling or newly-called position at a new firm, here are s
 (3) Always make your work product presentation-ready. If it's always ready to present or hand off, you and your team will be happy that they can make minor changes and forward onwards to a client. A need for multiple changes to the work of another student/lawyer makes for an unhappy senior lawyer.
 
 
-(4) Don't leave a mistake backlog. Fix any mistakes in your work that you're aware of during the day so you don't start your next day in a deficit. If you start the day fixing previous mistakes, the synchronization problem between you and your co-workers to review your mistakes may spiral into a several day backlog which means that new work cannot be assigned.(5) Think about formatting when you prepare drafts of anything. Given that you are providing a high-paying service, your clients expect perfection. The less polished the final product looks, the less polished the quality of your work looks. Make sure your draft or final product is picture perfect.(6) Make an organized list of all your questions and ask the members of your team periodically rather than in an ongoing dialogue. You are entering a new field, with little to no experience. You will be uncertain about the work required from you at times, and will have questions. However, it is important to remain sensitive of your colleagues’ time. Strategies to avoid disruption are:  
+(4) Don't leave a mistake backlog. Fix any mistakes in your work that you're aware of during the day so you don't start your next day in a deficit. If you start the day fixing previous mistakes, the synchronization problem between you and your co-workers to review your mistakes may spiral into a several day backlog which means that new work cannot be assigned.
+
+
+(5) Think about formatting when you prepare drafts of anything. Given that you are providing a high-paying service, your clients expect perfection. The less polished the final product looks, the less polished the quality of your work looks. Make sure your draft or final product is picture perfect.
+
+
+(6) Make an organized list of all your questions and ask the members of your team periodically rather than in an ongoing dialogue. You are entering a new field, with little to no experience. You will be uncertain about the work required from you at times, and will have questions. However, it is important to remain sensitive of your colleagues’ time. Strategies to avoid disruption are:  
 
 - Using internal instant messaging tools to ask rather than asking verbally; and
 - Using screenshots to capture information you want conveyed to avoid having your colleagues download, reopen or retrieve a document.
