@@ -1,7 +1,7 @@
 ---
 title: "Issuing dates of employee stock option plans"
 author: rajah@cobaltcounsel.com
-tags: ["ESOP","Case Law","Rajah"]
+tags: ["ESOP","Case Law","Rajah","Options and Buyback"]
 date: 2016-10-27 14:51:14
 description: "To avoid confusion, stipulate the date the agreement is to take effect into the agreement. It should also be indicated that this is the date that will be used to determine the price of the stock optio..."
 ---
