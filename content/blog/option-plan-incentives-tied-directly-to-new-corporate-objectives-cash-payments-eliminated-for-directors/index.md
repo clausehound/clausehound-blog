@@ -1,7 +1,7 @@
 ---
 title: "Option Plan Incentives Tied Directly to New Corporate Objectives - Cash Payments Eliminated for Directors"
 author: rajah@cobaltcounsel.com
-tags: ["ESOP","Acceleration","Human Resources","Rajah"]
+tags: ["ESOP","Acceleration","Human Resources","Rajah","Options and Buyback"]
 date: 2016-01-24 16:23:00
 description: "Links from this article:Read the article here. here!The Board of Calico Resources set new corporate objectives and revised its executive compensati..."
 ---
