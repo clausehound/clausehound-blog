@@ -1,7 +1,7 @@
 ---
 title: "Overview of Employee Stock Option Plan"
 author: rajah@cobaltcounsel.com
-tags: ["ESOP","Rajah","Contract Overviews"]
+tags: ["ESOP","Rajah","Contract Overviews","Options and Buyback"]
 date: 2017-03-30 13:16:41
 description: "Overview of Employee Stock Option Plan
 
