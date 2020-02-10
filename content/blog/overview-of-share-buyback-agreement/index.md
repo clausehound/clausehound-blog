@@ -1,7 +1,7 @@
 ---
 title: "Overview of Share Buyback Agreement"
 author: rajah@cobaltcounsel.com
-tags: ["Rajah","Contract Overviews","Share Buyback Agreement"]
+tags: ["Rajah","Contract Overviews","Share Buyback Agreement","Options and Buyback"]
 date: 2017-03-30 12:39:22
 description: "Overview of Share Buyback Agreement
 
