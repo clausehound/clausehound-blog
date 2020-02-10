@@ -1,7 +1,7 @@
 ---
 title: "Stock Option Plans Can Help Motivate and Retain Key Employees"
 author: rajah@cobaltcounsel.com
-tags: ["ESOP","Purpose of Option Plan","Human Resources","Rajah"]
+tags: ["ESOP","Purpose of Option Plan","Human Resources","Rajah","Options and Buyback"]
 date: 2016-01-09 14:22:00
 description: "Links from this article:Read the article here.SSH Communications launched a new stock option plan to give their employees incentives to work harder and sta..."
 ---
