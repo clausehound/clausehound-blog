@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: What problems can arise when a company does not draft a shareholders' agreement?"
 author: alina@clausehound.com
-tags: ["Shareholder Agreement","Shareholders Agreement","Mondaq","Learn","Australia","shareholder"]
+tags: ["Shareholders Agreement","Mondaq","Learn","Australia"]
 date: 2016-12-12 00:00:00
 description: "This article posted on our partner site Mondaq.com presents a situation when a company did not have a shareholders' agreement, the circumstances that followed and how the shareholders' agreement coul..."
 ---
