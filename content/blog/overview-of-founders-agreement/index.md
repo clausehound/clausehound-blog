@@ -1,7 +1,7 @@
 ---
 title: "Overview of Founders' Agreement"
 author: cmcivor@cobaltcounsel.com
-tags: ["Shareholder Agreement","cmcivor"]
+tags: ["Shareholders Agreement"]
 date: 2018-07-01 13:34:37
 description: "What is this document?
 
