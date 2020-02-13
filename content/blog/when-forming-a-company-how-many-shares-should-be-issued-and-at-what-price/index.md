@@ -1,7 +1,7 @@
 ---
 title: "When forming a company, how many shares  should be issued, and at what price?"
 author: rajah@cobaltcounsel.com
-tags: ["Shareholder Agreement","Rajah","Articles of Incorporation","All Jurisdictions"]
+tags: ["Shareholders Agreement","Articles of Incorporation","All Jurisdictions"]
 date: 2017-07-27 11:34:31
 description: "by Geralt on Pixabay
  
