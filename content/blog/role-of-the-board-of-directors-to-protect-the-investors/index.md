@@ -1,7 +1,7 @@
 ---
 title: "Role of the Board of Directors: To Protect the Investors"
 author: rajah@cobaltcounsel.com
-tags: ["Long Form","Corporation","Board of Directors","Investor","Term Sheet","Shareholder Agreement","Company Formation","Rajah","Shareholders Agreement","Investor Term Sheet"]
+tags: ["Corporation","Board of Directors","Investor","Term Sheet","Company Formation","Shareholders Agreement","Investor Term Sheet"]
 date: 2015-10-28 12:14:25
 description: "Links from this article:
 shareholder concerns will be brought forward by such independent member of the board
