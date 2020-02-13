@@ -1,7 +1,7 @@
 ---
 title: "What Rights Attach to Your Shares?"
 author: info@clausehound.com
-tags: ["Shareholder Agreement","Commercial Activities","info@clausehound.com","Shareholders Agreement"]
+tags: ["Commercial Activities","info@clausehound.com","Shareholders Agreement"]
 date: 2016-01-07 16:17:03
 description: "
 
