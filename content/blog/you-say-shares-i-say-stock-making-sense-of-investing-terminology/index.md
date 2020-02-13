@@ -1,7 +1,7 @@
 ---
 title: "You Say Shares, I Say Stock: Making Sense of Investing Terminology"
 author: ian@clausehound.com
-tags: ["Shareholder Agreement","Promissory Note","Ian"]
+tags: ["Shareholders Agreement","Promissory Note"]
 date: 2017-07-24 15:11:25
 description: "Introduction
 You are meeting with your financial advisor for the first time. Your friends hectoring you about missing out on Facebook’s IPO has not stopped despite the fact it happened half a decade a..."
