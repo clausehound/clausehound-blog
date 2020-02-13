@@ -1,7 +1,7 @@
 ---
 title: "Authorizing vs. Allocating vs. Issuing Shares in your Company"
 author: rajah@cobaltcounsel.com
-tags: ["Shareholder Agreement","Company Formation","Rajah","Articles of Incorporation","Canada (ON)","Canada (General)"]
+tags: ["Shareholders Agreement","Company Formation","Rajah","Articles of Incorporation","Canada (ON)","Canada (General)"]
 date: 2017-10-17 15:22:44
 description: "Company owners or investors, when drafting or digging through the details of the ownership of company shares, will come across the concept of authorized shares, issued shares and sometimes allocated (..."
 ---
