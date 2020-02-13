@@ -1,7 +1,7 @@
 ---
 title: "Overview of SAFE"
 author: cmcivor@cobaltcounsel.com
-tags: ["Shareholder Agreement","cmcivor"]
+tags: ["Shareholders Agreement","SAFE"]
 date: 2018-06-28 13:11:33
 description: "Simple Agreement for Future Equity
 
