@@ -1,7 +1,7 @@
 ---
 title: "What legal documents are required to connect an inventor with an investor?"
 author: frahman@cobaltcounsel.com
-tags: ["Investor","Term Sheet","Shareholder Agreement","frahman","Shareholders Agreement","Investor Term Sheet"]
+tags: ["Term Sheet","Shareholders Agreement","Investor Term Sheet"]
 date: 2017-03-17 11:08:26
 description: "Links from this article:
 Shareholders’ resolutions
