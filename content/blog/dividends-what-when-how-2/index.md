@@ -1,7 +1,7 @@
 ---
 title: "Dividends:  What, When, How?"
 author: rajah@cobaltcounsel.com
-tags: ["Company Formation","Rajah","Articles of Incorporation","Canada (ON)","Canada (General)"]
+tags: ["Company Formation","Articles of Incorporation","Canada (ON)","Canada (General)"]
 date: 2017-10-18 11:30:28
 description: "Dividend structuring and timing are making headlines presently.
 
