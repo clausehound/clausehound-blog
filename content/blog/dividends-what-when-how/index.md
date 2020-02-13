@@ -1,7 +1,7 @@
 ---
 title: "Dividends:  What, When, How?"
 author: rajah@cobaltcounsel.com
-tags: ["Dividends","Shareholder Agreement","Rajah","Shareholders Agreement","Canada (ON)","Canada (General)"]
+tags: ["Dividends","Shareholders Agreement","Canada (ON)","Canada (General)"]
 date: 2017-10-13 19:01:02
 description: "Links from this article:
 Globe and Mail article
