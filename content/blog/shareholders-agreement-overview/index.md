@@ -1,7 +1,7 @@
 ---
 title: "Overview of Shareholders Agreement"
 author: rajah@cobaltcounsel.com
-tags: ["Shareholder Agreement","Rajah","Contract Overviews","Shareholders Agreement"]
+tags: ["Contract Overviews","Shareholders Agreement"]
 date: 2017-03-23 14:33:16
 description: "Overview of Shareholders Agreements
 
