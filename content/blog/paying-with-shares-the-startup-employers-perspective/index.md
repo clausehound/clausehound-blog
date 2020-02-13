@@ -1,7 +1,7 @@
 ---
 title: "Paying With Shares: The Employer’s Perspective"
 author: info@clausehound.com
-tags: ["ESOP","Employment Agreement","Long Form","Shareholder Agreement","Human Resources","info@clausehound.com"]
+tags: ["ESOP","Employment Agreement","Shareholders Agreement","Human Resources"]
 date: 2016-02-12 19:29:30
 description: "Links from this article:
 
