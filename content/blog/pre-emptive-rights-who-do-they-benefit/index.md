@@ -1,7 +1,7 @@
 ---
 title: "Pre-emptive Rights - Who Do They Benefit?"
 author: rajah@cobaltcounsel.com
-tags: ["Term Sheet","Shareholder Agreement","Rajah","Share Purchase Agreement","Shareholders Agreement","Investor Term Sheet"]
+tags: ["Term Sheet","Shareholders Agreement","Share Purchase Agreement","Investor Term Sheet"]
 date: 2017-11-10 09:36:37
 description: "What is a Pre-emptive Rights Clause?
 
