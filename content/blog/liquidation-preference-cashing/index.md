@@ -1,7 +1,7 @@
 ---
 title: "Liquidation Preference: Cashing Out"
 author: rajah@cobaltcounsel.com
-tags: ["Term Sheet","Shareholder Agreement","Company Formation","Rajah","Articles of Incorporation","Canada (ON)","Canada (General)"]
+tags: ["Term Sheet","Shareholders Agreement","Company Formation","Rajah","Articles of Incorporation","Canada (ON)","Canada (General)"]
 date: 2017-10-17 15:26:43
 description: "A liquidation preference is a commonly requested investor term. The idea around a liquidation preference is that the investor will receive their funds out of the business prior to the existing shareho..."
 ---

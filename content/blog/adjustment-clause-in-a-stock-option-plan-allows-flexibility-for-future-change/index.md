@@ -1,7 +1,7 @@
 ---
 title: "Adjustment Clause in a Stock Option Plan Allows Flexibility for Future Change"
 author: rajah@cobaltcounsel.com
-tags: ["ESOP","Adjustments","Human Resources","Rajah"]
+tags: ["ESOP","Adjustments","Human Resources","Rajah","Options and Buyback"]
 date: 2016-01-17 14:23:00
 description: "Links from this article:Read the article here.Triton Emission Solutions appointed a new director and Chairman of the Board. His compensation include..."
 ---

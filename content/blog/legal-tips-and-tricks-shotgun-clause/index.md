@@ -1,7 +1,7 @@
 ---
 title: "Legal Tips and Tricks: “Shotgun Clause”"
 author: rajah@cobaltcounsel.com
-tags: ["Long Form","Shareholder Agreement","Compulsory Buy Sell Provision","Company Formation","Rajah","Shareholders Agreement"]
+tags: ["Compulsory Buy Sell Provision","Company Formation","Shareholders Agreement"]
 date: 2016-01-02 17:20:55
 description: "When trying to separate from a co-founder or partner, shareholders carefully review the “shotgun” clause in their shareholder’s agreement.  Shotgun or a compulsory buy/sell provisions are used in the..."
 ---

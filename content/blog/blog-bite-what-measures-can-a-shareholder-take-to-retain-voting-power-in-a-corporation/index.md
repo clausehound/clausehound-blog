@@ -1,7 +1,7 @@
 ---
 title: "Using Stock Options as Currency – The “Cashless Exercise”"
 author: rajah@cobaltcounsel.com
-tags: ["Term Sheet","Shareholder Agreement","Rajah","Investor Term Sheet"]
+tags: ["Term Sheet","Shareholders Agreement","Investor Term Sheet"]
 date: 2018-06-18 16:05:51
 description: "One of the most common strategies employed by start-up companies to leverage their limited cash resources and still have the financial resources to compete in the marketplace is to offer key employ..."
 ---

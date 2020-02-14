@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: Are there legal questions that corporations should ask themselves before 'being charitable'?"
 author: alina@clausehound.com
-tags: ["Shareholder Agreement","Articles of Incorporation","Shareholders Agreement","Mondaq","Learn","Canada (Federal)","All Jurisdictions"]
+tags: ["Shareholders Agreement","Articles of Incorporation","Mondaq","Learn","Canada (Federal)","All Jurisdictions"]
 date: 2013-06-14 00:00:00
 description: "This article posted on our partner site Mondaq.com discusses some of the legal questions that corporations wishing to financially support a registered charity using company time or money (i.e., engag..."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: What is the underlying advantages of a shareholders' agreement?"
 author: alina@clausehound.com
-tags: ["Shareholder Agreement","Shareholders Agreement","Mondaq","Learn","Canada (General)"]
+tags: ["Shareholders Agreement","Mondaq","Learn","Canada (General)"]
 date: 2016-07-25 00:00:00
 description: "This article posted on our partner site Mondaq.com explains the common clauses that are found in a shareholders' agreement and how they are beneficial in the event it is required.
 

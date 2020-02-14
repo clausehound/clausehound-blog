@@ -1,7 +1,7 @@
 ---
 title: "Legal Tips & Tricks: Negotiating an Agreement should Start with a Blank Page"
 author: alva@clausehound.com
-tags: ["Terms of Use","Intellectual Property","Confidentiality","NDA","Employment Agreement","Independent Contractor","Term Sheet","Shareholder Agreement","Privacy Policy","Releases","Distribution Agreement","Website Terms of Use","Consulting Agreement","Commercial Activities","aching","Playbooks","Contract Overviews","Share Buyback Agreement","Loan Agreement","Articles of Incorporation","IP Transfer","Share Purchase Agreement","Promissory Note","Shareholders Agreement","Option Agreement","Share Subscription Agreement","Library","Advisor Agreement"]
+tags: ["Terms of Use","Intellectual Property","Confidentiality","NDA","Employment Agreement","Independent Contractor","Term Sheet","Privacy Policy","Releases","Distribution Agreement","Website Terms of Use","Consulting Agreement","Commercial Activities","Playbooks","Contract Overviews","Share Buyback Agreement","Loan Agreement","Articles of Incorporation","IP Transfer","Share Purchase Agreement","Promissory Note","Shareholders Agreement","Option Agreement","Share Subscription Agreement","Library","Advisor Agreement"]
 date: 2016-09-09 17:13:53
 description: "When entering into an important contract, take the time to discuss with your business partners, advisors and legal counsel, to make sure that you are clear about your opportunities and risks.  In this..."
 ---

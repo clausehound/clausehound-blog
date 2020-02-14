@@ -1,7 +1,7 @@
 ---
 title: "Overview of Share Buyback Notice"
 author: rajah@cobaltcounsel.com
-tags: ["Rajah","Contract Overviews","Share Buyback Notice"]
+tags: ["Rajah","Contract Overviews","Share Buyback Notice","Options and Buyback"]
 date: 2017-03-30 14:15:08
 description: "Overview of Share Buyback Notice
 

@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: How can a corporation enjoy tax benefits offered to Canadian-Controlled Private Corporations when the majority of its shareholders are non-residents?"
 author: alina@clausehound.com
-tags: ["Shareholder Agreement","Shareholders Agreement","Mondaq","Learn","Canada (General)"]
+tags: ["Shareholders Agreement","Mondaq","Learn","Canada (General)"]
 date: 2014-09-24 00:00:00
 description: "This article posted on our partner site Mondaq.com refers to a recent Tax Court of Canada decision to make it clear that a corporation can now receive the tax benefits offered to Canadian-Controlled..."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: When and how should you execute an effective unanimous shareholders' agreement?"
 author: alina@clausehound.com
-tags: ["Shareholder Agreement","Shareholders Agreement","Mondaq","Learn","Canada (General)"]
+tags: ["Shareholders Agreement","Mondaq","Learn","Canada (General)"]
 date: 2016-06-16 00:00:00
 description: "This article posted on our partner site Mondaq.com discusses the importance of executing a unanimous shareholders' agreement (USA) to deal with matters of particular significance to the shareholders..."
 ---

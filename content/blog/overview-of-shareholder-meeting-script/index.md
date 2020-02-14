@@ -1,7 +1,7 @@
 ---
 title: "Overview of Shareholder Meeting Script"
 author: rajah@cobaltcounsel.com
-tags: ["Rajah","Contract Overviews","Shareholder Meeting Script"]
+tags: ["Contract Overviews","Shareholders Meeting Script"]
 date: 2017-03-30 13:25:13
 description: "Overview of Shareholder Meeting Script
 

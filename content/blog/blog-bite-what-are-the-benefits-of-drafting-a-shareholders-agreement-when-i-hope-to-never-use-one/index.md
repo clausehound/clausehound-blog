@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: What are the benefits of drafting a shareholders' agreement when I hope to never use one?"
 author: alina@clausehound.com
-tags: ["Shareholder Agreement","Shareholders Agreement","Mondaq","Learn","Canada (General)"]
+tags: ["Shareholders Agreement","Mondaq","Learn","Canada (General)"]
 date: 2016-01-11 00:00:00
 description: "This article posted on our partner site Mondaq.com explains the benefits of a shareholders' agreement by analogizing the agreement to a marital agreement, that you hope to never need it, but are happ..."
 ---

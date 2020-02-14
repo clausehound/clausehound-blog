@@ -1,7 +1,7 @@
 ---
 title: "Planning for the Death of a Shareholder"
 author: irbaz@clausehound.com
-tags: ["Shareholder Agreement","Corporate Finance","irbaz-wahab","Death of a Shareholder"]
+tags: ["Corporate Finance","Death of a Shareholder"]
 date: 2019-07-24 14:01:28
 description: "As an entrepreneur it is best practice to plan for the unexpected. Shareholders do not always remain with the business indefinitely. A shareholder may leave, sell or pass away."
 ---

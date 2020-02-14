@@ -1,7 +1,7 @@
 ---
 title: "Overview of Minutes of a Shareholder Meeting"
 author: rajah@cobaltcounsel.com
-tags: ["Rajah","Contract Overviews","Minutes of Shareholder Meeting"]
+tags: ["Contract Overviews","Minutes of Shareholder Meeting"]
 date: 2017-03-30 13:17:58
 description: "Overview of Minutes of a Shareholder Meeting
 

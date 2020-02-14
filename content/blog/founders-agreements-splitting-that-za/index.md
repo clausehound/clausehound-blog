@@ -1,7 +1,7 @@
 ---
 title: "Founders Agreements: Splitting that Za"
 author: cmcivor@cobaltcounsel.com
-tags: ["Shareholder Agreement","cmcivor"]
+tags: ["Shareholders Agreement"]
 date: 2018-07-12 11:07:40
 description: "So, you have a million - nay - a billion-dollar idea you’re trying to get to market, but you don’t know where to start. For starters, building a strong foundation  might begin by defining the business..."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "What voting rights do non-voting shareholders have?"
 author: frahman@cobaltcounsel.com
-tags: ["ESOP","Employee","Shareholder Agreement","frahman","Articles of Incorporation","Shareholders Agreement"]
+tags: ["ESOP","Employee","Articles of Incorporation","Shareholders Agreement"]
 date: 2017-05-12 11:00:24
 description: "Links from this article:
 Shareholders' Agreement

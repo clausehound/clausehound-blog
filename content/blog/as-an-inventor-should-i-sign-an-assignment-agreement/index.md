@@ -1,7 +1,7 @@
 ---
 title: "As an Inventor, Should I Sign an Invention Assignment Agreement?"
 author: frahman@cobaltcounsel.com
-tags: ["Intellectual Property","Term Sheet","Shareholder Agreement","Intellectual Property Transfer","Transfer of Intellectual Property","frahman","Investor Term Sheet"]
+tags: ["Intellectual Property","Term Sheet","Shareholders Agreement","Intellectual Property Transfer","Transfer of Intellectual Property","Investor Term Sheet"]
 date: 2018-06-18 15:59:11
 description: "Links from this article:
 IP Transfer Agreement

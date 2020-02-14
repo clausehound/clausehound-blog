@@ -1,7 +1,7 @@
 ---
 title: "Raising Capital For Your Startup"
 author: cmcivor@cobaltcounsel.com
-tags: ["Term Sheet","Shareholder Agreement","Loan Agreement","Share Purchase Agreement","Investor Term Sheet","cmcivor"]
+tags: ["Term Sheet","Shareholders Agreement","Loan Agreement","Share Purchase Agreement","Investor Term Sheet"]
 date: 2018-03-09 14:08:00
 description: "Every start-up founder should have a basic grasp of some of the ways they can secure financing for their company, so to that end let's take a crash course on some familiar and some not-so-familiar..."
 ---
