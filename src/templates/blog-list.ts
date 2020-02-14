@@ -20,6 +20,14 @@ const useStyles = makeStyles(theme => ({
     listStyle: `none`,
     padding: 0,
   },
+  intro: {
+    marginBottom: "3rem",
+    paddingLeft: "1.5rem",
+    borderLeft: "4px solid var(--primary)",
+    "& p": {
+      marginBottom: "0.2rem",
+    }
+  },
 }));
 
 const BlogList: FC<Props> = ({ data, location, pageContext }) => {
@@ -37,19 +45,34 @@ const BlogList: FC<Props> = ({ data, location, pageContext }) => {
     h(SEO, {
       title: "All posts",
     }),
+    h(
+      "section",
+      { className: classes.intro },
+      h("p", null, "Our blog explores ideas around the law and technology."),
+      h(
+        "p",
+        null,
+        h("a", { target: "_blank", href: "//clausehound.com" }, "Clausehound"),
+        "'s a legal tech company, helping companies and firms automate their agreement negotiations.",
+      ),
+    ),
     posts.map(({ node }: { node: any }) => {
       const {
         fields: { slug },
         frontmatter: { date, description, tags, title },
       } = node;
-      return h(ArticlePreview, {
-        key: slug,
-        slug,
-        tags,
-        title: title || slug,
-        date,
-        description,
-      }, 'hi');
+      return h(
+        ArticlePreview,
+        {
+          key: slug,
+          slug,
+          tags,
+          title: title || slug,
+          date,
+          description,
+        },
+        "hi",
+      );
     }),
     h(
       "nav",
