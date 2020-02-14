@@ -15,8 +15,14 @@ const useStyles = makeStyles(theme => ({
   line: {
     marginBottom: theme.spacing(1),
   },
+  hgroup: {
+    "& > *": {
+      marginBottom: "0.2rem",
+    },
+    marginBottom: "1.5rem",
+  },
   date: {
-    marginBottom: theme.spacing(1),
+    fontWeight: 300,
   },
   navList: {
     display: `flex`,
@@ -81,22 +87,24 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         "header",
         null,
         author?.first && h(Author, author),
-        h(
-          "h1",
-          {
-            style: { marginTop: "1rem" },
-          },
-          post.frontmatter.title,
-        ),
-        h(
-          "p",
-          {
-            className: classes.date,
-            style: {
-              ...scale(-1 / 5),
+        h("hgroup", { className: classes.hgroup },
+          h(
+            "h1",
+            {
+              style: { marginTop: "1rem" },
             },
-          },
-          post.frontmatter.date,
+            post.frontmatter.title,
+          ),
+          h(
+            "h5",
+            {
+              className: classes.date,
+              style: {
+                ...scale(-1 / 5),
+              },
+            },
+            post.frontmatter.date,
+          ),
         ),
       ),
       h("main", {
