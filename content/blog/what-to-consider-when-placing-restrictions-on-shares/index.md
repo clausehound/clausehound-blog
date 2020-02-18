@@ -1,5 +1,5 @@
 ---
-title: "What to Consider when Placing Restrictions on Shares"
+title: "What to Consider when Placing Restrictions on Share Transfers"
 author: erin@clausehound.com
 tags: ["Company Formation","Articles of Incorporation"]
 date: 2019-07-30 13:55:33
@@ -8,7 +8,7 @@ description: "When drafting articles of incorporation, there may be some restric
 
 When drafting articles of incorporation, there may be some restrictions you may want to place on shares or even the business. This article seeks to outline some of the most common types of restrictions, and why it could be favourable to enact some of them.
 
-## Should I Place Restrictions on my Shares?
+## Should I Place Restrictions on my Share Transfers?
 It depends. In some cases it is necessary to place restrictions on shares. For example, if you want your corporation to remain privately held it is important to place restrictions on the sale of shares. The nature of your shares and who holds those shares will determine whether or not your corporation is public or private. A simple clause in the articles of incorporation can restrict share transfers so that the corporation remains private. This is done by restricting the sale of shares to only approved parties.
 
 A common restriction on sale shares may look something like this:
