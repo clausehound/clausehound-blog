@@ -1,7 +1,7 @@
 ---
 title: "What to Consider when Placing Restrictions on Shares"
 author: erin@clausehound.com
-tags: ["Company Formation","Articles of Incorporation","erin-adele-krawchuk"]
+tags: ["Company Formation","Articles of Incorporation"]
 date: 2019-07-30 13:55:33
 description: "When drafting articles of incorporation, there may be some restrictions you may want to place on shares or even the business. This article seeks to outline some of the most common type..."
 ---
