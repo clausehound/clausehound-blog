@@ -67,5 +67,5 @@ Some examples of additional clauses include Reporting Requirements, Remuneration
 **Minute Book** - this is where the corporate records are kept. An up to date copy of the shareholders’ agreement should be kept in the minute book.
 
 **Buy Sell Agreement/Shotgun Agreement** - an agreement that provides for the forced buyout of a shareholder once it is triggered. These terms could be included in a shareholders agreement or used separately.
-
+ 
 **Share Buyback Agreement** - an agreement that allows the corporation to buy back shares in certain situations eg. death, incapacity, or termination of employment/consulting contract of a shareholder.
