@@ -60,7 +60,7 @@ Some examples of additional clauses include Reporting Requirements, Remuneration
 
 **Shareholders Resolutions** - depending on the circumstances the shareholders may pass a (unanimous) resolution approving the shareholders agreement or an amendment to that agreement
 
-**Directors’ Resolutions ** - since the corporation will be a party to the shareholders’ agreement the directors may pass a resolution adopting the agreement
+**Directors’ Resolutions** - since the corporation will be a party to the shareholders’ agreement the directors may pass a resolution adopting the agreement
 
 **By-Laws** - (also called bylaws) deal with matters such as meetings, voting, borrowing, officers etc.
 
