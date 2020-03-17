@@ -16,6 +16,7 @@ Dividend structuring and timing are making headlines presently. (For example:  [
 
  
 
+
 **What are dividends and when are they declared?**
 
 The ability to issue dividends to shareholders is a standard for-profit corporation feature.  Shareholders invest in shares for several reasons, including the hope that the value of the shares will increase and permit them to sell at a profit, and the anticipation that the corporation will be profitable enough to pay dividends to the shareholder while they own the shares.
