@@ -22,9 +22,9 @@ To prevent a power imbalance from occurring, shareholders will often require the
 
  *“Proportionate Interest” means at any time with respect to a Shareholder:*
  
- *(i) the Shareholders’ rateable ownership of the Common Shares held by such Shareholder to which this definition is applied (the "Considered Shares") expressed as a percentage, which percentage is determined by dividing the number of Considered Shares owned by the Shareholder by the total number of Common Shares owned by all shareholders (the “Eligible Shareholder Class”); and*
+- *(i) the Shareholders’ rateable ownership of the Common Shares held by such Shareholder to which this definition is applied (the "Considered Shares") expressed as a percentage, which percentage is determined by dividing the number of Considered Shares owned by the Shareholder by the total number of Common Shares owned by all shareholders (the “Eligible Shareholder Class”); and*
  
- *(ii) in the context of a transfer of shares transaction, if any Shareholder that is eligible to purchase shares available for sale waives its option to purchase such shares (the “Non-Purchasing Shareholder”), the Eligible Shareholder Class shall not include the Non-Purchasing Shareholder in the calculation of the Proportionate Interest.*
+- *(ii) in the context of a transfer of shares transaction, if any Shareholder that is eligible to purchase shares available for sale waives its option to purchase such shares (the “Non-Purchasing Shareholder”), the Eligible Shareholder Class shall not include the Non-Purchasing Shareholder in the calculation of the Proportionate Interest.*
 
  
 
