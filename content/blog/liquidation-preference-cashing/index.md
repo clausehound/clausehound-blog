@@ -6,27 +6,31 @@ date: 2017-10-17 15:26:43
 description: "A liquidation preference is a commonly requested investor term. The idea around a liquidation preference is that the investor will receive their funds out of the business prior to the existing shareho..."
 ---
 
-A liquidation preference is a commonly requested investor term. The idea around a liquidation preference is that the investor will receive their funds out of the business prior to the existing shareholders at the time of investment.  A liquidation preference is often inserted into deal terms by the investors in a major round of financing and not before then, and here's why.Liquidation preference discourages outside investment and overcomplicates the cap table
+A liquidation preference is a commonly requested investor term. The idea around a liquidation preference is that the investor will receive their funds out of the business prior to the existing shareholders at the time of investment.  A liquidation preference is often inserted into deal terms by the investors in a major round of financing and not before then, and here's why.
+
+**Liquidation preference discourages outside investment and overcomplicates the cap table**
 
 A liquidation preference provision could be inserted by the founders, but that would be unusual in a company without outside investors because: (1) funds advanced are often treated as a shareholder's loan - which is effectively very similar to a liquidation preference; and (2) if the founders associate a preference to the shares they hold, that corresponds to a preference for “sweat equity”, which is difficult to assign a precise value.
 
 To put it another way, most investors want to know that the founders are taking the most risk and have the most to gain or lose.  There's a sense of unfairness to put non-cash investments ahead of investor funds that are usually sourced with after-tax funds.
 
-Review a liquidation preference clauseHere’s what a sample liquidation preference clause might look like:
+**Review a liquidation preference clause**
+
+Here’s what a sample liquidation preference clause might look like:
 
  
 
-On any liquidation or winding up of the Company, the holders of Preferred Shares will receive in  preference to the holders of the Common Shares a per share amount equal to the greater of: (i) the Original Issue Price plus any declared but unpaid dividends, or (ii) the amount such holder would have received had the Preferred Shares been converted into Common Shares immediately prior to the liquidation or winding up (the “Liquidation Preference”).
+*On any liquidation or winding up of the Company, the holders of Preferred Shares will receive in  preference to the holders of the Common Shares a per share amount equal to the greater of: (i) the Original Issue Price plus any declared but unpaid dividends, or (ii) the amount such holder would have received had the Preferred Shares been converted into Common Shares immediately prior to the liquidation or winding up (the “Liquidation Preference”).*
 
  
 
 So if the Original Issue Price is defined as three million dollars, three million dollars must go to the original investor before any funds are available to other investors.  Such a clause may go on to say:
 
-After the payment of the Liquidation Preference to the holders of the Preferred Shares, the remaining assets of the Company shall be distributed to the holders of the Common Shares on a pro rata basis.
+*After the payment of the Liquidation Preference to the holders of the Preferred Shares, the remaining assets of the Company shall be distributed to the holders of the Common Shares on a* pro rata *basis.*
 
  
 
-The investor may also try to negotiate a “hurdle” rate so that a minimum return on investment is achieved.  See for example the following language, under which a 20% hurdle is desired:
+The investor may also try to negotiate a **“hurdle” rate so that a minimum return on investment is achieved.  See for example the following language, under which a 20% hurdle is desired:
 
 *
 ...the Investor will receive, in preference to all other shareholders of the Company at the time of Liquidation, an amount that is the greater of: (a) 1.2 times the amount of the Proposed Investment; and (b) the liquidation value of the Shares on an as- converted basis into common shares in the capital of the Company.
