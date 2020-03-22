@@ -32,7 +32,7 @@ So if the Original Issue Price is defined as three million dollars, three millio
 
 The investor may also try to negotiate a **“hurdle” rate** so that a minimum return on investment is achieved.  See for example the following language, under which a 20% hurdle is desired:
 
-* ...the Investor will receive, in preference to all other shareholders of the Company at the time of Liquidation, an amount that is the greater of: (a) 1.2 times the amount of the Proposed Investment; and (b) the liquidation value of the Shares on an as- converted basis into common shares in the capital of the Company.*
+*...the Investor will receive, in preference to all other shareholders of the Company at the time of Liquidation, an amount that is the greater of: (a) 1.2 times the amount of the Proposed Investment; and (b) the liquidation value of the Shares on an as- converted basis into common shares in the capital of the Company.*
 
  
 
