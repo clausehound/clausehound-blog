@@ -13,7 +13,7 @@ A common question that entrepreneurs/inventors have when incorporating..."
 ---
 
 [https://pixabay.com/en/vote-word-letters-scrabble-1804596/](https://pixabay.com/en/vote-word-letters-scrabble-1804596/)
-**Links from this article:**[Shareholders' Agreement](https://clausehound.com/legal-contract/15823#!/document=)[ESOP](https://clausehound.com/legal-contract/15816)[Articles of Incorporation](https://clausehound.com/legal-contract/16180#!/document=)
+**Links from this article:**  [Shareholders' Agreement](https://clausehound.com/legal-contract/15823#!/document=) [ESOP](https://clausehound.com/legal-contract/15816)[Articles of Incorporation](https://clausehound.com/legal-contract/16180#!/document=)
 
 A common question that entrepreneurs/inventors have when incorporating is how to structure the business. The options for structuring a business can be overwhelming, especially when it comes to determining the number of share classes to include in your corporation. Generally, founders will initially want to issue shares to themselves, their investors, and certain employees.
 
@@ -32,13 +32,13 @@ Businesses usually issue non-voting shares to its employees. Issuing shares prov
 
  
 
-**Are non-voting shares really non-voting? **
+**Are non-voting shares really non-voting?**
 
 Although called ‘non-voting shares’, there are certain situations where the legislation under which the corporation was incorporated will give non-voting shareholders the right to vote.
 
  
 
-For example, Sections 170(1) and (3) of the Ontario [*Business Corporations Act*](https://www.ontario.ca/laws/statute/90b16#BK156) (OBCA) states that non-voting shareholders may vote on resolutions to amend the corporation’s articles of incorporation if the amendment is related to:
+**For example**, Sections 170(1) and (3) of the Ontario [*Business Corporations Act*](https://www.ontario.ca/laws/statute/90b16#BK156) (OBCA) states that non-voting shareholders may vote on **resolutions to amend the corporation’s articles of incorporation** if the amendment is related to:
 
  
 
@@ -63,7 +63,7 @@ Creating a new class of shares equal to or greater than the non-voting share cla
 - 
 Allowing a class of shares to be exchanged for the non-voting class shares.
 
-They will also be able to vote on proposed amalgamations that will affect their share class. **In short, non-voting shareholders will have a right to vote on resolutions that will have an impact on the rights attached to their share class **(but not necessarily on all resolutions that will have a business impact on them as shareholders). The reasoning behind these exceptions is to prevent the voting shareholders from impairing the rights of the non-voting shareholders, and to prevent the voting majority from oppressing the non-voting shareholders in this way.
+They will also be able to vote on proposed amalgamations that will affect their share class. **In short, non-voting shareholders will have a right to vote on resolutions that will have an impact on the rights attached to their share class**(but not necessarily on all resolutions that will have a business impact on them as shareholders). The reasoning behind these exceptions is to prevent the voting shareholders from impairing the rights of the non-voting shareholders, and to prevent the voting majority from oppressing the non-voting shareholders in this way.
 
  
 
