@@ -1,5 +1,5 @@
 ---
-title: "Blog Bite: Can corporations establish the venue for litigation based on their registered business address?"
+title: "Jurisdiction Shopping - Can corporations establish the venue for litigation based on their registered business address?"
 author: alina@clausehound.com
 tags: ["Articles of Incorporation","Mondaq","Learn","USA","All Jurisdictions","USA(KY)"]
 date: 2016-02-22 00:00:00
