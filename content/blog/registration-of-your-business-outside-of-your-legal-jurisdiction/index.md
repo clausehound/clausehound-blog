@@ -9,18 +9,19 @@ When a corpora..."
 
 To do business outside of the jurisdiction that a corporation is registered in, your corporation may need to apply for a licence for your corporation to be formed in that jurisdiction. 
 
-When a corporation should consider extra-jurisdictional registration 
+**When a corporation should consider extra-jurisdictional registration** 
 
-First, you should consider whether your corporation is “carrying on business” within a jurisdiction other than that which it is registered under. Different jurisdictions have provided different meanings to “carry on business”. However, some indicia that may suggest that a corporation should register extra-jurisdictionally are: 
+First, you should consider whether your corporation is **“carrying on business”** within a jurisdiction other than that which it is registered under. Different jurisdictions have provided different meanings to “carry on business”. However, some indicia that may suggest that a corporation should register extra-jurisdictionally are: 
 
 - if the corporation has an office, other address, resident agent, or local telephone in this outside jurisdiction; 
 - if the corporation is collecting or charging local tax; 
 - if the corporation visits that jurisdiction in order to perform work that could not otherwise be completed in the home jurisdiction; 
 - if the corporation has hired people to work in that jurisdiction; and
 - if the corporation’s business name is listed in a telephone directory in that jurisdiction.
-- if all or the majority of the above indicia apply to your corporation, your business will likely be considered as firmly established in that jurisdiction and may be subject to local business registration requirements and applicable local taxes. For this reason, you may be required to register extra-jurisdictionally. 
 
-Process of registering extra-jurisdictionally
+If all or the majority of the above indicia apply to your corporation, your business will likely be considered as firmly established in that jurisdiction and may be subject to local business registration requirements and applicable local taxes. For this reason, you may be required to register extra-jurisdictionally. 
+
+**Process of registering extra-jurisdictionally**
 
 The process for filing extra-jurisdictionally varies from jurisdiction to jurisdiction. However, some of the common requirements are:   
 
@@ -34,7 +35,7 @@ Furthermore, once you have been registered within the new jurisdiction, it is im
 
  
 
-Consequences of not registering extra-jurisdictionally 
+**Consequences of not registering extra-jurisdictionally** 
 
 A corporation’s failure to register extra-jurisdictionally can have the following consequences: 
 
