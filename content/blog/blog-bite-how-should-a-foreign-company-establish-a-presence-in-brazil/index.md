@@ -1,7 +1,7 @@
 ---
 title: "Jurisdiction Shopping - How should a foreign company establish a presence in Brazil?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Brazil"]
+tags: ["Articles of Incorporation","Mondaq","Learn","Brazil","Jurisdiction Shopping"]
 date: 2014-08-01 00:00:00
 description: "This article posted on our partner site Mondaq.com discusses the method in which a foreign company may establish itself in Brazil, either through a branch or subsidiary. The article suggests that est..."
 ---
