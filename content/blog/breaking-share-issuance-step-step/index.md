@@ -49,4 +49,4 @@ The resolutions approving the share issuance should also **approve an updated sh
 - Make sure that all the proper approvals have been received before the shares are issued
 - Prepare an accurate and updated share capitalization table that is approved by the directors and kept in the Minute Books to avoid disputes about share ownership
 
-***Author ***: *Sahil Kanaya*
+***Author***: *Sahil Kanaya*
