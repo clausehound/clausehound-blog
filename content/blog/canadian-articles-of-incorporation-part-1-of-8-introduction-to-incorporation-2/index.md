@@ -14,7 +14,7 @@ Cyberbahn
 
 **Links from this article:** [Clausehound.com](http://www.clausehound.com) [Cyberbahn](https://www.trcls.com/CYBERBAHN/COMPONENTS/ACCOUNTS/CREATECREDITCARDPROFILE.ASPX) [1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2) [2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)
 
-**Canadian Articles of Incorporation – Part 1 of 4: ***Introduction to Incorporation***
+**Canadian Articles of Incorporation – Part 1 of 4**: ***Introduction to Incorporation***
 
 **Introduction**
 
