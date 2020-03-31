@@ -10,7 +10,7 @@ A liquidation preference is a commonly requested investor term. The idea around 
 
 **Liquidation preference discourages outside investment and overcomplicates the cap table**
 
-A liquidation preference provision could be inserted by the founders, but that would be unusual in a company without outside investors because: (1) funds advanced are often treated as a shareholder's loan - which is effectively very similar to a liquidation preference; and (2) if the founders associate a preference to the shares they hold, that corresponds to a preference for “sweat equity”, which is difficult to assign a precise value.
+A liquidation preference provision could be inserted by the founders, but that would be unusual in a company without outside investors **because**: (1) funds advanced are often treated as a shareholder's loan - which is effectively very similar to a liquidation preference; and (2) if the founders associate a preference to the shares they hold, that corresponds to a preference for “sweat equity”, which is difficult to assign a precise value.
 
 To put it another way, most investors want to know that the founders are taking the most risk and have the most to gain or lose.  There's a sense of unfairness to put non-cash investments ahead of investor funds that are usually sourced with after-tax funds.
 
