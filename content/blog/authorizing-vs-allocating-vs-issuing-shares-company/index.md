@@ -10,7 +10,7 @@ Company owners or investors, when drafting or digging through the details of the
 
 **The Concept of Authorized Shares**
 
-When registering a new business, the articles of incorporation in some jurisdictions will require that the registrant file the number of shares that can be issued. It is very common to authorize an unlimited number of shares in any given share classes:
+When registering a new business, the articles of incorporation in some jurisdictions will require that the registrant **file the number** of shares that can be issued. It is very common to authorize an unlimited number of shares in any given share classes:
 
 The authorized capital of the corporation consists of an unlimited number of:
 
@@ -29,7 +29,7 @@ To provide investors and/or co-founders comfort as to the balance of share owner
 
 **The Concept of Issued Shares**
 
-Issued shares are the easiest to explain, these are the shares of the company that have been transferred into the hands of one or more specific shareholders, and to which certain voting or dividend rights (among others) will attach.
+Issued shares are the easiest to explain, these are the shares of the company that have been **transferred** into the hands of one or more specific shareholders, and to which certain voting or dividend rights (among others) will attach.
 
 **Sample Share Capitalization Table**
 
