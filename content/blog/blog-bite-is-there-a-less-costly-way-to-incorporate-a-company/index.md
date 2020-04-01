@@ -1,7 +1,7 @@
 ---
 title: "Jurisdiction Shopping - Is there a less costly way to incorporate a company in Luxembourg?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Luxembourg"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Luxembourg"]
 date: 2017-02-20 00:00:00
 description: "This article posted on our partner site Mondaq.com states that it is now possible to incorporate a company with equity and with reduced costs and fees via an alternative structure to the ordinary Lim..."
 ---
