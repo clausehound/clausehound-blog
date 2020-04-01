@@ -6,7 +6,7 @@ import {
   makeStyles,
 } from "@material-ui/core/styles";
 import { amber, lightBlue, grey } from "@material-ui/core/colors";
-import useMediaQuery from '@material-ui/core/useMediaQuery';
+import useMediaQuery from "@material-ui/core/useMediaQuery";
 
 import { rhythm, scale } from "../utils/typography";
 
@@ -52,32 +52,25 @@ const paletteDark = {
   },
 } as const;
 
+const typography = {
+  fontFamily: ["Montserrat", "sans-serif"].join(","),
+  h1: {
+    fontSize: "2.2rem",
+    fontWeight: 700,
+  },
+  h5: {
+    fontWeight: 700,
+  },
+} as const;
+
 const themeLight = createMuiTheme({
   palette: paletteLight,
-  typography: {
-    fontFamily: ["Montserrat", "sans-serif"].join(","),
-    h1: {
-      fontSize: "2.2rem",
-      fontWeight: 700,
-    },
-    h5: {
-      fontWeight: 700,
-    },
-  },
+  typography,
 });
 
 const themeDark = createMuiTheme({
   palette: paletteDark,
-  typography: {
-    fontFamily: ["Montserrat", "sans-serif"].join(","),
-    h1: {
-      fontSize: "2.2rem",
-      fontWeight: 700,
-    },
-    h5: {
-      fontWeight: 700,
-    },
-  },
+  typography,
 });
 
 const colorVarsLight = {
@@ -171,7 +164,13 @@ const Layout: FC<Props> = ({ location, title, children }) => {
       ),
       h(
         "footer",
-        { style: { color: "var(--text)", textAlign: "right", marginRight: "1rem" } },
+        {
+          style: {
+            color: "var(--text)",
+            textAlign: "right",
+            marginRight: "1rem",
+          },
+        },
         "\xA9 ",
         new Date().getFullYear(),
         ", Built with",
