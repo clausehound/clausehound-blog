@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - How do I incorporate in Nigeria?"
+title: "How do I incorporate in Nigeria?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Nigeria"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Nigeria"]
 date: 2017-02-17 00:00:00
 description: "This article posted on our partner site Mondaq.com discusses the procedure, documents and eligibility requirements to incorporate a company in Nigeria. The Companies and Allied Matters Act (CAMA) is..."
 ---
