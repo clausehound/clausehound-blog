@@ -35,7 +35,6 @@ const ArticlePreview: FC<Props> = ({ date, description, slug, tags, title }) =>
             style: {
               boxShadow: `none`,
               textDecoration: "none",
-              color: "var(--text)",
             },
             to: slug,
           },

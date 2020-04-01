@@ -12,7 +12,7 @@ interface Props {
   pageContext: any;
 }
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles({
   prevNext: {
     display: `flex`,
     flexWrap: `wrap`,
@@ -28,7 +28,7 @@ const useStyles = makeStyles(theme => ({
       marginBottom: "0.2rem",
     }
   },
-}));
+});
 
 const BlogList: FC<Props> = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata.title;
