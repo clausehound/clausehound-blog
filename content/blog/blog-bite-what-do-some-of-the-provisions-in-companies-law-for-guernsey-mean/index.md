@@ -1,5 +1,5 @@
 ---
-title: "Jurisdiction Shopping - What do some of the provisions in Companies Law for Guernsey mean?"
+title: "What do some of the provisions in Companies Law for Guernsey mean?"
 author: alina@clausehound.com
 tags: ["Articles of Incorporation","Mondaq","Learn","Guernsey"]
 date: 2008-10-05 00:00:00
