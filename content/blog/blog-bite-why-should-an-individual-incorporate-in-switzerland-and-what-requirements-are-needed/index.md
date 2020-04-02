@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - Features, benefits, and incorporation requirements for establishing a business in Switzerland"
+title: "Features, benefits, and incorporation requirements for establishing a business in Switzerland"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Switzerland"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Switzerland"]
 date: 2014-11-04 00:00:00
 description: "This article posted on our partner site Mondaq.com explains the benefits of incorporating in Switzerland. The article also discusses the essential requirements to incorporating a company in this juri..."
 ---
