@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - Why entrepreneurs are structuring operations using both a Canada-based corporation and a Delaware-based corporation?"
+title: "Why entrepreneurs are structuring operations using both a Canada-based corporation and a Delaware-based corporation?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","USA","Canada (General)"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","USA","Canada (General)"]
 date: 2016-06-01 00:00:00
 description: "This article posted on our partner site Mondaq.com explores the benefits to Canadian entrepreneurs of using both Canadian and American based corporations. The author explains that Canadian entreprene..."
 ---
