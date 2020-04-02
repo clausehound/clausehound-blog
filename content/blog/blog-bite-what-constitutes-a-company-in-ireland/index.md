@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - What constitutes a company in Ireland?"
+title: "What constitutes a company in Ireland?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Ireland"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Ireland"]
 date: 2014-07-08 00:00:00
 description: "This article posted on our partner site Mondaq.com describes the features of a corporation in Ireland, notably that the company must have a real and substantive presence in Ireland and not merely a l..."
 ---
