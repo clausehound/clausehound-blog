@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - What types of limited liability companies are available in Italy, and what are the steps to incorporation?"
+title: "What types of limited liability companies are available in Italy, and what are the steps to incorporation?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Italy"]
+tags: ["Jurisdiction Shopping"  ,"Mondaq","Learn","Italy"]
 date: 2012-10-10 00:00:00
 description: "This article posted on our partner site Mondaq.com describes three types of limited liability companies in Italy namely S.p.A. ('societa per azioni,' equivalent to public limited company (PLC)), S.R...."
 ---
