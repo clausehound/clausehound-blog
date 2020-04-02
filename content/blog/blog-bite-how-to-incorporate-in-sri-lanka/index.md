@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - How to incorporate in Sri Lanka?"
+title: "How to incorporate in Sri Lanka?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Sri Lanka"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Sri Lanka"]
 date: 2012-10-17 00:00:00
 description: "This article posted on our partner site Mondaq.com explains the steps to incorporation in Sri Lanka and the required characteristics of an incorporated company. The author differentiates the registra..."
 ---
