@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - How does one incorporate in British Virgin Islands?"
+title: "How does one incorporate in British Virgin Islands?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","British Virgin Islands"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","British Virgin Islands"]
 date: 2013-03-05 00:00:00
 description: "This article posted on our partner site Mondaq.com describes the five types of companies that could be incorporated under the BVI Business Companies Act. The article highlights some of the essential..."
 ---
