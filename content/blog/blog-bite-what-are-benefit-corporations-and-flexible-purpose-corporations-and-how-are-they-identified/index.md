@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - What are Benefit Corporations and Flexible Purpose Corporations, and how are they identified?"
+title: "What are Benefit Corporations and Flexible Purpose Corporations, and how are they identified?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","USA","USA(CA)"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","USA","USA(CA)"]
 date: 2012-02-29 00:00:00
 description: "This article posted on our partner site Mondaq.com discusses benefit corporations and flexible purpose corporations, two subtypes of traditional business corporations that can be organized under the..."
 ---
