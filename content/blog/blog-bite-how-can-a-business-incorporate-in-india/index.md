@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - How can a business incorporate in India?"
+title: "How can a business incorporate in India?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","India"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","India"]
 date: 2017-02-06 00:00:00
 description: "This article posted on our partner site Mondaq.com highlights key changes to the rules for the incorporation of a company in India. Namely, the new rules simplify forms which must be submitted and al..."
 ---
