@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - What are the benefits of incorporating in Panama?"
+title: "What are the benefits of incorporating in Panama?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Panama"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Panama"]
 date: 2016-11-04 00:00:00
 description: "This article posted on our partner site Mondaq.com highlights the benefits and advantages of incorporating in Panama, including tax benefits, less strict meeting requirements, and the free movement o..."
 ---
