@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - What are the relevant aspects for incorporating a business in Honduras?"
+title: "What are the relevant aspects for incorporating a business in Honduras?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Honduras"]
+tags: ["Jurisdiction Shopping       ","Mondaq","Learn","Honduras"]
 date: 2012-09-11 00:00:00
 description: "This article posted on our partner site Mondaq.com discusses the relevant provisions for incorporating a business in Honduras. It states that it takes between 10 to 12 business days to finish incorpo..."
 ---
