@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - How do you incorporate a company in the Bahamas?"
+title: "How do you incorporate a company in the Bahamas?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Bahamas"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Bahamas"]
 date: 2000-02-21 00:00:00
 description: "This article posted on our partner site Mondaq.com provides a summary of the principal provisions of the International Business Companies Act, which is the statute that governs or the incorporation,..."
 ---
