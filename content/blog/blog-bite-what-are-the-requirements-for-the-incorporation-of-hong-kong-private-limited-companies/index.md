@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - What are the requirements for the incorporation of Hong Kong private limited companies?"
+title: "What are the requirements for the incorporation of Hong Kong private limited companies?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Hong Kong"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Hong Kong"]
 date: 2014-06-26 00:00:00
 description: "This article posted on our partner site Mondaq.com documents various requirements for the incorporation of Hong Kong private limited companies. For instance, the author notes the number of directors,..."
 ---
