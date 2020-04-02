@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - Mauritius - What are international companies (ICs)?"
+title: "Mauritius - What are international companies (ICs)?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Mauritius"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Mauritius"]
 date: 1997-05-20 00:00:00
 description: "This article posted on our partner site Mondaq.com describes International Companies (ICs) and its main features: tax exemption, capital requirements, filing requirements, and meeting locations. Arti..."
 ---
