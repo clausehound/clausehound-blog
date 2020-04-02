@@ -1,5 +1,5 @@
 ---
-title: "Jurisdiction Shopping - Is there a less costly way to incorporate a company in Luxembourg?"
+title: "Is there a less costly way to incorporate a company in Luxembourg?"
 author: alina@clausehound.com
 tags: ["Jurisdiction Shopping","Mondaq","Learn","Luxembourg"]
 date: 2017-02-20 00:00:00
