@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - What kinds of corporate vehicles are available in Russia?"
+title: "What kinds of corporate vehicles are available in Russia?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Russia"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Russia"]
 date: 2014-04-28 00:00:00
 description: "This article posted on our partner site Mondaq.com describes the various corporate vehicles available in Russia, including a Russian joint stock company, a Russian limited liability company and a non..."
 ---
