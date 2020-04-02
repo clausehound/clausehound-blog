@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - What are the benefits and requirements to incorporating in Gambia?"
+title: "What are the benefits and requirements to incorporating in Gambia?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Gambia"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Gambia"]
 date: 2015-03-05 00:00:00
 description: "This article posted on our partner site Mondaq.com outlines the requirements of incorporating in Gambia and its desirable characteristics. The articles states that Gambia offshore can be used for hol..."
 ---
