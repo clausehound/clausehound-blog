@@ -1,7 +1,7 @@
 ---
-title: "Jurisdiction Shopping - What are the relevant provincial laws to consider when incorporating in British Columbia?"
+title: "What are the relevant provincial laws to consider when incorporating in British Columbia?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Canada (BC)","All Jurisdictions"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Canada (BC)","All Jurisdictions"]
 date: 2013-12-04 00:00:00
 description: "This article posted on our partner site Mondaq.com provides an extensive guide on both incorporating a business in the province of British Columbia, as well as the laws governing business regulation..."
 ---
