@@ -40,10 +40,14 @@ In theory, a corporation may choose to restrict their business activities. They 
 
 Drafting the Articles of Incorporation is a crucial consideration for any DIY drafter. You can use [Clausehound.com](http://clausehound.com/)‘s incorporation templates to ensure that your incorporation process is as easy and cheap as possible! When drafting your Articles of Incorporation, you will want to consider the information in the following blogs:
 
-[1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)
+- [1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)
+- [2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)
+- [3 of 4 – Selecting and protecting your company’s name](http://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2)
+- [4 of 4 – What to consider when selecting Directors for my business?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-4-of-8-what-to-consider-when-selecting-directors-for-my-business)
 
-[2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)
 
-[3 of 4 – Selecting and protecting your company’s name](http://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2)
-
-[4 of 4 – What to consider when selecting Directors for my business?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-4-of-8-what-to-consider-when-selecting-directors-for-my-business)
+**Coming Soon!**
+- Part 5 – What to consider when selecting the corporation’s share attributes?
+- Part 6  – What type of restrictions should be in place?
+- Part 7 – Other Important Information
+- Part 8 – What’s else should I consider before developing my business?
