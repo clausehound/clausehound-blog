@@ -5,14 +5,13 @@ tags: ["Not for Profit Articles of Incorporation","Company Formation","Rajah","A
 date: 2016-10-27 14:30:02
 description: "Links from this article:
 Clausehound.com
-Cyberbahn
 1 of 4 – Introduction to Incorporating a business
 2 of 4 – Which Articles of Incorporation should my company use?
 
 [insert page='CTA 1: NOT FOR PROF..."
 ---
 
-**Links from this article:** [Clausehound.com](http://www.clausehound.com) [Cyberbahn](https://www.trcls.com/CYBERBAHN/COMPONENTS/ACCOUNTS/CREATECREDITCARDPROFILE.ASPX) [1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2) [2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)
+**Links from this article:** [Clausehound.com](http://www.clausehound.com) [1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2) [2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)
 
 **Canadian Articles of Incorporation – Part 1 of 4**: ***Introduction to Incorporation***
 
@@ -29,7 +28,7 @@ The incorporation process enables a business entity to operate independently fro
 
 If you were to incorporate your business either Provincially or Federally without the use of private incorporation portal, it would be **$360** to mail or submit your Articles in person in Ontario, and **$250** for a Federal incorporation complete by mail or in person. Therefore, it is not just cheaper, but much more convenient to use a private portal!
 
-For Federal incorporations, the governmental fee amounts to approximately **$200**, while the Provincial fee in Ontario amounts to **approximately $300**. If you use a **private incorporation portal** to register your business, like the one offered by [Cyberbahn](https://www.trcls.com/CYBERBAHN/COMPONENTS/ACCOUNTS/CREATECREDITCARDPROFILE.ASPX), it will cost you slightly less than incorporating directly through the government. Additionally, companies like [Cyberbahn](https://www.trcls.com/CYBERBAHN/COMPONENTS/ACCOUNTS/CREATECREDITCARDPROFILE.ASPX) make the incorporation process much easier!
+For Federal incorporations, the governmental fee amounts to approximately **$200**, while the Provincial fee in Ontario amounts to **approximately $300**. If you use a **private incorporation portal** to register your business, it will cost you slightly less than incorporating directly through the government. Additionally, some companies make the incorporation process much easier!
 
 It is important to keep in mind that there are **additional fees required** to operate a Federally incorporated business, so it is not necessarily less expensive than a Provincial incorporation.
 
