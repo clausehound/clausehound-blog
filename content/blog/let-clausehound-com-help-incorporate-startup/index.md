@@ -34,9 +34,7 @@ Step 2. Create your Articles of Incorporation:On [Clausehound.com](https://claus
 
  
 
-Step 3. It's time to begin the incorporation Using our partner, Cyberbahn, do-it-yourself incorporations are as easy as ever! Click the Cyberbahn logo below, and begin the registration process.
-3.1. To start: Sign up for Cyberbahn, change your password, and log in.3.2. Naming your business: If you want to create a named corporation, rather than a numbered one, click ‘Start a Business’ in the menu bar, click ‘Name Searches’, and proceed from there. 3.3. Incorporating your business: Click ‘Start a Business’ in the menu bar, click ‘Incorporations’, and carefully bring over the information that was decided on in Steps 1 & 2 into Cyberbahn’s system. 3.4. Initial Filing: An Ontario corporation must file an Annual Return (which is not related to taxation, just registration of the business) within 60 days of incorporation. This can also be completed through Cyberbahn, or may alternatively be completed directly through the [Ontario government](http://www.forms.ssb.gov.on.ca/mbs/ssb/forms/ssbforms.nsf/FormDetail?openform&amp;ENV=WWE&amp;NO=007-07201). 
-
+Step 3. It’s time to begin the incorporation. Remember that an Ontario corporation must file an Annual Return (which is not related to taxation, just registration of the business) within 60 days of incorporation. This may alternatively be completed directly through the Ontario government. 
  
 
 Incorporating a business is a crucial step in starting your business pursuits on the right foot. If you require help or guidance on incorporating your business, email [info@clausehound.com](mailto:info@clausehound.com) and let [Clausehound.com](https://clausehound.com/small-business-law-library/?utm_source=blog&amp;utm_campaign=clausehoundHelpIncorporate&amp;utm_medium=referral) connect you with one of our affiliate lawyers to help usher you through the process! 
