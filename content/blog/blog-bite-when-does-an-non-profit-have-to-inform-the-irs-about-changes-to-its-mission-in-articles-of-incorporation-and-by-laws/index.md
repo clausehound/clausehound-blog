@@ -1,5 +1,5 @@
 ---
-title: "Blog Bite: When does an non-profit have to inform tax authorities about changes to its mission in articles of incorporation and by-laws?"
+title: "Blog Bite: When does a non-profit have to inform tax authorities about changes to its mission in articles of incorporation and by-laws?"
 author: alina@clausehound.com
 tags: ["Articles of Incorporation","Mondaq","Learn","All Jurisdictions"]
 date: 2014-02-25 00:00:00
