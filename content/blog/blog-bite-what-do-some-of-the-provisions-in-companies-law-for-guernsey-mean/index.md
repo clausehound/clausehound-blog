@@ -1,7 +1,7 @@
 ---
 title: "What do some of the provisions in Companies Law for Guernsey mean?"
 author: alina@clausehound.com
-tags: ["Articles of Incorporation","Mondaq","Learn","Guernsey"]
+tags: ["Jurisdiction Shopping","Mondaq","Learn","Guernsey"]
 date: 2008-10-05 00:00:00
 description: "This article posted on our partner site Mondaq.com highlights the provisions in the Companies (Guernsey) Law, 2008, which is intended to assist with understanding specific provisions related to incor..."
 ---
