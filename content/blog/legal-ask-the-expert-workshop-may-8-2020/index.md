@@ -2,7 +2,7 @@
 title: "Legal Ask-the-Expert Workshop - May 8, 2020"
 author: info@clausehound.com
 tags: []
-date: Fri Apr 24 2020 11:56:17 GMT-0400 (Eastern Daylight Time)
+date: 2020-04-24
 description: "New online workshops are now live! Learn about legal foundation topics online, for free."
 ---
 
