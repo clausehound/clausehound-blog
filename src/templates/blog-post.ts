@@ -1,6 +1,8 @@
 import { FC, createElement as h } from "react";
 import { useTheme, makeStyles } from "@material-ui/core";
 import { Link, graphql, navigate } from "gatsby";
+import { Helmet } from "react-helmet";
+
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
@@ -80,6 +82,11 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
       description: post.frontmatter.description || post.excerpt,
       author: "@clausehound",
     }),
+    h(
+      Helmet,
+      null,
+      h("script", { src: "https://www.clausehound.com/dist/clausehound.js" }),
+    ),
     h(
       "article",
       null,
