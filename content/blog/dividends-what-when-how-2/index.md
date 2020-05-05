@@ -54,3 +54,8 @@ The third place to check in terms of whether a business can declare and pay divi
 - Make sure you properly check the rules for paying out dividends before doing so.
 
 - Make sure you properly authorize the declaration and payment of dividends using a properly approved corporate resolution.
+
+
+**For more information, check out these blog posts**:
+[When Should a Company Declare Dividends?](https://blog.clausehound.com/when-should-a-company-declare-dividends/)
+[What are Share Repurchases and Why are Businesses Using Them So Much?](https://blog.clausehound.com/what-are-share-repurchases-and-why-are-businesses-using-them-so-much/)
