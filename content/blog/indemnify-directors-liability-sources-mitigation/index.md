@@ -36,4 +36,8 @@ However, an indemnification clause is only as good as the ability of the indemni
 - What concerns might a corporation have about a director’s behaviour?
 - By what means will the indemnity be provided?
 
+**For more information, check out these blog posts**:
+- [Blog Bite: Liability of directors, officers, who should be protected by the company's indemnification clause?]( https://blog.clausehound.com/blog-bite-who-should-corporations-in-the-usa-protect-with-an-indemnification-clause/)
+- [How can the language of indemnification and limitation of liability be drafted in the interest of resolving issues quickly?]( https://blog.clausehound.com/astellas-pharma-canada-inc-v-wellspring-pharmaceutical-canada-corp-2008-canlii-46324-sc/)
+
 ***Author**: Sahil Kanaya*
