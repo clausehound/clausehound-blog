@@ -8,7 +8,7 @@ description: "New online workshops are now live! Learn about legal foundation to
 
 # New Workshop Announced!
 
-Through an **exclusive collaboration with the City of Toronto and [Cobalt Lawyers](cobaltcounsel.com)**, Clausehound's DealPrep will be supplying **free online learning modules for small business legal training**! Our next session will be on **May 8th, 2020 at 9:00AM** - more details below!
+Through an **exclusive collaboration with the City of Toronto and [Cobalt Lawyers](//cobaltcounsel.com)**, Clausehound's DealPrep will be supplying **free online learning modules for small business legal training**! Our next session will be on **May 8th, 2020 at 9:00AM** - more details below!
 
 ---
 
