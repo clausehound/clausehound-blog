@@ -21,3 +21,8 @@ If it is time for a name change, the business has some options on how to proceed
 **Takeaways:**
 - The articles linked above can help you determine whether a business name registration is a less expensive option.
 - If you wish proceed with a corporate name change, you can ensure that your newly selected name is defensible by considering the articles linked above.
+
+
+**For more information, check out these blog posts**:
+- [Defending Your Business Name]( https://blog.clausehound.com/defending-your-business-name/)
+- [Canadian Articles of Incorporation – Part 3 of 4: Selecting and Protecting Your Corporation’s Name]( https://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2/)
