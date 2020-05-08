@@ -51,3 +51,7 @@ Drafting the Articles of Incorporation is a crucial consideration for any DIY dr
 - Part 6  – What type of restrictions should be in place?
 - Part 7 – Other Important Information
 - Part 8 – What’s else should I consider before developing my business?
+
+**For more information, check out these blog posts**:
+- [Overview of Share Transfer Agreement]( https://blog.clausehound.com/overview-of-share-transfer-agreement/)
+- [Share Transfer in Connection with a Tax Rollover]( https://blog.clausehound.com/share-transfer-agreement-tax-rollover/)
