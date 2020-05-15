@@ -41,3 +41,8 @@ SAMPLE SHARE CAPITALIZATION TABLE
 - Limiting the number of authorized shares is a tactic that a careful investor might use to prevent an unauthorized share issue
 - A share capitalization table similar to the one provided above will help to provide each business owner with comfort as to such owner’s pro rata share holding.
 - It’s important to be aware of your share ownership versus all other owners (on a fully diluted basis)
+
+
+**For more information, check out these blog posts**:
+- [Breaking Down Share Issuance Step by Step]( https://blog.clausehound.com/breaking-share-issuance-step-step/)
+- [What to Consider When Selecting the Corporation's Share Attributes]( https://blog.clausehound.com/what-to-consider-when-selecting-the-corporations-share-attributes/)
