@@ -10,3 +10,9 @@ description: "This article posted on our partner site Mondaq.com informs the dir
 
 We note that the pitfalls found here are also pitfalls that would potentially befall a for-profit corporation, so this article is a worthwhile read for any new incorporator or corporate secretary.
 This "blog bite" comes to you as a part of Clausehound's collaboration with Mondaq!
+
+
+
+**For more information, check out these blog posts**:
+- [Not For Profit Doesn't Mean that the Books Don't Need to Balance!](https://blog.clausehound.com/not-for-profit-doesnt-mean-that-the-books-dont-need-to-balance/)
+- [Blog Bite: What's the best approach for more than one not-for-profit organization to combine efforts?](https://blog.clausehound.com/blog-bite-whats-the-best-approach-for-more-than-one-not-for-profit-organization-to-combine-efforts/)
