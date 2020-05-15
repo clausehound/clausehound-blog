@@ -49,4 +49,9 @@ The resolutions approving the share issuance should also **approve an updated sh
 - Make sure that all the proper approvals have been received before the shares are issued
 - Prepare an accurate and updated share capitalization table that is approved by the directors and kept in the Minute Books to avoid disputes about share ownership
 
+
+**For more information, check out these blog posts**:
+- [Authorizing vs. Allocating vs. Issuing Shares in your Company]( https://blog.clausehound.com/authorizing-vs-allocating-vs-issuing-shares-company/)
+- [What to Consider When Selecting the Corporation's Share Attributes]( https://blog.clausehound.com/what-to-consider-when-selecting-the-corporations-share-attributes/)
+
 ***Author***: *Sahil Kanaya*
