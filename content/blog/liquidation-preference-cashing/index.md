@@ -53,3 +53,6 @@ One final note, an ESOP share class may come with no liquidation rights, as ther
 - ESOP Shareholders may not be eligible for a share of funds in the event of bankruptcy - check the articles
 
  
+**For more information, check out these blog posts**:
+- [Raising Capital For Your Startup]( https://blog.clausehound.com/raising-capital-for-your-startup/)
+- [Paying with Shares: The Employee’s Perspective]( https://blog.clausehound.com/paying-with-shares-the-employees-perspective/)
