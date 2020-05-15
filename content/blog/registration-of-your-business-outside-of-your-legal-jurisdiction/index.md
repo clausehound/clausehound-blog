@@ -43,3 +43,8 @@ A corporation’s failure to register extra-jurisdictionally can have the follow
 - the directors, officers, and registered agents may be have a monetary penalty levied against them for being found guilty of contravening the extra-jurisdictional registration requirements. 
 
 In order to avoid such consequences, it is important for corporations to give careful consideration to whether they should be registering extra-jurisdictionally.
+
+
+**For more information, check out these blog posts**:
+- [Non Profit Organizations May need to Register before Collecting Funds in a Jurisdiction](https://blog.clausehound.com/non-profit-organizations-may-need-to-register-before-collecting-funds-in-a-jurisdiction/)
+- [What legal steps do you need to go through in order to start a business?](https://blog.clausehound.com/what-legal-steps-do-you-need-to-go-through-in-order-to-start-a-business/)
