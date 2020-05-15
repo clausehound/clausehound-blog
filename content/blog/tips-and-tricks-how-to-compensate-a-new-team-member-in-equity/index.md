@@ -29,3 +29,8 @@ Once you have had a chance to view the videos, consider that the principles of v
 You may wish to “drip” out the vesting of shares over time.  Several instruments can be used for compensating the new team member, including a consulting agreement or option agreement, or both, combined.
 
 Be sure to **consult your accountant** to discuss the form and value of new shares issued (vs. for example options), as there may be a Canada Revenue Agency revenue amount triggered, if this share issuance is treated as compensation or company earnings and not an investment.
+
+
+**For more information, check out these blog posts**:
+- [How much should you compensate your startup company board of advisors/directors?](https://blog.clausehound.com/how-much-should-you-compensate-your-startup-company-board-of-advisorsdirectors/)
+- [When forming a company, how many shares should be issued, and at what price?](https://blog.clausehound.com/when-forming-a-company-how-many-shares-should-be-issued-and-at-what-price/)
