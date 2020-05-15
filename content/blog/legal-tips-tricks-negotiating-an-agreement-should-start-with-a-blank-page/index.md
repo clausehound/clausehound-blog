@@ -21,3 +21,9 @@ This can be very simple (such as a cash payment), or can be more subtle (for exa
 **Step 4**:  After completing the prior steps,  you will have the basic negotiating points of your agreement and can **supplement with discussions** with your business partners, advisors, colleagues in the same industry, and your legal counsel.  The benefit of the additional experience and awareness of external factors (legal, operational, negotiating tactics or other issues) will add another layer of insight and protection.
 
 To be diligent, I further recommend that you **repeat steps 1 and 2**, each time you commence contract negotiations and even at the time of renewal, to ensure that you have captured the elements of the contract that are important to you.
+
+
+
+**For more information, check out these blog posts**:
+- [Legal Tips and Tricks: Deal Negotiations Using an LOI/MOU](https://blog.clausehound.com/legal-tips-and-tricks-deal-negotiations-using-an-loimou/)
+- [Blog Bite: How Do I Negotiate a Share Purchase or M&A?](https://blog.clausehound.com/blog-bite-how-do-i-negotiate-a-share-purchase-or-ma/)
