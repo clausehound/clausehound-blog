@@ -26,3 +26,8 @@ Over time, this 4.5 million will be diluted by investors when additional shares 
 A few important high-level **questions to ask** are: what happens if the founder or shareholder leaves the company early, what happens if they don't deliver on their promised milestones, and what's the value of one person's effort versus another to the success of the business? Timing out the vesting of equity is a different conversation than the subject matter of this article. When thinking about how to divide equity or vest equity, I recommend reading this article, ["Tips and Tricks: How to Compensate a New Team Member in Equity,"](https://blog.clausehound.com/tips-and-tricks-how-to-compensate-a-new-team-member-in-equity/) and watching the Khan Academy video linked in it.
 
 Don't forget that **valid consideration is required** (by law) in order to issue shares. And also, remember, it never hurts to talk these issues through with your co-founders, advisors and partners.
+
+
+**For more information, check out these blog posts**:
+- [Breaking Down Share Issuance Step by Step](https://blog.clausehound.com/breaking-share-issuance-step-step/)
+- [What to Consider When Selecting the Corporation's Share Attributes]( https://blog.clausehound.com/what-to-consider-when-selecting-the-corporations-share-attributes/)
