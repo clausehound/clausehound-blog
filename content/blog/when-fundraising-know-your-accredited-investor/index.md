@@ -33,3 +33,9 @@ It is useful and prudent to **review supporting information** wherever possible:
 - confirmation from the accountant, broker or lawyer of the accredited investor in writing that they have confirmed that such purchaser is an accredited investor.
 
 After funds are raised using this exemption, disclosure of this financing should be **filed** with the securities regulator in your jurisdiction.  It is important for companies raising money to conduct this process carefully with a view to investor protection.   **Always consult with legal counsel to ensure that you’re properly navigating the fundraising process.**
+
+
+
+**For more information, check out these blog posts**:
+- [Fundraising: Finding and Managing “Retail” and “Accredited” Investors](https://blog.clausehound.com/fundraising-finding-and-managing-retail-and-accredited-investors/)
+- [Should I ask potential investors to sign an NDA before pitching my idea?](https://blog.clausehound.com/should-i-ask-potential-investors-to-sign-an-nda-before-pitching-my-idea/)
