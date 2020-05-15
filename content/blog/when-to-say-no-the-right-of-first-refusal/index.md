@@ -67,3 +67,8 @@ Shareholders often also include a clause to come to a negotiated agreement on re
 - When drafting a ROFR give careful consideration to the classes of shareholders who are eligible to exercise the right 
 - When drafting a ROFR give careful consideration to the classes of shares which are subject to the right, especially if different classes of common shares carry different voting rights
 - Pay close attention to any eligibility requirements for exercising the right (eg. a specified % of holdings) to ensure that the clause will work effectively in the particular context
+
+
+**For more information, check out these blog posts**:
+- [Blog Bite: How the Right of First Refusal Interacts with US Securities Law](https://blog.clausehound.com/blog-bite-how-the-right-of-first-refusal-interacts-with-us-securities-law/)
+-  [Blog Bite: Why should companies execute an effectively drafted shareholders' agreement?]( https://blog.clausehound.com/blog-bite-why-should-companies-execute-an-effectively-drafted-shareholders-agreement/)
