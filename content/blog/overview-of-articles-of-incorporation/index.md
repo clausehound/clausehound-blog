@@ -64,3 +64,17 @@ The core elements of  Articles of Incorporation include: Corporate Name; Jurisdi
 - **Term Sheet** - a document that sets out the terms of an investment in shares or other securities. The rights attached to the shares can be set out in the term sheet, and are often included in the articles of incorporation.
 - **Shareholders’ Agreement** - an agreement between the shareholders that governs the relationship of the shareholders, voting rights, management decision making authority, shareholders exits from the company etc. A Unanimous Shareholders Agreement may have precedence over the Articles of Incorporation.
 - **Subscription Agreement** - an agreement between the issuer (the corporation that is issuing shares) and the subscriber (the person who is buying the shares) for the purchase of the corporation’s shares or other securities
+
+
+**Currently Live!**
+
+- [1 of 4 – Introduction to Incorporating a business](http://blog.clausehound.com/canadian-articles-of-incorporation-part-1-of-8-introduction-to-incorporation-2)
+-- [2 of 4 – Which Articles of Incorporation should my company use?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-2-of-8-which-articles-of-incorporation-should-my-company-use-2)
+- [3 of 4 – Selecting and protecting your company’s name](http://blog.clausehound.com/canadian-articles-of-incorporation-part-3-of-8-selecting-and-protecting-your-corporations-name-2)
+- [4 of 4 – What to consider when selecting Directors for my business?](http://blog.clausehound.com/canadian-articles-of-incorporation-part-4-of-8-what-to-consider-when-selecting-directors-for-my-business)
+
+Coming Soon!
+- Part 5  – What to consider when selecting the corporation’s share attributes?
+- Part 6 – What type of restrictions should be in place?
+- Part 7 – Other Important Information
+- Part 8 – What’s else should I consider before developing my business?
