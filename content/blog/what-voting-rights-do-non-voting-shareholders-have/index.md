@@ -52,3 +52,8 @@ Although called ‘non-voting shares’, there are certain situations where the 
 They will also be able to vote on proposed amalgamations that will affect their share class. 
 
 **In short, non-voting shareholders will have a right to vote on resolutions that will have an impact on the rights attached to their share class** (but not necessarily on all resolutions that will have a business impact on them as shareholders). The reasoning behind these exceptions is to prevent the voting shareholders from impairing the rights of the non-voting shareholders, and to prevent the voting majority from oppressing the non-voting shareholders in this way.
+
+
+**For more information, check out these blog posts**:
+- [Overview of Voting Trust](https://blog.clausehound.com/overview-of-voting-trust/)
+- [What Rights Attach to Your Shares?](https://blog.clausehound.com/what-rights-attach-to-your-shares/)
