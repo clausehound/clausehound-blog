@@ -40,3 +40,8 @@ In [our recent article entitled Authorizing vs. Allocating vs. Issuing Shares in
 - An overly broad definition of business may be detrimental to a non-competition clause.
 - An overly narrow definition of business may be detrimental to a trademark clause.
 - Although not commonly included in a fresh incorporation, incoming investors may require that the business of the corporation be stated as a matter of public record.
+
+
+**For more information, check out these blog posts**:
+- [Let Clausehound.com help you incorporate your startup!]( https://blog.clausehound.com/let-clausehound-com-help-incorporate-startup/)
+- [Businesses Need to be Concerned About Infringing the IP of Other Businesses]( https://blog.clausehound.com/businesses-need-to-be-concerned-about-infringing-the-ip-of-other-businesses/)
