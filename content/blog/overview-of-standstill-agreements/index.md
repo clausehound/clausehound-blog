@@ -1,6 +1,6 @@
 ---
 title: "Overview of Standstill Agreements"
-author: rajah@clausehound.com
+author: karina@clausehound.com
 tags: []
 date: 2020-05-22
 description: "The purpose of a standstill agreement is to “create walls” around an ongoing deal, in order to let the parties negotiate without the threat of a third party intervention."
