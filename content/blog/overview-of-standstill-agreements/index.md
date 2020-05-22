@@ -6,11 +6,11 @@ date: 2020-05-22
 description: "The purpose of a standstill agreement is to “create walls” around an ongoing deal, in order to let the parties negotiate without the threat of a third party intervention."
 ---
 
-**What Is This Document?**
+## What Is This Document?
 
 The purpose of a standstill agreement is to “create walls” around an ongoing deal, in order to let the parties negotiate without the threat of a third party intervention. While such an agreement could be used to protect any type of deal that requires an exclusive relationship, this scenario presents itself often for the purchaser of a business, who would like to protect that acquisition from the threat of other buyers.
 
-**When Would I Use It?**
+## When Would I Use It?
 
 In challenging times, for example, if there is a force majeure event that disrupts an industry (like a financial crisis, or worldwide pandemic) - it might be prudent for parties that are deep into negotiations for any exclusive arrangement (exclusive partnership, sales arrangement, vendor-purchaser arrangement) to enter into the standstill, to preserve the negotiations from a third party swooping in and replacing one of the parties.
 
@@ -18,11 +18,11 @@ To provide a more specific example: A standstill agreement would be used in the 
 
 In the example of a vendor and purchaser, receiving a standstill agreement would be a show of good faith by the potential purchaser, for significant time spent scoping a potential sale.
 
-**Who Signs This Agreement?**
+## Who Signs This Agreement?
 
 Both parties who are negotiating (the buyer and seller, or two potential partners, or a potential vendor and potential purchaser) would sign the agreement. 
 
-**What Are The Core Elements Of This Agreement?**
+## What Are The Core Elements Of This Agreement?
 
 Important clauses in a standstill agreement include:
 
