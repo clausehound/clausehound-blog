@@ -18,4 +18,4 @@ Knowledge retention is a key focus in our team’s document review and negotiati
 
 Our team has created in-house technologies to better manage our precedents and general knowledge, so that our team can retain our important work while still implementing new technologies and methodologies into other spheres of our business.
 
-***About Us:** Clausehound has created the first mobile first legal document review platform with document commenting, editing, and access to a document library completely accessible by "thumb". [Contact us to learn more!](https://calendly.com/maxmessenger/live-demo-clausehound)*
+**About Us:** Clausehound has created the first mobile first legal document review platform with document commenting, editing, and access to a document library completely accessible by "thumb". [Contact us to learn more!](https://calendly.com/maxmessenger/live-demo-clausehound)
