@@ -50,4 +50,4 @@ Transitioning to Trello was not necessarily easy though, and it’s taken a whil
 
 Working remotely is definitely a struggle, but providing our team with the right resources to get their work done comfortably and efficiently is really making a difference. If you get the chance to test out Trello, try out some of our team’s tricks or reach back out to us and let us know your own shortcuts and best practices for enhancing your team’s workflow transparency and visibility.
 
-***About Us:** Clausehound has supplied the first mobile first legal document review platform with document commenting, editing, and access to a document library completely accessible by "thumb". [Contact us to learn more!](https://calendly.com/maxmessenger/live-demo-clausehound?month=2020-05)* 
+**About Us:** Clausehound has supplied the first mobile first legal document review platform with document commenting, editing, and access to a document library completely accessible by "thumb". [Contact us to learn more!](https://calendly.com/maxmessenger/live-demo-clausehound?month=2020-05)
