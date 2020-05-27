@@ -1,6 +1,6 @@
 ---
 title: "Lessons Learned on the Hidden Bloat of AI and ML Tech"
-author: rajah@clausehound.com
+author: rajah@cobaltcounsel.com
 tags: ["Technology","Future of Work"]
 date: 2020-05-26
 description: "Whether it’s an image recognition app, a fraud detection app or many of the possible use cases for AI or ML, when picturing the “robots” that will be replacing jobs and changing industries, it’s the leanest and fittest that will survive."
