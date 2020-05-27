@@ -1,6 +1,6 @@
 ---
 title: "What's Cool: Automated Sales Teams"
-author: thomas@clausehound.com
+author: Thomas@clausehound.com
 tags: ["Technology","Future of Work"]
 date: 2020-05-26
 description: "The article, titled “The Key to a Successful Digital Sales Transformation”, written by Haley Smith, overviews some of the ways sales teams are becoming more automated in terms of follow-ups and lead fostering, among others, as well as some of the barriers companies face when bringing new tech into their sales teams."
