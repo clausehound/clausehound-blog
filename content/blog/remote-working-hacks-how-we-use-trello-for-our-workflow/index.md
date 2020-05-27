@@ -1,6 +1,6 @@
 ---
 title: "Remote Working Hacks - How We Use Trello for Our Workflow "
-author: thomas@clausehound.com
+author: Thomas@clausehound.com
 tags: ["Clausehound"]
 date: 2020-05-26
 description: "One of the tools that our team’s taking advantage of to better transition to remote working is Trello, and we’ve learned a lot about team-based workflow through our experience with it."
