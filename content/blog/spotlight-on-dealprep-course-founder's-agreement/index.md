@@ -2,7 +2,7 @@
 title: "Spotlight on DealPrep Course - Founder's Agreement"
 author: Thomas@clausehound.com
 tags: ["DealPrep", "Founder's Agreement"]
-date: Fri May 29 2020 10:58:28 GMT-0400 (Eastern Daylight Time)
+date: 2020-05-29
 description: "This edition of our DealPrep Spotlight focuses on our Founders’ Agreement workshop, where participants assume the positions of two founders of a health tech startup, and negotiate a variety of business law concepts such as, intellectual property rights, time commitment, starting capital, management duties and ownership percentages."
 ---
 
