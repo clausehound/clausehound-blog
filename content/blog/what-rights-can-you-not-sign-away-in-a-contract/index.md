@@ -13,7 +13,8 @@ Small Business Law Library
 ---
 
 [https://pixabay.com/en/signature-sign-writing-pen-author-389933/](https://pixabay.com/en/signature-sign-writing-pen-author-389933/)
-**Links from this article:**[IP Transfer Agreement](https://clausehound.com/legal-contract/14981#!/document=)[Software Development Agreement](https://clausehound.com/legal-contract/16201)[Non-Disclosure Agreement](https://clausehound.com/legal-contract/15656)[Small Business Law Library](https://clausehound.com/small-business-law-library/)
+
+**Links from this article:** [IP Transfer Agreement](https://clausehound.com/legal-contract/14981#!/document=)[Software Development Agreement](https://clausehound.com/legal-contract/16201)[Non-Disclosure Agreement](https://clausehound.com/legal-contract/15656)[Small Business Law Library](https://clausehound.com/small-business-law-library/)
 
 The power to contract is extremely broad, but that doesn’t mean the power is limitless. You can’t contract to perform illegal activities and you certainly can’t contract away constitutional rights. Contracts won’t be enforceable if they’re unconscionable and, in making enforceability determinations, courts give significant weight to public policy.
 
@@ -25,18 +26,21 @@ Two examples of such public policy considerations relevant to many commercial ag
 
  
 
-***Moral rights***: an author’s rights to attribution, integrity, and association of his or her work.
+***Moral rights***: An author’s rights to attribution, integrity, and association of his or her work.
 
  
 
 Moral rights prohibit other people from distorting or modifying the work to the prejudice of the author. As a result, only the author may have these rights, and they cannot be assigned to anyone else. However, by waiving those rights in a contract, an author can promise not to use those moral rights against others.
-** **
+
+
+
 If other IP rights in the work have been transferred to you, depending on how you intend to use the work, the author’s moral rights may need to be waived. For example, if you intend to conduct research, a waiver of the moral rights would allow you to use the material as a part of a bigger project. If moral rights are not waived, any integration or modification to the author’s material would be an infringement of the author’s moral rights.
 
  
 
 To avoid liability and ensure that you have complete rights to use the work of the author, **a standard moral rights clause should be included in any IP agreement**. For example, most software development agreements will include a moral rights waiver clause in addition to an assignment of IP clause.
 ** **[Source](https://pixabay.com/en/law-justice-court-judge-legal-1063249/)
+** **
 **2. Right to Economic Competition: Non-Disclosure, Non-Solicit, & Non-Compete**
 
  
@@ -50,6 +54,7 @@ At the same time, the courts have tried to balance  ‘restraints on trade’ wi
  
 
 The enforceability of the ‘restrictive covenants’ clauses: **non-disclosure** (of confidential information), **non-solicitation** (of employees or customers or business opportunities), and **non-competition** (with the business of the company), will depend on whether the particular clause is too restrictive.
+
 
 For example, a temporary restriction on competition might be justified in order to prohibit an employee from using knowledge about the employer to unfairly take advantage of the employer and to cause injury to the employer’s business, but a restriction that goes so far as to make it impossible for the individual former employee to earn a living in their chosen profession will not likely be enforced.
 
@@ -70,7 +75,7 @@ If you choose to include a restrictive covenant in a contract with another party
 
  
 
-Clauses of this nature can be found in a variety of agreements, such as
+Clauses of this nature can be found in a variety of agreements, such as:
 
 - [intellectual property transfer agreements](https://clausehound.com/legal-contract/14981#!/document=),
 - [software development agreements](https://clausehound.com/legal-contract/16201), and
