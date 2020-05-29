@@ -16,4 +16,6 @@ In this simulation, participants pay particular attention to various negotiation
 * **Experience and Time Commitment:** Because the founders have different experience levels in their field, as well as different professional specialties, they’ll need to decide how much time commitment each founder will invest in the company. Participants will need to negotiate each founders’ time commitment based on their experience level, type of professional experience, and what’s considered most valuable to the company’s growth.
 * **Intellectual Property:** One of the founders developed the company’s IP, one of the founders is funding all of the associated fees with trademarking and patenting. Participants will need to leverage other negotiation terms to come to an agreement on who the IP is assigned to.
 
-Participants leave the workshop with a heightened understanding of founders’ agreements and how they can be negotiated in practice. [Contact us](https://calendly.com/maxmessenger/30) to learn more about this workshop and our library of over 85 different topics!
+Participants leave the workshop with a heightened understanding of founders’ agreements and how they can be negotiated in practice.
+
+[Contact us](https://calendly.com/maxmessenger/30) to learn more about this workshop and our library of over 85 different topics!
