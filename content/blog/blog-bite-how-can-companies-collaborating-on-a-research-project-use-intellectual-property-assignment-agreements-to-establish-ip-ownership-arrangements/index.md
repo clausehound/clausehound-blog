@@ -3,9 +3,7 @@ title: "Blog Bite: How can companies collaborating on a research project use int
 author: alina@clausehound.com
 tags: ["Intellectual Property","Technology","Payment Terms","Ownership of Intellectual Property","Intellectual Property Transfer","Agreements","IP Transfer","Blog Bites","Mondaq","Canada (General)"]
 date: 2017-02-02 16:52:49
-description: "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
-
-This article posted on our partner site Mondaq.com discusses the importance of executing Intellectual Property assignment agree..."
+description: "This article posted on our partner site Mondaq.com discusses the importance of executing Intellectual Property assignment agreement when companies collaborate on research projects."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/564768/Patent/Creative+Collaboration+Agreements+That+Work) discusses the importance of executing Intellectual Property assignment agreements when companies collaborate on research projects.
