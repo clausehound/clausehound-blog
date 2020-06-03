@@ -21,7 +21,7 @@ The power to contract is extremely broad, but that doesn’t mean the power is l
  
 
 Two examples of such public policy considerations relevant to many commercial agreements deal with (i) an author’s moral rights; and (ii) each person’s right to compete in the marketplace.
-** **
+
 **1. Moral Rights**
 
  
@@ -40,7 +40,7 @@ If other IP rights in the work have been transferred to you, depending on how yo
 
 To avoid liability and ensure that you have complete rights to use the work of the author, **a standard moral rights clause should be included in any IP agreement**. For example, most software development agreements will include a moral rights waiver clause in addition to an assignment of IP clause.
 ** **[Source](https://pixabay.com/en/law-justice-court-judge-legal-1063249/)
-** **
+
 **2. Right to Economic Competition: Non-Disclosure, Non-Solicit, & Non-Compete**
 
  
