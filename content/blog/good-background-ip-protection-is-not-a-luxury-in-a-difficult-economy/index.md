@@ -14,9 +14,11 @@ The recent economic upheavals in the Chinese economy have had a dramatic global 
 
 Minerals in the ground are not the only resources that can be developed and sold. Mining companies often have a wealth of unrecognized IP stored in the form of design improvements to equipment, internally developed equipment, and internally generated software. Recognizing and creating inventories of these assets is the first step. Obtaining good legal advice to develop background IP licensing agreements is the second step. The third step is to market this IP to potential licensees.
 
-[Read the article here.](http://www.miningaustralia.com.au/features/industry-q-a-are-you-protecting-your-technology-r)**Take away:**
+[Read the article here.](http://www.miningaustralia.com.au/features/industry-q-a-are-you-protecting-your-technology-r)
+
+**Take away:**
 - Protecting your background IP helps to maximize the value of business assets, which is especially important in tough economic times.
 
  
 
-Are you a Startup Company looking for discounted legal services? Check out our partnership with Black Letter Law lawyers[ here!](http://blackletterlaw.ca/)
+Are you a Startup Company looking for discounted legal services? Check out our partnership with Black Letter Law lawyers[here!](http://blackletterlaw.ca/)
