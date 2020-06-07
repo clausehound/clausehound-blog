@@ -13,5 +13,5 @@ Under US patent law, a FRAND technology (fair, reasonable, and nondiscriminatory
 
 This article concerns a lawsuit between Apple and Ericsson. The companies were in disagreement about whether the Ericsson LTE technology in Apple’s products is essential to cellular operation, and were in dispute over the fairness of a FRAND license extension Apple was expected to sign.
 
-[Read the article here.](http://www.cnet.com/news/apple-ericsson-trade-legal-shots-over-patent-royalties/)**Take away:**
+[Read the article here.](http://www.cnet.com/news/apple-ericsson-trade-legal-shots-over-patent-royalties/) **Take away:**
 - It is important for both licensors and licensees of patented IP to determine whether the IP is standard and essential to the ongoing operation of a particular product, and thus covered by the FRAND provisions of US patent law.
