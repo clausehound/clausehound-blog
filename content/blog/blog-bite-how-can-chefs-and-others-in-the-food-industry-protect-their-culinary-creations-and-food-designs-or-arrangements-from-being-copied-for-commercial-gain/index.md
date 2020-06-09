@@ -8,7 +8,7 @@ description: "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
 This article posted on our partner site Mondaq.com discusses an ever-increasing legal issue in the food industry: whether chefs..."
 ---
 
-<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->[This article posted on our partner site Mondaq.com](https://www.mondaq.com/unitedstates/trademark/504242/eat-your-art-out-intellectual-property-protection-for-food) discusses an ever-increasing legal issue in the food industry: whether chefs and others in the food industry can use legal means to prevent others from copying their, often iconic, food designs and arrangements for commercial gain. 
+[This article posted on our partner site Mondaq.com](https://www.mondaq.com/unitedstates/trademark/504242/eat-your-art-out-intellectual-property-protection-for-food) discusses an ever-increasing legal issue in the food industry: whether chefs and others in the food industry can use legal means to prevent others from copying their, often iconic, food designs and arrangements for commercial gain. 
 
 The author notes that, for instance, copyright law can protect a chef’s culinary creation as an original, creative expression, but only if it has highly creative features separable from its features as a useful article. Other, but perhaps more difficult, means of legally protecting culinary creations include patent law, trade secret, and intellectual property law.
 
