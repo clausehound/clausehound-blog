@@ -3,9 +3,7 @@ title: "Legal Tips and Tricks: Negotiating an Agreement Should Start with a Blan
 author: rajah@cobaltcounsel.com
 tags: ["Intellectual Property","Confidentiality","Long Form","Term Sheet","Independent Legal Advice","Contract Drafting","Contract Negotiations","Commercial Activities","Rajah","Share Purchase Agreement"]
 date: 2013-09-30 17:18:17
-description: "Last Updated:  January 2018
-
-When entering into an important contract, take the time to discuss with your business partners, advisors and legal counsel, to make sure that you are clear about your oppo..."
+description: "In this article, we describe four (4) simple steps to follow to make sure that your interests are protected when drafting a term sheet."
 ---
 
 Last Updated:  January 2018
