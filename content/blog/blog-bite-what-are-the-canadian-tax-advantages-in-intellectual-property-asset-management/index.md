@@ -3,7 +3,7 @@ title: "Blog Bite: What are Canadian tax considerations in intellectual property
 author: alina@clausehound.com
 tags: ["Intellectual Property","Tax","Technology","Acquisition","Taxation","Small Business Corner","IP Transfer","Blog Bites","Mondaq","Canada (General)"]
 date: 2007-10-31 18:30:07
-description: "This article posted on our partner site Mondaq.com explores ways in which a comprehensive intellectual property management program creates new opportunities for cost savings, tax efficiencies, an..."
+description: "This article posted on our partner site Mondaq.com explores ways in which a comprehensive intellectual property management program creates new opportunities for cost savings, tax efficiencies, and competitive advantage."
 ---
 
  
