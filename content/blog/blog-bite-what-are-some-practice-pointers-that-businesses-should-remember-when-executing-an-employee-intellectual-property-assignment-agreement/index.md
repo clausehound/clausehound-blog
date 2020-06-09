@@ -3,7 +3,7 @@ title: "Blog Bite: What are some practice pointers that businesses should rememb
 author: alina@clausehound.com
 tags: ["Intellectual Property","Employment Agreement","Technology","Assignment","Ownership of Intellectual Property","Blog Bites","Mondaq","USA"]
 date: 2012-07-25 17:01:55
-description: "This article posted on our partner site Mondaq.com provides practice pointers for employers executing Employee Intellectual Property Assignment Agreements. The author uses a US Federal Circuit de..."
+description: "This article posted on our partner site Mondaq.com provides practice pointers for employers executing Employee Intellectual Property Assignment Agreements."
 ---
 
  
