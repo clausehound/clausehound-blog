@@ -3,7 +3,7 @@ title: "Blog Bite: In what case would aggressive patent management trigger the s
 author: alina@clausehound.com
 tags: ["Intellectual Property","Technology","Business","Acquisition","Ownership of Intellectual Property","Definition of Intellectual Property","Intellectual Property Transfer","Small Business Corner","IP Transfer","Blog Bites","Mondaq","Canada (General)"]
 date: 2015-06-19 18:39:07
-description: "This article posted on our partner site Mondaq.com is helpful in understanding the role Competition Bureau plays in the enforcement of intellectual property rights. Specifically, this article discus..."
+description: "This article posted on our partner site Mondaq.com is helpful in understanding the role Competition Bureau plays in the enforcement of intellectual property rights."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/405918/Patent/Competition+Bureau+Releases+Draft+Update+Of+Intellectual+Property+Enforcement+Guidelines+Addressing+Conduct+Involving+Patent+Assertion+Entities+And+Industry+Standard+Patents) is helpful in understanding the role Competition Bureau plays in the enforcement of intellectual property rights.
