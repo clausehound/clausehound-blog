@@ -3,7 +3,7 @@ title: "Blog Bite: Legal challenges and recourses for designers and manufacturer
 author: alina@clausehound.com
 tags: ["Intellectual Property","Technology","Trademark Registration","Transfer of Intellectual Property","Blog Bites","Mondaq","USA"]
 date: 2015-04-15 17:26:46
-description: "This article posted on our partner site Mondaq.com  discusses the intellectual property challenges for designers and manufacturers of products amidst the advancements of 3D printing technology. The..."
+description: "This article posted on our partner site Mondaq.com  discusses the intellectual property challenges for designers and manufacturers of products amidst the advancements of 3D printing technology."
 ---
 
 [This article posted on our partner site Mondaq.com](https://www.mondaq.com/unitedstates/trademark/389148/ip-strategies-for-the-rise-of-3d-printing) discusses the intellectual property challenges for designers and manufacturers of products amidst the advancements of 3D printing technology.
