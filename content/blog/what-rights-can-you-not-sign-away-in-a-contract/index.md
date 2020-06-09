@@ -3,13 +3,7 @@ title: "What rights can you not sign away in a contract?"
 author: frahman@cobaltcounsel.com
 tags: ["Intellectual Property","NDA","Intellectual Property Transfer","Master Services Agreement","Software Development","frahman","IP Transfer","Learn","All Jurisdictions"]
 date: 2017-05-05 11:00:51
-description: "Links from this article:
-IP Transfer Agreement
-Software Development Agreement
-Non-Disclosure Agreement
-Small Business Law Library
-
-[insert page='CTA 1: INTELLECTUAL PROPERTY TRANSFER' display='cont..."
+description: "Contracts won’t be enforceable if they’re unconscionable and, in making enforceability determinations, courts give significant weight to public policy."
 ---
 
 [https://pixabay.com/en/signature-sign-writing-pen-author-389933/](https://pixabay.com/en/signature-sign-writing-pen-author-389933/)
