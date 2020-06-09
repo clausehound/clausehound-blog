@@ -3,7 +3,7 @@ title: "Blog Bite: Do you understand the nature of the IP that is being transfer
 author: rajah@cobaltcounsel.com
 tags: ["Intellectual Property","Definition of Intellectual Property","Licence Restrictions","Grant of Licence","Commercial Activities","Rajah","IP Transfer"]
 date: 2016-01-23 14:10:00
-description: "This article discusses considerations include the use granted, territory, term, exclusivity, revocability, sub-licensing, termination, exclusivity and non-exclusivity, among others."
+description: "This article discusses considerations including the use granted, territory, term, exclusivity, revocability, sub-licensing, termination, exclusivity and non-exclusivity, among others."
 ---
 
 **Links from this article:** [Read the article here.](http://www.lexology.com/library/detail.aspx?g=3a05b0c6-43a5-43a2-90ba-87859d5d810e)
@@ -14,7 +14,7 @@ Once the form of IP involved has been identified, then it is possible to include
 
 Careful attention should be given to the rights the licensee wishes to obtain, and the rights the licensor wishes to retain when drafting the grant of the licence. The business objectives and outcomes of both parties will help to determine the scope of the licence.
 
-This article discusses considerations include the use granted, territory, term, exclusivity, revocability, sub-licensing, termination, exclusivity and non-exclusivity, among others.
+This article discusses considerations including the use granted, territory, term, exclusivity, revocability, sub-licensing, termination, exclusivity and non-exclusivity, among others.
 
 
 **Take away:**
