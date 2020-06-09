@@ -3,7 +3,7 @@ title: "IP Transfer Agreements Should Carefully Define the IP to Be Transferred"
 author: rajah@cobaltcounsel.com
 tags: ["Intellectual Property","Definition of Intellectual Property","Intellectual Property Transfer","Commercial Activities","Rajah","IP Transfer"]
 date: 2015-06-06 00:00:00
-description: "Links from this article:Read the article here.Who among us has not been tempted to enter a contest to win fabulous prizes?..."
+description: "This article is about the Official Rules and Regulations of the Flip-Flop Friday contest sponsored by CTV Regina."
 ---
 
 **Links from this article:**
