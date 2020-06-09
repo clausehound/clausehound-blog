@@ -36,7 +36,8 @@ If other IP rights in the work have been transferred to you, depending on how yo
  
 
 To avoid liability and ensure that you have complete rights to use the work of the author, **a standard moral rights clause should be included in any IP agreement**. For example, most software development agreements will include a moral rights waiver clause in addition to an assignment of IP clause.
-** **[Source](https://pixabay.com/en/law-justice-court-judge-legal-1063249/)
+[Source](https://pixabay.com/en/law-justice-court-judge-legal-1063249/)
+
 **2. Right to Economic Competition: Non-Disclosure, Non-Solicit, & Non-Compete**
 
  
