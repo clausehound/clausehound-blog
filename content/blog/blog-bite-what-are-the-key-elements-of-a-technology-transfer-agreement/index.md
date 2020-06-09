@@ -3,9 +3,7 @@ title: "Blog Bite: What are the key elements of a Technology Transfer Agreement?
 author: alina@clausehound.com
 tags: ["Intellectual Property","Technology","Start-up","Payment Terms","Agreements","Termination Agreement","Intellectual Property Licensing Agreement","Blog Bites","Royalties","Mondaq","USA"]
 date: 1999-11-02 16:42:03
-description: "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
-
-This article posted on our partner site Mondaq.com discusses the importance of properly incorporating clear and unambiguous tec..."
+description: "This article posted on our partner site Mondaq.com discusses the importance of properly incorporating clear and unambiguous technology transfer and license elements in a Technoloy Transfer Agreement.
 ---
 
 [This article posted on our partner site Mondaq.com](https://www.mondaq.com/unitedstates/patent/7871/the-anatomy-of-a-technology-transfer-agreement) discusses the importance of properly incorporating clear and unambiguous technology transfer and license elements in a Technology Transfer Agreement.
