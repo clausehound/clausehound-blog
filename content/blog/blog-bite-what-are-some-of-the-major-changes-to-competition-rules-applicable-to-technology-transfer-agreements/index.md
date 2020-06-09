@@ -3,9 +3,7 @@ title: "Blog Bite: What are some of the major changes to competition rules appli
 author: alina@clausehound.com
 tags: ["Intellectual Property","Technology","Intellectual Property Transfer","Termination Agreement","IP Transfer","Blog Bites","Mondaq","UK"]
 date: 2014-06-23 17:47:05
-description: "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
-
-This article posted on our partner site Mondaq.com outlines the major changes to the competition laws and rules which came into..."
+description: "This article posted on our partner site Mondaq.com outlines the major changes to the competition laws and rules which came into effect in 2014 that apply to technology transfer agreements."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/x/322450/Licensing+Syndication/The+New+Competition+Regime+For+Technology+Transfer+Agreements) outlines the major changes to the competition laws and rules which came into effect in 2014 that apply to technology transfer agreements.
