@@ -3,7 +3,7 @@ title: "Non-Transferable Digital Assets and Death: A New Legal Issue"
 author: rajah@cobaltcounsel.com
 tags: ["Termination","Intellectual Property","Transfer of Intellectual Property","Commercial Activities","Rajah"]
 date: 2015-07-06 00:00:00
-description: "Links from this article:Read the article here.A novel legal issue has arisen: authority over administering the digital assets and accounts..."
+description: "This article discusses the UFADAA, a model US statute that aims to make online websites require confirmation by the account holder that they agree to limit their digital assets in accordance with the user agreement."
 ---
 
 **Links from this article:**
