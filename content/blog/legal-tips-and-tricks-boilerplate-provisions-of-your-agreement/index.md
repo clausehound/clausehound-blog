@@ -3,13 +3,7 @@ title: "Legal Tips and Tricks: Boilerplate Provisions Of Your Agreement"
 author: rajah@cobaltcounsel.com
 tags: ["Intellectual Property","Long Form","Costs and Expenses","Assignment","Dispute Resolution","Generally Used Clauses","Headings","Counterparts","Entire Agreement","Enurement","Amendment","Severability","No Waiver","Commercial Activities","Rajah"]
 date: 2013-06-13 17:21:58
-description: "Links from this article:
-www.clausehound.com
-here
-
-
-
-Don’t ignore the boilerplate provisions of your agreements.  Although the language appears the s..."
+description: "Although the language appears the same every time you read these clauses, subtle differences can and will make a difference in interpreting your commercial agreement or acquisition transaction documents."
 ---
 
 **Links from this article:** [www.clausehound.com](http://www.clausehound.com/) [here](http://clausehound.com/generally-used-clauses/)
