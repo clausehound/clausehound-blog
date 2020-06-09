@@ -3,7 +3,7 @@ title: "Blog Bite: Learn more about the 'fast track patent program'"
 author: alina@clausehound.com
 tags: ["Intellectual Property","Investors","Technology","Start-up","Business","Blog Bites","Mondaq","USA","Canada (General)"]
 date: 2013-10-01 17:25:38
-description: "This article posted on our partner site Mondaq.com provides a brief description on how the clean technology is emerging into a global industry. The 'fast track patent program' implemented in countrie..."
+description: "This article posted on our partner site Mondaq.com provides a brief description on how the clean technology is emerging into a global industry."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/266194/Patent/Clean+Technology+Global+Industry+Snapshot+and+IP+Trends) provides a brief description on how the clean technology is emerging into a global industry.
