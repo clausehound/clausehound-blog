@@ -3,20 +3,9 @@ title: "A business deal gone Nashty: basketball legend files for gyms to stop us
 author: jenny@clausehound.com
 tags: ["Intellectual Property","Business","Ownership of Intellectual Property","Commercial Activities","Jenny"]
 date: 2016-11-14 12:53:31
-description: "Links from this article:
-Keith Allison / Flickr 
-a recent court case
-filing a civil claim
-Source
-
-
-
-
-Have you ever heard of Steve Nash? Sound familiar..."
+description: "The NBA legend, Steve Nash, was an eight-time All-Star and retired last year with plenty of celebrity leftover, and now that fame is the subject of a recent court case"
 ---
 
-
-**Links from this article:** [a recent court case](http://bc.ctvnews.ca/steve-nash-wants-his-name-removed-from-21-b-c-gyms-1.3121810)  [filing a civil claim.](http://www.cbc.ca/news/canada/british-columbia/steve-nash-suing-former-business-parnters-1.3277691)
 
 Have you ever heard of Steve Nash? Sound familiar? That’s because we all know him as one of Canada’s finest, a basketball player from Victoria, B.C. who made it big in the mid-’00s playing for the Phoenix Suns. The NBA legend was an eight-time All-Star and retired last year with plenty of celebrity leftover, and now that fame is the subject of [a recent court case](http://bc.ctvnews.ca/steve-nash-wants-his-name-removed-from-21-b-c-gyms-1.3121810). Nash has been in the news for [filing a civil claim](http://www.cbc.ca/news/canada/british-columbia/steve-nash-suing-former-business-parnters-1.3277691) against some of his former business partners from a past business venture related to gyms. He wants his name and face removed from the front of [Steve Nash Fitness World & Sports Club.](http://www.snclubs.com/)
 
