@@ -3,14 +3,8 @@ title: "Can a competitor use my trademark on their website for comparative prici
 author: frahman@cobaltcounsel.com
 tags: ["Intellectual Property","Trademark Registration","Ownership of Intellectual Property","Commercial Activities","frahman"]
 date: 2016-01-05 12:35:06
-description: "Links from this article:Moogsi / Wikipedias. 22 of theFuture Shop Ltd. v. A.& B. Sound Ltd. (1994) (BCSC)Walter Lim / Flickr
-
-Moogsi / Wik..."
+description: "Many websites use numerous brand names to compare pricing of each company’s products. Issues may arise when such ‘price-comparison’ websites are using other companies’ trademark names or designs. How is a trademark protected?"
 ---
-
-**Links from this article:**
-[s. 22 of the Trademarks Act](http://laws-lois.justice.gc.ca/eng/acts/t-13/page-6.html#h-6)
-[Future Shop Ltd. v. A.& B. Sound Ltd. (1994) (BCSC).](http://www.canlii.org/en/bc/bcsc/doc/1994/1994canlii1068/1994canlii1068.html?searchUrlHash=AAAAAQApImNvbXBhcmF0aXZlIGFkdmVydGlzaW5nIiBhbmQgInRyYWRlbWFyayIAAAAAAQ&amp;resultIndex=3)
 
 
 Many websites use numerous brand names to compare pricing of each company’s products. Issues may arise when such ‘price-comparison’ websites are using other companies’ trademark names or designs. How is a trademark protected?
