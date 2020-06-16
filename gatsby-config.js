@@ -9,7 +9,7 @@ module.exports = {
     },
   },
   plugins: [
-    'gatsby-plugin-typescript',
+    "gatsby-plugin-typescript",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -56,6 +56,53 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
+      resolve: `gatsby-plugin-csv-feed`,
+      options: {
+        query: `
+        {
+          site {
+            siteMetadata {
+              title
+              description
+              siteUrl
+              site_url: siteUrl
+            }
+          }
+        }
+        `,
+        feeds: [
+          {
+            query: `
+          {
+            allMarkdownRemark(
+              sort: { fields: [frontmatter___date], order: DESC }
+              limit: 65535
+            ) {
+              edges {
+                node {
+                  fields {
+                    slug
+                  }
+                  frontmatter {
+                    title
+                    date
+                    tags
+                  }
+                }
+              }
+            }
+          }`,
+            serialize: ({ query: { site, allMarkdownRemark } }) =>
+              allMarkdownRemark.edges.map(edge => ({
+                ...edge.node.frontmatter,
+                url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
+              })),
+            output: "/blog-feed.csv",
+          },
+        ],
+      },
+    },
+    {
       resolve: `gatsby-plugin-feed`,
       options: {
         query: `
@@ -70,8 +117,9 @@ module.exports = {
           }
         }
         `,
-        feeds: [{
-          query: `
+        feeds: [
+          {
+            query: `
           {
             allMarkdownRemark(
               sort: { fields: [frontmatter___date], order: DESC }
@@ -91,12 +139,14 @@ module.exports = {
               }
             }
           }`,
-          serialize: ({ query: { site, allMarkdownRemark } }) => allMarkdownRemark.edges.map(edge => ({
-            ...edge.node.frontmatter,
-            url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
-          })),
-          output: "/rss.xml",
-        }],
+            serialize: ({ query: { site, allMarkdownRemark } }) =>
+              allMarkdownRemark.edges.map(edge => ({
+                ...edge.node.frontmatter,
+                url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
+              })),
+            output: "/rss.xml",
+          },
+        ],
       },
     },
     `gatsby-plugin-material-ui`,
@@ -131,11 +181,11 @@ module.exports = {
     {
       resolve: "gatsby-plugin-netlify-cache",
       options: {
-        cachePublic: true
-      }
+        cachePublic: true,
+      },
     },
   ],
   mapping: {
-    'MarkdownRemark.frontmatter.author': `AuthorJson`,
+    "MarkdownRemark.frontmatter.author": `AuthorJson`,
   },
-}
+};
