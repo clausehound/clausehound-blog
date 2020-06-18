@@ -6,6 +6,12 @@ date: 2020-05-22
 description: "The purpose of a standstill agreement is to “create walls” around an ongoing deal, in order to let the parties negotiate without the threat of a third party intervention."
 ---
 
+**<a href="https://www.clausehound.com/legal-contract/standstill-agreement-1?utm_medium=email&_hsmi=2&_hsenc=p2ANqtz-9XNifRR2MzARdoYKRuouLe_sdg_lBOq6_n_LL8I-t9gYT5zF7uB5JlDl_mbYo_753RjSogdqHte_kxPeroZEklf8jxVw&utm_content=2&utm_source=hs_email" target="_blank">Click here</a> to access and download a free Standstill Agreement template! Be sure to click on the clause bubbles to access our Knowledge Materials and Founder Q&A**
+
+**If you currently have a license to our platform, you'll also be able to access our entire template and knowledge library.**
+
+**Don't have an account yet? <a href="https://www.dealprep.co/pricing/" target="_blank">Click here</a> to register for a $50/year unlimited license and gain access to our entire library of contract templates, Knowledge Materials and Knowledge Helpdesk!**
+
 ## What Is This Document?
 
 The purpose of a standstill agreement is to “create walls” around an ongoing deal, in order to let the parties negotiate without the threat of a third party intervention. While such an agreement could be used to protect any type of deal that requires an exclusive relationship, this scenario presents itself often for the purchaser of a business, who would like to protect that acquisition from the threat of other buyers.
