@@ -2,7 +2,7 @@ We’ve heard from a number of our customers that the process of sales automatio
 
 Here are some things we learned from our CRM transformation:
 
-##Start with an MVP
+Start with an MVP
 
 We used the same process for transforming our sales team as we did for building our company’s core legal deal workflow technology. At Clausehound, we’ve spent years creating taxonomies and technology to scale deep legal, deal-closing knowledge, and we felt like the process of sketching out a rollout plan could be similar. Legal deal-closing software has a lot of parallels with sales technology. The process of closing legal deals or sales deals was historically managed by people with deep subject matter experience - sales transformation software aims to capture that experience and share it (and scale it). 
 
