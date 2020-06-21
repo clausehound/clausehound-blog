@@ -1,3 +1,11 @@
+---
+title: "CRM Transformation - From Spreadsheet to Scaling"
+author: rajah@clausehound.com
+tags: []
+date: Sun Jun 21 2020 09:57:59 GMT-0400 (Eastern Daylight Time)
+description: "CRMs are sticky for a reason, and we’ve recently gone through the process of migrating from one popular CRM to another, and have decided to break down our CRM needs to the most basic visualization first - through spreadsheets."
+---
+
 We’ve heard from a number of our customers that the process of sales automation is a difficult transformation when a team’s already grounded in their existing processes. CRMs are sticky for a reason, and we’ve recently gone through the process of migrating from one popular CRM to another, and have decided to break down our CRM needs to the most basic visualization first - through spreadsheets.   
 
 Here are some things we learned from our CRM transformation:
