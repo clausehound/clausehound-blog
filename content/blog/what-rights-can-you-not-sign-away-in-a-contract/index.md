@@ -3,7 +3,7 @@ title: "What rights can you not sign away in a contract?"
 author: frahman@cobaltcounsel.com
 tags: ["Intellectual Property","NDA","Intellectual Property Transfer","Master Services Agreement","Software Development","frahman","IP Transfer","Learn","All Jurisdictions"]
 date: 2017-05-05 11:00:51
-description: ""
+description: "Contracts won’t be enforceable if they’re unconscionable and, in making enforceability determinations, courts give significant weight to public policy."
 ---
 
 
@@ -12,6 +12,7 @@ The power to contract is extremely broad, but that doesn’t mean the power is l
 
 Two examples of such public policy considerations relevant to many commercial agreements deal with (i) an author’s moral rights; and (ii) each person’s right to compete in the marketplace.
 
+
 ### 1. Moral Rights
 
 Moral rights prohibit other people from distorting or modifying the work to the prejudice of the author. As a result, only the author may have these rights, and they cannot be assigned to anyone else. However, by waiving those rights in a contract, an author can promise not to use those moral rights against others.
@@ -19,6 +20,7 @@ Moral rights prohibit other people from distorting or modifying the work to the 
 If other IP rights in the work have been transferred to you, depending on how you intend to use the work, the author’s moral rights may need to be waived. For example, if you intend to conduct research, a waiver of the moral rights would allow you to use the material as a part of a bigger project. If moral rights are not waived, any integration or modification to the author’s material would be an infringement of the author’s moral rights.
 
 To avoid liability and ensure that you have complete rights to use the work of the author, **a standard moral rights clause should be included in any IP agreement**. For example, most software development agreements will include a moral rights waiver clause in addition to an assignment of IP clause.
+
 
 ### 2. Right to Economic Competition: Non-Disclosure, Non-Solicit, & Non-Compete**
 
