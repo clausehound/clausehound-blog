@@ -6,9 +6,6 @@ date: 2015-07-06 00:00:00
 description: "This article discusses the UFADAA, a model US statute that aims to make online websites require confirmation by the account holder that they agree to limit their digital assets in accordance with the user agreement."
 ---
 
-**Links from this article:**
-[Read the article here.](http://www.natlawreview.com/article/fiduciary-access-to-digital-assets-and-accounts-uniform-fiduciary-access-to-digital-)
-
 A novel legal issue has arisen: authority over administering the digital assets and accounts of an account holder upon death or disability.
 
 This article discusses the UFADAA, a model US statute that aims to make online websites require confirmation by the account holder that they agree to limit their digital assets in accordance with the user agreement. If they do not send the confirmation, the relevant provisions of the user agreement will be void as against public policy. The notice must be by a certified copy of the confirmation form.
