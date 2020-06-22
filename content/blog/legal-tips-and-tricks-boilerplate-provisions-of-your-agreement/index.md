@@ -60,4 +60,5 @@ Not everyone is always able to be in the same room at the same time to sign an a
 
 These are but a few of the commonly used clauses that are found in the General Matters section of most contracts.  
 
-Check out [www.clausehound.com](http://www.clausehound.com/) – a free source for legal language (which I am a contributor to).  Bookmark [here](http://clausehound.com/generally-used-clauses/) for a list of generally used clauses with sample language provided, and do a quick double-check before signing your contracts to see if you have missed any standard clauses.
+Check out [www.clausehound.com](http://www.clausehound.com/) – a free source for legal language (which I am a contributor to).  
+Bookmark [here](http://clausehound.com/generally-used-clauses/) for a list of generally used clauses with sample language provided, and do a quick double-check before signing your contracts to see if you have missed any standard clauses.
