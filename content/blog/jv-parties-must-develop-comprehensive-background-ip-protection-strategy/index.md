@@ -3,11 +3,9 @@ title: "JV Parties Must Develop Comprehensive Background IP Protection Strategy"
 author: rajah@cobaltcounsel.com
 tags: ["Intellectual Property","Proprietary Rights","Licence Restrictions","Grant of Licence","Commercial Activities","Rajah"]
 date: 2015-05-31 00:00:00
-description: "Links from this article:Read the article here.Joint ventures (JV) have lower capital costs than 100% acquisitions, which makes them increasingl..."
+description: "Joint ventures (JV) have lower capital costs than 100% acquisitions, which makes them increasingly popular during times of economic uncertainty, however JV partners are likely to be actual or potential competitors."
 ---
 
-**Links from this article:**
-[Read the article here.](http://www.metrocorpcounsel.com/articles/12614/technology-and-ip-focused-joint-ventures-collaborations-alliances-part-i)
 
 Joint ventures (JV) have lower capital costs than 100% acquisitions, which makes them increasingly popular during times of economic uncertainty. JV partners however, are likely to be actual or potential competitors. This has important implications for how one shares IP with a JV partner, and for what happens to jointly developed IP when the JV folds. Who will own background IP on termination of the JV? Will a partner or 3rd party have continuing access to the IP post termination?
 
