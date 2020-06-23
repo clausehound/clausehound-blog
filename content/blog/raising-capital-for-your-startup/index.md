@@ -37,6 +37,7 @@ The **Simple Agreement for Future Equity (SAFE)** functions like a convertible l
  
 
 **Takeaways:**
+
 - Consult an experienced financial advisor to establish a realistic valuation of your corporation.
 - Determine how much voting control you are willing to give up when planning an equity raise.
 - Use a *term sheet* to organize and negotiate the basics of your financing deal, and review this term sheet with your advisors before committing to specific terms.
