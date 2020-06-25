@@ -8,6 +8,6 @@ description: "This article posted on our partner site Mondaq.com explains the co
 This comes to you..."
 ---
 
-[This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/513060/Shareholders/Do+I+Need+A+Shareholders+Agreement) explains the common clauses that are found in a shareholders' agreement and how they are beneficial in the event it is required.
+[This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/shareholders/513060/do-i-need-a-shareholders39-agreement) explains the common clauses that are found in a shareholders' agreement and how they are beneficial in the event it is required.
 
 This comes to you as a part of Clausehound's exciting new collaboration with Mondaq!
