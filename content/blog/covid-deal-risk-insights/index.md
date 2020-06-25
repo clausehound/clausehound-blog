@@ -8,7 +8,7 @@ description: "Some of the deal risk insights our team’s learned from working i
 
 Some of the deal risk insights our team’s learned from working in the deal automations space during COVID-19. Many of these are commonly known, our team has just spent a lot of time reflecting on these items and how our industry’s changing.
 
-Research and development pace has slowed 
+# Research and development pace has slowed 
 
 Many startups we work with are founded out of incubators, economic development centres, and labs. When they’ve reached a certain stage, they make their way into an accelerator to scale and then they’re off to renting office space.
 
@@ -22,7 +22,7 @@ To note a few examples, we’ve heard from companies that their negotiations pre
 
 And it goes without saying that times are inevitably going to be tough financially when you need to realign your deals timeline.
 
-Lack of productivity has taken a hit on deal-making
+# Lack of productivity has taken a hit on deal-making
 
 We’ve all heard of “Zoom fatigue” and the trials and tribulations associated with remote work and working from home. While it certainly was a struggle for most, it’s probably safe to say that most of us are comfortable in our newfound work environments and have surpassed those initial hurdles. 
 
@@ -34,7 +34,7 @@ In how it affects deals, we’ve heard from some folks that their deal documents
 
 A network connection of ours told us an interesting thought they had recently, along the lines of “If company office spaces didn’t make us more productive, why would we have them in the first place?”
 
-What’s due diligence going to look like in the future?
+# What’s due diligence going to look like in the future?
 
 For our legal team, the evolution of the due diligence process is a hot topic. We’re already starting to see a lot more focus on due diligence in the deals we’re facilitating, and we’re curious to see how it’ll evolve in coming months. 
 
