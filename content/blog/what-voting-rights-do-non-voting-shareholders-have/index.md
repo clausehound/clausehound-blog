@@ -12,22 +12,22 @@ Articles of Incorporation
 A common question that entrepreneurs/inventors have when incorporating..."
 ---
 
-**Links from this article:** [Shareholders' Agreement](https://clausehound.com/legal-contract/15823#!/document=), [ESOP](https://clausehound.com/legal-contract/15816), [Articles of Incorporation](https://clausehound.com/legal-contract/16180#!/document=)
+**Links from this article:** [Shareholders' Agreement](https://clausehound.com/legal-contract/15823#!/document=); [ESOP](https://clausehound.com/legal-contract/15816); [Articles of Incorporation](https://clausehound.com/legal-contract/16180#!/document=).
 
 A common question that entrepreneurs have when incorporating is how to structure their business. The options for structuring a business can be overwhelming, especially when it comes to determining the number of share classes to include in your corporation. Generally, founders will initially want to issue shares to themselves, their investors, and certain employees.
 
-This share issuances will typically be governed by a [shareholders’ agreement](https://clausehound.com/legal-contract/15823#!/document=) and, if necessary, an [employee stock option plan (ESOP)](https://clausehound.com/legal-contract/15816).
+This share issuances will typically be governed by a [Shareholders’ Agreement](https://clausehound.com/legal-contract/15823#!/document=) and, if necessary, an [Employee Stock Option Plan (ESOP)](https://clausehound.com/legal-contract/15816).
 
 **Why employees, you ask?**
 
 Offering employees (or contractors) an option to purchase shares from the start of the company incentivizes employees to grow the company as if it’s theirs. It also works as a retention tool - encouraging the employee to stay with the company long-term.
 
-** **
+
 
 **What kind of shares should you issue to your employees?**
 
 Businesses usually issue non-voting shares to its employees. Issuing shares proves to drive the performance of employees, but founders still want to maintain control over critical decision-making for the business.
-[Source](https://pixabay.com/en/hands-hand-raised-hands-raised-220163/)
+
 
 **Are non-voting shares really non-voting?**
 
