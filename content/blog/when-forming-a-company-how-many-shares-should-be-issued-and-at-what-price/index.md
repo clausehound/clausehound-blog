@@ -9,7 +9,7 @@ description: "by Geralt on Pixabay
 There's no magical number, but if you are forming a company with a single shareholder then one class of shares with 100 shares issued at 1 cent each (= $1) is fine. Additional..."
 ---
 
-by Geralt on Pixabay
+
  
 
 There's no magical number, but if you are forming a company with a single shareholder then one class of shares with 100 shares issued at 1 cent each (= $1) is fine. Additional shares can be issued when new shareholders are added. This is especially true for a consulting firm or holding company, in which it is unlikely that investors will become part-owners.
@@ -30,4 +30,4 @@ Don't forget that **valid consideration is required** (by law) in order to issue
 
 **For more information, check out these blog posts**:
 - [Breaking Down Share Issuance Step by Step](https://blog.clausehound.com/breaking-share-issuance-step-step/)
-- [What to Consider When Selecting the Corporation's Share Attributes]( https://blog.clausehound.com/what-to-consider-when-selecting-the-corporations-share-attributes/)
+- [What to Consider When Selecting the Corporation's Share Attributes](https://blog.clausehound.com/what-to-consider-when-selecting-the-corporations-share-attributes/)
