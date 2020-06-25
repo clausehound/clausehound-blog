@@ -13,7 +13,7 @@ Introduction
 Your startup is thriving but you still have more goodwill than cash, and you need to retain y..."
 ---
 
-**Links from this article:**
+
 
 **Introduction**
 
@@ -21,17 +21,17 @@ Your startup is thriving but you still have more goodwill than cash, and you nee
 
  
 
-***How Does this Work?***
+**How Does this Work?**
 
-Employers can set up a detailed Employee Stock Option Plan (ESOP) if they expect to be giving options to several employees, and can create a separate class of shares for this purpose. If only one or two employees will be involved, a simple Stock Option Agreement can be used, however it is typical for the employer to also require the employee to sign a non-disclosure agreement (NDA) as a condition of the purchase of shares.
+Employers can set up a detailed **Employee Stock Option Plan (ESOP)** if they expect to be giving options to several employees, and can create a separate class of shares for this purpose. If only one or two employees will be involved, a simple Stock Option Agreement can be used, however it is typical for the employer to also require the employee to sign a Non-Disclosure Agreement (NDA) as a condition of the purchase of shares.
 
 Under the ESOP or Stock Option Agreement, the employee is granted options to purchase shares, but will not become a shareholder until they exercise the option and purchase the shares. The employee will be offered a fixed number of options that will ‘vest’ according to a timetable eg. ⅓ of the options on January 30 for each of the next three years. The plan or agreement will usually provide that If the employee does not exercise the options, the options will expire on a fixed date, often 3 to 5 years after they were granted.
 
  
 
-***What Type of Shares Should be Available for Employees?***
+**What Type of Shares Should be Available for Employees?**
 
-There is no ‘one size fits all’ answer to this question. The answer depends upon the unique share structure of the company and the reason for offering shares to the employee. Three basic rights can be attached to shares, but not all shares need to have all three rights. These rights are voting; dividends; and sharing in the proceeds of the liquidation of the company.
+There is no ‘one size fits all’ answer to this question. The answer depends upon the unique share structure of the company and the reason for offering shares to the employee. Three (3) basic rights can be attached to shares, but not all shares need to have all three rights. These rights are **voting**; **dividends**; and **sharing in the proceeds of the liquidation of the company**.
 
  
 
@@ -54,5 +54,5 @@ Of course, the particular combination of rights suitable for your company will d
  
 
 **Takeaways:**
-- stock option plans/agreements can be used to reward or incentivize employees when cash is tight
-- the rights attached to ‘employee shares’ should match the objectives of the stock option plan and should be designed to maintain flexibility for future company financing
+- Stock option plans/agreements can be used to reward or incentivize employees when cash is tight
+- The rights attached to ‘employee shares’ should match the objectives of the stock option plan and should be designed to maintain flexibility for future company financing
