@@ -1,3 +1,10 @@
+---
+title: "Deal Negotiator's Handbook #1"
+author: thomas@clausehound.com
+tags: []
+date: Sat Jun 27 2020 14:19:37 GMT-0400 (Eastern Daylight Time)
+description: "DealPrep's Deal Negotiator's Handbook #1"
+---
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" lang="en"><head>
     <title>What Day Is It Again?</title>
