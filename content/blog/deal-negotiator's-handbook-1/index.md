@@ -106,31 +106,6 @@ description: "DealPrep's Deal Negotiator's Handbook #1"
 <table role="presentation" width="100%" align="center" border="0" style="position:relative; top:-1px; min-width:20px; width:100%; max-width:100%; border-spacing:0; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse; font-size:1px">
   <tbody><tr>
     
-    
-    	<td width="auto" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; line-height:0">&nbsp;</td>
-    
-    
-    <td width="55%" valign="middle" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; line-height:0; border:transparent; border-bottom:1px solid #000000; mso-border-bottom-alt:1px solid #000000; border-bottom-width:1px">&nbsp;</td>
-    
-    
-    	<td width="auto" style="border-collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-break:break-word; line-height:0">&nbsp;</td>
-    
-  </tr>
-</tbody></table>
-
-<!--[if gte mso 9]></div></v:textbox></v:rect><![endif]-->
-</div></td></tr></tbody></table>
-</div>
-<!--[if gte mso 9]></table><![endif]-->
-<!--[if (mso)|(IE)]></td><![endif]-->
-    
-    <!--[if (mso)|(IE)]>
-      <div class="hse-column-container" style="min-width:280px;max-width:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:collapse;border-spacing:0;">
-      <table align="center" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;width:600px;" cellpadding="0" cellspacing="0" role="presentation" width="600" bgcolor="#ffffff">
-      <tr style="background-color:#ffffff;">
-    <![endif]-->
-
-    <!--[if (mso)|(IE)]>
   <td valign="top" style="width:300px;">
 <![endif]-->
 <!--[if gte mso 9]>
