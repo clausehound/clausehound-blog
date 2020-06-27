@@ -2,7 +2,7 @@
 title: "Deal Negotiator's Handbook #1"
 author: thomas@clausehound.com
 tags: []
-date: Sat Jun 27 2020 14:19:37 GMT-0400 (Eastern Daylight Time)
+date: 
 description: "DealPrep's Deal Negotiator's Handbook #1"
 ---
 
