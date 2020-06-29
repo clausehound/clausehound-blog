@@ -3,7 +3,7 @@ title: "Blog Bite: How can a corporation enjoy tax benefits offered to Canadian-
 author: alina@clausehound.com
 tags: ["Shareholders Agreement","Mondaq","Learn","Canada (General)"]
 date: 2014-09-24 00:00:00
-description: "This article posted on our partner site Mondaq.com refers to a recent Tax Court of Canada decision to make it clear that a corporation can now receive the tax benefits offered to Canadian-Controlled..."
+description: "This article posted on our partner site Mondaq.com refers to a recent Tax Court of Canada decision to make it clear that a corporation can now receive the tax benefits offered to Canadian-Controlled Private Corporations even though the majority of its shareholders are non-residents."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/332368/Corporate+Commercial+Law/Use+A+Shareholders+Agreement+To+Become+A+CCPC+Even+If+The) refers to a recent Tax Court of Canada decision to make it clear that a corporation can now receive the tax benefits offered to **Canadian-Controlled Private Corporations (CCPCs)** even though the majority of its shareholders are non-residents.
