@@ -3,9 +3,7 @@ title: "What Rights Attach to Your Shares?"
 author: info@clausehound.com
 tags: ["Commercial Activities","info@clausehound.com","Shareholders Agreement"]
 date: 2016-01-07 16:17:03
-description: "
-
-Entrepreneurs and investors are rightly concerned about what rights attach to their shares, and what mechanisms are in place to protect..."
+description: "Entrepreneurs and investors are rightly concerned about what rights attach to their shares, and what mechanisms are in place to protect those rights - these concerns are highlighted in a recent Ontario court decision."
 ---
 
 Entrepreneurs and investors are rightly concerned about what rights attach to their shares, and what mechanisms are in place to protect those rights. A recent decision of the Ontario Court of Appeal, (*Pruner v. Ottawa Hunt and Golf Club, Limited, 2015 ONCA 609 (CanLII)*), shines the spotlight on those concerns.
