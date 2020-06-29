@@ -3,14 +3,7 @@ title: "Paying With Shares: The Employer’s Perspective"
 author: info@clausehound.com
 tags: ["ESOP","Employment Agreement","Shareholders Agreement","Human Resources"]
 date: 2016-02-12 19:29:30
-description: "Links from this article:
-
-
-
-
-Introduction
-
-Your startup is thriving but you still have more goodwill than cash, and you need to retain y..."
+description: "This article discusses the option of "paying with shares" which allows startups to offer their employees to purchse shares in the company in lieu of offering them a raise"
 ---
 
 
@@ -21,7 +14,7 @@ Your startup is thriving but you still have more goodwill than cash, and you nee
 
  
 
-**How Does this Work?**
+**How Does This Work?**
 
 Employers can set up a detailed **Employee Stock Option Plan (ESOP)** if they expect to be giving options to several employees, and can create a separate class of shares for this purpose. If only one or two employees will be involved, a simple Stock Option Agreement can be used, however it is typical for the employer to also require the employee to sign a Non-Disclosure Agreement (NDA) as a condition of the purchase of shares.
 
