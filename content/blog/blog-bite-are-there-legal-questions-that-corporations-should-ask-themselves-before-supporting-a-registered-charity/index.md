@@ -3,7 +3,7 @@ title: "Blog Bite: Are there legal questions that corporations should ask themse
 author: alina@clausehound.com
 tags: ["Shareholders Agreement","Articles of Incorporation","Mondaq","Learn","Canada (Federal)","All Jurisdictions"]
 date: 2013-06-14 00:00:00
-description: "This article posted on our partner site Mondaq.com discusses some of the legal questions that corporations wishing to financially support a registered charity using company time or money (i.e., engag..."
+description: "This article posted on our partner site Mondaq.com discusses some of the legal questions that corporations wishing to financially support a registered charity using company time or money should ask themselves before doing so through gift or sponsorship."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/245038/Charities+Non-Profits/Donations+And+Sponsorships) discusses some of the legal questions that corporations wishing to financially support a registered charity using company time or money (*i.e.*, engaging in corporate social responsibility activities) should ask themselves before doing so through gift or sponsorship.
