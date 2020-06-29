@@ -3,7 +3,7 @@ title: "Blog Bite: Why should companies execute an effectively drafted sharehold
 author: alina@clausehound.com
 tags: ["Shareholders Agreement","Mondaq","Learn","Canada (General)"]
 date: 2014-04-03 00:00:00
-description: "This article posted on our partner site Mondaq.com discusses why companies should execute a shareholders' agreement. The author outlines some of the most common and important shareholder provisions a..."
+description: "This article posted on our partner site Mondaq.com discusses why companies should execute a shareholders' agreement."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/304372/Shareholders/Should+Your+Company+Have+A+Shareholder+Agreement) discusses why companies should execute a **shareholders' agreement**.
