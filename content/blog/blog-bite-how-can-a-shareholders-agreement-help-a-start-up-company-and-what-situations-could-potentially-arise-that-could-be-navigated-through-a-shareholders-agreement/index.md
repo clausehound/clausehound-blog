@@ -3,7 +3,7 @@ title: "Blog Bite: How can a shareholders' agreement help a start-up company and
 author: alina@clausehound.com
 tags: ["Shareholders Agreement","Non-competition","Mondaq","Learn","Canada (General)"]
 date: 2014-11-23 00:00:00
-description: "This article posted on our partner site Mondaq.com discusses the use of a shareholders' agreement to confront the challenges that arise when building a successful company. A properly drafted sharehol..."
+description: "This article posted on our partner site Mondaq.com discusses the use of a shareholders' agreement to confront the challenges that arise when building a successful company."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/355562/Shareholders/Foundations+For+Startup+Success+The+Shareholders+Agreement) discusses the use of a **shareholders' agreement** to confront the challenges that arise when building a successful company.
