@@ -3,12 +3,12 @@ title: "Entering Into a Term Sheet is Hard Enough, Getting Out of One Can be Eve
 author: rajah@cobaltcounsel.com
 tags: ["Long Form","Investor","No-Shop","Term Sheet","Independent Legal Advice","Costs and Expenses","Start-up","Mergers and Acquisition","Rajah","Share Purchase Agreement","Investor Term Sheet","Memorandum of Understanding"]
 date: 2014-09-22 17:05:30
-description: "As a company entering into a possible investment, when accepting an investor term sheet, consider the provisions relating to termination of that term sheet.  There’s nothing worse than being stuck in..."
+description: "This article discusses tips to make sure that your interests are protected when entering an investor term sheet"
 ---
 
 As a company entering into a possible investment, when accepting an **investor term sheet**, consider the provisions relating to *termination* of that term sheet. There’s nothing worse than being stuck in an unlimited holding pattern while trying to raise funds.
 
-**Here are some tips to make sure that your interests are protected**
+### Here are some tips to make sure that your interests are protected
 
 1. Set an *automatic* termination date (30 days, 60 days) that will provide sufficient time for due diligence and receiving and reviewing legal documentation (the termination date can be extended after that day by written approval).
 
