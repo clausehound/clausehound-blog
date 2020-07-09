@@ -3,7 +3,7 @@ title: "Blog Bite: When is a letter of intent binding?"
 author: alina@clausehound.com
 tags: ["Term Sheet","Letter of Intent","Share Purchase Agreement","Blog Bites","Mondaq","Investor Term Sheet","Memorandum of Understanding"]
 date: 2017-11-09 23:05:57
-description: "This article posted on our partner site Mondaq.com highlights how important it is for parties to clearly state their intentions when drafting a letter of intent (LOI). Parties may intend for an LOI..."
+description: "This article discusses the importance of parties to clearly state their intentions when drafting a letter of intent (LOI)."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/292346/Securities/Letters+of+Intent+that+Bind) highlights how important it is for parties to clearly state their intentions when drafting a letter of intent (LOI).
