@@ -3,7 +3,7 @@ title: "Blog Bite: Mergers & acquisitions - what are the legal obligations of a 
 author: alina@clausehound.com
 tags: ["Term Sheet","Letter of Intent","Share Purchase Agreement","Blog Bites","Mondaq","Investor Term Sheet","Memorandum of Understanding"]
 date: 2017-11-09 23:14:19
-description: "This article posted on our partner site Mondaq.com considers a parties obligation to reach a definitive agreement despite a letter of intent (LOI) that states that the intent was non-binding. An agr..."
+description: "This article considers a parties obligation to reach a definitive agreement despite a letter of intent (LOI) that states that the intent was non-binding."
 ---
 
 [This article posted on our partner site Mondaq.com ](http://www.mondaq.com/canada/x/534324/Contract+Law/How+Firm+Is+Your+Handshake+Letters+Of+Intent+In+MA) considers the parties' obligation to reach a definitive agreement despite a letter of intent (LOI) that states that the intent was non-binding.
