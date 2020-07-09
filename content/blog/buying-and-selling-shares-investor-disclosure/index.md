@@ -3,18 +3,8 @@ title: "Buying and Selling Shares - Investor Disclosure"
 author: rajah@cobaltcounsel.com
 tags: ["Investors","Investor","Rajah"]
 date: 2017-09-08 17:36:06
-description: "Links from this article:
-CanLII Case
-
-And:  What Investors Should Know About Their Rights When Dealing With Brokers
-
-There are compelling reasons to invest in a startup company’s shares. 
-But with..."
+description: "There are compelling reasons to invest in a startup company’s shares. But with the benefits of investing, comes risks – and there are many."
 ---
-
-**Links from this article:** [CanLII Case](https://www.canlii.org/en/on/onca/doc/2003/2003canlii27136/2003canlii27136.html)
-
-And:  What Investors Should Know About Their Rights When Dealing With Brokers
 
 There are compelling reasons to invest in a startup company’s shares. But with the benefits of investing, comes risks – and there are many.
 
@@ -47,18 +37,15 @@ The investor in this case, prior to purchasing the special warrants and special 
 
 
 **Takeaways:**
-1. Private companies are illiquid investments.  Do your due diligence. 
+* Private companies are illiquid investments.  Do your due diligence. 
 
-2. Investors:  read all documents.  Seek independent legal advice.
+* Investors:  read all documents.  Seek independent legal advice.
 
-3. Companies: request (insist) that your investors receive independent legal advice to avoid a claim that you had failed to make adequate disclosures.
-
-4. Companies:  work with your legal team to ensure that you’ve properly represented the risks to your potential investor.
+* Companies: request (insist) that your investors receive independent legal advice to avoid a claim that you had failed to make adequate disclosures.
+* Companies:  work with your legal team to ensure that you’ve properly represented the risks to your potential investor.
 
 
 Case Citations:
 
 *Abrams v. Sprott Securities Ltd., 2003 ONCA 27136 (CanLII)*
 
-
-*Writers:  Ashley Andaya and Rajah Lehal*
