@@ -3,7 +3,7 @@ title: "Blog Bite: Letters of intent, binding or non binding?"
 author: alina@clausehound.com
 tags: ["Term Sheet","Letter of Intent","Share Purchase Agreement","Blog Bites","Mondaq","Investor Term Sheet","Memorandum of Understanding"]
 date: 2017-11-09 22:58:34
-description: "This article posted on our partner site Mondaq.com illustrates how a letter of intent (LOI) can be interpreted as either binding, or non-binding on both parties. To avoid drafting a legally binding..."
+description: "This article discusses how a letter of intent (LOI) can be interpreted as either binding, or non-binding on both parties."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/623010/M+A+Private+equity/Drafting+a+Nonbinding+Letter+of+Intent) illustrates how a letter of intent (LOI) can be interpreted as either *binding*, or *non-binding* on both parties.
