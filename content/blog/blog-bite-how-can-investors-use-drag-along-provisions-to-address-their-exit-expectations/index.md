@@ -3,7 +3,7 @@ title: "Blog Bite: How can investors use drag-along provisions to address their 
 author: cmcivor@cobaltcounsel.com
 tags: ["Term Sheet","Shareholders Agreement","Investor Term Sheet"]
 date: 2018-06-18 16:02:56
-description: "This article posted to our partner site Mondaq.com discusses the practice of including 'drag-along' rights in term sheets. Drag-along rights can be used by investors to compel shareholders subject t..."
+description: "This article posted to our partner site Mondaq.com discusses the practice of including 'drag-along' rights in term sheets."
 ---
 
 [This article posted to our partner site Mondaq.com](http://www.mondaq.com/unitedstates/x/23033/Venture+Capital/DragAlong+Rights+Recent+Case+Affects+Planning+for+Acquisitions) discusses the practice of including "drag-along" rights in term sheets.
