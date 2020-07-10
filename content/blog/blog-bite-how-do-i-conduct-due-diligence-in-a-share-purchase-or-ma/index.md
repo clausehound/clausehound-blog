@@ -3,10 +3,8 @@ title: "Blog Bite: How Do I Conduct Due Diligence in a Share Purchase or M&A?"
 author: alina@clausehound.com
 tags: ["Term Sheet","Shareholders Agreement","Letter of Intent","Asset Purchase Agreement","Share Purchase Agreement","Blog Bites","Mondaq","Investor Term Sheet","Memorandum of Understanding"]
 date: 2017-11-09 22:25:05
-description: "This article posted on our partner site Mondaq.com  After a term sheet in an asset or share purchase deal is signed, the parties will usually commence 'due diligence'. This article posted on our par..."
+description: "This article posted on our partner site Mondaq discusses how to conduct due diligence in a share purchase or M&A"
 ---
-
-
 
 After a *term sheet* in an asset or share purchase deal is signed, the parties will usually commence **"due diligence"**.
 
