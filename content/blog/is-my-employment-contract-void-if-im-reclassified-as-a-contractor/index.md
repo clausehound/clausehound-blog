@@ -14,9 +14,9 @@ If you are being..."
 ---
 
 
-**Links from this article:** [Employment Agreement; ](https://clausehound.com/legal-contract/15819)[Contractor or Consulting Agreement; ](https://clausehound.com/legal-contract/15652)[Ontario's Employment Standards Act.](https://www.ontario.ca/laws/statute/00e41)
 
-If you are being reclassified as an **independent contractor** after working as an employee, your [employment agreement](https://clausehound.com/legal-contract/15819) may be void – but **not** entirely.
+
+If you are being reclassified as an **independent contractor** after working as an employee, your employment agreement may be void – but **not** entirely.
 
 The employment agreement can provide that certain clauses "survive" upon termination. This means that the employee will remain bound by those specific obligations, even if the rest of the agreement has been terminated.
 
@@ -60,4 +60,4 @@ The change in your status from employee to independent contractor has additional
 
  
 
-*This blog was co-authored by Vi Vo.*
+
