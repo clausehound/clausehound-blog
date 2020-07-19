@@ -14,7 +14,7 @@ Employment Standards Act
 Are Volunteers Unpaid Interns or..."
 ---
 
-**Links from this article:**[Sample Intern Agreement](https://clausehound.com/legal-contract/16126/#!/document=)[Ministry of Labour](https://www.labour.gov.on.ca/english/es/pubs/internships.php)[Employment Standards Act](https://www.ontario.ca/laws/statute/00e41)[2014 Blitz report](https://www.labour.gov.on.ca/english/es/inspections/blitzresults_internships.php)
+
 
 **Are Volunteers Unpaid Interns or Employees?**
 
@@ -26,13 +26,13 @@ Volunteering as an intern is a win-win scenario.  For the individual interning i
 
  
 
-Recruiting volunteers has led to some problems for employees and employees, often in the situation in which such volunteer positions carry with them the types of responsibilities and demands which would normally be expected from an employee. Based on the increase in unpaid positions in various industries, the Ontario [Ministry of Labour](https://www.labour.gov.on.ca/english/es/pubs/internships.php) (the “MOL”) has begun to ask the question: Are unpaid internships or volunteer positions legal?
+Recruiting volunteers has led to some problems for employers and employees, often in the situation in which such volunteer positions carry with them the types of responsibilities and demands which would normally be expected from an employee. Based on the increase in unpaid positions in various industries, the Ontario [Ministry of Labour](https://www.labour.gov.on.ca/english/es/pubs/internships.php) (the “MOL”) has begun to ask the question: ***Are unpaid internships or volunteer positions legal?***
 
 The answer has proven to be surprisingly complex. Although an employer may call an individual an intern, by itself that is not enough to prevent a court from finding that the intern must actually be considered to be an employee who is protected under the [*Employment Standards Act*](https://www.ontario.ca/laws/statute/00e41) (“ESA”).
 
 The MOL has taken action to determine whether interns are being treated properly by employers. In a [2014 Blitz report](https://www.labour.gov.on.ca/english/es/inspections/blitzresults_internships.php), out of 56 well-known employers inspected for their internship practices, 13 employers had internship programs with ESA contraventions. These employers were handed compliance orders.
 
-How these rules affect non-profit and charity organizations that engage volunteers is yet to be confirmed by the MOL. However, so long as a volunteer’s responsibilities do not mirror the responsibilities of an employee, a volunteer will not likely be found to be an employee.
+How these rules affect **non-profit and charity organizations** that engage volunteers is yet to be confirmed by the MOL. However, so long as a volunteer’s responsibilities do not mirror the responsibilities of an employee, a volunteer will not likely be found to be an employee.
 
 To assist you in drafting an intern agreement we have supplied a [sample intern agreement](https://clausehound.com/legal-contract/16126/#!/document=) here.
 
@@ -40,7 +40,7 @@ In the event an unpaid internship issue is brought forward in a tribunal or cour
 
 This topic is still being hotly debated between proponents and opponents of unpaid internships, so keep an eye out for possible amendments to employment legislation.
 
-The Ontario government has provided strict conditions for having an unpaid intern. Such conditions include:
+The **Ontario government** has provided strict conditions for having an unpaid intern. Such conditions include:
 
 - The training received by the intern is similar to training received in a vocational school;
 - The training benefits the intern more than it benefits the organization;
