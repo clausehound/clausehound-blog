@@ -5,6 +5,7 @@ import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import ArticlePreview from "../components/article-preview";
+import { Helmet } from "react-helmet";
 
 interface Props {
   location: Location;
@@ -26,7 +27,7 @@ const useStyles = makeStyles({
     borderLeft: "4px solid var(--primary)",
     "& p": {
       marginBottom: "0.2rem",
-    }
+    },
   },
 });
 
@@ -45,6 +46,14 @@ const BlogList: FC<Props> = ({ data, location, pageContext }) => {
     h(SEO, {
       title: "All posts",
     }),
+    h(
+      Helmet,
+      null,
+      h("script", {
+        id: "hs-script-loader",
+        src: "//js.hs-scripts.com/5646626.js",
+      }),
+    ),
     h(
       "section",
       { className: classes.intro },
