@@ -3,13 +3,8 @@ title: "What legal documents do I need for on-boarding employees and directors t
 author: frahman@cobaltcounsel.com
 tags: ["Employment Agreement","Human Resources","Employment","frahman"]
 date: 2016-11-08 12:08:55
-description: "Links from this article:Some general points to cover include: These documents can include:Small Business Law LibraryAs your startup grows, you will f..."
+description: "This article discusses the legal documents needed when you bring new employees onto your team."
 ---
-
-**Links from this article:**
-[Some general points to cover include: ](http://blog.clausehound.com/choosing-a-board-of-directors-or-board-of-advisors-for-your-business/)
-[These documents can include:](https://www.cooleygo.com/tips-onboarding-employees-early-stage-companies/)
-[Small Business Law Library](https://clausehound.com/legal-contract/14918/#!/document=)
 
 As your start-up grows, you will find yourself needing to hire more and more people. If you’re bringing employees onto your team it’s important to have a solid employment agreement ready to go, with clearly outlined expectations in relation to work responsibilities and long-term goals. It is equally important to know how to welcome and train new board members. This will make the process of on-boarding go far more smoothly, saving you a substantial amount of time and money.
 
