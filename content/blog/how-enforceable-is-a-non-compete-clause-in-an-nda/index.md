@@ -40,15 +40,15 @@ The reasonableness of the restrictions depends upon the particular facts surroun
 
 It is very tempting for employers to include very broad non-competition restrictions in employment agreements and NDAs, in an effort to protect their business.
 
-Courts will only enforce non-competition clauses if they are
+Courts will only enforce non-competition clauses if they are:
 
-- necessary to protect the employer’s proprietary interests; 
+- Necessary to protect the employer’s proprietary interests; and
 
-- if they are unambiguous and reasonable with respect to time, geography and scope; and
+- If they are unambiguous and reasonable with respect to time, geography and scope; and
 
-- if the employee is not prevented as a result from earning a living in their chosen profession/occupation.
+- If the employee is not prevented as a result from earning a living in their chosen profession/occupation.
 
 It is up to the employer to justify the restrictions. If less restrictive approaches could have been taken, the courts will render a non-competition clause unenforceable - and as a result there will be no restriction on competition by the employee.
 
-For NDA templates and sample non-competition clauses, check out Clausehound’s [Small Business Law Library](https://www.clausehound.com/documents/)!
+For NDA templates and sample non-competition clauses, check out Clausehound’s [Small Business Law Library](https://clausehound.com/small-business-law-library/)!
 
