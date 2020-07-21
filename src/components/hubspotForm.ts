@@ -1,4 +1,4 @@
-import { FC, createElement as h, useState } from "react";
+import { FC, createElement as h, useState, MouseEvent } from "react";
 import { TextField, Button, makeStyles } from "@material-ui/core";
 
 const useStyles = makeStyles(theme => ({
@@ -20,7 +20,6 @@ const useStyles = makeStyles(theme => ({
   },
   signedUp: {
     color: theme.palette.secondary.main,
-    marginTop: theme.spacing(1.5),
   },
 }));
 
@@ -32,7 +31,8 @@ const HubspotForm: FC<Props> = ({}) => {
   const [email, setEmail] = useState<string>("");
   const [submitted, setSubmitted] = useState<boolean>(false);
 
-  const handleSubmit = () => {
+  const handleSubmit = (e: MouseEvent) => {
+    e.preventDefault();
     var xhr = new XMLHttpRequest();
     var url = `https://api.hsforms.com/submissions/v3/integration/submit/${process.env.HUBSPOT_ACCOUNT_NUMBER}/${process.env.HUBSPOT_API_KEY}`;
     var data = {
@@ -69,31 +69,40 @@ const HubspotForm: FC<Props> = ({}) => {
     null,
     h("h4", { className: classes.title }, "Sign up for Deal Tips"),
     h(
-      "div",
-      { className: classes.flex },
-      h(TextField, {
-        className: classes.textField,
-        label: "First Name",
-        value: name,
-        onChange: ({ target: { value } }) => setName(value),
-      }),
-      h(TextField, {
-        className: `${classes.textField} ${classes.flexGrow}`,
-        label: "Email",
-        value: email,
-        onChange: ({ target: { value } }) => setEmail(value),
-      }),
+      "form",
+      { onSubmit: handleSubmit },
       h(
-        Button,
-        {
-          variant: "outlined",
-          className: classes.submitButton,
-          onClick: handleSubmit,
-        },
-        "Submit",
+        "div",
+        { className: classes.flex },
+        h(TextField, {
+          className: classes.textField,
+          label: "First Name",
+          value: name,
+          type: "text",
+          required: true,
+          onChange: ({ target: { value } }) => setName(value),
+        }),
+        h(TextField, {
+          className: `${classes.textField} ${classes.flexGrow}`,
+          label: "Email",
+          value: email,
+          type: "email",
+          required: true,
+          onChange: ({ target: { value } }) => setEmail(value),
+        }),
+        h(
+          Button,
+          {
+            variant: "outlined",
+            type: "submit",
+            className: classes.submitButton,
+          },
+          "Submit",
+        ),
       ),
     ),
-    submitted && h("h4", { className: classes.signedUp }, "Signed up!"),
+    submitted &&
+      h("h4", { className: classes.signedUp }, "Signed up for Deal Tips!"),
   );
 };
 
