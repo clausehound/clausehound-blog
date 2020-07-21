@@ -3,7 +3,7 @@ title: "Blog Bite: How Enforceable are 'Notice of Resignation' Provisions?"
 author: cmcivor@cobaltcounsel.com
 tags: ["Employment Agreement","Employment","Playbooks","Blog Bites","cmcivor"]
 date: 2017-12-21 16:40:12
-description: "This article posted on our partner site Mondaq.com discusses the case of BlackBerry Limited v. Marineau-Mes, in which an employee signed an employment contract that required him to give six months o..."
+description: "This article posted on our partner site Mondaq.com discusses the case of BlackBerry Limited v. Marineau-Mes, in which an employee signed an employment contract that required him to give six months of notice in order to resign."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/306654/Contract+of+Employment/Wrongful+Resignation+Notice+means+notice) discusses the case of *BlackBerry Limited v. Marineau-Mes*, in which an employee signed an employment contract that required him to give six (6) months of notice in order to resign. The employee left the position for a new job and gave the employer only two (2) months of notice. 
