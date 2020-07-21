@@ -3,7 +3,7 @@ title: "Blog Bite: What does “probation” mean for employers and employees in
 author: cmcivor@cobaltcounsel.com
 tags: ["Employment Agreement","Employment","Playbooks","Blog Bites","cmcivor"]
 date: 2017-12-21 16:23:26
-description: "This article posted on our partner site Mondaq.com examines what “probation” means to both an employer and an employee in respect of obligations and rights on termination. In particular, it explains..."
+description: "This article posted on our partner site Mondaq.com examines what “probation” means to both an employer and an employee in respect of obligations and rights on termination."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/568810/Unfair+Wrongful+Dismissal/Perspective+On+The+Probationary+Period+And+Termination+Rights+In+Ontario) examines what “probation” means to both an employer and an employee in respect of **obligations and rights on termination**. 
