@@ -3,7 +3,7 @@ title: "Blog Bite: What is the cost of terminating an employee?"
 author: cmcivor@cobaltcounsel.com
 tags: ["Employment Agreement","Employment","Playbooks","Blog Bites","cmcivor"]
 date: 2017-12-21 16:37:10
-description: "This article posted on our partner site Mondaq.com provides a concise overview of what costs are involved in terminating an employee in Ontario. It uses a key piece of legislation, the Employment St..."
+description: "This article posted on our partner site Mondaq.com provides a concise overview of what costs are involved in terminating an employee in Ontario."
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/584100/Redundancy+Layoff/Termination+Of+Employment+In+Ontario) provides a concise overview of what costs are involved in terminating an employee in Ontario. 
