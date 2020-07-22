@@ -41,16 +41,6 @@ const HubspotForm: FC<Props> = ({ location }) => {
   const [submitted, setSubmitted] = useState<string>("");
   const [open, setOpen] = useState(false);
 
-  //   const handleClose = (
-  //     event: React.SyntheticEvent | React.MouseEvent,
-  //     reason?: string,
-  //   ) => {
-  //     // if (reason === "clickaway") {
-  //     //   return;
-  //     // }
-  //     setOpen(false);
-  //   };
-
   const handleSubmit = (e: MouseEvent) => {
     e.preventDefault();
     const xhr = new XMLHttpRequest();
