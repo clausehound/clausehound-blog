@@ -35,9 +35,9 @@ const HubspotForm: FC<Props> = ({ location }) => {
 
   const handleSubmit = (e: MouseEvent) => {
     e.preventDefault();
-    var xhr = new XMLHttpRequest();
-    var url = `https://api.hsforms.com/submissions/v3/integration/submit/${process.env.HUBSPOT_ACCOUNT_NUMBER}/${process.env.HUBSPOT_API_KEY}`;
-    var data = {
+    const xhr = new XMLHttpRequest();
+    const url = `https://api.hsforms.com/submissions/v3/integration/submit/${process.env.HUBSPOT_ACCOUNT_NUMBER}/${process.env.HUBSPOT_API_KEY}`;
+    const data = {
       fields: [
         {
           name: "email",
@@ -54,8 +54,6 @@ const HubspotForm: FC<Props> = ({ location }) => {
       },
     };
 
-    var final_data = JSON.stringify(data);
-
     xhr.open("POST", url);
     xhr.setRequestHeader("Content-Type", "application/json");
     xhr.onreadystatechange = function() {
@@ -63,7 +61,7 @@ const HubspotForm: FC<Props> = ({ location }) => {
         setSubmitted(true);
       }
     };
-    xhr.send(final_data);
+    xhr.send(JSON.stringify(data));
   };
 
   return h(
