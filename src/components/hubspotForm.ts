@@ -1,5 +1,12 @@
 import { FC, createElement as h, useState, MouseEvent } from "react";
-import { TextField, Button, makeStyles } from "@material-ui/core";
+import {
+  TextField,
+  Button,
+  makeStyles,
+  Snackbar,
+  IconButton,
+} from "@material-ui/core";
+import { Close } from "@material-ui/icons";
 
 const useStyles = makeStyles(theme => ({
   title: {
@@ -31,7 +38,18 @@ const HubspotForm: FC<Props> = ({ location }) => {
   const classes = useStyles();
   const [name, setName] = useState<string>("");
   const [email, setEmail] = useState<string>("");
-  const [submitted, setSubmitted] = useState<boolean>(false);
+  const [submitted, setSubmitted] = useState<string>("");
+  const [open, setOpen] = useState(false);
+
+  //   const handleClose = (
+  //     event: React.SyntheticEvent | React.MouseEvent,
+  //     reason?: string,
+  //   ) => {
+  //     // if (reason === "clickaway") {
+  //     //   return;
+  //     // }
+  //     setOpen(false);
+  //   };
 
   const handleSubmit = (e: MouseEvent) => {
     e.preventDefault();
@@ -58,7 +76,17 @@ const HubspotForm: FC<Props> = ({ location }) => {
     xhr.setRequestHeader("Content-Type", "application/json");
     xhr.onreadystatechange = function() {
       if (xhr.readyState === 4 && xhr.status === 200) {
-        setSubmitted(true);
+        setSubmitted("Signed up successfuly!");
+        setOpen(true);
+      } else if (
+        xhr.readyState === 4 &&
+        (xhr.status === 404 || xhr.status === 403)
+      ) {
+        setSubmitted("Submission failed");
+        setOpen(true);
+      } else if (xhr.readyState === 4 && xhr.status === 400) {
+        setSubmitted("Invalid email address");
+        setOpen(true);
       }
     };
     xhr.send(JSON.stringify(data));
@@ -67,6 +95,20 @@ const HubspotForm: FC<Props> = ({ location }) => {
   return h(
     "div",
     null,
+    h(Snackbar, {
+      open,
+      autoHideDuration: 6000,
+      message: submitted,
+      action: h(
+        IconButton,
+        {
+          size: "small",
+          color: "inherit",
+          onClick: () => setOpen(false),
+        },
+        h(Close, { fontSize: "small" }),
+      ),
+    }),
     h("h4", { className: classes.title }, "Sign up for Deal Tips"),
     h(
       "form",
@@ -101,8 +143,6 @@ const HubspotForm: FC<Props> = ({ location }) => {
         ),
       ),
     ),
-    submitted &&
-      h("h4", { className: classes.signedUp }, "Signed up for Deal Tips!"),
   );
 };
 
