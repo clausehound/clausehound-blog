@@ -23,9 +23,11 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
-interface Props {}
+interface Props {
+  location: Location;
+}
 
-const HubspotForm: FC<Props> = ({}) => {
+const HubspotForm: FC<Props> = ({ location }) => {
   const classes = useStyles();
   const [name, setName] = useState<string>("");
   const [email, setEmail] = useState<string>("");
@@ -47,7 +49,7 @@ const HubspotForm: FC<Props> = ({}) => {
         },
       ],
       context: {
-        pageUri: "https://blog.clausehound.com/",
+        pageUri: location.href,
         pageName: "Clausehound Blog",
       },
     };

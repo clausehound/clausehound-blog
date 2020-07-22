@@ -189,7 +189,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         ),
         " is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.",
       ),
-      h("section", null, h(HubspotForm)),
+      h("section", null, h(HubspotForm, { location })),
       h(Popular),
     ),
   );
