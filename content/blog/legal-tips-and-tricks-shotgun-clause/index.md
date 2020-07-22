@@ -3,12 +3,12 @@ title: "Legal Tips and Tricks: “Shotgun Clause”"
 author: rajah@cobaltcounsel.com
 tags: ["Compulsory Buy Sell Provision","Company Formation","Shareholders Agreement"]
 date: 2016-01-02 17:20:55
-description: "When trying to separate from a co-founder or partner, shareholders carefully review the “shotgun” clause in their shareholder’s agreement.  Shotgun or a compulsory buy/sell provisions are used in the..."
+description: "When trying to separate from a co-founder or partner, shareholders carefully review the “shotgun” clause in their shareholder’s agreement."
 ---
 
 When trying to separate from a co-founder or partner, shareholders carefully review the “shotgun” clause in their shareholders' agreement.  Shotgun or a compulsory buy/sell provisions are used in the “it’s you or me” situation when one or more of the shareholders decide that they can no longer proceed with the other(s).
 
-**Two Shareholder Shotgun Scenario**
+#### Two Shareholder Shotgun Scenario
 
 Between two shareholders who own shares on a 50-50 split, this is a simple concept.  I’ll write you a cheque (possibly fair market value) for all of your shares or you pay me the same value for my shares  (Picture one person pointing a shotgun at the other, or the other person wrestling it away and then turning the shotgun at the first person).
 
@@ -18,8 +18,7 @@ The messaging is “if I don’t hear back from you in a month I’ll assume you
 
 **Point of no return:**  Once the offer is made, it’s a serious offer and cannot be stopped or revised mid-way, because the targeted shareholders now have the opportunity to “wrestle down” their foes and to turn around the shotguns.  If you’re in the “triggering” faction, your shares are immediately at risk of being bought.   Of course, any side-deal can be worked about between the parties if all shareholders are able to come to terms.
 
-
-**Multi-shareholder Shotgun Scenario**  
+#### Multi-shareholder Shotgun Scenario 
 
 With many shareholders, the scene is now of one group of people pointing shotguns at another group.  Things get more complicated if some people want to wrestle away the shotguns and the other people don’t.  This can be handled in two (2) ways:
 
@@ -29,13 +28,10 @@ In some cases, the shotgun clause requires a certain minimum percentage of share
 
 **Make payment on time:**  Invoking a shotgun clause will create a serious amount of tension so the acquiring party had better have the payment ready.  A shotgun clause often includes a penalty so that if payment is not tendered in full, then the non-acquiring parties can acquire the shares of the acquiring parties at a discount.
 
-
-**Often Avoided**
+#### Often Avoided
 
 The ugly truth about the shotgun clause is that the party with the deeper pockets (rich uncle, more savings) will win in the showdown.   This can be heartbreaking if a shareholder is forced out of a company that they had started because they are short of cash, or do not wish to indebt themselves to cover the cash requirement of the shotgun.
 
 If the targeted shareholders are cash-poor, the acquiring shareholders could get a steal of a deal.   As mentioned above, a way to avoid this is to require that fair market value, as determined by an independent valuation, be the minimum shotgun offer.   
 
 Ultimately, the best way to avoid the shotgun is to get along.
-
- 
