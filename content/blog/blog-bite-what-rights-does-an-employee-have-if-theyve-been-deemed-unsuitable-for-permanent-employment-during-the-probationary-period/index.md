@@ -1,5 +1,5 @@
 ---
-title: "Blog Bite: What rights does an employee have if they’ve been deemed \“unsuitable\” for permanent employment during the probationary period?"
+title: "Blog Bite: What rights does an employee have if they’ve been deemed 'unsuitable' for permanent employment during the probationary period?"
 author: cmcivor@cobaltcounsel.com
 tags: ["Employment Agreement","Employment","Playbooks","Blog Bites","cmcivor"]
 date: 2017-12-21 16:33:53
