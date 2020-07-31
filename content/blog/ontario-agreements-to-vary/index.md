@@ -23,7 +23,7 @@ To vary *maximum daily hours*, you need only meet the first two (2) standards be
 
 2. Get the employee (or union’s) consent to the written agreement; and
 
-3. Receive approval from the **Director of Employment Standards** via [online application](https://www.labour.gov.on.ca/english/es/forms/hours.php). Non-union employees may revoke the agreement with two weeks’ notice. Employers must provide “reasonable” notice which may vary depending on several factors. For example, if an agreement has been in effect for several years, reasonable notice will likely exceed two weeks. 
+3. Receive approval from the *Director of Employment Standards* via [online application](https://www.labour.gov.on.ca/english/es/forms/hours.php). Non-union employees may revoke the agreement with two weeks’ notice. Employers must provide “reasonable” notice which may vary depending on several factors. For example, if an agreement has been in effect for several years, reasonable notice will likely exceed two weeks. 
 
 
 ### Agreement to Average Hours of Work for Overtime Pay Purposes
@@ -32,7 +32,7 @@ Where an employee’s hours of work vary greatly week to week, the parties may a
 
 1. Get the employee’s consent to the written agreement.
 
-2. Receive approval from the **Director of Employment Standards** via [online application](https://www.labour.gov.on.ca/english/es/forms/hours.php). If the conditions are met, overtime is payable upon exceeding an average of 44 hours (or whatever the overtime threshold is for the industry/job). Such agreements may be valued by employees who desire flexible hours and employers seeking to lower the cost of overtime pay.
+2. Receive approval from the *Director of Employment Standards* via [online application](https://www.labour.gov.on.ca/english/es/forms/hours.php). If the conditions are met, overtime is payable upon exceeding an average of 44 hours (or whatever the overtime threshold is for the industry/job). Such agreements may be valued by employees who desire flexible hours and employers seeking to lower the cost of overtime pay.
 
 ### Agreement to Compensate Overtime Hours with Time Off in Lieu of Pay
 
