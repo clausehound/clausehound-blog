@@ -20,13 +20,13 @@ While you’re employed, non-competition clauses are fairly dormant, unless you 
 
 But what happens if you want to jump ship to work for another company? A non-competition clause can potentially be enforced against you if it is unambiguous and reasonable.
 
-### (1) The Non-Competition Clause must be Unambiguous
+**(1) The Non-Competition Clause must be Unambiguous**
 
 Non-Competition clauses must be unambiguous – otherwise, how else would you know what you are agreeing to, or that you are breaching your contract? In [Shafron v KRG Insurance Brokers](https://scc-csc.lexum.com/scc-csc/scc-csc/en/item/7327/index.do), the Supreme Court of Canada stated that restrictive covenants, especially in employment agreements, must be unambiguous. In that case, a restriction on competing within the “Metropolitan City of Vancouver” was considered ambiguous (the employee opened a competing business in Richmond B.C.), and the entire clause was struck down.
 
 If the restrictions are not clear and unambiguous, then the reasonableness of the restriction cannot be determined, and the starting point will be that the restrictions are unreasonable. It is important to note that if the restrictive covenant is ambiguous, the courts will not ‘fix’ it to make it clear.
 
-### (2) The Restrictions must be Reasonable
+**(2) The Restrictions must be Reasonable**
 
 The reasonableness of the restrictions depends upon the particular facts surrounding the agreement. The courts have stated that the restrictions must be reasonable with respect to time, geography, and scope of activities.
 
