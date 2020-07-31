@@ -3,7 +3,7 @@ title: "What is a 'permanent' full time position?"
 author: frahman@cobaltcounsel.com
 tags: ["Employment Agreement","Consulting Agreement","frahman"]
 date: 2017-06-23 11:00:27
-description: "This article discusses the factors which determine what a "permanent" employemnt position is, which largely depend on when the employment agreeemnt can be terminated."
+description: "This article discusses the factors which determine what a \"permanent\" employemnt position is, which largely depend on when the employment agreeemnt can be terminated."
 ---
 
 In today’s job market, finding semi-regular employment can be a challenge, and finding permanent employment can be nearly impossible. But what exactly is a “permanent” employment position? Well, it largely depends on how and when the employment agreement can be terminated.
