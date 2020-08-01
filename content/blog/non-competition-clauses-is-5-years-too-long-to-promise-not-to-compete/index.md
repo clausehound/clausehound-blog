@@ -1,7 +1,7 @@
 ---
 title: "Non-competition Clauses: Is 5 Years Too Long to Promise not to Compete?"
 author: info@clausehound.com
-tags: ["Employment Agreement","Long Form","Business","Consulting Agreement","Non-competition","Commercial Activities","info@clausehound.com"]
+tags: ["Employment Agreement","Long Form","Business","Consulting Agreement","Non-competition","Commercial Activities"]
 date: 2016-02-01 11:45:17
 description: "This article discusses what is needed for a non-competition clause to be enforceable, specifically if 5 years is too long for a non-compete to be enforceable."
 ---
