@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: What Terms Should Be Negotiated in a Term Sheet?"
 author: cmcivor@cobaltcounsel.com
-tags: ["Term Sheet","Investor Term Sheet","cmcivor"]
+tags: ["Term Sheet","Investor Term Sheet"]
 date: 2018-06-18 16:04:48
 description: "This article posted to our partner site Mondaq details the essential elements of a shareholders' agreement, which will ultimately be the final product of the term sheet."
 ---
