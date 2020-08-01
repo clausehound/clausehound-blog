@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: How far can employers go when screening potential job applicants in Quebec?"
 author: cmcivor@cobaltcounsel.com
-tags: ["Employment Agreement","Employment","Playbooks","Blog Bites"]
+tags: ["Employment Agreement","Employment","Playbooks","Blog Bites","cmcivor"]
 date: 2017-12-21 16:50:44
 description: "This article posted on our partner site Mondaq deals with employment law in Quebec and it succinctly recaps the different types of employment relationships."
 ---
