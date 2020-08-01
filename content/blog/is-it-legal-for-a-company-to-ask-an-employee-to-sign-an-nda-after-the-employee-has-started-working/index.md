@@ -1,7 +1,7 @@
 ---
 title: "Is it legal for a company to ask an employee to sign an NDA after the employee has started working?"
 author: frahman@cobaltcounsel.com
-tags: ["NDA","Employment Agreement","frahman"]
+tags: ["NDA","Employment Agreement"]
 date: 2017-04-21 11:00:42
 description: "This article discusses the circumstances in which an employee will be bound by an NDA after they have started working."
 ---
