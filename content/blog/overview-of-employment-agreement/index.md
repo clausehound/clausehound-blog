@@ -3,7 +3,7 @@ title: "Overview of Employment Agreement"
 author: aunterman@cobaltcounsel.com
 tags: ["Employment Agreement","Contract Overviews","aunterman"]
 date: 2017-04-06 17:18:22
-description: "This article provides an overview of the important aspects of an Emnployment Agreement."
+description: "This article provides an overview of some important aspects of an Emnployment Agreement."
 ---
 
 ## What is this document?
