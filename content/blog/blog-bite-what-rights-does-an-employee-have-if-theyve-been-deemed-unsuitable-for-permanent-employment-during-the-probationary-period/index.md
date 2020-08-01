@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: What rights does an employee have if they’ve been deemed \"unsuitable\" for permanent employment during the probationary period?"
 author: cmcivor@cobaltcounsel.com
-tags: ["Employment Agreement","Employment","Playbooks","Blog Bites","cmcivor"]
+tags: ["Employment Agreement","Employment","Playbooks","Blog Bites"]
 date: 2017-12-21 16:33:53
 description: "This article posted on our partner site Mondaq.com explains the decision of Nagribianko v. Select Wine Merchants Ltd. where an employer terminated an employee during the probationary period on the grounds he was \"unsuitable\" and provided the appropriate notice."
 ---
