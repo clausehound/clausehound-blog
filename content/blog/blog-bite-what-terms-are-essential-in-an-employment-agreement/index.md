@@ -1,7 +1,7 @@
 ---
 title: "Blog Bite: What terms are essential in an Employment Agreement?"
 author: cmcivor@cobaltcounsel.com
-tags: ["Employment Agreement","Employment","Playbooks","Blog Bites","cmcivor"]
+tags: ["Employment Agreement","Employment","Playbooks","Blog Bites"]
 date: 2017-12-21 16:47:25
 description: "This article posted on our partner site Mondaq provides advice on the top twelve /“must haves/” for written employment contracts."
 ---
