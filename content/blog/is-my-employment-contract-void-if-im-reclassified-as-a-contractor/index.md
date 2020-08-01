@@ -1,7 +1,7 @@
 ---
 title: "Is my employment contract void if I’m reclassified as a contractor?"
 author: frahman@cobaltcounsel.com
-tags: ["Employment Agreement","Independent Contractor","Consulting Agreement","frahman"]
+tags: ["Employment Agreement","Independent Contractor","Consulting Agreement"]
 date: 2017-06-09 11:00:27
 description: "If you are being reclassified as an independent contractor after working as an employee, your employment agreement may be void – but not entirely."
 ---
