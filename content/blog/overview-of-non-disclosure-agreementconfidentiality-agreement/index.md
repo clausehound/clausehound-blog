@@ -54,7 +54,7 @@ The NDA must contain a general duty to not disclose the confidential information
 
  
 
-Many NDA’s contain further restrictive covenants designed to protect the disclosing party. These may include a **non-competition clause**, a **non-solicitation clause*, a **non-circumvention clause** or an **expanded non-use clause**.
+Many NDA’s contain further restrictive covenants designed to protect the disclosing party. These may include a **non-competition clause**, a **non-solicitation clause**, a **non-circumvention clause** or an **expanded non-use clause**.
 
  
 
@@ -86,7 +86,7 @@ Some *additional clauses* include handling of confidential information and safeg
 
  
 
-- **Joint venture Agreement** - an agreement for a joint business undertaking
+- **Joint Venture Agreement** - an agreement for a joint business undertaking
 
  
 
