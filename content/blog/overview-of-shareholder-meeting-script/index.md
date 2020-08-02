@@ -12,7 +12,7 @@ What is this document?
 This document is a script that can be used as a guideline to conduct a shareholders meeting and to understand some of the situations..."
 ---
 
-## Overview of Shareholder Meeting Script
+
 
  
 
@@ -54,10 +54,10 @@ Some examples of additional clauses include Adjournment, Approval of Prior Minut
 
 ### Related Documents
 
-**Shareholders’ Resolution** -  a resolution by the shareholders approving a transaction or decision, or electing directors
+- **Shareholders’ Resolution** -  a resolution by the shareholders approving a transaction or decision, or electing directors
 
-**Directors’ Resolution** - major decisions (or other decisions as required in a shareholders’ agreement) will need to be ratified by the directors of the corporation
+- **Directors’ Resolution** - major decisions (or other decisions as required in a shareholders’ agreement) will need to be ratified by the directors of the corporation
 
-**Minute Book** - this is where the corporate records are kept. A copy of the share purchase agreement can be kept in the minute book of the corporation that issued the shares sold under the agreement
+- **Minute Book** - this is where the corporate records are kept. A copy of the share purchase agreement can be kept in the minute book of the corporation that issued the shares sold under the agreement
 
-**Shareholders’ Agreement** - an agreement among shareholders dealing with how the corporation will be governed, shareholder rights etc. The share purchase agreement will usually require the purchaser of the shares to sign the shareholders’ agreement (if there is one).
+- **Shareholders’ Agreement** - an agreement among shareholders dealing with how the corporation will be governed, shareholder rights etc. The share purchase agreement will usually require the purchaser of the shares to sign the shareholders’ agreement (if there is one).
