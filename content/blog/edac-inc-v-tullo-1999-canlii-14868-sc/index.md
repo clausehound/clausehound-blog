@@ -3,16 +3,10 @@ title: "Does the improper disclosure of confidential information always result i
 author: info@clausehound.com
 tags: ["Confidentiality","Employment Agreement","Confidential Information","Non-competition","Confidentiality Agreement","info@clausehound.com"]
 date: 2017-06-01 13:54:54
-description: "MISUSE OF CONFIDENTIAL INFORMATION DID NOT RESULT IN DAMAGES
-
-Edac Inc. v. Tullo 1999 CanLII 14868 (ON SC)
-
-Before resigning from his senior management employment position with the plaintiff, an emplo..."
+description: "This article looks into the Edac Inc. v. Tullo case to determine whether the improper disclosure of confidential information always results in damages."
 ---
 
 ### Misuse of Confidential Information did not Result in Damages
-
-
 
 Before resigning from his senior management employment position with the plaintiff, an employee disclosed confidential information to a third party during a written job interview. The employee then took an employment position with a former supplier of the plaintiff, and began arranging sales to the plaintiff’s customers. The court held that the employee had both a **common law and contractual obligation of confidentiality**. However, the improper disclosure of confidential information caused no actual harm, and in the absence of a non-competition restriction, the employee made no improper use of the customer lists.
 
