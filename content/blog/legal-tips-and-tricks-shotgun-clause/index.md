@@ -3,10 +3,10 @@ title: "Legal Tips and Tricks: “Shotgun Clause”"
 author: rajah@cobaltcounsel.com
 tags: ["Compulsory Buy Sell Provision","Company Formation","Shareholders Agreement"]
 date: 2016-01-02 17:20:55
-description: "When trying to separate from a co-founder or partner, shareholders carefully review the “shotgun” clause in their shareholder’s agreement."
+description: "When trying to separate from a co-founder or partner, shareholders should carefully review the “shotgun” clause in their shareholder’s agreement."
 ---
 
-When trying to separate from a co-founder or partner, shareholders carefully review the “shotgun” clause in their shareholders' agreement.  Shotgun or a compulsory buy/sell provisions are used in the “it’s you or me” situation when one or more of the shareholders decide that they can no longer proceed with the other(s).
+When trying to separate from a co-founder or partner, shareholders should carefully review the “shotgun” clause in their shareholders' agreement.  Shotgun or a compulsory buy/sell provisions are used in the “it’s you or me” situation when one or more of the shareholders decide that they can no longer proceed with the other(s).
 
 #### Two Shareholder Shotgun Scenario
 

@@ -12,6 +12,7 @@ import TagChips from "../components/tag-chips";
 import { scale } from "../utils/typography";
 import { authors } from "../utils/filters";
 import { GatsbyImageProps } from "gatsby-image";
+import HubspotForm from "../components/hubspotForm";
 
 const useStyles = makeStyles(theme => ({
   line: {
@@ -86,6 +87,10 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
       Helmet,
       null,
       h("script", { src: "https://www.clausehound.com/dist/clausehound.js" }),
+      h("script", {
+        id: "hs-script-loader",
+        src: `//js.hs-scripts.com/${process.env.HUBSPOT_ACCOUNT_NUMBER}.js`,
+      }),
     ),
     h(
       "article",
@@ -94,7 +99,9 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         "header",
         null,
         author?.first && h(Author, author),
-        h("hgroup", { className: classes.hgroup },
+        h(
+          "hgroup",
+          { className: classes.hgroup },
           h(
             "h1",
             {
@@ -182,6 +189,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         ),
         " is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.",
       ),
+      h("section", null, h(HubspotForm, { location })),
       h(Popular),
     ),
   );
