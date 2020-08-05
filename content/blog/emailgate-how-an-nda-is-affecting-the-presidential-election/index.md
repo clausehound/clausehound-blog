@@ -3,34 +3,16 @@ title: "Emailgate: How an NDA is Affecting the Presidential Election"
 author: frahman@cobaltcounsel.com
 tags: ["Confidentiality","NDA","Human Resources","Commercial Activities","Confidentiality Agreement","Current Events","frahman"]
 date: 2016-07-17 23:59:51
-description: "Links from this article:
-Source
-Morning Consult
-Rasmussen
-here’s a quick rundown
-
-
-
-About a week ago, the Federal Bureau of Investigation an..."
+description: "This article discusses the affects an NDA had on Clinton's email controversy in the 2016 Presidential Election."
 ---
 
- 
-
-
-
 About a week ago, the *Federal Bureau of Investigation* announced that it would not be pressing charges against *Hillary Clinton* for her use of a personal email during her tenure as Secretary of State. This has been a long time coming for Clinton, as the email controversy has been a blight on her presidential campaign from its start.
-
- 
 
 News of **“Emailgate”** broke in 2014, and picked up last year right before Hillary Clinton announced her run for president. It has dealt a huge blow to her trustworthiness and transparency, with a [Morning Consult](https://morningconsult.com/2016/06/01/hillary-clinton-emails-poll-results/) national survey from this month finding that “half of voters said Clinton’s use of a private email server was illegal.” Those are dangerous numbers for the Democrats, leaving voters finding Donald Trump twice as honest as Hillary Clinton according to a recent [Rasmussen](http://www.rasmussenreports.com/public_content/politics/elections/election_2016/how_do_voters_weigh_clinton_s_honesty_vs_trump_s) survey. If you still don’t really know much about the controversy, [here’s a quick rundown](http://www.refinery29.com/2016/07/115832/what-is-hillary-clinton-email-scandal):
 
 Being the Secretary of State involves handling sensitive information, and it was discovered that during her tenure, Hillary Clinton used a series of personal email servers that were nowhere near as secure as federal record systems would have been. This left her correspondence vulnerable to being compromised by the likes of hackers and foreign countries, and people are not happy about that.
 
 At the heart of this controversy lies the fact that Hillary Clinton had signed a **Classified Information Nondisclosure Agreement**.
-
- 
-
-
 
 **Confidential information**, or **classified information** as per this agreement, was given a clear definition as being marked or unmarked. Specific obligations related to confidentiality were outlined, such as protecting such information “in the interest of national security.”
 
@@ -45,5 +27,3 @@ Here it’s a matter of nuancing the law. [The FBI intimated](https://www.fbi.go
 Without substantial evidence of such intent, a court cannot convict her. Without full confidence that a court can convict her, it would be dangerous to press charges against a woman who is no longer just a former Secretary of State, but now the presumptive nominee for the Democratic Party in the rapidly approaching presidential election. Such a move would have enormous, and potentially disastrous, consequences for the country.
 
 [Click here](https://www.clausehound.com/documents/) to view our Non-Disclosure Agreement template in our Small Business Law Library!
-
- 
