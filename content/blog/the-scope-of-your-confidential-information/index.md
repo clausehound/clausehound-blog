@@ -3,15 +3,8 @@ title: "The Scope of your Confidential Information: Too Broad, Too Narrow, or Ju
 author: frahman@cobaltcounsel.com
 tags: ["Confidentiality","NDA","Confidential Information","Releases","Commercial Activities","Confidentiality Agreement","Case Law","Disclosure","frahman"]
 date: 2016-07-05 14:15:49
-description: "Links from this article:
-Source
-
-
-
-For drafters of asset or share purchase agreements, it's useful to think about the effects of the representations..."
+description: "For drafters of asset or share purchase agreements, it's useful to think about the effects of the representations you are making."
 ---
-
-
 
 For drafters of asset or share purchase agreements, it's useful to think about the effects of the representations you are making.
 
@@ -20,8 +13,6 @@ In our office, and no doubt in many others, the **non-disclosure agreement (NDA)
 But with great applicability comes the question of **scope**—what is appropriate?
 
 [*Pastor v. Chen (2002) (BCPC)*](https://www.canlii.org/en/bc/bcpc/doc/2002/2002bcpc169/2002bcpc169.html?resultIndex=1) is a good example of where **too general** of an NDA can open you up to problems. The claimant in this case, Amando Pastor, was just a teenager when he developed the moves for his own version of “*La Rueda*,” a Cuban salsa dance, by incorporating a complex group element. He copyrighted his version of the dance, which he called “*The Wheel of the World*,” years later as a dancing instructor in Vancouver.
-
-
 
 Not soon after Pastor began teaching his dance, the defendant, Roger Y. Chen, became his student. Upon reaching a level of proficiency to perform publicly, Pastor made Chen and all his other dancers sign a confidentiality agreement that reads as follows:
 
@@ -44,7 +35,3 @@ This is a much more comprehensive definition of confidential information, but st
 This case is one that shows there is only so much that can be done to cover your bases, so it’s important that your contract can hold up under scrutiny.
 
 One of the most effective steps you can take when drafting an NDA is to be cognizant of covering what is most important to the protection of your business - and define it.
-
-**Case Citations:**
-- [*Pastor v. Chen, 2002 BCPC 169 (CanLII)*](https://www.canlii.org/en/bc/bcpc/doc/2002/2002bcpc169/2002bcpc169.html?resultIndex=1)
-- [*Minera Aquiline Argentina SA v. IMA Exploration Inc. and Inversiones Mineras Argentinas S.A., 2006 BCSC 1102 (CanLII)*](https://www.canlii.org/en/bc/bcpc/doc/2002/2002bcpc169/2002bcpc169.html?resultIndex=1&searchUrlHash=AAAAAQBcTWluZXJhIEFxdWlsaW5lIEFyZ2VudGluYSBTQSB2LiBJTUEgRXhwbG9yYXRpb24gSW5jLiBhbmQgSW52ZXJzaW9uZXMgTWluZXJhcyBBcmdlbnRpbmFzIFMuQS4AAAAAAQ&offset=200)
