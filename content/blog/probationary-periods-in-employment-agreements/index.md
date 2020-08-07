@@ -3,7 +3,8 @@ title: "Probationary Periods in Employment Agreements"
 author: info@clausehound.com
 tags: ["Employment Agreement","Probationary Period","Human Resources","info@clausehound.com"]
 date: 2015-09-22 17:34:21
-description: "Links from this article:Read the article here.Probationary periods are often valuable for employers who would like to review the suitabilit..."
+description: "This article discusses the implications of probationary periods in employment agreements."
+
 ---
 
 
