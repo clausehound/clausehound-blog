@@ -3,13 +3,10 @@ title: "Overview of Shareholders' Agreement"
 author: rajah@cobaltcounsel.com
 tags: ["Contract Overviews","Shareholders Agreement"]
 date: 2017-03-23 14:33:16
-description: "Overview of Shareholders Agreements
-
+description: "This documents provides an overview of a shareholders' agreement."
  
 
-What is this document?
 
-A Shareholders’ Agreement (sometimes known as a Stockholder Agreement) governs the relationship between the corporation and its sharehol..."
 ---
 
 **Overview of Shareholders' Agreements**
