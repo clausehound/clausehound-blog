@@ -3,7 +3,9 @@ title: "Paying With Shares: The Employer’s Perspective"
 author: info@clausehound.com
 tags: ["ESOP","Employment Agreement","Shareholders Agreement","Human Resources"]
 date: 2016-02-12 19:29:30
-description: "This article discusses the option of "paying with shares" which allows startups to offer their employees to purchse shares in the company in lieu of offering them a raise"
+description: "This article discusses the option of "paying with shares" which allows startups to offer their employees to purchase shares in the company in lieu of a raise."
+
+
 ---
 
 
@@ -49,3 +51,4 @@ Of course, the particular combination of rights suitable for your company will d
 **Takeaways:**
 - Stock option plans/agreements can be used to reward or incentivize employees when cash is tight
 - The rights attached to ‘employee shares’ should match the objectives of the stock option plan and should be designed to maintain flexibility for future company financing
+
