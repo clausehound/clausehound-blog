@@ -1,12 +1,10 @@
 ---
 title: "What is the difference between a confidential disclosure agreement (CDA) and a non-disclosure agreement (NDA)?"
 author: frahman@cobaltcounsel.com
-tags: ["Confidentiality","NDA","Confidential Information","Confidentiality Agreement","frahman","Rajah"]
+tags: ["Confidentiality","NDA","Confidential Information","Confidentiality Agreement"]
 date: 2017-07-17 14:44:33
-description: "Links from this article:
-Scope of Confidential Information
+description: "Links from this article: This article highlights the key differences between a confidential disclosure agreement (CDA) and a non-disclosure agreement (NDA)."
 
-A number of agreements can contain the same clauses to protect certain information but still have different agreement names. For example, a..."
 ---
 
 
