@@ -3,7 +3,7 @@ title: "Blog Bite: What is the underlying advantages of a shareholders' agreemen
 author: alina@clausehound.com
 tags: ["Shareholders Agreement","Mondaq","Learn","Canada (General)"]
 date: 2016-07-25 00:00:00
-description: "This articles highlights the advantages of a shareholders' agreement."
+description: "This article highlights the advantages of a shareholders' agreement."
 
 
 ---
