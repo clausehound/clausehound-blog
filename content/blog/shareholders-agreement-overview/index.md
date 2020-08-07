@@ -1,24 +1,21 @@
 ---
-title: "Overview of Shareholders Agreement"
+title: "Overview of Shareholders' Agreement"
 author: rajah@cobaltcounsel.com
 tags: ["Contract Overviews","Shareholders Agreement"]
 date: 2017-03-23 14:33:16
-description: "Overview of Shareholders Agreements
-
+description: "This documents provides an overview of a shareholders' agreement."
  
 
-What is this document?
 
-A Shareholders’ Agreement (sometimes known as a Stockholder Agreement) governs the relationship between the corporation and its sharehol..."
 ---
 
-**Overview of Shareholders Agreements**
+**Overview of Shareholders' Agreements**
 
  
 
 **What is this document?**
 
-A Shareholders’ Agreement (sometimes known as a Stockholder Agreement) governs the relationship between the corporation and its shareholders. The agreement can describe how the company is to be managed and the rights and obligations of the shareholders.
+A Shareholders’ Agreement (sometimes known as a Stockholders' Agreement) governs the relationship between the corporation and its shareholders. The agreement can describe how the company is to be managed and the rights and obligations of the shareholders.
 
  
 
@@ -38,9 +35,9 @@ The agreement is signed by each of the shareholders and the corporation. An indi
 
 Shareholders’ Agreements can range in length depending on the complexity of the agreement. A detailed agreement can be dozens of pages in length.
 
-There are two basic types of Shareholders’ Agreements. The Unanimous Shareholders’ Agreement (USA) must be signed by all shareholders and can shift decision-making powers from the directors to the shareholders. The shareholders (rather than the directors) will be legally responsible for such decisions. A simple Shareholders’ Agreement (non-USA) is an agreement among the shareholders that does not shift management responsibilities to the shareholders. Shareholders’ Agreements can be company-sided or investor-sided.
+There are two (2) basic types of Shareholders’ Agreements. The **Unanimous Shareholders’ Agreement (USA)** must be signed by all shareholders and can shift decision-making powers from the directors to the shareholders. The shareholders (rather than the directors) will be legally responsible for such decisions. A **simple Shareholders’ Agreement (non-USA)** is an agreement among the shareholders that does not shift management responsibilities to the shareholders. Shareholders’ Agreements can be company-sided or investor-sided.
 
-A Shareholders’ Agreement is a method of managing risks and creating mechanisms to resolve problems between the shareholders and the corporation before they arise. This can assist in avoiding legal disputes, as the Shareholders’ Agreement can outline what restrictions exist on the transfer of shares, how voting and approval of decisions is done, what happens in the event of a deadlock, what happens after the death of a shareholder, what confidentiality restrictions apply to shareholders etc.
+A Shareholders’ Agreement is a method of managing risks and creating mechanisms to resolve problems between the shareholders and the corporation before they arise. This can assist in avoiding legal disputes, as the Shareholders’ Agreement can outline what restrictions exist on the transfer of shares, how voting and approval of decisions are done, what happens in the event of a deadlock, what happens after the death of a shareholder, what confidentiality restrictions apply to shareholders, etc.
 
 A Shareholders’ Agreement can also outline how third parties may become future shareholders and can provide safeguards for minority shareholders.
 
@@ -56,16 +53,16 @@ Some examples of additional clauses include Reporting Requirements, Remuneration
 
  
 
-**Related Documents**
+**Related Documents:**
 
-**Shareholders Resolutions** - depending on the circumstances the shareholders may pass a (unanimous) resolution approving the shareholders agreement or an amendment to that agreement
+**Shareholders' Resolutions** - depending on the circumstances the shareholders may pass a (unanimous) resolution approving the shareholders' agreement or an amendment to that agreement.
 
-**Directors’ Resolutions** - since the corporation will be a party to the shareholders’ agreement the directors may pass a resolution adopting the agreement
+**Directors’ Resolutions** - since the corporation will be a party to the shareholders’ agreement the directors may pass a resolution adopting the agreement.
 
-**By-Laws** - (also called bylaws) deal with matters such as meetings, voting, borrowing, officers etc.
+**By-Laws** - (also called bylaws) deal with matters such as meetings, voting, borrowing, officers, etc.
 
-**Minute Book** - this is where the corporate records are kept. An up to date copy of the shareholders’ agreement should be kept in the minute book.
+**Minute Book** - this is where the corporate records are kept. An up-to-date copy of the shareholders’ agreement should be kept in the minute book.
 
-**Buy Sell Agreement/Shotgun Agreement** - an agreement that provides for the forced buyout of a shareholder once it is triggered. These terms could be included in a shareholders agreement or used separately.
+**Buy Sell Agreement/Shotgun Agreement** - an agreement that provides for the forced buyout of a shareholder once it is triggered. These terms could be included in a shareholders' agreement or used separately.
  
 **Share Buyback Agreement** - an agreement that allows the corporation to buy back shares in certain situations eg. death, incapacity, or termination of employment/consulting contract of a shareholder.
