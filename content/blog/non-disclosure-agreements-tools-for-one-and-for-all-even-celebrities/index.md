@@ -3,14 +3,15 @@ title: "Non-Disclosure Agreements: Tools for One and for All (Even Celebrities!)
 author: rajah@cobaltcounsel.com
 tags: ["NDA","Consideration","Rajah"]
 date: 2017-09-25 13:29:54
-description: "Non-Disclosure Agreements (or “NDAs”) are common in a vast array of business contracts; however, their use is not in any way reserved or confined to business contexts. Celebrities have used NDAs to en..."
+description: "This article discusses key features of NDA's, with reference to celebrity use."
+
 ---
 
 **Non-Disclosure Agreements (or “NDAs”)** are common in a vast array of business contracts; however, their use is not in any way reserved or confined to business contexts. Celebrities have used NDAs to ensure that signatories keep certain personal or private information confidential or else “pay up” incredibly hefty amounts for breaching that agreement.
 
  
 
- 
+
 
 While the deemed confidential information will be outlined in any particular, well-drafted NDA, celebrities tend to use these agreements to keep information about their private lives, intimate or romantic relationships, business and financial interests, or even parties that they host confidential.
 
