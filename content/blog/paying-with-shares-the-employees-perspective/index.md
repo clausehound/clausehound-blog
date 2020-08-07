@@ -3,13 +3,10 @@ title: "Paying with Shares: The Employee’s Perspective"
 author: info@clausehound.com
 tags: ["ESOP","Employment Agreement","Long Form","Human Resources","info@clausehound.com"]
 date: 2016-02-12 19:32:32
-description: "Introduction
+description: "This article discusses the employee benefits of a stock option plan or agreement.
 
-What makes a stock option plan or agreement attractive to an employee? The short answer is - the opportunity to make money!
 
- 
 
-There are three basic ways for an employee to make money o..."
 ---
 
 **Introduction**
