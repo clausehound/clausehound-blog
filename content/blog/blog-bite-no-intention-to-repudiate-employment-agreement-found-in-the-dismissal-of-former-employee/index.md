@@ -3,8 +3,9 @@ title: "Blog Bite: No Intention to Repudiate Employment Agreement Found in the D
 author: frahman@cobaltcounsel.com
 tags: ["Employment Agreement","Human Resources","frahman"]
 date: 2016-08-25 08:00:24
-description: "Links from this article:General Motors of Canada Ltd. v Johnson here
-An Ontario decision recently decided that General Motors of Canada Ltd..."
+description: "The article discusses the benefits of including a mutual release upon termination in an employment contract agreement. Referencing the Ontario case between General Motors of Canada Ltd. v Johnson."
+
+
 ---
 
 
