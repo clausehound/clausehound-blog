@@ -3,42 +3,30 @@ title: "Overview of Shareholders Agreement"
 author: rajah@cobaltcounsel.com
 tags: ["Contract Overviews","Shareholders Agreement"]
 date: 2017-03-23 14:33:16
-description: "Overview of Shareholders Agreements
-
- 
-
-What is this document?
-
-A Shareholders’ Agreement (sometimes known as a Stockholder Agreement) governs the relationship between the corporation and its sharehol..."
+description: "This article provides an overview of a Shareholders Agreement as well as its core elements."
 ---
 
-**Overview of Shareholders Agreements**
-
- 
-
-**What is this document?**
+### What is this document?
 
 A Shareholders’ Agreement (sometimes known as a Stockholder Agreement) governs the relationship between the corporation and its shareholders. The agreement can describe how the company is to be managed and the rights and obligations of the shareholders.
 
- 
-
-**When would I use this document?**
+### When would I use this document?
 
 Although it is not legally required for a corporation to have a shareholders’ agreement, shareholders’ agreements are often created when shareholders wish to provide for governance rules that are different from the applicable corporations legislation. For example, shareholders may wish to provide for a specific voting requirements for certain types of decisions.
 
- 
-
-**Who signs this document?**
+### Who signs this document?
 
 The agreement is signed by each of the shareholders and the corporation. An individual with authority to bind the corporation will sign on behalf of the corporation.
 
- 
-
-**More details about this document**
+### More details about this document
 
 Shareholders’ Agreements can range in length depending on the complexity of the agreement. A detailed agreement can be dozens of pages in length.
 
-There are two basic types of Shareholders’ Agreements. The Unanimous Shareholders’ Agreement (USA) must be signed by all shareholders and can shift decision-making powers from the directors to the shareholders. The shareholders (rather than the directors) will be legally responsible for such decisions. A simple Shareholders’ Agreement (non-USA) is an agreement among the shareholders that does not shift management responsibilities to the shareholders. Shareholders’ Agreements can be company-sided or investor-sided.
+There are two basic types of Shareholders’ Agreements:
+
+(1) **The Unanimous Shareholders’ Agreement** (USA) must be signed by all shareholders and can shift decision-making powers from the directors to the shareholders. The shareholders (rather than the directors) will be legally responsible for such decisions. 
+
+(2) **A simple Shareholders’ Agreement** (non-USA) is an agreement among the shareholders that does not shift management responsibilities to the shareholders. Shareholders’ Agreements can be company-sided or investor-sided.
 
 A Shareholders’ Agreement is a method of managing risks and creating mechanisms to resolve problems between the shareholders and the corporation before they arise. This can assist in avoiding legal disputes, as the Shareholders’ Agreement can outline what restrictions exist on the transfer of shares, how voting and approval of decisions is done, what happens in the event of a deadlock, what happens after the death of a shareholder, what confidentiality restrictions apply to shareholders etc.
 
@@ -46,17 +34,13 @@ A Shareholders’ Agreement can also outline how third parties may become future
 
 One of the most important uses of a Shareholders’ Agreement for a closely held private corporation is to determine what will happen if one of the principals leaves the corporation.
 
- 
-
-**What are the core elements of this document?**
+### What are the core elements of this document?
 
 The core elements include: Directors, Identification of Shareholders, Valuation of Shares, Director Meetings, Shareholder Meetings, Dispute Resolution, Inactive Shareholders, Share Transfer Provisions, Management of the Corporation, Deed of Adherence, Representations and Warranties.
 
 Some examples of additional clauses include Reporting Requirements, Remuneration of Directors, Anti-Dilution, Drag Along Right, Right of First Refusal, Non-Competition, Non-Solicitation and Confidentiality.
 
- 
-
-**Related Documents**
+### Related Documents
 
 **Shareholders Resolutions** - depending on the circumstances the shareholders may pass a (unanimous) resolution approving the shareholders agreement or an amendment to that agreement
 
