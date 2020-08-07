@@ -3,8 +3,7 @@ title: "You Say Shares, I Say Stock: Making Sense of Investing Terminology"
 author: ian@clausehound.com
 tags: ["Shareholders Agreement","Promissory Note"]
 date: 2017-07-24 15:11:25
-description: "Introduction
-You are meeting with your financial advisor for the first time. Your friends hectoring you about missing out on Facebook’s IPO has not stopped despite the fact it happened half a decade a..."
+description: "This article discusses common investing terminology."
 ---
 
 **Introduction**
@@ -53,7 +52,7 @@ If you’re trying to borrow or lend money, simply describe the agreement as a l
 
 **Conclusion**
 
-Now that you understand this terminology you can go on to enjoy [Showtime’s Billions](http://www.sho.com/billions). Okay, well, you first need to learn about shorting a stock, but that should be easy now that you understand these terms!
+Now that you understand this terminology you can go on to enjoy [Showtime’s Billions](http://www.sho.com/billions). 
 
 *Written by Brendan Sheehan**Edited by Rajah Lehal and Alina Butt*
 
