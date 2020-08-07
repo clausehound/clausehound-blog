@@ -3,13 +3,8 @@ title: "Employers Beware: Does Your Employee Owe a Fiduciary Duty Post-Terminati
 author: frahman@cobaltcounsel.com
 tags: ["Employment Agreement","Non-competition","Human Resources","frahman"]
 date: 2016-08-18 08:00:51
-description: "Links from this article:
-Ontario Court of Appeal decision
-GasTOPS Ltd. v. Forsyth
-Resevoir Group Partnership v. 1304613 Ontario Ltd.
-click here
+description: "This article discusses the implications of fiduciary duty post-termination. Referencing the Ontario Court of Appeal decision in the case of GasTOPS Ltd. v. Forsyth Reservoir Group Partnership v. 1304613 Ontario Ltd."
 
-[insert page='CTA 1: EMPLOYMENT AGREEMENT' display=..."
 ---
 
  
