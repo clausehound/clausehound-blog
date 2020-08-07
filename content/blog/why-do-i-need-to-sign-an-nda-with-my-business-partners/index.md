@@ -3,12 +3,10 @@ title: "Why do I need to sign an NDA with my business partners?"
 author: frahman@cobaltcounsel.com
 tags: ["NDA","Partnership","Contract Drafting","Releases","frahman"]
 date: 2017-06-02 11:00:58
-description: "Links from this article:
-NDA
-Small Business Law Library
+description: "This article highlights the benefits of signing an NDA in entrepreneurship."
 
 
-Entrepreneurs may wonder whether they should sign a non-disclosure agreement with their co-foun..."
+
 ---
 
 
