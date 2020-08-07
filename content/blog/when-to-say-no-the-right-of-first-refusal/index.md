@@ -3,9 +3,9 @@ title: "When to say no:  The Right of First Refusal"
 author: rajah@cobaltcounsel.com
 tags: ["Shareholder Agreement","Company Formation","Rajah","Articles of Incorporation","Canada (ON)","Canada (General)"]
 date: 2017-10-17 15:44:18
-description: "We are often asked about the right of first refusal clause (ROFR), and so we thought it would be useful to survey the features of a right of first refusal clause here.
+description: "This article discusses the right of first refusal clause (ROFR), often seen in the shareholders' agreements or directly in a company's articles of incorporation."
 
-For a business with shareholder..."
+
 ---
 
 We are often asked about the right of first refusal clause (ROFR), and so we thought it would be useful to survey the features of a right of first refusal clause here.
