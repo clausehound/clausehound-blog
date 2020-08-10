@@ -3,7 +3,9 @@ title: "Advantages of an NDA"
 author: info@clausehound.com
 tags: ["NDA","Long Form","Commercial Activities"]
 date: 2016-01-15 17:41:30
-description: "Looking to enter into business with someone but worried information you possess will be disclosed and no longer be your secret?"
+description: "This article discusses the advantages of using an NDA."
+
+
 ---
 
 Looking to enter into business with someone but worried information you possess will be disclosed and no longer be your secret? Have no fear, an NDA is here! A **non-disclosure agreement (NDA)**, also known as a **confidentiality agreement**, can be used to protect confidential information from misuse or disclosure by others. In the course of doing business with someone it can be difficult to avoid disclosure of confidential information, and in order for both parties to perform their duties to the best of their abilities, disclosure may be essential. But the best business rule is this: have an NDA signed ***before*** you disclose confidential information!
