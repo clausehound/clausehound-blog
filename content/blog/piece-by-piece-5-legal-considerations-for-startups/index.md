@@ -3,9 +3,9 @@ title: "Piece by Piece – 5 Legal Considerations for Startups"
 author: info@clausehound.com
 tags: ["Employment Agreement","Long Form","Trademark Registration","Business","Commercial Lease","Commercial Activities","info@clausehound.com"]
 date: 2016-02-01 16:48:17
-description: "Introduction
+description: "This article outlines five essential considerations for startups."
 
-Every startup needs a name, a location, a business structure, financing and at least one employee (or self-employed entrepreneur!). Each need involves different legal considerations. Her..."
+
 ---
 
 **Introduction**
