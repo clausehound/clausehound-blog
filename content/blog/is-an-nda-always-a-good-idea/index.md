@@ -3,9 +3,9 @@ title: "Is An NDA Always A Good Idea?"
 author: info@clausehound.com
 tags: ["Confidentiality","NDA","Confidential Information","Releases","Commercial Activities","Confidentiality Agreement","info@clausehound.com"]
 date: 2016-01-26 12:45:32
-description: "
+description: "This article discusses the advantages of an NDA, and key information to review before signing." 
 
-Entrepreneurs often assume that using an NDA will provide the tightest security possible for their confidential information. This..."
+
 ---
 
  
