@@ -3,9 +3,9 @@ title: "Why Hire a Lawyer When I Can Download an Free NDA Draft from the Interne
 author: info@clausehound.com
 tags: ["NDA","Long Form","Contract Drafting","Commercial Activities","Clausehound","info@clausehound.com"]
 date: 2016-03-04 13:34:49
-description: "
+description: "This article discusses the risks of using internet sourced NDA contracts rather than hiring a lawyer."
 
-“You get what you pay for” is a common expression, but when it comes to downloading free contracts from the internet, the chances are good that a..."
+
 ---
 
 “*You get what you pay for*” is a common expression, but when it comes to downloading free contracts from the internet, the chances are good that a ‘free’ do-it-yourself contract could turn out be very expensive in the long run. Picking out an internet contract for a DIY project is a little like choosing from a box of chocolates you have never seen before, where each chocolate has a name, but no description. Let me give you some chocolate analogies for the various free NDA’s I have found on the internet.
