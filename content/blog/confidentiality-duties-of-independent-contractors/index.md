@@ -3,7 +3,8 @@ title: "Confidentiality: Duties of Your Independent Contractors"
 author: info@clausehound.com
 tags: ["Confidentiality","NDA","Independent Contractor","Employee","Human Resources","info@clausehound.com"]
 date: 2015-08-31 17:02:30
-description: "Links from this article:Read the article here.The article discusses a recent case out of Massachusetts which held that, as a matter of law, in t..."
+description: "This article discusses confidentiality terms with reference to a recent case out of Massachusetts, ."
+
 ---
 
 
