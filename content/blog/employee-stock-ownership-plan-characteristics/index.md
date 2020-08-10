@@ -3,7 +3,10 @@ title: "Employee Stock Ownership Plan Characteristics"
 author: rajah@cobaltcounsel.com
 tags: ["ESOP","Exercise of Options","Termination","Employment Agreement","Rights of Option Holders","Human Resources","Rajah"]
 date: 2015-11-29 17:15:02
-description: "If you’re trying to decide between compensation strategies, “cash is king”.  However, for both early stage companies where cash may not be readily available, and also to later stage companies in which..."
+description: "This article discusses various employee stock plan characteristics."
+
+
+
 ---
 
 If you’re trying to decide between compensation strategies, “cash is king”.  However, for both early stage companies where cash may not be readily available, and also to later stage companies in which employees are encouraged to think of themselves as “owners” of the company, it will make sense to offer access to an **Employee Stock Ownership Plan or ESOP**.
