@@ -3,7 +3,9 @@ title: "Follow Your NDA Procedures or Risk Losing Confidentiality"
 author: rajah@cobaltcounsel.com
 tags: ["NDA","Handling of Confidential Information","Safeguarding Requirements","Obligations","Commercial Activities","Rajah"]
 date: 2016-04-02 16:15:30
-description: "Links from this article:Read the article here.The NDA stated that to trigger either party’s obligations, the disclosed info..."
+description: "This article discusses the importance of following NDA procedures to prevent the loss of confidentiality." 
+
+
 ---
 
 
