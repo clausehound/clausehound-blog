@@ -3,7 +3,10 @@ title: "Protection of Confidential Information"
 author: rajah@cobaltcounsel.com
 tags: ["NDA","Handling of Confidential Information","Safeguarding Requirements","Long Form","Technology","Commercial Activities","Rajah"]
 date: 2016-01-01 17:01:51
-description: "Links from this article:my post on data securityI am often asked to either draft or review non-disclosure agreements. Withi..."
+description: "This article discusses protection of confidential information."
+
+
+
 ---
 
 
