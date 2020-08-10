@@ -3,9 +3,8 @@ title: "Survival Gear:  Making the Confidentiality Clause a ‘Survivor’ of th
 author: info@clausehound.com
 tags: ["Termination","Confidentiality","NDA","Employment Agreement","Long Form","Generally Used Clauses","Commercial Activities"]
 date: 2016-03-14 14:32:40
-description: "Links from this article:the confidentiality agreementcheck out our gap highlighting toolThe Jungle
+description: "This article discusses the possible implications of including a confidentiality clause in an employment contract."
 
-For most of us, the toughest ‘jungle’ we wil..."
 ---
 
 
