@@ -3,7 +3,10 @@ title: "How Soon is Too Soon to ask for  the NDA?"
 author: rajah@cobaltcounsel.com
 tags: ["NDA","Corporate Finance","Rajah"]
 date: 2016-01-21 17:01:15
-description: "I was recently asked the following question: “Dealing with investors is the most common situation for NDA questions for startups. From my experience it's seen as a rookie mistake to ask for an NDA pri..."
+description: "This article discusses NDA alternatives for startups when dealing with investors."
+
+
+
 ---
 
 I was recently asked the following question: “*Dealing with investors is the most common situation for NDA questions for startups. From my experience it's seen as a rookie mistake to ask for an NDA prior to due diligence.  Can you comment?*"
