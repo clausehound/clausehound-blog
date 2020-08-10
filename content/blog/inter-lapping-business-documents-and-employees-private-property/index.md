@@ -3,12 +3,8 @@ title: "Inter-lapping Business Documents and Employees' Private Property"
 author: rajah@cobaltcounsel.com
 tags: ["Confidentiality","NDA","Confidential Information","Employment","Confidentiality Agreement","Rajah"]
 date: 2015-08-14 16:22:22
-description: "Links from this article:
-Read the article here.
+description: "This article discusses an employee's general duty of confidentiality to an employer."
 
-
-
-The article discusses an employee's general duty of confidentiality to an employer...."
 ---
 
 
