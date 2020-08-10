@@ -3,7 +3,10 @@ title: "Employment Agreements Cannot Be Changed Unilaterally"
 author: rajah@cobaltcounsel.com
 tags: ["Employment Agreement","Amendment","Human Resources","Rajah"]
 date: 2015-09-22 17:34:21
-description: "Links from this article:Read the article here.An employer in the United Kingdom repeatedly tried contacting an employee while such employee was on lea..."
+description: "This article explains why employment agreements cannot be changed unilaterally."
+
+
+
 ---
 
 
