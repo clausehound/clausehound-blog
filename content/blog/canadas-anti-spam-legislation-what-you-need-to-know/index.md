@@ -3,7 +3,9 @@ title: "Canada’s Anti-Spam Legislation: What You Need to Know"
 author: info@clausehound.com
 tags: ["Employment Agreement","Long Form","Business","Commercial Activities"]
 date: 2015-12-03 16:45:33
-description: "Canada’s anti-spam legislation (CASL) came into effect July 1, 2014, becoming one of the toughest laws of its kind in the world. CASL applies to everyo..."
+description: "This article provides an overview of Canada's Anti-Spam Legislation." 
+
+
 ---
 
 **Canada’s Anti-Spam Legislation (CASL)** came into effect July 1, 2014, becoming one of the toughest laws of its kind in the world. CASL applies to everyone - individuals, incorporated and unincorporated businesses, not for profit organizations etc. - who sends **Commercial Electronic Messages (CEM)**. 
