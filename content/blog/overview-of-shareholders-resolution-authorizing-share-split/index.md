@@ -3,13 +3,9 @@ title: "Overview of Shareholders’ Resolution Authorizing Share Split"
 author: rajah@cobaltcounsel.com
 tags: ["Rajah","Contract Overviews","Shareholders Resolution Authorizing Share Split"]
 date: 2017-03-30 14:25:05
-description: "Overview of Shareholders’ Resolution Authorizing Share Split
+description: "This document provides a sample of a shareholders' resolution authorizing share split."
 
- 
 
-What is this document?
-
-Certain decisions made by the directors must be approved by the shareholders of a corporation. This resolution..."
 ---
 
 
