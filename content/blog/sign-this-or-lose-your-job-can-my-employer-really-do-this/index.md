@@ -3,7 +3,8 @@ title: "Sign This or Lose Your Job! Can My Employer Really Do This?"
 author: rajah@cobaltcounsel.com
 tags: ["Employment Agreement","Employee","Human Resources"]
 date: 2016-04-14 00:46:56
-description: "Imagine coming to work one day and being told by your employer that you have to sign a contract that changes the terms of your employment (for the worse) or be fired."
+description: "This article examines the possibility of employee dismissal, as a result of the refusal to sign a modified employee contract.
+
 ---
 
 
