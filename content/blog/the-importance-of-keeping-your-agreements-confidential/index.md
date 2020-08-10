@@ -3,7 +3,9 @@ title: "The Importance of Keeping your Agreements Confidential"
 author: info@clausehound.com
 tags: ["Confidentiality","NDA","Commercial Activities"]
 date: 2015-09-03 11:54:31
-description: "Links from this article:Read the article here.Information about any cell phone monitoring equipment used by local police must be safeguarded for..."
+description: "This article discusses the importance of keeping agreements confidential in relation to technology."
+
+
 ---
 
 
