@@ -14,7 +14,7 @@ Majority shareholders who are also executives in a company, and sole directors w
 
 If a sole director needs to make a decision regarding their own employment contract, is there a conflict of interest?
 
-### Can an executive “slip” a tough decision through?
+### Can An Executive “Slip” a Tough Decision Through?
 
 If there is an active board, that’s tough to do, and not recommended.  The company may sue to have the contract unwound and the funds returned.
 
@@ -22,7 +22,7 @@ For example, in [Waddilove v 1748960 Ontario Limited (2018) (Waddilove)](https:/
 
 **These differences were not disclosed to the board of directors**. The court held that the contract is unenforceable as the officer should have disclosed the contract and his position of conflict to the board (Paragraph 65). 
 
-### Can a board seek legal advice in order to make tough decisions?
+### Can a Board Seek Legal Advice in Order to Make Tough Decisions?
 
 A board might seek legal counsel to determine whether a benefit to one shareholder/board member/executive is legally possible. Ultimately the decisions on whether to disproportionately benefit one person to the expense of the others is a board decision, and the board needs to act in the best interest of the corporation. (For more details on this, search our articles on board liability, fiduciary duty, business and judgement).
 
@@ -53,17 +53,17 @@ The **most relevant factors** for this article are listed in Page 621 of the cas
 
 ### Potential Solutions?
 
-#### *Recruit a bigger board*
+#### *Recruit a Bigger Board*
 
 The most certain way for a sole director to avoid the possibility of conflict — would be to recruit additional decision-making board members. This would allow the conflicted director to recuse themselves from voting on the relevant matter. 
 
 If the above is not possible or practical, in [BCE Inc. v. 1976 Debentureholders (2008)](https://www.canlii.org/en/ca/scc/doc/2008/2008scc69/2008scc69.html), the Supreme Court of Canada discussed possible avenues for redress in situations where a conflict of interest occurs. The court held that the directors need to “resolve them in accordance with their fiduciary duty to act in the best interests of the corporation, viewed as a good corporate citizen” (at paragraph 81 of that case). The court also held that there are no absolute rules and directors have to treat individual stakeholders affected by their actions equitably and fairly (at paragraph 82 of that case).
 
-#### *Recruit independent advisors (board of advisor, ombudspersons)*
+#### *Recruit Independent Ddvisors (Board of Advisor, Ombudspersons)*
 
 For sole directors, one possible solution to avoid an inadvertent breach of their fiduciary duties would be to recruit a board of advisors, or ombudspersons who could advise independently in situations (without specific decision making abilities) where a potential conflict of interest arises. This could help provide evidence that shows that the sole director is not shirking their fiduciary duties. However, keep in mind that, just in the example above in which, relying on a discussion or advice from legal counsel did not absolve the board of directors from liability, in this case, the independent board of advisors may also fail to act as a shield from liability.
 
-#### *Disclose the conflict to shareholders and ask for approval*
+#### *Disclose the Conflict to Shareholders and Ask For Approval*
 
 [In an article posted on our partner site Mondaq.com](https://www.mondaq.com/canada/contracts-and-commercial-law/733412/the-directors39-briefing-conflicts-of-interest-by-officers) on the Waddilove case (also discussed above), the author proposes a potential solution. The officer in question, if he acted honestly and in good faith, pursuant to s. 132(8) of the OBCA, could have disclosed the conflict to the shareholders and had them ratify it. 
 
