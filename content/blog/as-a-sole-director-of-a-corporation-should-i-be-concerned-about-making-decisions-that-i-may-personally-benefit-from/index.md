@@ -1,5 +1,5 @@
 ---
-title: "As a Sole Director of a corporation, should I be concerned about making decisions that I may personally benefit from?"
+title: "As A Sole Director Of A Corporation, Should I Be Concerned About Making Decisions That I May Personally Benefit From?"
 author: rajah@cobaltcounsel.com
 tags: ["Employment Agreement","Board of Directors"]
 date: 2020-08-14
