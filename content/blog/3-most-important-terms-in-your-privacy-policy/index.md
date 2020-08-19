@@ -36,4 +36,6 @@ And as a general rule, you want to ensure compliance with both regulations depen
 
 In summation, company founders should pay close attention to the language in their Privacy Policy. Founders should ensure that the policy is clear and easy to determine what information is being collected from the customer and what the company is doing with this data. As with all other aspects of running a business, the Privacy Policy must also comply with the appropriate governing acts and/or legislature (i.e. GDPR and PIPEDA).
 
-To draft and download your free Privacy Policy template, [Click Here!](https://www.clausehound.com/legal-contract/privacy-policy26)
+**To draft and download your free Privacy Policy template, [Click Here!](https://www.clausehound.com/legal-contract/privacy-policy26)**
+
+**Want to review your Privacy Policy with our legal team? Book a [free scoping call here](https://www.google.com/url?q=https://calendly.com/maxmessenger/scoping-call&sa=D&source=hangouts&ust=1597949776443000&usg=AFQjCNHayaxYc-qHnB1E_yTBKvdKVufiOA) to get your document up to speed!**
