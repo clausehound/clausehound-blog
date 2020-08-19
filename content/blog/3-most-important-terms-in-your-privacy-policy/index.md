@@ -6,6 +6,8 @@ date: 2020-08-19
 description: "Whether you are a founder drafting a Privacy Policy for your company or signing one as a customer, there are three (3) key components to a Privacy Policy that you should be aware of. A founder/customer should understand what data is being collected, how the data is being managed, and how the General Data Protection Regulations (GDPR) and the Personal Information Protection and Electronic Documents Act (PIPEDA) apply."
 ---
 
+**To draft and download your free Privacy Policy template, [Click Here!](https://www.clausehound.com/legal-contract/privacy-policy26)**
+
 Whether you are a founder drafting a Privacy Policy for your company or signing one as a customer, there are three (3) key components to a Privacy Policy that you should be aware of. A founder/customer should understand what data is being collected, how the data is being managed, and how the General Data Protection Regulations (GDPR) and the Personal Information Protection and Electronic Documents Act (PIPEDA) apply.
 
 ### Data Collection
