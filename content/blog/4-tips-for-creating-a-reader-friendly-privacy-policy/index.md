@@ -55,3 +55,5 @@ You may be interested in checking out a [Sample Privacy Policy](https://www.clau
 Having a good privacy policy in place is a great first step, but it isn’t enough to merely have one. There must be measures in place to actually monitor, protect, backing-up, and retrieve user data in accordance with your policy and PIPEDA - but that’s where the process crosses from the domain of law into tech.
 
 **FOR MORE DOWNLOADABLE CONTRACT TEMPLATES, VISIT [DEALPREP.CO/PRICING](https://www.dealprep.co/pricing) - ALL-ACCESS LICENSES AT $50 PER YEAR!**
+
+**Want to review your Privacy Policy with our legal team? Book a [free scoping call here](https://www.google.com/url?q=https://calendly.com/maxmessenger/scoping-call&sa=D&source=hangouts&ust=1597949776443000&usg=AFQjCNHayaxYc-qHnB1E_yTBKvdKVufiOA) to get your document up to speed!**
