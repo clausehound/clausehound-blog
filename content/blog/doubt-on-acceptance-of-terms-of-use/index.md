@@ -3,7 +3,8 @@ title: "Doubt on Acceptance of Terms of Use"
 author: rajah@cobaltcounsel.com
 tags: ["Terms of Use","Browsewrap","Clickwrap","Approval of Terms","Commercial Activities","Rajah"]
 date: 2015-09-07 10:31:42
-description: "Links from this article:Read the article here.Websites and internet service providers should consider inserting as many positive steps as poss..."
+description: "
+Links from this article:Read the article here.Websites and internet service providers should consider inserting as many positive steps as poss..."
 ---
 
 
