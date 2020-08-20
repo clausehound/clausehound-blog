@@ -3,7 +3,9 @@ title: "Blog Bite: What are the potential legal issues associated with online pr
 author: alina@clausehound.com
 tags: ["Terms of Use","Mondaq","Learn","USA"]
 date: 2011-07-20 00:00:00
-description: "This article posted on our partner site Mondaq.com documents various potential legal issues that can be associated with Internet promotions (e.g., intellectual property and copyright infringement cla..."
+description: "This article explores potential legal issues associated with online promotions."
+
+
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/unitedstates/x/133708/Social+Media/Potential+Legal+Issues+Associated+With+Internet+Promotions) documents various potential legal issues that can be associated with **internet promotions** (e.g., intellectual property and copyright infringement claims, defamation or libel, publicity rights, and public voting rights). 
