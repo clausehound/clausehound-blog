@@ -3,9 +3,8 @@ title: "When a Confidentiality Agreement Isn’t Enough…"
 author: info@clausehound.com
 tags: ["Confidentiality","NDA","Confidential Information","Long Form","Releases","Commercial Activities","Confidentiality Agreement","info@clausehound.com"]
 date: 2016-01-26 12:55:12
-description: "
+description: "This article describes how to protect specific confidential information, within or in addition to a Confidentiality Agreement."
 
-When determining how to protect specific confidential information, it is important to consider whether the terms of the confidential..."
 ---
 
 When determining how to protect specific confidential information, it is important to consider whether the terms of the confidentiality agreement offer at least the level of protection available under the common law.
