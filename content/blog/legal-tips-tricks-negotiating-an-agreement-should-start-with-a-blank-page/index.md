@@ -3,12 +3,12 @@ title: "Legal Tips & Tricks: Negotiating an Agreement should Start with a Blank 
 author: alva@clausehound.com
 tags: ["Terms of Use","Intellectual Property","Confidentiality","NDA","Employment Agreement","Independent Contractor","Term Sheet","Privacy Policy","Releases","Distribution Agreement","Website Terms of Use","Consulting Agreement","Commercial Activities","Playbooks","Contract Overviews","Share Buyback Agreement","Loan Agreement","Articles of Incorporation","IP Transfer","Share Purchase Agreement","Promissory Note","Shareholders Agreement","Option Agreement","Share Subscription Agreement","Library","Advisor Agreement"]
 date: 2016-09-09 17:13:53
-description: "When entering into an important contract, take the time to discuss with your business partners, advisors and legal counsel, to make sure that you are clear about your opportunities and risks.  In this..."
+description: "When entering into an important contract, take the time to discuss with your business partners, advisors and legal counsel, to make sure that you are clear about your opportunities and risks.  In this article, we describe four simple steps to follow to make sure that your interests are protected when negotiating an agreement."
 ---
 
-When entering into an important contract, take the time to discuss with your business partners, advisors and legal counsel, to make sure that you are clear about your opportunities and risks.  In this article, we describe **four simple steps** to follow to make sure that your interests are protected when negotiating an agreement.
+When entering into an important contract, take the time to discuss with your business partners, advisors and legal counsel, to make sure that you are clear about your opportunities and risks.  In this article, we describe **four (4) simple steps** to follow to make sure that your interests are protected when negotiating an agreement.
 
-The best way to commence drafting a contract is similar to the best way to build a presentation slide deck or to design a website wire frame – start from scratch.  This is to ensure that you are not constrained or swayed by the language of a prior contract.  Start with a blank canvas, and start writing out the concepts that you want to include.
+The best way to commence drafting a contract is similar to the best way to build a presentation slide deck or to design a website wire frame – *start from scratch*.  This is to ensure that you are not constrained or swayed by the language of a prior contract.  Start with a blank canvas, and start writing out the concepts that you want to include.
 
 **Step 1**:  The first element to think about is the **opportunity** (i.e. what you stand to gain).  Make sure that you clearly understand and have communicated what you desire.
 
