@@ -38,6 +38,6 @@ And as a general rule, you want to ensure compliance with both regulations depen
 
 In summation, company founders should pay close attention to the language in their Privacy Policy. Founders should ensure that the policy is clear and easy to determine what information is being collected from the customer and what the company is doing with this data. As with all other aspects of running a business, the Privacy Policy must also comply with the appropriate governing acts and/or legislature (i.e. GDPR and PIPEDA).
 
-**FOR MORE DOWNLOADABLE CONTRACT TEMPLATES, VISIT [DEALPREP.CO/PRICING](https://www.dealprep.co/pricing) - ALL-ACCESS LICENSES AT $50 PER YEAR!**
+**FOR MORE DOWNLOADABLE CONTRACT TEMPLATES, VISIT [DEALPREP.CO/PRICING](https://www.dealprep.co/pricing) - ALL-ACCESS PASS for $50 PER YEAR!**
 
 **Want to review your Privacy Policy with our legal team? Book a [free scoping call here](https://www.google.com/url?q=https://calendly.com/maxmessenger/scoping-call-privacy-policy&sa=D&source=hangouts&ust=1598026113313000&usg=AFQjCNEvVAU6r2E82bxiMY7vTdHgwfxh-Q) to get your document up to speed!**
