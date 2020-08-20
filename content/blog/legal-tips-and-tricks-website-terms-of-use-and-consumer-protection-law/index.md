@@ -3,7 +3,9 @@ title: "Legal Tips and Tricks: Website Terms of Use and Consumer Protection Law"
 author: rajah@cobaltcounsel.com
 tags: ["Terms of Use","Long Form","Technology","Website","Commercial Activities","Rajah"]
 date: 2013-12-02 17:16:33
-description: "When designing a website terms of use, lawyers, software developers or company marketing folks will often review the terms of use of their competitors and “borrow” the terms they like to design their..."
+description: "The article provides advice on Website Terms of Use and Consumer Protection Law."
+
+
 ---
 
 When designing a website terms of use; lawyers, software developers or company marketing folks will often review the terms of use of their competitors and “borrow” the terms they like to design their own terms.   This practice may be dangerous in Ontario if the competitor’s terms of use are taken from a company that is subject to rules outside of Ontario, as the terms may not incorporate the *Consumer Protection Act* (“**CPA”**) rules that govern website terms of use (“**Internet Agreements**“).
