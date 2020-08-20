@@ -3,7 +3,8 @@ title: "Overview of Terms of Use"
 author: rajah@cobaltcounsel.com
 tags: ["Terms of Use","Rajah","Contract Overviews"]
 date: 2017-03-30 11:57:20
-description: "A Terms of Use is an agreement that governs a customer’s use of a website, and any product or service delivered through that website."
+description: "This articles provides an overview of a Terms of Use agreement."
+
 ---
 
 ### **What Is This Agreement?**
