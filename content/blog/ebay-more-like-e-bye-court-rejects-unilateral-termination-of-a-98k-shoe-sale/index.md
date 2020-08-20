@@ -3,18 +3,8 @@ title: "eBay? More like e-Bye! Court rejects unilateral termination of a $98K sh
 author: frahman@cobaltcounsel.com
 tags: ["Terms of Use","Termination","Commercial Activities","frahman"]
 date: 2016-10-21 12:58:11
-description: "Links from this article:
-Source 
-that goes against language in both
-in s. 2126
-site-user agreement
+description: "The article discusses unilateral termination and site user agreement."
 
-
-
-Source 
-
-Look at that pair of shoes. That..."
----
 
  
 
