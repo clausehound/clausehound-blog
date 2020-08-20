@@ -3,8 +3,10 @@ title: "Terms of use and enforcing production of documents"
 author: rajah@cobaltcounsel.com
 tags: ["Terms of Use","Rajah"]
 date: 2016-10-27 13:55:34
-description: "There is no legally enforceable right to obtain documents from a third party, especially if it will breach any terms of use in operation.
-Often times terms of use agreements may conflict with one par..."
+description: "This article discusses Terms of Use and enforcing production of documents."
+
+
+
 ---
 
  There is no legally enforceable right to obtain documents from a third party, especially if it will breach any terms of use in operation.
