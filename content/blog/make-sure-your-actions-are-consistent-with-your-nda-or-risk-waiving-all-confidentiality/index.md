@@ -3,7 +3,9 @@ title: "Make Sure Your Actions are Consistent with your NDA, or Risk Waiving All
 author: rajah@cobaltcounsel.com
 tags: ["NDA","Safeguarding Requirements","Handling Confidential Information","Commercial Activities","Rajah"]
 date: 2016-02-02 12:08:36
-description: "Links from this article:Read the full article here.It would be prudent to clearly lay out in an NDA how confidential informati..."
+description: "This articles outlines the importance of following conventions set forth in an NDA to prevent the loss of confidentiality."
+
+
 ---
 
 
