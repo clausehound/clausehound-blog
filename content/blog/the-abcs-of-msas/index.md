@@ -3,10 +3,7 @@ title: "The ABCs of MSAs"
 author: info@clausehound.com
 tags: ["Liability","Indemnity","Ownership of Intellectual Property","Commercial Activities","Master Services Agreement"]
 date: 2016-04-01 15:47:54
-description: "Links from this article:negotiatecompetitive advantageIntroduction
-
-There are three things you need to consider carefully in every Software Developmen..."
----
+description: "The article discusses three factors to consider in a Software Development Master Services Agreement."
 
 
 
