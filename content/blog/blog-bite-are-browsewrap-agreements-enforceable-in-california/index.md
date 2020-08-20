@@ -3,7 +3,7 @@ title: "Blog Bite: Are browsewrap agreements enforceable in California?"
 author: alina@clausehound.com
 tags: ["Terms of Use","Mondaq","Learn","USA"]
 date: 2016-07-29 00:00:00
-description: "This articles discusses whether or not browsewrap agreements enforceable in California."
+description: "This article discusses whether or not browsewrap agreements enforceable in California."
 
 ---
 
