@@ -3,12 +3,10 @@ title: "Confidential Information & Name For Your Product"
 author: rajah@cobaltcounsel.com
 tags: ["Confidentiality","NDA","Confidential Information","Commercial Activities","Confidentiality Agreement","Rajah"]
 date: 2016-03-01 12:03:16
-description: "Links from this article:
-Read the article here.
+description: "This articles discusses how to protect confidential information, and maintain intellectual property while naming a product."
 
 
 
-Allowing a provision under Toxic Chemical Substances Act to remain intact, allows m..."
 ---
 
 **Links from this article:**[Read the article here.](http://thehill.com/blogs/congress-blog/economy-budget/216973-have-it-both-ways-protect-intellectual-property-and?)
