@@ -3,7 +3,9 @@ title: "Blog Bite: How can websites ensure that online agreements are enforceabl
 author: alina@clausehound.com
 tags: ["Terms of Use","Mondaq","Learn","USA"]
 date: 2016-06-07 00:00:00
-description: "This article posted on our partner site Mondaq.com discusses recent cases to illustrate the enforceability of browsewrap and clickwrap agreements. The author suggests that websites using browsewrap a..."
+description: "This articles explains how websites can ensure that their online agreements are enforceable in the USA."
+
+
 ---
 
 [This article posted on our partner site Mondaq.com](http://www.mondaq.com/unitedstates/x/491570/IT+internet/Be+Super+Obvious+A+Howto+for+Enforceable+Online+Agreements) discusses recent cases to illustrate the *enforceability* of **browsewrap* and **clickwrap agreements**. 
