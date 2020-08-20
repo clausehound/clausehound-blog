@@ -3,7 +3,9 @@ title: "Stanford Loses Patent battle Because Researcher Signed Visitor’s Confi
 author: rajah@cobaltcounsel.com
 tags: ["Consulting Agreement","Ownership of Work Product","Ownership of Intellectual Property","Human Resources","Rajah"]
 date: 2015-09-23 00:00:00
-description: "Links from this article:Read the article here.Universities need to be very careful about what agreements they have researchers sign, and es..."
+description: "This article discusses Copyright and Patent Agreements, with reference to the case between Stanford v. Roche."
+
+
 ---
 
 
