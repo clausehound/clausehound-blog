@@ -3,9 +3,11 @@ title: "Third Party Experts Should Enter Into Consulting Agreements Which Includ
 author: info@clausehound.com
 tags: ["Confidentiality","Consulting Agreement","Ownership of Work Product","Ownership of Intellectual Property","Human Resources","info@clausehound.com"]
 date: 2015-07-28 00:00:00
-description: "Links from this article:Read the article here.This article notes that people 'in the renewable energy and clean technology fields regularly need..."
----
+description: "This article discusses whether or not third party experts should enter into Consulting Ageeements."
 
+
+
+---
 
 
 This article notes that people "in the *renewable energy and clean technology fields* regularly need to speak with others outside their company for solutions to ongoing research and development problems." The problem is how to protect confidentiality and company IP when engaging in such discussions. 
