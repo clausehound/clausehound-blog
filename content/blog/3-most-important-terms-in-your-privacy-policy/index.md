@@ -6,7 +6,7 @@ date: 2020-08-19
 description: "Whether you are a founder drafting a Privacy Policy for your company or signing one as a customer, there are three (3) key components to a Privacy Policy that you should be aware of. A founder/customer should understand what data is being collected, how the data is being managed, and how the General Data Protection Regulations (GDPR) and the Personal Information Protection and Electronic Documents Act (PIPEDA) apply."
 ---
 
-**To draft and download your free Privacy Policy template, [Click Here!](https://www.clausehound.com/legal-contract/privacy-policy26)**
+**TO DRAFT AND DOWNLOAD YOUR FREE PRIVACY POLICY TEMPLATE, [CLICK HERE!](https://www.clausehound.com/legal-contract/privacy-policy26)**
 
 Whether you are a founder drafting a Privacy Policy for your company or signing one as a customer, there are three (3) key components to a Privacy Policy that you should be aware of. A founder/customer should understand what data is being collected, how the data is being managed, and how the General Data Protection Regulations (GDPR) and the Personal Information Protection and Electronic Documents Act (PIPEDA) apply.
 
@@ -38,6 +38,6 @@ And as a general rule, you want to ensure compliance with both regulations depen
 
 In summation, company founders should pay close attention to the language in their Privacy Policy. Founders should ensure that the policy is clear and easy to determine what information is being collected from the customer and what the company is doing with this data. As with all other aspects of running a business, the Privacy Policy must also comply with the appropriate governing acts and/or legislature (i.e. GDPR and PIPEDA).
 
-**To draft and download your free Privacy Policy template, [Click Here!](https://www.clausehound.com/legal-contract/privacy-policy26)**
+**FOR MORE DOWNLOADABLE CONTRACT TEMPLATES, VISIT [DEALPREP.CO/PRICING](https://www.dealprep.co/pricing) - ALL-ACCESS LICENSES AT $50 PER YEAR!**
 
-**Want to review your Privacy Policy with our legal team? Book a [free scoping call here](https://www.google.com/url?q=https://calendly.com/maxmessenger/scoping-call&sa=D&source=hangouts&ust=1597949776443000&usg=AFQjCNHayaxYc-qHnB1E_yTBKvdKVufiOA) to get your document up to speed!**
+**Want to review your Privacy Policy with our legal team? Book a [free scoping call here](https://www.google.com/url?q=https://calendly.com/maxmessenger/scoping-call-privacy-policy&sa=D&source=hangouts&ust=1598026113313000&usg=AFQjCNEvVAU6r2E82bxiMY7vTdHgwfxh-Q) to get your document up to speed!**
