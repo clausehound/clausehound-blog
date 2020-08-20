@@ -3,7 +3,8 @@ title: "When Drafting a Terms of Use: Identify All Actions that will Result in a
 author: rajah@cobaltcounsel.com
 tags: ["Terms of Use","Termination","Commercial Activities","Rajah"]
 date: 2015-09-07 10:28:42
-description: "Links from this article:Read the article here.Drafters may want to insert prohibited actions that will result in automatic termination or restrictio..."
+description: "This article discusses the the importance of identifying all actions that result in Immediate Termination of the Terms."
+
 ---
 
 
