@@ -56,4 +56,4 @@ Having a good privacy policy in place is a great first step, but it isn’t enou
 
 **FOR MORE DOWNLOADABLE CONTRACT TEMPLATES, VISIT [DEALPREP.CO/PRICING](https://www.dealprep.co/pricing) - ALL-ACCESS LICENSES AT $50 PER YEAR!**
 
-**Want to review your Privacy Policy with our legal team? Book a [free scoping call here](https://www.google.com/url?q=https://calendly.com/maxmessenger/scoping-call&sa=D&source=hangouts&ust=1597949776443000&usg=AFQjCNHayaxYc-qHnB1E_yTBKvdKVufiOA) to get your document up to speed!**
+**Want to review your Privacy Policy with our legal team? Book a [free scoping call here](https://www.google.com/url?q=https://calendly.com/maxmessenger/scoping-call-privacy-policy&sa=D&source=hangouts&ust=1598026113313000&usg=AFQjCNEvVAU6r2E82bxiMY7vTdHgwfxh-Q) to get your document up to speed!**
