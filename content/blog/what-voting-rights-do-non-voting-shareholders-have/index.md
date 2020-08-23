@@ -1,37 +1,33 @@
 ---
-title: "What voting rights do non-voting shareholders have?"
+title: "What Voting Rights do Non-voting Shareholders Have?"
 author: frahman@cobaltcounsel.com
 tags: ["ESOP","Employee","Articles of Incorporation","Shareholders Agreement"]
 date: 2017-05-12 11:00:24
-description: "This articles discusses the rights of non-voting shareholders for entrepreneurs and investors."
-
-
-
-A common question that entrepreneurs/inventors have when incorporating..."
+description: "This articles discusses the rights of non-voting shareholders for entrepreneurs and investors. A common question that entrepreneurs/inventors have when incorporating is how to structure their business."
 ---
 
-**Links from this article:** [Shareholders' Agreement](https://clausehound.com/legal-contract/15823#!/document=); [ESOP](https://clausehound.com/legal-contract/15816); [Articles of Incorporation](https://clausehound.com/legal-contract/16180#!/document=).
+
 
 A common question that entrepreneurs have when incorporating is how to structure their business. The options for structuring a business can be overwhelming, especially when it comes to determining the number of share classes to include in your corporation. Generally, founders will initially want to issue shares to themselves, their investors, and certain employees.
 
 This share issuances will typically be governed by a [Shareholders’ Agreement](https://clausehound.com/legal-contract/15823#!/document=) and, if necessary, an [Employee Stock Option Plan (ESOP)](https://clausehound.com/legal-contract/15816).
 
-**Why employees, you ask?**
+### Why employees, you ask?
 
 Offering employees (or contractors) an option to purchase shares from the start of the company incentivizes employees to grow the company as if it’s theirs. It also works as a retention tool - encouraging the employee to stay with the company long-term.
 
 
 
-**What kind of shares should you issue to your employees?**
+### What kind of shares should you issue to your employees?
 
 Businesses usually issue non-voting shares to its employees. Issuing shares proves to drive the performance of employees, but founders still want to maintain control over critical decision-making for the business.
 
 
-**Are non-voting shares really non-voting?**
+### Are non-voting shares really non-voting?
 
 Although called ‘non-voting shares’, there are certain situations where the legislation under which the corporation was incorporated will give non-voting shareholders the right to vote.
 
-**For example**, Sections 170(1) and (3) of the Ontario [*Business Corporations Act*](https://www.ontario.ca/laws/statute/90b16#BK156) (OBCA) states that non-voting shareholders may vote on **resolutions to amend the corporation’s articles of incorporation** if the amendment is related to:
+**For example**, Sections 170(1) and (3) of the [*Ontario Business Corporations Act (OBCA)*](https://www.ontario.ca/laws/statute/90b16#BK156) states that non-voting shareholders may vote on **resolutions to amend the corporation’s articles of incorporation** if the amendment is related to:
 
 - Changing the maximum number of authorized shares of the non-voting class;
 
