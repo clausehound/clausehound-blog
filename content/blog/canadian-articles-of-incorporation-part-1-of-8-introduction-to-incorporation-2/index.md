@@ -71,6 +71,6 @@ When drafting your Articles of Incorporation, you will want to consider the info
 - Part 7 – Other Important Information
 - Part 8 – What’s else should I consider before developing my business?
 
-For access to Clausehound’s blogs related to various legal & business topics, please visit [Clausehound.com](https://www.clausehound.com/documents/).
+For access to Clausehound’s blogs related to various legal & business topics, please visit [Clausehound.com](https://blog.clausehound.com/).
 
 Draft on!
