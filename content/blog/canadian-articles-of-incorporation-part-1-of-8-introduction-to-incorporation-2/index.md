@@ -3,7 +3,7 @@ title: "Canadian Articles of Incorporation – Part 1 of 4:   Introduction to In
 author: rajah@cobaltcounsel.com
 tags: ["Not for Profit Articles of Incorporation","Company Formation","Rajah","Articles of Incorporation","Canada (ON)","Canada (General)"]
 date: 2016-10-27 14:30:02
-description: "Canadian Articles of Incorporation – Part 1 of 4: Introduction to Incorporation"
+description: "Part 1 of 4 of Canadian Articles of Incorporation: Incorporating a business can be one of the most important decisions any entrepreneur makes in establishing their business and it is usually one of the first decisions they have to make."
 ---
 
 
