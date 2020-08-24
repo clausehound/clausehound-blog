@@ -45,10 +45,10 @@ If you choose to include a restrictive covenant in a contract with another party
 
 Clauses of this nature can be found in a variety of agreements, such as:
 
-- [intellectual property transfer agreements](https://clausehound.com/legal-contract/14981#!/document=)
-- [software development agreements](https://clausehound.com/legal-contract/16201)
-- [non-disclosure agreements](https://clausehound.com/legal-contract/15656)
+- [Intellectual Property Transfer Agreements](https://www.clausehound.com/documents/)
+- [Software Development Agreements](https://www.clausehound.com/documents/)
+- [Non-disclosure Agreements](https://clausehound.com/legal-contract/15656)
 
  
 
-For agreement templates and samples of clauses discussed here, check out Clausehound’s [Small Business Law Library](https://clausehound.com/small-business-law-library/)!
+For agreement templates and samples of clauses discussed here, check out Clausehound’s [Small Business Law Library](https://www.clausehound.com/documents/)!
