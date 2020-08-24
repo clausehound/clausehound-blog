@@ -3,35 +3,31 @@ title: "Overview of Intellectual Property Release Agreement"
 author: rajah@cobaltcounsel.com
 tags: ["Intellectual Property","Rajah","Contract Overviews","IP Transfer"]
 date: 2017-03-30 12:13:30
-description: "Overview of Intellectual Property Release Agreement
-
-What is this document?
-
-An IP Release Agreement is an agreement where a person (the ‘Releasor’) releases all claims it might have in relation to th..."
+description: "An IP Release Agreement is an agreement where a person (the ‘Releasor’) releases all claims it might have in relation to the intellectual property described in the agreement."
 ---
 
-Overview of Intellectual Property Release Agreement
-
-
-What is this document?
-
-An IP Release Agreement is an agreement where a person (the ‘Releasor’) releases all claims it might have in relation to the intellectual property described in the agreement.
 
 
 
-When would I use this document?
+### What is this document?
+
+An IP Release Agreement is an agreement where a person (the ‘**Releasor**’) releases all claims it might have in relation to the intellectual property described in the agreement.
+
+
+
+### When would I use this document?
 
 An IP Release Agreement can be used when a person is transferring or assigning its intellectual property to another person.
 
 
 
-Who signs this Agreement?
+### Who signs this Agreement?
 
-An IP Release Agreement is signed by the person releasing their claims, (the “Releasor”), and the party receiving the release (the “Releasee”).
+An IP Release Agreement is signed by the person releasing their claims, (the “**Releasor**”), and the party receiving the release (the “**Releasee**”).
 
 
 
-More details about this document
+### More details about this document
 
 An IP Release Agreement is usually drafted in favor of the Releasee. The agreement can be used in situations where an owner of intellectual property must transfer its intellectual property to another party. This can be common in employment relationships, mergers and acquisitions, sales and purchases of assets, and in software development agreements.
 
@@ -41,17 +37,17 @@ The Releasor will want to ensure that it has received consideration (payment) fo
 
 
 
-What are the core elements of this document?
+### What are the core elements of this document?
 
 The core elements of an IP Release Agreement include: Definition of Intellectual Property, Release from Claims; Indemnity; and Assignment. Some additional clauses may include: Compensation; Limitations to Release; and No Waiver.
 
 
-Related Documents
+### Related Documents
 
-*Software Development Agreement* - An agreement between the developer of software and the customer who hires the developer to create the software.
+**Software Development Agreement** - An agreement between the developer of software and the customer who hires the developer to create the software.
 
-*Contractor/Consulting/Services Agreement* - This type of agreement can have various names, and is used when a person is paid to provide services but is not hired as an employee.
+**Contractor/Consulting/Services Agreement** - This type of agreement can have various names, and is used when a person is paid to provide services but is not hired as an employee.
 
-*Nondisclosure/Confidentiality Agreement* - An agreement that protects confidential information.
+**Nondisclosure/Confidentiality Agreement** - An agreement that protects confidential information.
 
-*Employment Agreement* - An agreement that sets out the terms of an employment relationship.
+**Employment Agreement** - An agreement that sets out the terms of an employment relationship.
