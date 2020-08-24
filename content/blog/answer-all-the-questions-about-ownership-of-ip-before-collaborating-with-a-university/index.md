@@ -22,4 +22,4 @@ The answers to these questions should establish a relationship that will justly 
 
  
 
-Are you a Startup Company looking for discounted legal services? Check out [Clausehound.com](https://about.clausehound.com/) and our Business Law Library [here!](https://www.clausehound.com/documents/)
+Are you a Startup Company looking for discounted legal services? Check out [Clausehound.com](https://about.clausehound.com/) and our Business Law Library [here!](https://www.clausehound.com/documents/).
