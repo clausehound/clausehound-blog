@@ -3,7 +3,9 @@ title: "Legal Tips and Tricks: The Minimum Age for Your Web/Mobile App Subscribe
 author: rajah@cobaltcounsel.com
 tags: ["Terms of Use","Long Form","Under-Age Customers","Commercial Activities","Rajah"]
 date: 2013-07-15 17:20:09
-description: "Links from this article:hereAre the subscribers/customers of your web or mobile application under the age of majority?  This is potentially problemati..."
+description: "This article provides guidance on how to moderate Minimum Age Requirements for Web/Mobile App Subcribers."
+
+
 ---
 
 
