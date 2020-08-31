@@ -54,3 +54,4 @@ too melodramatic, heartbreaking. This is when we began thinking about ways to im
 Regardless of  how we want to picture our solutions and the legal industry’s future in tech adoption, the overall goal has always been to simplify and modernize an
 otherwise archaic process that doesn’t ever seem to let up. Between our sales folks, developers, lawyers, content builders, etc., we’re legal innovators and
 enthusiasts trying to simplify the legal processes for budding startups and businesses. 
+
