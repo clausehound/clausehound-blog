@@ -1,6 +1,6 @@
 ---
 title: "Automating Contract Review for a Slow-Moving Industry"
-author: Evan@clausehound.com
+author: evan@clausehound.com
 tags: ["Technology", "Artifical Intelligence"]
 date: 2020-08-31
 description: "Every day we’re hearing more and more about how artificial intelligence (AI) solutions are going to rock the business world by “automating this”,
