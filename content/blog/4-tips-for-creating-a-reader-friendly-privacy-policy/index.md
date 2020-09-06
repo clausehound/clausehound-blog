@@ -2,7 +2,7 @@
 title: "4 Tips for Creating a Reader-Friendly Privacy Policy"
 author: sahil@clausehound.com
 tags: ["privacy policy","privacy","entrepreneur","legal tech"]
-date: 2020-09-06
+date: 
 description: "Advice for those who are drafting Privacy Policies for their companies."
 ---
 
