@@ -16,7 +16,7 @@ But if you’re among the unfortunate minority that has, you’ll know that many
 
 Have you ever actually, earnestly read a privacy policy?
 
-# Privacy Policies are Consumer Facing
+## Privacy Policies are Consumer Facing
 
 Primarily, Ontario’s **Personal Information Protection and Electronic Documents Act (PIPEDA)** is informed by certain [guiding principles](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/guide_org/) such as accountability, accuracy, openness and accessibility. Precisely none of those principles can be said to exist in your privacy policy if a user can’t even read it without getting a headache.
 
@@ -24,7 +24,7 @@ Keep in mind that unlike a regular commercial contract, a privacy policy require
 
 If complaints about mishandling user data comes up, and your privacy policy is seen as intentionally unhelpful, PIPEDA imposes **hefty penalties**, not to mention the **costs of litigation** and **loss of reputation** which follow. In sum, a [well written privacy policy](https://www.clausehound.com/legal-contract/privacy-policy26) is your first line of defence.
 
-# Make Your Privacy Policy Reader-Friendly
+## Make Your Privacy Policy Reader-Friendly
 
 To that end, we have **four tips** to help make your privacy policy a more reader-friendly document. None of these tips are, by any means, revolutionary - but the simplest solutions are often overlooked!
 
