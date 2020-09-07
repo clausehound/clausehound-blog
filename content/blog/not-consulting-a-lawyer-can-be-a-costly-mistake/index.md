@@ -14,5 +14,5 @@ In 2008 the *Ceylon Electricity Board (CEB)* awarded a consulting contract for i
 
 
 
-### Take away:
+### Takeaway:
 - Independent legal advice can save $millions.
