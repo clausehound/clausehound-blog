@@ -11,10 +11,6 @@ What is this document?
 
 The purpose of an Employee Stock Option Plan (ESOP) is to enable the corporation to grant stock options to its directors, officers, e..."
 ---
-# Overview of Employee Stock Option Plan
-
- 
-
 ## What is this document?
 
 The purpose of an Employee Stock Option Plan (ESOP) is to enable the corporation to grant stock options to its directors, officers, employees and consultants (the “participants”). By becoming shareholders in the corporation with the chance to benefit from an increase in the value of the shares/stock, the participants have an incentive to work for the success of the corporation.
