@@ -7,6 +7,7 @@ import {
   IconButton,
 } from "@material-ui/core";
 import { Close } from "@material-ui/icons";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 
 const useStyles = makeStyles(theme => ({
   title: {
@@ -43,6 +44,12 @@ const HubspotForm: FC<Props> = ({ location }) => {
 
   const handleSubmit = (e: MouseEvent) => {
     e.preventDefault();
+    trackCustomEvent({
+      category: "Newsletter Signup",
+      action: location.href,
+      label: email,
+    });
+
     const xhr = new XMLHttpRequest();
     const url = `https://api.hsforms.com/submissions/v3/integration/submit/${process.env.HUBSPOT_ACCOUNT_NUMBER}/${process.env.HUBSPOT_API_KEY}`;
     const data = {
