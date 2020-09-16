@@ -33,9 +33,10 @@ const useStyles = makeStyles(theme => ({
 
 interface Props {
   location: Location;
+  title: string;
 }
 
-const HubspotForm: FC<Props> = ({ location }) => {
+const HubspotForm: FC<Props> = ({ location, title }) => {
   const classes = useStyles();
   const [name, setName] = useState<string>("");
   const [email, setEmail] = useState<string>("");
@@ -46,7 +47,7 @@ const HubspotForm: FC<Props> = ({ location }) => {
     e.preventDefault();
     trackCustomEvent({
       category: "Newsletter Signup",
-      action: location.href,
+      action: title,
       label: email,
     });
 
