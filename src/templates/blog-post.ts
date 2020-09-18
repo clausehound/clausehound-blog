@@ -1,6 +1,6 @@
 import { FC, createElement as h } from "react";
-import { useTheme, makeStyles } from "@material-ui/core";
-import { Link, graphql, navigate } from "gatsby";
+import { makeStyles } from "@material-ui/core";
+import { Link, graphql } from "gatsby";
 import { Helmet } from "react-helmet";
 
 import Bio from "../components/bio";
@@ -189,11 +189,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         ),
         " is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.",
       ),
-      h(
-        "section",
-        null,
-        h(HubspotForm, { location, title: post.frontmatter.title }),
-      ),
+      h("section", null, h(HubspotForm, { title: post.frontmatter.title })),
       h(Popular),
     ),
   );
