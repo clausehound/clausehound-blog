@@ -7,7 +7,7 @@ description: "An Ontario Superior Court decision determined that a dispute resol
 ---
 
 
-Dispute Resolution Provision Deemed to Apply as a Matter of 'Sound Commercial Principle' and 'Good Business Sense'
+### Dispute Resolution Provision Deemed to Apply as a Matter of 'Sound Commercial Principle' and 'Good Business Sense'
 
 *Bombardier Transportation Canada Inc. v Metrolinx 2017 ONSC 2372 (CanLII)*
 
