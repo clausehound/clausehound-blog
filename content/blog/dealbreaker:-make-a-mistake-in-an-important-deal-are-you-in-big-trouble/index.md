@@ -3,12 +3,10 @@ title: "Dealbreaker: Make a mistake in an important deal - are you in big troubl
 author: Thomas@clausehound.com
 tags: ["Learn"]
 date: 2020-09-22 
-description: "This happened in court recently and it caught our eye - two parties (or maybe just the buyer) **missed a detail** in an agreement that was important to the buyer
-and clearly not to the seller. Without including it, **the acquired asset ended up being useless**. This happens more frequently than dealmakers would like to admit. Finding
-that there’s a critical detail missed is the kind of error that shocks business parties and fills lawyers with dread - because if the parties can't come to a compromise, they end up in court."
+description: " Finding that there’s a critical detail missed is the kind of error that shocks business parties and fills lawyers with dread - because if the parties can't come
+to a compromise, the end up in court.In this case, here's how they solved this problem.
+"
 ---
-
-## Dealbreaker: Make a mistake in an important deal - are you in big trouble?
 
 This happened in court recently and it caught our eye - two parties (or maybe just the buyer) **missed a detail** in an agreement that was important to the buyer and clearly not
 to the seller. Without including it, **the acquired asset ended up being useless**. This happens more frequently than dealmakers would like to admit. Finding that there’s a
@@ -65,8 +63,7 @@ should have made**. Loosely, the factors that the court considered before fixing
 
 You can and should! If you’re looking for more facts of the case, the exact text of the judgement, and/or the specific language used by the court to describe the case that we’ve
 paraphrased, refer here for more details:
-
-[COURT OF APPEAL FOR ONTARIO],                                                                                                                                                    (https://www.canlii.org/en/on/onca/doc/2020/2020onca273/2020onca273.html)       
+                                                                                                                                                    https://www.canlii.org/en/on/onca/doc/2020/2020onca273/2020onca273.html      
 
 ### Takeaways
 
@@ -82,6 +79,3 @@ your counterparty to try and have the agreement issues resolved prior to going t
 5. Document the essence of the agreement. The things that are important to you about the deal can be contained in your deal “recitals”, conditions precedent, and conditions
 subsequent sections of your agreement. If you’ve made a mistake, these sections will help guide yourselves as the parties to the deal to discover/re-discover (or for the court
 do discover) the contract’s essence.
-
-
-
