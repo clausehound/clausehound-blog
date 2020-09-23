@@ -1,7 +1,7 @@
 ---
 title: "Dealbreaker: Make a mistake in an important deal - are you in big trouble?"
 author: Thomas@clausehound.com
-tags: ["Learn"]
+tags: ["Learn" ,"Condition Precedent" ,"Condition Subsequent" ,"Recitals"]
 date: 2020-09-22 
 description: " Finding that there’s a critical detail missed is the kind of error that shocks business parties and fills lawyers with dread - because if the parties can't come
 to a compromise, the end up in court.In this case, here's how they solved this problem.
