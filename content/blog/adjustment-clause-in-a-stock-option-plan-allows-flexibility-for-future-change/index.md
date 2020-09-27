@@ -14,5 +14,5 @@ This **adjustment clause** permits the exercise price of the options to be cappe
 
 [Read the article here.](https://www.marketwatch.com/investing/stock/dsox/SecArticle?countryCode=US&guid=14043097&type=1)
 
-Take away:**
+### Takeaway:
 - ESOP adjustment clauses maintain the effectiveness of the plan should share prices drop below the original exercise price.
