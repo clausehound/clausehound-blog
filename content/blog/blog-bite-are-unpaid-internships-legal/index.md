@@ -18,3 +18,5 @@ Most jurisdictions’ employment legislation will suggest that, as a default, if
 To be perfectly clear, what all of this means is that you cannot avoid your obligations as an employer by simply calling someone an intern. The work arrangement must satisfy the conditions set out in the laws of your jurisdiction to truly be an internship. If your work arrangement does not satisfy these conditions, you may be liable for any wages owed.
 
 Note that the above standards are generalized, and may be different in your jurisdiction. Check local legislation for the specific rules that apply to your business.
+
+i am a change
