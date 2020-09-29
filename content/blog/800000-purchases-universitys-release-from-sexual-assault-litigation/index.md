@@ -17,3 +17,4 @@ This example is a reminder that a settlement agreement is often the most cost ef
 
 [Read the article here.](http://www.theguardian.com/us-news/2015/aug/05/university-of-oregon-basketball-sexual-assault-settlement)**Take away:**
 - A settlement saves face and prevents further legal proceedings.
+i am more changes
