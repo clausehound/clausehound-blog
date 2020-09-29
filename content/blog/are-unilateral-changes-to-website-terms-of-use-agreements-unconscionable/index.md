@@ -17,3 +17,5 @@ Given the widespread use of similar types of unilateral amendment provisions in 
 
 [Read the article here.](http://www.lexology.com/library/detail.aspx?g=12883506-4ebc-4c6e-b1c2-4f1f1ccbcf23)**Take away:**
 - Unilateral amendments to website user agreements may need to meet a conscionability test.
+
+mooooooore
