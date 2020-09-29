@@ -27,7 +27,7 @@ Other trigger options could be the issuance of some minimum amount of financing.
 **How Much Equity Are You Giving Away?**
 
 A *pre-money valuation* is the valuation of the company before any investment money comes in, and it's also used for the purpose of the conversion formula:
-
+asdfa
 **%Equity = (Purchase Amount / Pre-money Valuation)**
 
 At the time of negotiating the SAFE, only the Purchase Amount can be determined. Taking time to determine the valuation (the most complicated part of the investment process) would undermine the entire point of the SAFE. As a result, the SAFE treats pre-money valuation as a yet-to-be-determined x-value. If the investor buys the SAFE at $100 000, and the pre-money valuation in a subsequent equity financing is $2 million, the investor has got 5% (1/20) of the shares issued in that financing. If the pre-money valuation is $500 000, the investor has 20% (1/5).
