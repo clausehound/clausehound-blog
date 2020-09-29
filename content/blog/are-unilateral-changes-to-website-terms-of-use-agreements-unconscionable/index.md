@@ -3,7 +3,7 @@ title: "Are Unilateral Changes to Website Terms of Use Agreements Unconscionable
 author: rajah@cobaltcounsel.com
 tags: ["Purpose of Terms of Use","Website Terms of Use","Commercial Activities","Rajah"]
 date: 2015-07-07 00:00:00
-description: "Links from this article:Read the article here.This article discusses the American case of MacKinnon v. IMVU, Inc., which challenged a we..."
+description: Links from this article:Read the article here.This article discusses the American case of MacKinnon v. IMVU, Inc., which challenged a we..."
 ---
 
 **Links from this article:**
