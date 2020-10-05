@@ -1,5 +1,5 @@
 ---
-title: "Software Development Master Services Agreements Part VI: Payment Terms"
+title: "Software Development/Master Services Agreements Part VI: Payment Terms"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Master Services Agreement","Software Development","Rajah"]
 date: 2016-11-08 17:43:53
