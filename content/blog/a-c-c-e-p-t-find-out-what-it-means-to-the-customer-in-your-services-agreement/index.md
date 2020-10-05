@@ -84,21 +84,7 @@ Negotiating clear acceptance provisions can be time consuming, but this investme
 
  
 
-Acceptance Clauses can be simple or complex.
-
- 
-
-The acceptance clause can be tailored to meet your needs. 
-
- 
-
-Acceptance procedures can be as complex as including a time limit for the acceptance period and a time limit for the testing period, or as simple as a clause stating acceptance will not be unreasonably delayed.
-
- 
-
- 
-
-A standard acceptance clause can be drafted as such:
+Acceptance clauses can be simple or complex. The acceptance clause can be tailored to meet your needs. Acceptance procedures can be as complex as including a time limit for the acceptance period and a time limit for the testing period, or as simple as a clause stating acceptance will not be unreasonably delayed. A standard acceptance clause can be drafted as such:
 
  
 
