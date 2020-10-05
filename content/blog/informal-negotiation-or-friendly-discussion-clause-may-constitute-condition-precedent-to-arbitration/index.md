@@ -3,7 +3,7 @@ title: "‘Informal Negotiation' Or 'Friendly Discussion' Clause May Constitute 
 author: rajah@cobaltcounsel.com
 tags: ["Dispute Resolution","Informal Discussions","Dispute Resolution","Rajah"]
 date: 2015-09-15 00:00:00
-description: "If the language of the arbitration clause states that friendly discussions "shall" or "must" take place within a defined time period before a party may give notice of intention to arbitrate, the friendly discussion clause may be enforced as a condition precedent to arbitration."
+description: "If the language of the arbitration clause states that friendly discussions \"shall\" or \"must\" take place within a defined time period before a party may give notice of intention to arbitrate, the friendly discussion clause may be enforced as a condition precedent to arbitration."
 ---
 
 
