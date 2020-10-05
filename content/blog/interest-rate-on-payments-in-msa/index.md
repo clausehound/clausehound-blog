@@ -1,5 +1,5 @@
 ---
-title: "Software Development Master Services Agreements Part V: Compensation Levers"
+title: "Software Development/Master Services Agreements Part V: Compensation Levers"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Master Services Agreement","Software Development","Rajah"]
 date: 2016-10-03 12:52:13
