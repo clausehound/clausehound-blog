@@ -13,7 +13,9 @@ Most loyal Central Perk-loving '[Friends](https://www.warnerbros.com/tv/friends)
 
 And Chandler, Chandler’s a sarcastic... wait, what does [Chandler](http://sarcasmsociety.com/things-chandler-bing-would-say-if-he-were-alive-today/could-i-be-any-more-twitter) do again?
 
-Most die-hard fans of the show know the characters inside out, but like Monica and Rachel in a sudden-death trivia round, most fans cannot answer the question: ‘What is Chandler Bing’s job?’. It took over 10 years and Google to finally solve the mystery. Chandler Bing is an [IT Procurement Manager](http://www.hays.co.uk/features/day-in-the-life-procurement-manager-393063). *Badabing*! Chandler is the guy in your company who plays a fundamental role in the negotiations of your technology services agreements. Now, what might Chandler look for in his good old tech agreement?
+Most die-hard fans of the show know the characters inside out, but like Monica and Rachel in a sudden-death trivia round, most fans cannot answer the question: ‘What is Chandler Bing’s job?’. It took over 10 years and Google to finally solve the mystery. Chandler Bing is an [IT Procurement Manager](http://www.hays.co.uk/features/day-in-the-life-procurement-manager-393063). 
+
+*Badabing*! Chandler is the guy in your company who plays a fundamental role in the negotiations of your technology services agreements. Now, what might Chandler look for in his good old tech agreement?
 
 ### The customer in a **technology services agreement** (and in this case, Chandler) will often negotiate these three (3) main concerns of theirs:
 - Transfer of ownership or a grant of a license;
