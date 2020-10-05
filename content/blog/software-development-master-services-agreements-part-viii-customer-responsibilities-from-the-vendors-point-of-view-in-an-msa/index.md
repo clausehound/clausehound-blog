@@ -1,5 +1,5 @@
 ---
-title: "Software Development Master Services Agreements Part VIII: Customer Responsibilities from the Vendor’s Point of View in an MSA"
+title: "Software Development/Master Services Agreements Part VIII: Customer Responsibilities from the Vendor’s Point of View in an MSA"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Master Services Agreement","Software Development","Rajah"]
 date: 2017-01-12 12:41:00
