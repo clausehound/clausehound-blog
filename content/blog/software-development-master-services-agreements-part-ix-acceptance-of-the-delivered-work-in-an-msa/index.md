@@ -1,5 +1,5 @@
 ---
-title: "Software Development Master Services Agreements Part IX: Acceptance of the Delivered Work in an MSA"
+title: "Software Development/Master Services Agreements Part IX: Acceptance of the Delivered Work in an MSA"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Master Services Agreement","Software Development","Rajah"]
 date: 2017-02-06 12:30:48
