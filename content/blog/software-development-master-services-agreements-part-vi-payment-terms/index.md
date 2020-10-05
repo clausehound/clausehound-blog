@@ -1,41 +1,39 @@
 ---
-title: "Software Development/Master Services Agreements Part VI: Payment Terms"
+title: "Software Development Master Services Agreements Part VI: Payment Terms"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Master Services Agreement","Software Development","Rajah"]
 date: 2016-11-08 17:43:53
-description: "Links from this article:Part IIPart IVhere
-
-DEPOSIT/RETAINER
-We had discussed the payment of a deposit or retainer prior to commenceme..."
+description: "Once the engagement commences, invoicing made by the vendor in a Master Services Agreement (MSA) is particularly important as it can be a form of control by the customer. If the MSA includes milestones for which invoices are submitted, the customer may require that the contractor can only provide invoices for approved or accepted work products."
 ---
 
-**Links from this article:**
-[Part II](http://blog.clausehound.com/software-developmentmaster-services-agreements-part-ii-fees-deposits-refunds-and-good-faith/)
-[Part IV](http://blog.clausehound.com/software-developmentmaster-services-agreements-part-iv-compensation-in-cash-and-alternative-forms-of-compensation/)
-[here](http://blog.clausehound.com/software-development-master-services-agreements-part-vii-the-term-of-an-msa/)
 
-**DEPOSIT/RETAINER**
-We had discussed the payment of a deposit or retainer prior to commencement of the services within [Part II](http://blog.clausehound.com/software-developmentmaster-services-agreements-part-ii-fees-deposits-refunds-and-good-faith/) of this series. Once the engagement commences, invoicing made by the vendor in a Master Services Agreement (MSA) is particularly important as it can be a form of control by the customer. If the MSA includes milestones for which invoices are submitted, the customer may require that the contractor can only provide invoices for approved or accepted work products.
 
-**PAYMENT TIMING**
-The parties may agree to a payment based on dates or milestones. With respect to milestones, the customer may require that the contractor only provide invoices for approved or accepted work product. To make the invoicing process even more stringent, the may further require that invoices contain an approved purchase order number that has been obtained from the company in advance of invoicing.
+### Deposit/Retainer
+We had discussed the payment of a deposit or retainer prior to commencement of the services within [Part II](http://blog.clausehound.com/software-developmentmaster-services-agreements-part-ii-fees-deposits-refunds-and-good-faith/) of this series. Once the engagement commences, invoicing made by the vendor in a **Master Services Agreement (MSA)** is particularly important as it can be a form of control by the customer. If the MSA includes milestones for which invoices are submitted, the customer may require that the contractor can only provide invoices for approved or accepted work products.
 
-**PAYMENT DEADLINE**
-From the vendor's perspective, specifying a payment deadline is important, and such a deadline may be either specified in advance in the contract (e.g. a monthly retainer that is due and payable within five days after the end of every month), or may be a deadline specific to each invoice (e.g. payment is due within a certain number of days after the invoice is delivered). A deadline is an important payment term for the vendor, without which it would be difficult to request a remedy for non-payment (such as: immediate request for payment failing which work will pause, intellectual property will cease to be assigned, the agreement may be terminated, and/or the dispute resolution mechanisms may be triggered.)
+### Payment Timing
+The parties may agree to a payment based on dates or milestones. With respect to milestones, the customer may require that the contractor only provide invoices for approved or accepted work product. To make the invoicing process even more stringent, they may further require that invoices contain an **approved purchase order number** that has been obtained from the company in advance of invoicing.
 
-**FORM OF PAYMENT**
-The form of payment can be in whatever form in agreed by the parties - including cheque, wire transfer, even in cash in some circumstances. As also noted in [Part IV](http://blog.clausehound.com/software-developmentmaster-services-agreements-part-iv-compensation-in-cash-and-alternative-forms-of-compensation/) of this Series, if payment is received in cash, keep in mind that it is difficult to deposit more than a certain dollar amount without receiving a red flag from the banking authorities who are tracking the flow of funds to comply with anti-money laundering, and anti-terrorist legislation.
+### Payment Deadline
+From the vendor's perspective, specifying a payment deadline is important, and such a deadline may be either specified in advance in the contract (e.g. a monthly retainer that is due and payable within five days after the end of every month), or may be a deadline specific to each invoice (e.g. payment is due within a certain number of days after the invoice is delivered). 
 
-**INTEREST RATE**
+A deadline is an important payment term for the vendor, without which it would be difficult to request a remedy for non-payment (such as immediate request for payment failing which work will pause, intellectual property will cease to be assigned, the agreement may be terminated, and/or the dispute resolution mechanisms may be triggered).
+
+### Form of Payment
+The form of payment can be in whatever form in agreed by the parties - including cheque, wire transfer, even in cash in some circumstances. As also noted in [Part IV](http://blog.clausehound.com/software-developmentmaster-services-agreements-part-iv-compensation-in-cash-and-alternative-forms-of-compensation/) of this Series, if payment is received in cash, keep in mind that it is difficult to deposit more than a certain dollar amount without receiving a red flag from the banking authorities who are tracking the flow of funds to comply with **anti-money laundering** and **anti-terrorist legislation**.
+
+### Interest Rate
 Specifying an interest rate is a typical payment term. Often times the vendor will specify a rate that applies after 30 days of non-payment without the intention of charging the interest to a good client - as an interest charge on a long-time client can sour the relationship. However, it is important to include an interest rate for (at least) two reasons:
 
-(1) the rate provides an incentive or lever for payment to be made, especially if it is a rate that is greater than the prevailing bank interest rate (and without which the cost to the customer of making payment is possibly greater than the value to be generated by delaying payment);
+**(1)** The rate provides an incentive or lever for payment to be made, especially if it is a rate that is greater than the prevailing bank interest rate (and without which the cost to the customer of making payment is possibly greater than the value to be generated by delaying payment)
 
-and
+and;
 
-(2) in the event that the customer fails to pay to such an extent that the vendor is required to bring legal action to enforce payment, the claimant (vendor) will want to include interest accrued as part of the claim. Keep in mind when specifying interest that the criminal code in certain jurisdictions will preclude "usury" or charging of an unfair interest rate. Consult with the criminal code or similar legislation to ensure that the usury rules are not being breached.
+**(2)** Tn the event that the customer fails to pay to such an extent that the vendor is required to bring legal action to enforce payment, the claimant (vendor) will want to include interest accrued as part of the claim. Keep in mind when specifying interest that the **criminal code** in certain jurisdictions will preclude "usury" or charging of an unfair interest rate. Consult with the criminal code or similar legislation to ensure that the usury rules are not being breached.
 
-**CURRENCY
-**When establishing payment terms, the form of currency related to payments and expenses in a Master Services Agreement (MSA) should be stipulated. This may seem fairly trivial for business that are operating and selling services in the same jurisdiction but, if the currency rates fluctuate, with enough customers in that local jurisdiction, an opportunity could present itself for the customers to open a local office or bank account in that local currency. This could skew the payment that the vendor was expecting. For businesses that operate in multiple jurisdictions, it is even more important to specify which currency that compensation will be paid in as it could leave the vendor with a large amount of money in an unwanted currency. It is important to keep in mind that if a significant amount of business is conducted in a particular jurisdiction, that there are rules for registering a business in that jurisdiction.
+### Currency
+When establishing payment terms, the form of currency related to payments and expenses in a Master Services Agreement (MSA) should be stipulated. This may seem fairly trivial for business that are operating and selling services in the same jurisdiction but, if the currency rates fluctuate, with enough customers in that local jurisdiction, an opportunity could present itself for the customers to open a local office or bank account in that local currency. This could skew the payment that the vendor was expecting. 
+
+For businesses that operate in multiple jurisdictions, it is even more important to specify which currency that compensation will be paid in as it could leave the vendor with a large amount of money in an unwanted currency. It is important to keep in mind that if a significant amount of business is conducted in a particular jurisdiction, that there are rules for registering a business in that jurisdiction.
 
 To continue reading additional articles within this series, click [here](http://blog.clausehound.com/software-development-master-services-agreements-part-vii-the-term-of-an-msa/).
