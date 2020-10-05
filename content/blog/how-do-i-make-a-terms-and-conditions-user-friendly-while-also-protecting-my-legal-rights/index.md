@@ -3,9 +3,7 @@ title: "How do I make a “Terms and Conditions” user friendly while also prot
 author: frahman@cobaltcounsel.com
 tags: ["Terms of Use","Website Terms of Use","Commercial Activities","Venturelaw","frahman"]
 date: 2016-10-09 13:16:30
-description: "This article provides a guideline on how to create user friendly "Terms and Conditions", while still protecting legal rights."
-
-
+description: "This article provides a guideline on how to create user friendly \"Terms and Conditions\", while still protecting legal rights."
 ---
 
  
