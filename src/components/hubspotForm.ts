@@ -1,138 +1,74 @@
-import { FC, createElement as h, useState, MouseEvent } from "react";
-import {
-  TextField,
-  Button,
-  makeStyles,
-  Snackbar,
-  IconButton,
-} from "@material-ui/core";
-import { Close } from "@material-ui/icons";
+import { FC, createElement as h, useEffect } from "react";
+import { makeStyles } from "@material-ui/core";
+import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 
 const useStyles = makeStyles(theme => ({
   title: {
     marginTop: theme.spacing(3),
-    marginBottom: 0,
-  },
-  textField: {
-    marginRight: theme.spacing(1),
-  },
-  flexGrow: {
-    flexGrow: 2,
-  },
-  submitButton: {
-    marginTop: theme.spacing(1.5),
-  },
-  flex: {
-    display: "flex",
-  },
-  signedUp: {
-    color: theme.palette.secondary.main,
+    marginBottom: theme.spacing(2),
+    fontWeight: "bold",
   },
 }));
 
 interface Props {
-  location: Location;
+  title: string;
 }
 
-const HubspotForm: FC<Props> = ({ location }) => {
+declare var window: Window & typeof globalThis & { hbspt: any };
+
+const HubspotForm: FC<Props> = ({ title }) => {
   const classes = useStyles();
-  const [name, setName] = useState<string>("");
-  const [email, setEmail] = useState<string>("");
-  const [submitted, setSubmitted] = useState<string>("");
-  const [open, setOpen] = useState(false);
 
-  const handleSubmit = (e: MouseEvent) => {
-    e.preventDefault();
-    const xhr = new XMLHttpRequest();
-    const url = `https://api.hsforms.com/submissions/v3/integration/submit/${process.env.HUBSPOT_ACCOUNT_NUMBER}/${process.env.HUBSPOT_API_KEY}`;
-    const data = {
-      fields: [
-        {
-          name: "email",
-          value: email,
-        },
-        {
-          name: "firstname",
-          value: name,
-        },
-      ],
-      context: {
-        pageUri: location.href,
-        pageName: "Clausehound Blog",
-      },
-    };
-
-    xhr.open("POST", url);
-    xhr.setRequestHeader("Content-Type", "application/json");
-    xhr.onreadystatechange = function() {
-      if (xhr.readyState === 4 && xhr.status === 200) {
-        setSubmitted("Signed up successfuly!");
-        setOpen(true);
-      } else if (
-        xhr.readyState === 4 &&
-        (xhr.status === 404 || xhr.status === 403)
-      ) {
-        setSubmitted("Submission failed");
-        setOpen(true);
-      } else if (xhr.readyState === 4 && xhr.status === 400) {
-        setSubmitted("Invalid email address");
-        setOpen(true);
-      }
-    };
-    xhr.send(JSON.stringify(data));
+  const createForm = () => {
+    if (window.hbspt) {
+      window.hbspt.forms.create({
+        portalId: "5646626",
+        formId: "5c64138a-f472-4a76-a705-4e1207408323",
+        target: "#hubspotForm",
+      });
+    }
   };
+
+  const trackEvent = (event: any) => {
+    if (
+      event.data.type === "hsFormCallback" &&
+      event.data.eventName === "onFormSubmit"
+    ) {
+      trackCustomEvent({
+        category: "Newsletter Signup",
+        action: title,
+        label: event.data.data[0].value,
+      });
+    }
+  };
+
+  const addCreateFormEvent = () => {
+    window.addEventListener("message", trackEvent);
+    createForm();
+  };
+
+  useEffect(() => {
+    const script = document.createElement("script");
+    script.src = "https://js.hsforms.net/forms/v2.js";
+    document.body.appendChild(script);
+    script.addEventListener("load", addCreateFormEvent);
+
+    return () => {
+      window.removeEventListener("message", trackEvent);
+      script.removeEventListener("load", addCreateFormEvent);
+      if (script.parentNode) script.parentNode.removeChild(script);
+    };
+  }, []);
 
   return h(
     "div",
     null,
-    h(Snackbar, {
-      open,
-      autoHideDuration: 6000,
-      message: submitted,
-      action: h(
-        IconButton,
-        {
-          size: "small",
-          color: "inherit",
-          onClick: () => setOpen(false),
-        },
-        h(Close, { fontSize: "small" }),
-      ),
-    }),
-    h("h4", { className: classes.title }, "Sign up for Deal Tips"),
     h(
-      "form",
-      { onSubmit: handleSubmit },
-      h(
-        "div",
-        { className: classes.flex },
-        h(TextField, {
-          className: classes.textField,
-          label: "First Name",
-          value: name,
-          type: "text",
-          required: true,
-          onChange: ({ target: { value } }) => setName(value),
-        }),
-        h(TextField, {
-          className: `${classes.textField} ${classes.flexGrow}`,
-          label: "Email",
-          value: email,
-          type: "email",
-          required: true,
-          onChange: ({ target: { value } }) => setEmail(value),
-        }),
-        h(
-          Button,
-          {
-            variant: "outlined",
-            type: "submit",
-            className: classes.submitButton,
-          },
-          "Submit",
-        ),
-      ),
+      "h4",
+      { className: classes.title, color: "secondary" },
+      "Sign up for Deal Tips",
     ),
+    h("div", { id: "hubspotForm" }),
   );
 };
 
