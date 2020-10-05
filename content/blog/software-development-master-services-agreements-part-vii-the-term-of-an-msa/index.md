@@ -1,5 +1,5 @@
 ---
-title: "Software Development Master Services Agreements Part VII: The Term of an MSA"
+title: "Software Development/Master Services Agreements Part VII: The Term of an MSA"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Master Services Agreement","Software Development","Rajah"]
 date: 2016-12-05 12:30:15
