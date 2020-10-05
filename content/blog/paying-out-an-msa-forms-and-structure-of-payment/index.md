@@ -1,5 +1,5 @@
 ---
-title: "Software Development Master Services Agreements Part III:  Fee Estimates/Quoting/Fee Caps/Fixed Fee"
+title: "Software Development/Master Services Agreements Part III:  Fee Estimates/Quoting/Fee Caps/Fixed Fee"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Master Services Agreement","Software Development","Rajah"]
 date: 2016-08-01 12:39:40
