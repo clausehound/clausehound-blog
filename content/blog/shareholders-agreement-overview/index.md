@@ -4,9 +4,6 @@ author: rajah@cobaltcounsel.com
 tags: ["Contract Overviews","Shareholders Agreement"]
 date: 2017-03-23 14:33:16
 description: "This documents provides an overview of a shareholders' agreement."
- 
-
-
 ---
 
 **Overview of Shareholders' Agreements**
