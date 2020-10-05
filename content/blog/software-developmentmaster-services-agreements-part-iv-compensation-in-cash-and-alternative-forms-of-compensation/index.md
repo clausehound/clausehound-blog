@@ -1,5 +1,5 @@
 ---
-title: "Software Development Master Services Agreements Part IV: Compensation in Cash and Alternative Forms of Compensation"
+title: "Software Development/Master Services Agreements Part IV: Compensation in Cash and Alternative Forms of Compensation"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Master Services Agreement","Software Development","Rajah"]
 date: 2016-09-05 12:50:57
