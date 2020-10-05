@@ -3,10 +3,7 @@ title: "Paying with Shares: The Employee’s Perspective"
 author: info@clausehound.com
 tags: ["ESOP","Employment Agreement","Long Form","Human Resources","info@clausehound.com"]
 date: 2016-02-12 19:32:32
-description: "This article discusses the employee benefits of a stock option plan or agreement.
-
-
-
+description: "This article discusses the employee benefits of a stock option plan or agreement."
 ---
 
 **Introduction**
