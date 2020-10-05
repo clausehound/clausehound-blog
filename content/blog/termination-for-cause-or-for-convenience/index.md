@@ -3,23 +3,17 @@ title: "Termination - For Cause or For Convenience?"
 author: info@clausehound.com
 tags: ["Software Development","info@clausehound.com","Termination Agreement"]
 date: 2017-07-14 11:00:14
-description: "Links from this article:
-Atos IT Solutions and Services v Sapient Canada Inc 
-Software Development Agreement
-
-
-When negotiating a contra..."
+description: "When negotiating a contract, it is important to consider the termination provisions. If the contract is no longer commercially attractive, will you be able to terminate?"
 ---
 
-[https://pixabay.com/en/sign-street-dead-end-1749093/](https://pixabay.com/en/sign-street-dead-end-1749093/)
-**Links from this article:**[Atos IT Solutions and Services v Sapient Canada Inc ](http://www.canlii.org/en/on/onsc/doc/2016/2016onsc6852/2016onsc6852.html)[Software Development Agreement](http://clausehound.com/legal-contract/16201)
+
 
 When negotiating a contract, it is important to consider the termination provisions. If the contract is no longer commercially attractive, will you be able to terminate?
 
  
 
 [Atos IT Solutions and Services v Sapient Canada Inc](http://www.canlii.org/en/on/onsc/doc/2016/2016onsc6852/2016onsc6852.html), a recent Ontario case, explores this issue and sheds light onto how courts may interpret contracts when determining whether or not they can rightfully be terminated.
-** **
+
 
  
 
@@ -27,8 +21,8 @@ In *Atos*, the defendant, Sapient, contracted with Enbridge for a major project 
 
  
 
-The subcontract contained the right to terminate immediately for cause (for a material breach), and the right to terminate for convenience with notice to Siemens. The termination for convenience clause applied expressly to the data conversion, but made no mention of the ongoing platform support obligations.
-** **[Source](https://pixabay.com/en/mother-board-electronics-computer-581597/)** **
+The subcontract contained the right to terminate immediately for cause (for a material breach), and the right to terminate for convenience with notice to Siemens. The **termination for convenience clause** applied expressly to the data conversion, but made no mention of the ongoing platform support obligations.
+
 Because the defendant wanted to terminate both data conversion and platform support subcontracts, it sent notice of termination for cause, relying on various breaches of the data conversion obligations.
 
  
@@ -37,7 +31,7 @@ The plaintiff sued for damages for wrongful termination of contract.
 
  
 
-**The court found that there was no material breach sufficient to support a termination for cause, and awarded damages against the defendant.**
+### The court found that there was no material breach sufficient to support a termination for cause, and awarded damages against the defendant
 
 If the termination for convenience clause had not made specific reference to data conversion, it is possible that the defendant would have been able to terminate without relying on allegations of a material breach of the contract.
 
