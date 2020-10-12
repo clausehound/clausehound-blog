@@ -3,9 +3,7 @@ title: "Property Powers of Attorney - Why You Need One"
 author: info@clausehound.com
 tags: ["Long Form","Business","Commercial Activities"]
 date: 2015-12-03 16:51:41
-description: "
-
-The other day I was at the library with my 10 year old son. I bumped into a bookshelf next to the children’s section and a book fell to the floor. I..."
+description: "The other day I was at the library with my 10-year old son. I bumped into a bookshelf next to the children’s section and a book fell to the floor. I picked it up and was surprised to note that the book was an introduction to the topic of powers of attorney, written for the general public. As I glanced through it a title caught my eye: 'If powers of attorney are important, why do so few people have them?' Why indeed?"
 ---
 
 The other day I was at the library with my 10 year old son. I bumped into a bookshelf next to the children’s section and a book fell to the floor. I picked it up and was surprised to note that the book was an introduction to the topic of powers of attorney, written for the general public. As I glanced through it a title caught my eye: “If powers of attorney are important, why do so few people have them?” Why indeed?
@@ -20,12 +18,12 @@ But consider this scenario. You are the sole shareholder and director of a busin
 
  
 
-If you have a continuing Power of Attorney (POA) in place the person you have nominated can do everything with your property that you could do, except for a few things, like make a will. This would include voting your shares. This means you have to choose someone completely trustworthy to act for you under a POA. 
+If you have a continuing **Power of Attorney (POA)** in place the person you have nominated can do everything with your property that you could do, except for a few things, like make a will. This would include  your voting shares. This means you have to choose someone completely trustworthy to act for you under a POA. 
 
  
 
-If you do not have a power of attorney in place, things become more difficult. In Ontario, under the Substitute Decisions Act,1992 the question becomes whether you would be capable of appointing an attorney for property. The standards for assessing this capacity are found in s.8 of the Act. Basically, if you are capable of understanding:
--  that you are appointing someone to make for you all the decisions that you could make about your property; 
+If you do not have a power of attorney in place, things become more difficult. In Ontario, under the **Substitute Decisions Act, 1992**, the question becomes whether you would be capable of appointing an attorney for property. The standards for assessing this capacity are found in s.8 of the Act. Basically, if you are capable of understanding:
+- that you are appointing someone to make for you all the decisions that you could make about your property; 
 - that you risk losing it all; 
 - that you can revoke the power; and 
 - that the attorney is accountable, 
@@ -36,11 +34,11 @@ you are capable of appointing an attorney for property decisions. This is a lowe
 
  
 
-If you are not capable of appointing an attorney for property, you will also not be  “able to understand information that is relevant to making a decision about … property, or … able to appreciate the reasonably foreseeable consequences of a decision or lack of decision” under s. 6 of the Act. If your recovery is slow, you could be in the difficult position of being incapable of making a decision about a POA or your property, and your close family members (eg. spouse) cannot act for you to make property decisions without having been appointed under a power of attorney.
+If you are not capable of appointing an attorney for property, you will also not be  “able to understand information that is relevant to making a decision about … property, or … able to appreciate the reasonably foreseeable consequences of a decision or lack of decision” under ***s. 6 of the Act***. If your recovery is slow, you could be in the difficult position of being incapable of making a decision about a POA or your property, and your close family members (eg. spouse) cannot act for you to make property decisions without having been appointed under a power of attorney.
 
  
 
-An application for formal assessment by a capacity assessor can be made under the Act. If you are found to be incapable of managing property, the Public Guardian and Trustee (PGT) becomes your statutory guardian, and must manage your property, including your (matrimonial) home and business assets. Guardianship can be transferred to a family member who is approved by the PGT office. If you have no relatives, the PGT will continue to manage your property.
+An application for formal assessment by a **capacity assessor** can be made under the Act. If you are found to be incapable of managing property, the **Public Guardian and Trustee (PGT)** becomes your statutory guardian, and must manage your property, including your (matrimonial) home and business assets. Guardianship can be transferred to a family member who is approved by the PGT office. If you have no relatives, the PGT will continue to manage your property.
 
  
 
@@ -48,7 +46,7 @@ The lack of a continuing power of attorney could cause much hardship to your fam
 
  
 
-But there is even more to consider. Section 118 of the Ontario Business Corporations Act provides that a person who has been found under theSubstitute Decisions Act, 1992 to be incapable of managing property is disqualified from being a director of a corporation. Eventually you could be disqualified from being a director. The shareholders (you) must replace the sole director, and the PGT is your statutory guardian. Even if a family member is approved by the PGT office to become your guardian, much time will have elapsed before anyone is in a position to vote your shares to elect a new Board and manage your corporation. This may have serious financial consequences for your business, your family, and you.
+But there is even more to consider. ***Section 118*** of the Ontario Business Corporations Act provides that a person who has been found under the Substitute Decisions Act, 1992 to be incapable of managing property is disqualified from being a director of a corporation. Eventually you could be disqualified from being a director. The shareholders (you) must replace the sole director, and the PGT is your statutory guardian. Even if a family member is approved by the PGT office to become your guardian, much time will have elapsed before anyone is in a position to vote your shares to elect a new Board and manage your corporation. This may have serious financial consequences for your business, your family, and you.
 
  
 
@@ -60,7 +58,8 @@ Planning for the unexpected is a component of every good business plan. This inc
 
  
 
-**Takeaways:**
+### Takeaways
+
 - If you are over 18 and make any property decisions, you should consider having a Power of Attorney.
 
 - Seek legal advice about how to structure a Power of Attorney (POA) that meets your needs and current situation. Review the POA regularly, especially after any significant life event. Beware of off the shelf documents that may not meet your needs, or may not be valid in your province.
