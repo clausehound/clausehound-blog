@@ -3,7 +3,7 @@ title: "Unfair agreements may be rejected by the court"
 author: rajah@cobaltcounsel.com
 tags: ["Approval of Terms","Contract Drafting","Case Law","Drafting 101","Rajah"]
 date: 2016-10-26 15:29:12
-description: "Generally, when a signer signs a contract, they are bound by it. However, courts have created exceptions to set aside a contract if they are unconscionable (when there is unequal bargaining power between the contracting parties)."
+description: "Generally, when a signor signs a contract, they are bound by it. However, courts have created exceptions to set aside a contract if they are unconscionable (when there is unequal bargaining power between the contracting parties)."
 ---
 
 Obtain independent legal advice to ensure that you are not entering into an unconscionable transaction/agreement.
