@@ -33,15 +33,13 @@ In the intermediate period, the company can still track the number of shares all
 
 Issued shares are the easiest to explain, these are the shares of the company that have been **transferred** into the hands of one or more specific shareholders, and to which certain voting or dividend rights (among others) will attach.
 
-### Sample Share Capitalization Table
+### Share Capitalization Table
 
-This sample share capitalization table helps to illustrate these various “states of being” of a specific type of share:
+A share capitalization table helps to illustrate these various “states of being” of a specific type of share.
 
-SAMPLE SHARE CAPITALIZATION TABLE
-
-### Takeaways
+### Takeaways:
 - Limiting the number of authorized shares is a tactic that a careful investor might use to prevent an unauthorized share issue
-- A share capitalization table similar to the one provided above will help to provide each business owner with comfort as to such owner’s pro rata share holding
+- A share capitalization table will help to provide each business owner with comfort as to such owner’s pro rata share holding
 - It’s important to be aware of your share ownership versus all other owners (on a fully diluted basis)
 
 

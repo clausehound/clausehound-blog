@@ -3,10 +3,10 @@ title: "Blog Bite: What is Technology Transfer?"
 author: alina@clausehound.com
 tags: ["Intellectual Property","IP Transfer","Mondaq"]
 date: 2017-09-06 17:55:53
-description: "This article posted on our partner site Mondaq.com discusses how, though details vary from transaction to transaction, agreements affecting technology transfers contain two essential elements: the s..."
+description: "This article posted on our partner site Mondaq.com discusses how, though details vary from transaction to transaction, agreements affecting technology transfers contain two essential elements."
 ---
 
-[This article is posted on our partner site Mondaq.com](http://www.mondaq.com/unitedstates/x/7871/Patent/The+Anatomy+of+a+Technology+Transfer+Agreement). Though details vary from transaction to transaction, it discusses how agreements affecting technology transfers contain two (2) essential elements: the sale or grant of a license under the proprietary rights (e.g., the patent rights and confidential information) of the owner of the technology; and a contractual obligation to transfer (i.e. disclose) confidential information.
+[This article is posted on our partner site Mondaq.com](http://www.mondaq.com/unitedstates/x/7871/Patent/The+Anatomy+of+a+Technology+Transfer+Agreement). Though details vary from transaction to transaction, it discusses how agreements affecting technology transfers contain two (2) essential elements: the **sale or grant of a license** under the proprietary rights (e.g., the patent rights and confidential information) of the owner of the technology; and a **contractual obligation** to transfer (i.e. disclose) confidential information.
 
 Before examining how the many clauses in a technology transfer agreement work, it is useful to clarify the distinctions between technology transfer and patent licensing.
 

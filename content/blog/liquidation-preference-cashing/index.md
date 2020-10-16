@@ -3,7 +3,7 @@ title: "Liquidation Preference: Cashing Out"
 author: rajah@cobaltcounsel.com
 tags: ["Term Sheet","Shareholders Agreement","Company Formation","Rajah","Articles of Incorporation","Canada (ON)","Canada (General)"]
 date: 2017-10-17 15:26:43
-description: "This article discusses why a liquidation preference is often inserted into deal terms by the investors in a major round of finanacing."
+description: "This article discusses why a liquidation preference is often inserted into deal terms by the investors in a major round of financing."
 ---
 
 A liquidation preference is a commonly requested investor term. The idea around a liquidation preference is that the investor will receive their funds out of the business prior to the existing shareholders at the time of investment.  A liquidation preference is often inserted into deal terms by the investors in a major round of financing and not before then, and here's why.

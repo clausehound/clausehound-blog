@@ -3,14 +3,9 @@ title: "A License to Pirate - Counterfeit Labels in Your Software Agreements"
 author: info@clausehound.com
 tags: ["Commercial Activities","Master Services Agreement"]
 date: 2016-03-24 14:23:20
-description: "Links from this article:Suitscheck out our gap highlighting tool 
-
-We see what we expect to see, and the fashion industry has been mak..."
+description: "In the world of fashion, the label changes everything. In the world of legal (drafting) fashion however, lawyers, being human, will of course look at the headings, and must resist being influenced by them."
 ---
 
-**Links from this article:**
-[Suits](http://lawandstyle.ca/style/the-suits-on-suits/)
-[check out our gap highlighting tool](http://clausehound.com/)
 
  
 
@@ -18,7 +13,7 @@ We see what we expect to see, and the fashion industry has been making $ billion
 
  
 
-We want our lawyers in suits that make them look like the lawyers in Suits.
+We want our lawyers in suits that make them look like the lawyers in *Suits*.
 
  
 
@@ -26,11 +21,11 @@ In the world of legal (drafting) fashion however, it is common for agreements to
 
  
 
-Lawyers, being human, will of course look at the headings, and must resist being influenced by them. You can [check out our gap highlighting tool](http://clausehound.com/) as a way to minimize the risk of being deceived by headings!
+Lawyers, being human, will of course look at the headings, and must resist being influenced by them. You can [check out our gap highlighting tool](https://www.clausehound.com/documents/)) as a way to minimize the risk of being deceived by headings!
 
  
 
-To test how powerful legal labelling can be, try the following experiment with some clauses from two different MSA’s:
+### To test how powerful **legal labelling** can be, try the following experiment with some clauses from two different MSA’s:
 
  
 
@@ -38,23 +33,23 @@ To test how powerful legal labelling can be, try the following experiment with s
 
  
 
-Entire Agreement: Each Work Order embodies the entire agreement between the parties with regard to the provision of the Services and Deliverables that are the subject of the Work Order and supersedes any prior understanding or agreement, collateral, written or otherwise, related to the subject matter of the Work Order that exists between the parties at the date of execution of the Work Order. Each Work Order incorporates the terms of the Agreement. 
+*Entire Agreement: Each Work Order embodies the entire agreement between the parties with regard to the provision of the Services and Deliverables that are the subject of the Work Order and supersedes any prior understanding or agreement, collateral, written or otherwise, related to the subject matter of the Work Order that exists between the parties at the date of execution of the Work Order. Each Work Order incorporates the terms of the Agreement.* 
 
  
 
-1. Close your eyes and classify what ‘type’ of clause it is. Don’t peek or cheat by rereading the clause. Was this really an entire agreement clause applicable to the entire Master Services Agreement?
+2. Close your eyes and classify what ‘type’ of clause it is. Don’t peek or cheat by rereading the clause. Was this really an entire agreement clause applicable to the entire Master Services Agreement?
 
  
 
-1. Open your eyes and look at the clause carefully now. Did you correctly interpret the clause, or were you influenced by the heading? Be honest!
+3. Open your eyes and look at the clause carefully now. Did you correctly interpret the clause, or were you influenced by the heading? Be honest!
 
  
 
-1. Try the experiment again, with the second clause.
+4. Try the experiment again, with the second clause.
 
  
 
-Non-Competition: The Service Provider will not directly or indirectly, for itself or on behalf of any other person, partnership, corporation or other entity, solicit or attempt to solicit, for the purpose of engaging in competition with the Corporation, any person or entity whose account was serviced by Service Provider on behalf of the Corporation during the term of this Agreement. This clause shall apply during the term of this Agreement and for 2 years after any termination of this Agreement.
+*Non-Competition: The Service Provider will not directly or indirectly, for itself or on behalf of any other person, partnership, corporation or other entity, solicit or attempt to solicit, for the purpose of engaging in competition with the Corporation, any person or entity whose account was serviced by Service Provider on behalf of the Corporation during the term of this Agreement. This clause shall apply during the term of this Agreement and for 2 years after any termination of this Agreement.*
 
  
 
@@ -66,16 +61,16 @@ What would you expect from a lawyer dressed in clothing like this?
 
  
 
-Do the same in your legal work – don’t trust someone else’s labels, and make sure yours are accurate and work for you.
+Do the same in your legal work – don’t trust someone else’s labels, and make sure yours are accurate and work for you!
 
  
 
-Takeaways:
+### Takeaway:
 
  
 
-- don’t rely on headings when reviewing a legal document
+- Don’t rely on headings when reviewing a legal document
 
-- be careful to add accurate headings when drafting a document
+- Be careful to add accurate headings when drafting a document
 
-- legal technology can minimize risk and assist with accurate document comparison
+- Legal technology can minimize risk and assist with accurate document comparison
