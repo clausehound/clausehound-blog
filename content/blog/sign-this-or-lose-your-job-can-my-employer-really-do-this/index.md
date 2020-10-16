@@ -3,8 +3,7 @@ title: "Sign This or Lose Your Job! Can My Employer Really Do This?"
 author: rajah@cobaltcounsel.com
 tags: ["Employment Agreement","Employee","Human Resources"]
 date: 2016-04-14 00:46:56
-description: "This article examines the possibility of employee dismissal, as a result of the refusal to sign a modified employee contract.
-
+description: "This article examines the possibility of employee dismissal, as a result of the refusal to sign a modified employee contract."
 ---
 
 

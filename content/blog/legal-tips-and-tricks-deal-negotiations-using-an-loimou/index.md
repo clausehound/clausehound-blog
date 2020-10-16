@@ -3,7 +3,7 @@ title: "Legal Tips and Tricks: Deal Negotiations Using an LOI/MOU"
 author: rajah@cobaltcounsel.com
 tags: ["Termination","No-Shop","Term Sheet","Costs and Expenses","Acquisition","Contract Negotiations","Letter of Intent","Merger","Dispute Resolution","Mergers and Acquisition","Rajah","Share Purchase Agreement"]
 date: 2017-03-30 17:19:11
-description: "Often, companies will try to secure a Letter of Intent or Memorandum of Understanding (“LOI/MOI") from a potential contracting counterparty, for the purpose of outlining the high-level terms of a contractual relationship and to help demonstrate the viability of a project."
+description: "Often, companies will try to secure a Letter of Intent or Memorandum of Understanding (\"LOI/MOI\") from a potential contracting counterparty, for the purpose of outlining the high-level terms of a contractual relationship and to help demonstrate the viability of a project."
 ---
 
  

@@ -3,9 +3,7 @@ title: "Paying With Shares: The Employer’s Perspective"
 author: info@clausehound.com
 tags: ["ESOP","Employment Agreement","Shareholders Agreement","Human Resources"]
 date: 2016-02-12 19:29:30
-description: "This article discusses the option of "paying with shares" which allows startups to offer their employees to purchase shares in the company in lieu of a raise."
-
-
+description: "This article discusses the option of \"paying with shares\" which allows startups to offer their employees to purchase shares in the company in lieu of a raise."
 ---
 
 
