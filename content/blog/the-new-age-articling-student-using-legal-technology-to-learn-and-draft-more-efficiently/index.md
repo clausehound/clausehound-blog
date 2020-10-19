@@ -3,7 +3,7 @@ title: "The New Age Articling Student – Using Legal Technology to Learn and Dr
 author: info@clausehound.com
 tags: ["Long Form","Technology","Contract Drafting","Commercial Activities","Clausehound"]
 date: 2016-03-04 13:06:26
-description: "How has legal technology affected you?” This is the third perspective in a three part series."
+description: How has legal technology affected you? This is the third perspective in a three part series."
 ---
 
 
