@@ -8,24 +8,24 @@ description: "The purpose of an Employee Stock Option Plan (ESOP) is to enable t
 
 
 
- 
+
 
 ### What is this document?
 The purpose of an **Employee Stock Option Plan (ESOP)** is to enable the corporation to grant stock options to its directors, officers, employees and consultants (the “**participants**”). By becoming shareholders in the corporation with the chance to benefit from an increase in the value of the shares/stock, the participants have an incentive to work for the success of the corporation.
 
- 
+
 
 ### When would I use this document?
 
 An ESOP can be used as a *non-monetary* way to compensate personnel.  By granting these participants the option to purchase shares in the corporation at a fixed price within a set period of time, the corporation can retain key personnel at a lower salary while rewarding them for their continued work and loyalty to the corporation as the corporation grows and share values increase. ESOP’s are used by corporations of all sizes and stages of growth.
 
- 
+
 
 ### Who Signs this Agreement?
 
 The corporation’s authorized representative and the eligible employees (called participants) will sign the agreement.
 
- 
+
 
 ### More details about this document
 
@@ -37,7 +37,7 @@ Participants can choose whether to exercise their options to purchase shares. If
 
 Employee Stock Option Plans vary in length, but must be authorized by appropriate resolutions. If a participant decides to exercise an option to buy shares, they must complete an approved Notice of Exercise of Option, as well as a Subscription Agreement to purchase the shares.
 
- 
+
 
 ### What are the core elements of this document?
 
@@ -45,7 +45,7 @@ The core elements of an Employee Stock Option Plan include: Definitions, Option 
 
 An Employee Stock Option Plan can include a number of other supporting clauses, including , Drag-along rights, Acceleration, Designated Representative, Termination, Transferability, Taxes and Protective Provisions. Some ESOP’s provide for a cashless exercise option.
 
- 
+
 
 ### Related Documents
 - **Employment Agreement** - an agreement that sets out the terms of an employment relationship

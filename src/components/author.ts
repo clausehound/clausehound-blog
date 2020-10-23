@@ -49,7 +49,7 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
     Link,
     {
       className: classes.root,
-      to: id,
+      to: `/${id}`,
     },
     image?.childImageSharp?.fluid &&
       h(Image, {

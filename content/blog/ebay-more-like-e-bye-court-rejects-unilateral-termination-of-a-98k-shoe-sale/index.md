@@ -4,11 +4,7 @@ author: frahman@cobaltcounsel.com
 tags: ["Terms of Use","Termination","Commercial Activities","frahman"]
 date: 2016-10-21 12:58:11
 description: "The article discusses unilateral termination and site user agreement."
-
-
- 
-
-
+---
 
 Look at that [pair of shoes](http://www.highsnobiety.com/2015/09/15/nike-air-foamposite-one-galaxy/). That is a nice pair of shoes! So nice, in fact, that while they retail for around $180, they end up reselling at twice that. There’s apparently a whole market for limited edition NBA All-Star sneakers like these on sites like eBay. Who would’ve thought? 
 
