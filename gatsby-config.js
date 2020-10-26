@@ -182,6 +182,8 @@ module.exports = {
       options: {
         trackingId: "UA-68109182-1",
         head: false,
+        // Delays sending pageview hits on route update (in milliseconds)
+        pageTransitionDelay: 250,
       },
     },
     `gatsby-plugin-sitemap`,
