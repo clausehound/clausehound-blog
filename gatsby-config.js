@@ -183,7 +183,7 @@ module.exports = {
         trackingId: "UA-68109182-1",
         head: false,
         // Delays sending pageview hits on route update (in milliseconds)
-        pageTransitionDelay: 250,
+        pageTransitionDelay: 500,
       },
     },
     `gatsby-plugin-sitemap`,
