@@ -3,18 +3,12 @@ title: "The Breakout Project will be showcasing entrepreneurs, brands and though
 author: margaret@clausehound.com
 tags: ["Events","margaret","Announcements"]
 date: 2017-05-01 13:28:21
-description: "Links from this article:
-The Breakout Project
-
-
-
-From May 10-12 in Kingston, Ontario, The Breakout Project is taking hackathons to the next lev..."
+description: "From May 10-12 in Kingston, Ontario, The Breakout Project is taking hackathons to the next level by creating an immersive innovation experience featuring keynote speakers, entrepreneurs, brands and thought leaders."
 ---
 
-[https://www.thebreakoutproject.com/](https://www.thebreakoutproject.com/)
-**Links from this article:**[The Breakout Project](https://www.thebreakoutproject.com/)
 
-From May 10-12 in Kingston, Ontario, The Breakout Project is taking hackathons to the next level by creating an immersive innovation experience featuring keynote speakers, entrepreneurs, brands and thought leaders. Join thousands of others while you learn from leading innovators as they address how to scale businesses, inspire audiences, build teams, leverage technology, and discuss why Canada needs to take a leadership role in innovating solutions to the very big and very real problems we face as a society. Clausehound’s CEO, Rajah Lehal, will be supporting The Breakout Project as a part of his philanthropic role with the [BMW Foundation](http://www.bmw-stiftung.de/en/). 
+
+From May 10-12 in Kingston, Ontario, The **Breakout Project** is taking hackathons to the next level by creating an immersive innovation experience featuring keynote speakers, entrepreneurs, brands and thought leaders. Join thousands of others while you learn from leading innovators as they address how to scale businesses, inspire audiences, build teams, leverage technology, and discuss why Canada needs to take a leadership role in innovating solutions to the very big and very real problems we face as a society. Clausehound’s CEO, Rajah Lehal, will be supporting The Breakout Project as a part of his philanthropic role with the [BMW Foundation](http://www.bmw-stiftung.de/en/). 
 
  
 
