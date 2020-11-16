@@ -3,14 +3,12 @@ title: "EVENTS: StartUp HERE Toronto Cafe Launch"
 author: rajah@cobaltcounsel.com
 tags: ["Events","Rajah"]
 date: 2016-06-27 11:39:25
-description: "Links from this article:Small Business Law Library www.startupheretoronto.com/coffeechatClausehound will be attending the StartUp HERE Toronto Cafe Launc..."
+description: "Clausehound will be attending the StartUp HERE Toronto Cafe Launch on Monday June 27 in Toronto. Come say hi to us, we're giving away 10 three-month memberships to our Small Business Law Library."
 ---
 
-**Links from this article:**
-[Small Business Law Library ](https://clausehound.com/small-business-law-library/)
-[www.startupheretoronto.com/coffeechat](http://www.startupheretoronto.com/coffeechat)
 
-**Clausehound will be attending the StartUp HERE Toronto Cafe Launch on Monday June 27 in Toronto. Come say hi to us, we're giving away 10 three-month memberships to our [Small Business Law Library ](https://clausehound.com/small-business-law-library/) at the event!  **
+
+Clausehound will be attending the **StartUp HERE Toronto Cafe Launch** on Monday June 27 in Toronto. Come say hi to us, we're giving away 10 three-month memberships to our [Small Business Law Library ](https://www.clausehound.com/documents/) at the event!
 
 Mayor John Tory launched a new mentoring platform for entrepreneurs and small businesses with program partner Ten Thousand Coffees.
 
