@@ -3,9 +3,7 @@ title: "EVENTS: Business Transitions Forum"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Events","Rajah"]
 date: 2016-05-25 15:18:27
-description: "Clausehound is attending the Business Transitions Forum in a week on June 7 and 8, 2016.
-
-'The BUSINESS TRANSITIONS FORUM (BTF) is a multi-city conferenc..."
+description: "Clausehound is attending the Business Transitions Forum in a week on June 7 and 8, 2016."
 ---
 
 **Clausehound is attending the Business Transitions Forum in a week on June 7 and 8, 2016.**
