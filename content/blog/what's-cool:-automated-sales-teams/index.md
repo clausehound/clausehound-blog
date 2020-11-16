@@ -3,10 +3,10 @@ title: "What's Cool: Automated Sales Teams"
 author: Thomas@clausehound.com
 tags: ["Technology","Future of Work"]
 date: 2020-05-26
-description: "The article, titled “The Key to a Successful Digital Sales Transformation”, written by Haley Smith, overviews some of the ways sales teams are becoming more automated in terms of follow-ups and lead fostering, among others, as well as some of the barriers companies face when bringing new tech into their sales teams."
+description: "The article, titled 'The Key to a Successful Digital Sales Transformation', written by Haley Smith, overviews some of the ways sales teams are becoming more automated in terms of follow-ups and lead fostering, among others, as well as some of the barriers companies face when bringing new tech into their sales teams."
 ---
 
-LevelEleven recently came out with an interesting article on the growing tech innovation in sales teams management. The article, titled "<a href="https://leveleleven.com/2019/08/digital-sales-transformation/?utm_source=hs_email&utm_medium=email&utm_content=2&_hsenc=p2ANqtz-_aAU0OQiJ194BzbEzqDA9qX1BlUylaBDqAbXCD3Ivx4fYkTDuObQZwO-cWiXNdnt8kJ2DB1hEmapdYjq-0cuGOjSBujg&_hsmi=2" target="_blank">The Key to a Successful Digital Sales Transformation</a>", written by Haley Smith, overviews some of the ways sales teams are becoming more automated in terms of follow-ups and lead fostering, among others, as well as some of the barriers companies face when bringing new tech into their sales teams.
+**LevelEleven** recently came out with an interesting article on the growing tech innovation in sales teams management. The article, titled "<a href="https://leveleleven.com/2019/08/digital-sales-transformation/?utm_source=hs_email&utm_medium=email&utm_content=2&_hsenc=p2ANqtz-_aAU0OQiJ194BzbEzqDA9qX1BlUylaBDqAbXCD3Ivx4fYkTDuObQZwO-cWiXNdnt8kJ2DB1hEmapdYjq-0cuGOjSBujg&_hsmi=2" target="_blank">The Key to a Successful Digital Sales Transformation</a>", written by Haley Smith, overviews some of the ways sales teams are becoming more automated in terms of follow-ups and lead fostering, among others, as well as some of the barriers companies face when bringing new tech into their sales teams.
 
 Our team found it particularly interesting to read about tech’s potential influence on company culture and how it can positively affect the success rate and overall working conditions of a team.
 
