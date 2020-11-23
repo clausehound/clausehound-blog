@@ -3,8 +3,7 @@ title: "Who would win?  MLK versus Henry Ford"
 author: alva@clausehound.com
 tags: ["Journey","aching"]
 date: 2018-05-13 13:01:49
-description: "This past week, I as well as a group of respected colleagues, were confronted with the dilemma to choose between the following quotes to decide which of the two is more inspiring to me:
-“I have a drea..."
+description: "This past week, I as well as a group of respected colleagues, were confronted with the dilemma to choose between the following quotes to decide which of the two is more inspiring to me: 'I have a dream' or 'If I had asked people what they wanted, they would have said faster horses'."
 ---
 
 This past week, I as well as a group of respected colleagues, were confronted with the dilemma to choose between the following quotes to decide which of the two is more inspiring to me:
@@ -15,21 +14,21 @@ or
 
 *“If I had asked people what they wanted, they would have said faster horses.”*
 
-(For history buffs, significant research has gone into whether the 2nd quote was accurately attributed back to the source, but the validity of the quote does not affect this article).
+(For history buffs, significant research has gone into whether the second quote was accurately attributed back to the source, but the validity of the quote does not affect this article).
 
-From my narrow perspective, I saw this as a simple debate on how do the “doers” feel about the importance of “Idea vs Execution”.  As a creative person running a fast-growing startup, I resonate with dreaming and imagination.  The first quote inspires me, while the second quote makes me feel validated on the number of fast decisions I’m required to make on a daily basis.  And speaking about validation, I looked around the room to see if my colleagues felt the same was as I did.  To my surprise, many of my colleagues -- who were accomplished teachers, social impact professionals, leaders, parents -- thought oppositely from me, that the second quote was more inspiring.  These folks shared with the group:
-
- 
-
--That the messages conversely provide a “pulling” vs. “pushing” effect - the first quote asking for support, the second providing a paternalistic, I know what’s best for you, dictatorial message.
+From my narrow perspective, I saw this as a simple debate on how do the “doers” feel about the importance of “Idea vs Execution”.  As a creative person running a fast-growing startup, I resonate with dreaming and imagination.  The first quote inspires me, while the second quote makes me feel validated on the number of fast decisions I’m required to make on a daily basis.  And speaking about validation, I looked around the room to see if my colleagues felt the same way as I did.  To my surprise, many of my colleagues -- who were accomplished teachers, social impact professionals, leaders, parents -- thought oppositely from me, that the second quote was more inspiring.  These folks shared with the group:
 
  
 
--That the source of the messages evoked an emotional response related to the divisiveness and polarization of matters found in American society, so so many years after the civil rights movement.
+- That the messages conversely provide a “pulling” vs. “pushing” effect - the first quote asking for support, the second providing a paternalistic, I know what’s best for you, dictatorial message.
 
  
 
--That for parents, colleagues, bosses, startup entrepreneurs, social impact professionals, the real world is filled with a graveyard of unrealized dreams and broken promises.
+- That the source of the messages evoked an emotional response related to the divisiveness and polarization of matters found in American society, so so many years after the civil rights movement.
+
+ 
+
+- That for parents, colleagues, bosses, startup entrepreneurs, social impact professionals, the real world is filled with a graveyard of unrealized dreams and broken promises.
 
  
 
