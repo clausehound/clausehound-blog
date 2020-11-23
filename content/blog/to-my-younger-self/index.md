@@ -3,17 +3,12 @@ title: "To My Younger Self"
 author: alva+NavidNathoo@clausehound.com
 tags: ["Journey","NavidNathoo"]
 date: 2017-12-15 16:35:24
-description: "Links from this article:
-Original Medium.com article
-
-Originally posted on Medium.com by Navid Nathoo.
-Growing up is confusing.
-This is a guide to help you, probably a high school student, navigate y..."
+description: "This is a guide to help you, probably a high school student, navigate your life as you’re trying to figure out the world. I’ve had multiple conversations with students in the last few weeks, and everyone has similar struggles."
 ---
 
-**Links from this article:**[Original Medium.com article](https://medium.com/tksblog/to-my-younger-self-b82fbed56232)
 
-Originally posted on Medium.com by Navid Nathoo.
+
+*Originally posted on [Medium.com by Navid Nathoo](https://medium.com/tksblog/to-my-younger-self-b82fbed56232).*
 
 Growing up is confusing.
 
@@ -25,7 +20,7 @@ These struggles also happen to be very similar to my experiences growing up. Sin
 
 If I could go back in time, this is what I’d tell myself:
 
-**1. Learn about yourself**
+### 1. Learn about yourself
 
 To My Younger Self,
 
@@ -33,7 +28,7 @@ Every day you’re learning new things about yourself and changing. Which could 
 
 Then there are all the things you’re being told by your friends, parents, and teachers that is confusing you even more! It’s ok. Chill. Take a deep breath. This is normal.
 
-This is all you have to do: **think**. You never actually internalize and retrospect. Start being conscious of the things you’re good at, then do more of that.
+This is all you have to do: **think**. You never actually internalize and retrospect. *Start being conscious of the things you’re good at, then do more of that*.
 
 Be conscious of what values resonate with you, and stick by them. Be conscious of the people you enjoy being around and develop those relationships. This also means that you need to rethink things that you’re doing that isn’t you. Rethink the people you’re hanging around with that hinder your growth. Rethink how you spend your time. Because right now, time is your most valuable resource, and it always will be.
 
@@ -48,7 +43,7 @@ For you, the reader, I recommend writing down a list of the following:
 
 After you have this list, take action. Do more of the things you’re good at, do more of the things you enjoy, and spend more time with people that help you grow. Figure out who you are. It doesn’t just happen overnight and the sooner you start, the sooner you’ll understand how you can optimize your life.
 
-**2. Be a good person**
+### 2. Be a good person
 
 To My Younger Self,
 
@@ -63,14 +58,12 @@ The world needs more good people, and you’re a good person. Follow these guide
 - Do nice things: If you see someone sitting alone, go talk to them. If you notice someone is making fun of another person, do something about it. If someone needs help, help them without expecting anything in return.
 - Don’t steal. Don’t judge. Don’t cheat.
 - Don’t make assumptions about people. You don’t know anything about their lives or what they’re thinking.
-- If there is someone you don’t like, just ignore them.
-
-Distance yourself. Don’t engage.
+- If there is someone you don’t like, just ignore them. Distance yourself. Don’t engage.
 - Be conscious of others — develop **empathy**. It’s one of the most important life skills.
 
 To the reader, keep an eye out for those good people. If you don’t know them well, make an effort to get to know them. Develop relationships with good people, your life will be better.
 
-**3. Think about your purpose**
+### 3. Think about your purpose
 
 To My Younger Self,
 
@@ -78,7 +71,7 @@ You have no idea what you want to do in the world, or what the world can do for 
 
 To the reader, as you’re thinking about this, get more information about the world. There are many more opportunities and career paths than ever before. Learn about these opportunities and find the one(s) that resonate with you. The world needs so many things, so don’t limit yourself.
 
-**4. Find a mentor**
+### 4. Find a mentor
 
 To My Younger Self,
 
@@ -92,9 +85,9 @@ To the reader, I can’t stress enough how important it is to find a mentor. It 
 - Has that person achieved what you want to achieve?
 - Has that person failed before? Having gone through failure is very important. It sucks at the time, but the learning experience is priceless.
 
-As you’re looking for a mentor, don’t be entitled. You need to earn the mentorship. Earn their trust and respect by showing progress (I recommend sending monthly updates to people). Ask to meet in-person for advice, but don’t expect them to say yes. And don’t expect them to be your mentor from day 1. Invest in the relationship.
+As you’re looking for a mentor, don’t be entitled. You need to **earn** the mentorship. Earn their trust and respect by showing progress (I recommend sending monthly updates to people). Ask to meet in-person for advice, but don’t expect them to say yes. And don’t expect them to be your mentor from day 1. Invest in the relationship.
 
-**5. Take initiative**
+### 5. Take initiative
 
 To My Younger Self,
 
@@ -104,7 +97,7 @@ While in university, you’ll start to realize that there is so much more to the
 
 To the reader, don’t be lazy. Don’t feel entitled to getting opportunities just because you joined a club or program. Instead, figure out what you want, then go make it happen. Hustle. And then hustle more. Hear 100 “no’s” before you get a “yes”. Ask yourself, what’s the worst case scenario? Often times, you’ll realize that the worst-case is the same as if you didn’t do anything at all. And in that case, might as well try!
 
-**6. Learn about the world.**
+### 6. Learn about the world
 
 To My Younger Self,
 
@@ -116,9 +109,9 @@ For you, the reader, think about what’s happening today that’s the equivalen
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 - [Bloomberg](https://www.youtube.com/user/Bloomberg)
 - [The Hustle](https://thehustle.co/)
-- [The Knowledge Society](http://www.theksociety.com/) (shameless plug)
+- [The Knowledge Society](http://www.theksociety.com/) (I wish this existed when I was in high school)
 
-**7. Appreciate what you have**
+### 7. Appreciate what you have
 
 To My Younger Self,
 
@@ -126,7 +119,7 @@ Your happiness should not be tied to that G-Star t-shirt you really want or thos
 
 To the reader, remember this: **it’s easier to want what you don’t have than to appreciate what you already have**. When you start appreciating what you already have, you’ll find yourself become happier, less stressed, and enjoying life.
 
-**8. Enjoy the moments**
+### 8. Enjoy the moments
 
 To My Younger Self,
 
@@ -134,7 +127,7 @@ The future hasn’t happened yet, and the past is a memory. Life is made up of m
 
 *Be happy. Don’t stress. You never know what’s going to happen next.*
 
----
+
 
 Since this will never reach my younger self, I hope it was valuable to you. It’s hard to imagine that these things aren’t openly discussed, and as a result, feelings of loneliness, stress, and confusion build up. From the discussions I’ve had with multiple younger people, it’s clear that these feelings are extremely common.
 
@@ -142,4 +135,4 @@ I also sense that the amount of pressure being put on younger people is increasi
 
 As you’re figuring out life, remember, you’re not alone.
 
-Navid Nathoo is Executive Director @ [The Knowledge Society](http://theksociety.com/) and a member of Founder's Only.
+*Navid Nathoo is Executive Director @ [The Knowledge Society](http://theksociety.com/) and a member of Founder's Only.
