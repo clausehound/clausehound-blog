@@ -3,30 +3,47 @@ title: "Getting unstuck"
 author: rajah@cobaltcounsel.com
 tags: ["Journey","Rajah"]
 date: 2017-03-03 14:51:15
-description: "Links from this article:
-Clausehound.com
-MaRS GrowCamp
-
-
-
-Do you sometimes feel like your job is repetitively getting more boring?  In my years of wo..."
+description: "Do you sometimes feel like your job is repetitively getting more boring?  In my years of working in big business, the snails pace of decision-making combined with rigidity around roles and responsibilities were difficult to bear.  If you feel the same way now, here's a suggestion:  don’t quit your job and remortgage your house to start a business (just yet)."
 ---
 
-[https://www.eventbrite.ca/e/mars-growcamp-2017-build-your-growth-machine-tickets-30125140105 ](https://www.eventbrite.ca/e/mars-growcamp-2017-build-your-growth-machine-tickets-30125140105 )
-**Links from this article:**[Clausehound.com](http://clausehound.com)[MaRS GrowCamp](https://www.eventbrite.ca/e/mars-growcamp-2017-build-your-growth-machine-tickets-30125140105)
 
-Do you sometimes feel like your job is repetitively getting more boring?  In my years of working in big business, the snails pace of decision-making combined with rigidity around roles and responsibilities were difficult to bear.  If you feel the same way now, here's a suggestion:  don’t quit your job and remortgage your house to start a business (just yet) – there might be some opportunities for you inside your company.  I’ve written down a few ideas on how to get “unstuck”.**Look for signs of life.  **Check to see if there is an opportunity to learn and grow at your organization.  If your role is too rigid and has no room for creativity – you’re in quicksand!  Scream (to your recruiter, friends and mentors) for help!**Look for your champions.**  Keep your eyes open for the fast risers and company superstars.  These are the people who get the most fun projects.  If there's no-one like that to be found, try looking for a super-star mentor outside of your organization.**Make friends with the nice people.**  Make sure the “champions” that you are following are nice people.  Nice people will help nurture you and want you to succeed.  The not-nice people will take advantage.
 
-**Get good at your job.**  Get good, better, faster, more efficient and even “work yourself out of your job”.  That will give you time to discover new opportunities. If you’re good, your friends and colleagues will want to help you rise, and your good reputation will precede you and follow you.
-**Be curious.**  “You get out of it what you put into it” is true for so many things. The volunteer work, and *pro bono* projects, will pay off in other ways. (Knowledge?  New Experiences? More responsibility?  Non-boring day?).  Serendipity!**Share your stuff.  **Staying beneath the radar is my default setting, but over time I’ve worked hard at showcasing the good work that I’m proud of.  That’s led to unexpected opportunities.**Be patient.  **One of our senior roles at my company was recently filled by someone who we met almost a year ago with a software show-and-tell, and for whom the timing and circumstances have only just aligned.**And...Never lose your optimism. **Enthusiasm is contagious.***How I got unstuck in a big organization***Several weeks ago I reconnected with my mentor from my first corporate job at Bell Mobility (in the early days of their up and coming cellular business).  This brought back memories of a special project I had been invited to work on, which was to travel to the U.S. for the purpose of buying “spectrum licenses” at auction. I was in my early twenties at the time, and my mentor who became my boss on this project wanted a “techie” on the team.   It was fun!  I developed cool software, flew business class then (though never again), and made presentations to high-ranking people at the company (a completely new experience for me). I even got to talk company “strategy”, and to be entrepreneurial inside of a large organization.
+Do you sometimes feel like your job is repetitively getting more boring?  In my years of working in big business, the snails pace of decision-making combined with rigidity around roles and responsibilities were difficult to bear.  If you feel the same way now, here's a suggestion:  don’t quit your job and remortgage your house to start a business (just yet) – there might be some opportunities for you inside your company.  I’ve written down a few ideas on how to get “unstuck”.
+
+### Look for signs of life.  
+Check to see if there is an opportunity to learn and grow at your organization.  If your role is too rigid and has no room for creativity – you’re in quicksand!  Scream (to your recruiter, friends and mentors) for help!
+
+### Look for your champions.  
+Keep your eyes open for the fast risers and company superstars.  These are the people who get the most fun projects.  If there's no-one like that to be found, try looking for a super-star mentor outside of your organization.
+
+Make friends with the nice people.  Make sure the “champions” that you are following are nice people.  Nice people will help nurture you and want you to succeed.  The not-nice people will take advantage.
+
+### Get good at your job.  
+Get good, better, faster, more efficient and even “work yourself out of your job”.  That will give you time to discover new opportunities. If you’re good, your friends and colleagues will want to help you rise, and your good reputation will precede you and follow you.
+
+### Be curious.  
+“You get out of it what you put into it” is true for so many things. The volunteer work, and *pro bono* projects, will pay off in other ways. (Knowledge?  New Experiences? More responsibility?  Non-boring day?).  Serendipity!
+
+### Share your stuff.  
+Staying beneath the radar is my default setting, but over time I’ve worked hard at showcasing the good work that I’m proud of.  That’s led to unexpected opportunities.
+
+### Be patient.  
+One of our senior roles at my company was recently filled by someone who we met almost a year ago with a software show-and-tell, and for whom the timing and circumstances have only just aligned.
+
+### And...Never lose your optimism. 
+Enthusiasm is contagious.
+
+
+### How I got unstuck in a big organization
+Several weeks ago I reconnected with my mentor from my first corporate job at Bell Mobility (in the early days of their up and coming cellular business).  This brought back memories of a special project I had been invited to work on, which was to travel to the U.S. for the purpose of buying “spectrum licenses” at auction. I was in my early twenties at the time, and my mentor who became my boss on this project wanted a “techie” on the team.   It was fun!  I developed cool software, flew business class then (though never again), and made presentations to high-ranking people at the company (a completely new experience for me). I even got to talk company “strategy”, and to be entrepreneurial inside of a large organization.
 
 The timing of this was great - I was starting to wither away in my regular day-to-day role and really needed a change.  When I think back to how that opportunity came about, it was a combination of working quickly through my regular job, sharing and talking openly around the office about the kind of work I liked to do, being open to new opportunities, and a bit of lucky timing!
 
-https://www.instagram.com/p/BRLxBRRB1vr/?taken-by=clausehound
+
 
  
 
-***Still stuck?  When is it time to call it quits.***
+### Still stuck?  When is it time to call it quits.
 
  
 
@@ -34,7 +51,7 @@ As it turns out, one of the road hazards for you (and your employer) is that onc
 
 But ... if you think you are one of these rare creatures, it is my hope that this article will provide you with some optimism, and will help to guide you towards similar people and new opportunities.
 
-***Getting stuck can happen at startups too***
+### Getting stuck can happen at startups too
 
 I’m now responsible for building and growing my beloved [Clausehound.com](http://clausehound.com),  which is now in a growth-stage. I've also come to realize that “getting stuck” isn’t just a big organization thing - a startup can also get bogged down in details.
 
