@@ -3,10 +3,10 @@ title: "Pick of the Litter: Solar Power? Try Seaweed Power!"
 author: alva@clausehound.com
 tags: ["aching", "POTL"]
 date: 2017-10-13 19:24:53
-description: "I was grabbing a coffee at Le Gourmand in Toronto and I saw a guy wearing a shirt that said “Find what you love and let it kill you.”..."
+description: "I was grabbing a coffee at Le Gourmand in Toronto and I saw a guy wearing a shirt that said 'Find what you love and let it kill you.' I was initially skeptical, because death sucks, but I was also intrigued, so I Googled it."
 ---
 
-# Opinion
+### Opinion
 
 I was grabbing a coffee at Le Gourmand in Toronto and I saw a guy wearing a shirt that said “Find what you love and let it kill you.” I was initially skeptical, because death sucks, but I was also intrigued, so I Googled it. Maybe you know this already, but it’s a quote from Charles Bukowski, an American poet/writer.
 
