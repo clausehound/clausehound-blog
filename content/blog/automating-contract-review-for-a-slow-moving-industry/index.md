@@ -6,10 +6,10 @@ date: 2020-08-31
 description: "Every day we’re hearing more and more about how artificial intelligence (AI) solutions are going to rock the business world by “automating this”,
 “speeding up that”, “cutting corners” “cutting costs”, etc. While we have absolutely no doubt that these new solutions have the potential to disrupt commercial
 industries, the legal industry is one that we’re naturally curious (and maybe a bit skeptical) about as from our location in the depths of a legal technology AI/ML
-“engine room”."
+'engine room'."
 ---
 
-Every day we’re hearing more and more about how artificial intelligence (AI) solutions are going to rock the business world by “automating this”, “speeding up
+Every day we’re hearing more and more about how **artificial intelligence (AI) solutions** are going to rock the business world by “automating this”, “speeding up
 that”, “cutting corners” “cutting costs”, etc. While we have absolutely no doubt that these new solutions have the potential to disrupt commercial industries, the
 legal industry is one that we’re naturally curious (and maybe a bit skeptical) about as from our location in the depths of a legal technology AI/ML “engine room”.
 In the business/consulting/ manufacturing/etc. sphere, AI is becoming more and more commonplace with major corporations and startups alike not only adopting AI
@@ -35,7 +35,7 @@ and every clause in order to be more favourable for the respective parties. This
 process happens over and over again for most if not all of the clauses in a contract, and every contract in the deal. This can be extremely expensive and could span
 weeks, and potentially months.
 
-After a lot of experimentation and testing, our team has renewed our experimentation with natural language processing (NLP) as a basis to our solutions, alongside
+After a lot of experimentation and testing, our team has renewed our experimentation with **natural language processing (NLP)** as a basis to our solutions, alongside
 [Seneca College](https://www.senecacollege.ca/research/Clausehound_CVTA.html) who is our long-time academic partner. Put simply, our technology is using NLP to
 analyze clauses and determine which are problematic and which are acceptable, based on client-specific case precedent. So far,results have been great and our
 clients are delighted by having their work done quick, fast, diligently and semi-automated.
@@ -57,5 +57,5 @@ enthusiasts trying to simplify the legal processes for budding startups and busi
 
 
 
-Edited by Rajah Lehal, Founder and CEO of DealPrep Inc. and Cobalt Lawyers
+
 
