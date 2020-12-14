@@ -3,7 +3,7 @@ title: "Tips On What To Look For When Reviewing An IP Transfer Agreement"
 author: alva@clausehound.com
 tags: ["aching","Playbooks"]
 date: 2017-08-31 17:37:39
-description: "Prior to sending your drafted agreement to a counterparty of executing the agreement, it is important to thoroughly review the agreement for both content and form. These are some of the key items that a drafter should keep in mind when reviewing an agreement."
+description: "Prior to sending your drafted agreement to a counterparty of executing the agreement, it is important to thoroughly review the agreement for both content and form. These are some of the key items that a drafter should keep in mind when reviewing an agreement." 
 ---
 
 Prior to sending your drafted agreement to a counterparty of executing the agreement, it is important to thoroughly review the agreement for both content and form. These are some of the key items that a drafter should keep in mind when reviewing an agreement. 
