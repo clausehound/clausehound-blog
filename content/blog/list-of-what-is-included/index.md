@@ -3,11 +3,7 @@ title: "List of What is Included"
 author: mifras@clausehound.com
 tags: ["mnazeer","Playbooks"]
 date: 2017-03-22 15:55:32
-description: "Dear [INSERT NAME], 
-
- 
-
-The [INSERT AGREEMENT] is in progress of being drafted and I wanted to provide a high level list of what provisions will be included in [our / your] [INSERT AGREEMENT]. I beli..."
+description: "List of What is Included."
 ---
 
 Dear [INSERT NAME], 
@@ -20,7 +16,7 @@ The [INSERT AGREEMENT] is in progress of being drafted and I wanted to provide a
 
  
 
-- ***1. [example: Name of Parties -****** HoundCo: John Smith****** Counterparty: Jane Joe]***
+- ***1. [example: Name of Parties - HoundCo: John Smith Counterparty: Jane Joe]***
 - ***2. [example: Term of agreement - 1 year]***
 - ***3. [example: Renewal of agreement - Upon agreement of the parties]***
 - ***4. [example: Fees to be paid - $1200 + HST per term]***
@@ -33,7 +29,7 @@ The [INSERT AGREEMENT] is in progress of being drafted and I wanted to provide a
 
  
 
-Please review these terms carefully as they [are/will] be drafted into the [INSERT AGREEMENT]. 
+Please review these terms carefully as they [are / will] be drafted into the [INSERT AGREEMENT]. 
 
  
 
@@ -41,7 +37,7 @@ Thank you and we look forward to completing this agreement by [INSERT DATE].
 
  
 
-Best Regards
+Best Regards,
 
  
 
