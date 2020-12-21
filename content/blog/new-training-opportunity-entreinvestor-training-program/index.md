@@ -3,18 +3,12 @@ title: "New Training Opportunity - Entreinvestor Training Program"
 author: alva@clausehound.com
 tags: ["Announcements","aching"]
 date: 2017-12-23 18:55:43
-description: "Links from this article:
-Program announcement page
-Program Facebook page
-
-
-
-In collaboration with our partner organization, the University-Indu..."
+description: "In collaboration with our partner organization, the University-Industry Liason Office, we are proud to announce the Entreinvestor Training Program!"
 ---
 
-**Links from this article:**[Program announcement page](https://www.uleth.ca/notice/notices/new-training-opportunity-entreinvestor-training-program#.Wj7VE9-nF6c)[Program Facebook page](https://www.facebook.com/Entreinvestor-Training-Program-2018-1576215439125039/)
 
-In collaboration with our partner organization, the University-Industry Liason Office, we are proud to announce the Entreinvestor Training Program!
+
+In collaboration with our partner organization, the University-Industry Liason Office, we are proud to announce the **Entreinvestor Training Program**!
 
 This program is for recent or soon-to-be graduates who already have a developed idea, in order to gain experience in being a successful entrepreneur.
 
