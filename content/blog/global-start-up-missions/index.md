@@ -3,18 +3,12 @@ title: "Global Start-Up Missions"
 author: alva@clausehound.com
 tags: ["Announcements","aching"]
 date: 2017-12-15 17:30:27
-description: "Links from this article:
-Original YEDI article
-
-
-
-Our partner organization York Entrepreneurship Development Institution is opening application..."
+description: "Our partner organization York Entrepreneurship Development Institution is opening applications for their Israel Start-Up Mission!"
 ---
 
-[http://www.yedinstitute.org/programs/global-missions/](http://www.yedinstitute.org/programs/global-missions/)
-**Links from this article:**[Original YEDI article](http://www.yedinstitute.org/programs/global-missions/)
 
-Our partner organization York Entrepreneurship Development Institution is opening applications for their Israel Start-Up Mission!
+
+Our partner organization **York Entrepreneurship Development Institution** is opening applications for their Israel Start-Up Mission!
 
 Using their connections with like-minded partners around the world, YEDI's start-up missions help entrepreneurs to succeed abroad by connecting them with local partners and resources.
 
