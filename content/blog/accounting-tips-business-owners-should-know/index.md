@@ -3,18 +3,12 @@ title: "Accounting Tips Business Owners Should Know"
 author: ian@clausehound.com
 tags: ["Announcements","Ian"]
 date: 2017-08-25 15:05:26
-description: "Links from this article:
-Bullfrog Insurance Article
-
-
-
-Our partner organization Bullfrog Insurance has posted a blog article on some of the bes..."
+description: "Our partner organization Bullfrog Insurance has posted a blog article on some of the best ways to manage the accounting of your small business."
 ---
 
-[http://bullfroginsurance.com/blog/accounting-tips-business-owners-should-know/](http://bullfroginsurance.com/blog/accounting-tips-business-owners-should-know/)
-**Links from this article:**[Bullfrog Insurance Article](http://bullfroginsurance.com/blog/accounting-tips-business-owners-should-know/)
 
-Our partner organization Bullfrog Insurance has posted a blog article on some of the best ways to manage the accounting of your small business.
+
+Our partner organization **Bullfrog Insurance** has posted a blog article on some of the best ways to manage the accounting of your small business.
 
 This article covers many different tips including how to create an effective incentives system and what makes an effective fallback cash reserve.
 
