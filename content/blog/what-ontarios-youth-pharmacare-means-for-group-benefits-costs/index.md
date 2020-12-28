@@ -3,14 +3,12 @@ title: "What Ontario’s Youth Pharmacare Means for Group Benefits Costs"
 author: ian@clausehound.com
 tags: ["Announcements","Ian"]
 date: 2017-07-14 10:58:41
-description: "Links from this article:Collage ArticleOur partner organization Collage, has published an article on what Ontario’s Youth Pharmacare will mean for..."
+description: "Our partner organization Collage, has published an article on what Ontario’s Youth Pharmacare will mean for Group Benefits Costs."
 ---
 
-[https://www.collage.co/magazine/ohip-pharmacare-employee-benefits/](https://www.collage.co/magazine/ohip-pharmacare-employee-benefits/)
-**Links from this article:**
-[Collage Article](https://www.collage.co/magazine/ohip-pharmacare-employee-benefits/)
 
-Our partner organization Collage, has published an article on what Ontario’s Youth Pharmacare will mean for Group Benefits Costs.
+
+Our partner organization **Collage**, has published an article on what Ontario’s Youth Pharmacare will mean for Group Benefits Costs.
 
 In the article, Collage summarizes changes in the law that will affect existing or new to be formed group medical plans.
 
