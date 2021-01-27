@@ -6,12 +6,6 @@ date: 2020-05-22
 description: "The purpose of a standstill agreement is to “create walls” around an ongoing deal, in order to let the parties negotiate without the threat of a third party intervention."
 ---
 
-**<a href="https://www.clausehound.com/legal-contract/standstill-agreement-1?utm_medium=email&_hsmi=2&_hsenc=p2ANqtz-9XNifRR2MzARdoYKRuouLe_sdg_lBOq6_n_LL8I-t9gYT5zF7uB5JlDl_mbYo_753RjSogdqHte_kxPeroZEklf8jxVw&utm_content=2&utm_source=hs_email" target="_blank">Click here</a> to access and download a free Standstill Agreement template! Be sure to click on the clause bubbles to access our Knowledge Materials and Founder Q&A**
-
-**If you currently have a license to our platform, you'll also be able to access our entire template and knowledge library.**
-
-**Don't have an account yet? <a href="https://www.dealprep.co/pricing/" target="_blank">Click here</a> to register for a $50/year unlimited license and gain access to our entire library of contract templates, Knowledge Materials and Knowledge Helpdesk!**
-
 ## What Is This Document?
 
 The purpose of a standstill agreement is to “create walls” around an ongoing deal, in order to let the parties negotiate without the threat of a third party intervention. While such an agreement could be used to protect any type of deal that requires an exclusive relationship, this scenario presents itself often for the purchaser of a business, who would like to protect that acquisition from the threat of other buyers.
@@ -32,15 +26,15 @@ Both parties who are negotiating (the buyer and seller, or two potential partner
 
 Important clauses in a standstill agreement include:
 
-- Confidentiality Of The Deal: A prohibition to share or discuss the deal terms with other buyers, to eliminate the potential for a third party coming in with a slightly better deal.  
+- **Confidentiality Of The Deal**: A prohibition to share or discuss the deal terms with other buyers, to eliminate the potential for a third party coming in with a slightly better deal.  
 
-- Exclusivity: A restriction on the “ability to receive other offers” clause, which prohibits the vendor from receiving offers from other potential counterparts.
+- **Exclusivity**: A restriction on the “ability to receive other offers” clause, which prohibits the vendor from receiving offers from other potential counterparts.
 
-- Possibly “Operations In The Ordinary Course” which, in the context of purchase of a business, ensures that the vendor guarantees that the business, which is being sold, continues to run as prior to the standstill agreement.
+- Possibly “**Operations In The Ordinary Course**” which, in the context of purchase of a business, ensures that the vendor guarantees that the business, which is being sold, continues to run as prior to the standstill agreement.
 
-- Possibly “Scope Of Deal” which states what elements of the deal are exclusive and what is excluded - to permit negotiations to continue on the non-exclusive elements.
+- Possibly “**Scope Of Deal**” which states what elements of the deal are exclusive and what is excluded - to permit negotiations to continue on the non-exclusive elements.
 
-- Break Fee: The final important clause in a standstill agreement is a “Break Fee”, that states what is to happen if a breach of the agreement takes place. Typically, a party that breaches the agreement would be forced to pay legal costs or compensation for the money and time lost to the other party, due to the breach of (typically) the exclusive negotiating period.
+- **Break Fee**: The final important clause in a standstill agreement is a “Break Fee”, that states what is to happen if a breach of the agreement takes place. Typically, a party that breaches the agreement would be forced to pay legal costs or compensation for the money and time lost to the other party, due to the breach of (typically) the exclusive negotiating period.
 
 Takeaways:
 
