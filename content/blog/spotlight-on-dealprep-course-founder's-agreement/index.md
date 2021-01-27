@@ -18,4 +18,4 @@ In this simulation, participants pay particular attention to various negotiation
 
 Participants leave the workshop with a heightened understanding of founders’ agreements and how they can be negotiated in practice.
 
-[Contact us](https://calendly.com/maxmessenger/30) to learn more about this workshop and our library of over 85 different topics!
+[Contact us](https://calendly.com/dealprep/dealprep-demo) to learn more about this workshop and our library of over 85 different topics!
