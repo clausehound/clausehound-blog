@@ -1,5 +1,5 @@
 ---
-title: "Legal Ask-the-Expert Workshop - May 8, 2020"
+title: "Legal Ask-the-Expert Workshop - Feb 5, 2021"
 author: info@clausehound.com
 tags: []
 date: 2020-04-24
@@ -8,11 +8,11 @@ description: "New online workshops are now live! Learn about legal foundation to
 
 # New Workshop Announced!
 
-Through an **exclusive collaboration with the City of Toronto and [Cobalt Lawyers](//cobaltcounsel.com)**, Clausehound's DealPrep will be supplying **free online learning modules for small business legal training**! Our next session will be on **May 8th, 2020 at 9:00AM** - more details below!
+Through an **exclusive collaboration with the City of Toronto and [Cobalt Lawyers](//cobaltcounsel.com)**, Clausehound's DealPrep will be supplying **free online learning modules for small business legal training**! Our next session will be on **Feb 5th, 2021 at 9:00AM** - more details below!
 
 ---
 
-### <div align="center"> **#2** Ask the Expert: **Founders’ Agreements, Voting and Decision Making and Founder Intellectual Property Ownership**. **[Sign up here](https://www.eventbrite.ca/e/ask-the-expert-legal-advice-for-businesses-founding-your-business-tickets-102896199302?utm_source=hs_email&utm_medium=email&utm_content=2&_hsenc=p2ANqtz-9QgaMGuSZoJ1qLanOi72E0a1uDzzRnW_QhI2pJqNv5Hxi_EN6GAxbRsJQqNNSNlWQFjnV8ZC7TOjZ55tM4xfXeApweZQ&_hsmi=2)**! </div>
+### <div align="center"> **#2** Ask the Expert: **Legal Information for Businesses - Investor Term Sheets**. **[Sign up here](https://www.eventbrite.ca/e/ask-the-expert-legal-information-for-businesses-investor-term-sheets-tickets-108894500382?aff=)**! </div>
 
 ---
 
