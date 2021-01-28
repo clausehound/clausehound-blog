@@ -25,11 +25,13 @@ Developers have known this for decades, and have found that [working with storie
 
 After spending a paragraph railing against analogies, guess what it's time for? An analogy! But I'm using this analogy to tell a story, so I can live with that. Let's do one about say.. building a bridge. Why building bridges, when I've never in my life built a bridge? Because I'm fairly certain you haven't built one either, and won't be as quick to notice any of my flaws in structural engineering.
 
+![Zipline](./nate-williams-vyK4VxGLiKs-unsplash.jpg)
+
 I went to school to learn about software, and everyone in this field loves to talk about **requirements**. A requirement is what you need the software to do, right? Sometimes true, but usually it's not what the software requires, it's what the user requires.
 
-
-
 So I want to cross a chasm - that's my requirement. "I require the means to cross this chasm". When you leave it there, you get anything. A zipline to slide across, a rope bridge, or the Golden Gate. All of those fit the bill. Each one of those could appear in the head of the CEO, client, and developer during their "requirements elicitation meeting". If the client wanted the rope bridge, but got the zipline, they'd feel shortchanged. It they got the Golden Gate bridge, they'd be upset at the high cost and long delays. Though they may cool down when it triggers their nostalgia for Full House.
+
+![Ahh ahh ahh ahhhhh](./kevin-jarrett-B3MDKLMK59Y-unsplash.jpg)
 
 Again why talking in stories and experiences makes more sense. What software is required to do is extraordinarily hard to pin down, because the effort required may range from trivial to infinite. "I want to make a todo list". Okay -- open notepad, write "to-do" at the top. Done. Or write an app for iOS, Android, and AWS-hosted web that integrates seamlessly with your calendar, uses machine learning to identify ways to save you time on your list, auto-fills contacts to contact people to help you with items on that list, etc. Actually I'm liking the sound of that -- maybe there's another startup there for me.
 
