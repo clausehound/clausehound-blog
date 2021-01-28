@@ -2,7 +2,7 @@
 title: "Yet Another Why Writing Software is Hard Article"
 author: josh@clausehound.com
 tags: ["tech", "software engineering", "project management", "agile"]
-date: Wed Jan 27 2021 16:04:38 GMT-0500 (Eastern Standard Time)
+date: 2021-01-27 16:04:38
 description: "Writing good software is hard. How do you keep your focus on what matters, and keep everyone speaking the same language?"
 ---
 
