@@ -2,13 +2,13 @@
 title: "Yet Another Why Writing Software is Hard Article"
 author: josh@clausehound.com
 tags: ["tech", "software engineering", "project management", "agile"]
-date: Wed Jan 27 2021 16:04:38 GMT-0500 (Eastern Standard Time)
+date: 2021-01-27 16:04:38
 description: "Writing good software is hard. How do you keep your focus on what matters, and keep everyone speaking the same language?"
 ---
 
 # Writing Software is Hard
 
-It's no secret - there are literally thousands of articles, collecting the opinions of generations of developers on why exactly writing software is so hard. It's hard. And clearly, getting other people to understand why it's so hard is also hard, that's why we keep doing it. Clausehound has an energetic, hard-working team of devs who I see do great work every day. I'd like to share a bit of our perspective on this eternal struggle.
+It's no secret - there are literally thousands of articles, collecting the opinions of generations of developers on why exactly writing software is so hard. It's hard. And clearly, getting other people to understand why it's so hard is also hard, that's why we keep doing it. Clausehound has an energetic, hard-working team of devs who I see do great work every day. I'd like to share our perspective on this struggle, connecting abstract software concepts to concrete code.
 
 Abstractions are also harder to think about than concretions -- the details involved in making something that actually does something. Before you commit code to the product, it lives in this perfect space between the ears of everyone involved. The CEO can see how this will build their company and make them a success. The client feels confident they've made the right choice; clearly after so many meetings and dilligent minute-taking, the picture they have in their head that they feel so good about is shared by everyone. The developers are excited they get a chance to build something new, and are looking forward to showing off to their friends and family.
 
@@ -23,15 +23,15 @@ Developers have known this for decades, and have found that [working with storie
 # Abstractions into Requirements
 ## and why I'm a hypocrite
 
-After spending a paragraph railing against analogies, guess what it's time for? An analogy! But I'm using this analogy to tell a story, so I can live with that. Let's do one about say.. building a bridge. Why building bridges, when I've never in my life built a bridge? Because I'm fairly certain you haven't built one either, and won't be as quick to notice any of my flaws in structural engineering.
+After spending a paragraph railing against analogies, guess what it's time for? An analogy! But I'm using this analogy to tell a story, so I can live with that. Let's do one about say.. building a bridge. Why building bridges, when I've never in my life built a bridge? Because I'm fairly certain you haven't built one either, and won't be as quick to notice the problems with my ham-fisted analogy.
 
 ![Zipline](./nate-williams-vyK4VxGLiKs-unsplash.jpg)
 
 I went to school to learn about software, and everyone in this field loves to talk about **requirements**. A requirement is what you need the software to do, right? Sometimes true, but usually it's not what the software requires, it's what the user requires.
 
-So I want to cross a chasm - that's my requirement. "I require the means to cross this chasm". When you leave it there, you get anything. A zipline to slide across, a rope bridge, or the Golden Gate. All of those fit the bill. Each one of those could appear in the head of the CEO, client, and developer during their "requirements elicitation meeting". If the client wanted the rope bridge, but got the zipline, they'd feel shortchanged. It they got the Golden Gate bridge, they'd be upset at the high cost and long delays. Though they may cool down when it triggers their nostalgia for Full House.
+So I want to cross a chasm - that's my requirement. "I require the means to cross this chasm". When you leave it there, you can get almost anything. A zipline to slide across, a rope bridge, or the Golden Gate. All of those meet the requirement. Each one of those could appear in the head of the CEO, client, and developer during their "requirements elicitation meeting". If the client wanted the rope bridge, but got the zipline, they'd feel shortchanged. It they got the Golden Gate bridge, they'd be upset at the high cost and long delays. Though they may cool down when it triggers their nostalgia for Full House.
 
-![Ahh ahh ahh ahhhhh](./kevin-jarrett-B3MDKLMK59Y-unsplash.jpg)
+![Ahh ahh ahh ahhhhh, shewbiedoo bap ba da](./kevin-jarrett-B3MDKLMK59Y-unsplash.jpg)
 
 Again why talking in stories and experiences makes more sense. What software is required to do is extraordinarily hard to pin down, because the effort required may range from trivial to infinite. "I want to make a todo list". Okay -- open notepad, write "to-do" at the top. Done. Or write an app for iOS, Android, and AWS-hosted web that integrates seamlessly with your calendar, uses machine learning to identify ways to save you time on your list, auto-fills contacts to contact people to help you with items on that list, etc. Actually I'm liking the sound of that -- maybe there's another startup there for me.
 
