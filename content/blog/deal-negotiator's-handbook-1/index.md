@@ -2,7 +2,7 @@
 title: "Deal Negotiator's Handbook #1"
 author: thomas@clausehound.com
 tags: []
-date: 
+date: 2020-06-27
 description: "DealPrep's Deal Negotiator's Handbook #1"
 ---
 
