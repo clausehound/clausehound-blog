@@ -3,7 +3,7 @@ title: "What are Share Repurchases and Why are Businesses Using Them So Much?"
 author: eashan@clausehound.com
 tags: []
 date: 2019-07-15 15:34:37
-description: "Share repurchases by corporations have reached unprecedented levels in recent years and are expected to go even higher. In fact, in 2017 S&P 500 companies made share repurchases to the tune of $770..."
+description: "Share repurchases by corporations have reached unprecedented levels in recent years and are expected to go even higher."
 ---
 
 Share repurchases by corporations have reached unprecedented levels in recent years and are expected to go even higher. In fact, in 2017 S&P 500 companies made share repurchases to the tune of $770 billion. This number is expected to reach $940 billion by the end of 2019, which is equal to about a 1/3 of the spending capital of these same corporations [[United States: Shares Buybacks Under Fire](http://www.mondaq.com/unitedstates/x/798792/Shareholders/Share+Buybacks+Under+Fire), Mondaq].
