@@ -2,7 +2,7 @@
 title: "CRM Transformation - From Spreadsheet to Scaling"
 author: rajah@clausehound.com
 tags: []
-date: 
+date: 2020-06-21
 description: "CRMs are sticky for a reason, and we’ve recently gone through the process of migrating from one popular CRM to another, and have decided to break down our CRM needs to the most basic visualization first - through spreadsheets."
 ---
 

@@ -2,7 +2,7 @@
 title: "COVID-19 Deal Risk Insights"
 author: thomas@clausehound.com
 tags: []
-date: 
+date: 2020-06-25
 description: "Some of the deal risk insights our team’s learned from working in the deal automations space during COVID-19."
 ---
 
