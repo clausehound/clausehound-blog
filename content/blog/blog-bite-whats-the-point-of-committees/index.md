@@ -12,4 +12,4 @@ Some committees may be temporary or task-based such as a special task force for 
 
 Committees can sometimes help resolve or avoid conflicts of interest - take, for example, a compensation committee that determines the compensation for company directors. The conflict of interest would be clear if a Board was determining its own pay. Each board member is personally at odds with the corporation in this regard. By handing off the decision to a committee, the conflict is potentially avoided, or at least mitigated.
 
-For more on committees and other topics, check out Clausehound’s [Delaware Public Benefit Corporation By-Laws](https://www.clausehound.com/legal-contract/corporate-by-laws-for-public-benefit) learning library template, and be sure to click through our tags to learn more about each clause!
+For more on committees and other topics, check out DealPrep’s [Delaware Public Benefit Corporation By-Laws](https://www.clausehound.com/legal-contract/corporate-by-laws-for-public-benefit) learning library template, and be sure to click through our tags to learn more about each clause!
