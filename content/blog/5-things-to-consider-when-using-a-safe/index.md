@@ -6,11 +6,9 @@ date: 2018-07-09 01:25:41
 description: "The Simple Agreement for Future Equity (SAFE) has been gaining popularity  as a result of its use by seed accelerators such as Y Combinator in the US, and NACO in Canada. It has allowed startups to gr..."
 ---
 
-The [Simple Agreement for Future Equity](https://blog.clausehound.com/overview-of-safe/) (SAFE) has been gaining popularity  as a result of its use by seed accelerators such as Y Combinator in the US, and NACO in Canada. It has allowed startups to greatly reduce the complexity and length of negotiations with angels and other seed-stage investors when [raising capital](https://blog.clausehound.com/raising-capital-for-your-startup/), attracting the interest of startup founders everywhere. If you're one of these founders and looking to use a SAFE, you might have some questions, and hopefully the list below will help highlight some important things to consider before using a SAFE.
+The [Simple Agreement for Future Equity](https://blog.clausehound.com/overview-of-safe/) (SAFE) has been gaining popularity as a result of its use by seed accelerators such as Y Combinator in the US, and NACO in Canada. It has allowed startups to greatly reduce the complexity and length of negotiations with angels and other seed-stage investors when [raising capital](https://blog.clausehound.com/raising-capital-for-your-startup/), attracting the interest of startup founders everywhere. If you're one of these founders and looking to use a SAFE, you might have some questions, and hopefully the list below will help highlight some important things to consider before using a SAFE.
 
-If this is your first time hearing about the SAFE, or you're looking for a bit of a refresher, check out the annotated [Y Combinator SAFE](https://www.clausehound.com/legal-contract/16368) and [NACO SAFE](https://www.clausehound.com/legal-contract/16289) templates on our site by logging in to your Clausehound account.
-
- 
+If this is your first time hearing about the SAFE, or you're looking for a bit of a refresher, check out the annotated [Y Combinator SAFE](https://www.clausehound.com/legal-contract/16368) and [NACO SAFE](https://www.clausehound.com/legal-contract/16289) templates on our site by logging in to your DealPrep account.
 
 **Does Your SAFE Correspond With Your Articles of Incorporation?**
 
@@ -28,7 +26,7 @@ Other trigger options could be the issuance of some minimum amount of financing.
 
 A *pre-money valuation* is the valuation of the company before any investment money comes in, and it's also used for the purpose of the conversion formula:
 
-**%Equity = (Purchase Amount / Pre-money Valuation)**
+**Equity% = (Purchase Amount / Pre-money Valuation)**
 
 At the time of negotiating the SAFE, only the Purchase Amount can be determined. Taking time to determine the valuation (the most complicated part of the investment process) would undermine the entire point of the SAFE. As a result, the SAFE treats pre-money valuation as a yet-to-be-determined x-value. If the investor buys the SAFE at $100 000, and the pre-money valuation in a subsequent equity financing is $2 million, the investor has got 5% (1/20) of the shares issued in that financing. If the pre-money valuation is $500 000, the investor has 20% (1/5).
 
@@ -48,7 +46,8 @@ A SAFE does not need to feature both a Valuation Cap and Discount Rate, and most
 
 Pro-rata rights, in simple terms, allow an investor to participate in subsequent rounds of equity financing to maintain their percentage ownership of the company. SAFE notes often confer those rights to SAFE holders by way of pre-emptive rights. However, by default there is no dollar limit on this right. Anyone who invests even a nominal amount in your company would have pro rata rights. Consider adding a dollar limit if you don't want every investor to have these rights.
 
-**Take-aways**
+**Takeaways:**
+
 - SAFEs are understandably unattractive to many investors - they do not get shares until the SAFE converts, meaning they do not have shareholder rights, nor do they receive interest on their money.
 - Since investors are investing without the comfort of a priced round or a concrete valuation, the SAFE must provide concessions in the form of a Valuation Cap and/or a Discount Rate.
 - Cross-reference the SAFE with your Articles of Incorporation to ensure you are going to be issuing shares your company can issue.
