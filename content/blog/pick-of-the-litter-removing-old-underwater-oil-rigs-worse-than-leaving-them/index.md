@@ -5,18 +5,9 @@ tags: ["aching"]
 date: 2018-07-10 17:26:24
 description: "The 'Hound is sniffing out cool innovations for you.
 
+Multiplicity's What's Cool Weekly
 
-
-
-
- Multiplicity's What's Cool Weekly
-
-
-
-
- Removing Old Underwater Oil Rigs Worse Than Leaving Them? 
-
-
+Removing Old Underwater Oil Rigs Worse Than Leaving Them? 
 
 Credit Score For Developers - Code Score..."
 ---
@@ -49,19 +40,19 @@ Pick of the Litter
 
 [https://blog.clausehound.com/how-are-you-going-to-attract-and-retain-top-talent/](https://blog.clausehound.com/how-are-you-going-to-attract-and-retain-top-talent/)
 
- Invest Ottawa 
+Invest Ottawa 
 
 [ How Are You Going to Attract and Retain Top Talent?](https://blog.clausehound.com/how-are-you-going-to-attract-and-retain-top-talent/)
 
 [https://blog.clausehound.com/gbc-entrepreneur-spotlight-alex-rushdy-and-lucas-takashi/](https://blog.clausehound.com/gbc-entrepreneur-spotlight-alex-rushdy-and-lucas-takashi/)
 
- startGBC 
+startGBC 
 
 [ GBC Entrepreneur Spotlight: Alex Rushdy and Lucas Takashi](https://blog.clausehound.com/gbc-entrepreneur-spotlight-alex-rushdy-and-lucas-takashi/)
 
 [https://blog.clausehound.com/how-this-museum-helps-shape-the-future-of-the-mediterranean/](https://blog.clausehound.com/how-this-museum-helps-shape-the-future-of-the-mediterranean/)
 
- TwentyThirty 
+TwentyThirty 
 
 [How This Museum Helps Shape the Future of the Mediterranean](https://blog.clausehound.com/how-this-museum-helps-shape-the-future-of-the-mediterranean/)
 
@@ -78,5 +69,3 @@ August 30th, [YEDI Incubator Track Fall 2018](https://blog.clausehound.com/yedi-
 [https://www.linkedin.com/company/clausehound](https://www.linkedin.com/company/clausehound)
 
 [https://www.youtube.com/channel/UCyXJb5j3l4mqCw1xKoU6IFA](https://www.youtube.com/channel/UCyXJb5j3l4mqCw1xKoU6IFA)
-
-.gridDesc{transition: all .5s; padding-left: 3px; padding-right: 3px;padding-bottom: 10px;}.socialIcon{float:left; width: 25%;transition: all .5s;}.eventTitle{margin: 24px 0;}.eventsAndMedia{ margin:auto;max-width: 590px; font-size: 14px;transition: all .5s;overflow: auto;}.gridImage{width:197px; height:140px; margin: 0; }.imageGridBox{width: 33%; border-collapse: collapse;font-size: 14px;transition: all .5s; display: block; float: left; width: 33%; overflow: hidden;}@media screen and (max-width: 639px){.socialIcon{width: 50%;}.imageGridBox{width: 100%;clear: both;}.gridImage{width: 100%;height: auto;}}
