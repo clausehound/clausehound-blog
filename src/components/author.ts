@@ -64,7 +64,7 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
     h(
       "h3",
       {
-        className: classes.firstName,
+        className: `${classes.firstName} post-author`,
       },
       h("span", null, `${first} `),
       h(
