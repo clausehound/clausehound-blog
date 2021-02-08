@@ -105,6 +105,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           h(
             "h1",
             {
+              className: "post-title",
               style: { marginTop: "1rem" },
             },
             post.frontmatter.title,
@@ -112,7 +113,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
           h(
             "h5",
             {
-              className: classes.date,
+              className: `${classes.date} post-published-date`,
               style: {
                 ...scale(-1 / 5),
               },
@@ -122,6 +123,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         ),
       ),
       h("main", {
+        className: `post-body`,
         dangerouslySetInnerHTML: {
           __html: post.html,
         },
