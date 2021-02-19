@@ -3,7 +3,7 @@ title: "Changing Job Descriptions and Constructive Dismissal"
 author: rajah@cobaltcounsel.com
 tags: ["Constructive Dismissal"]
 date: 2021-02-18
-description: "Constructive dismissal is a legal concept which refers to a situation where an employer unilaterally changes the terms of an employment contract. This aricle looks into what constitutes as constructive dismissal as well as ways to identify constructive dismissal in the workplace.  Finally, this article seeks to identfiy ways to avoid the occurance of constructive dismissal."
+description: "Constructive dismissal is a legal concept which refers to a situation where an employer unilaterally changes the terms of an employment contract. This article looks into what constitutes as constructive dismissal as well as ways to identify constructive dismissal in the workplace.  Finally, this article seeks to identfiy ways to avoid the occurence of constructive dismissal."
 ---
 
 When you are hired into a role, or when you are hiring for a role as an employer, the duties and expectations from that role might change from time of time. *It may
