@@ -3,9 +3,9 @@ title: "Blog Bite: What laws will govern an agreement when the parties are from 
 author: alina@clausehound.com
 tags: ["Governing Law","Mondaq","Learn","Canada (ON)"]
 date: 2016-02-15 00:00:00
-description: "This article posted on our partner site Mondaq.com discusses how parties who are from different provinces can decide together upon what governing law their contract shall preside under. If such a cla..."
+description: "This article posted on our partner site Mondaq.com discusses how parties who are from different provinces can decide together upon what governing law their contract shall preside under."
 ---
 
-[This article posted on our partner site Mondaq.com](http://www.mondaq.com/canada/x/466048/Contract+Law/Governing+Law+And+Choice+Of+Forum+Clauses) discusses how parties who are from different provinces can decide together upon what governing law their contract shall preside under. If such a clause is not included, the courts can look at contextual factors (e.g., location of parties) to make a determination.
+[Canada: Governing Law And Choice Of Forum Clauses](http://www.mondaq.com/canada/x/466048/Contract+Law/Governing+Law+And+Choice+Of+Forum+Clauses) discusses how parties who are from different provinces can decide together upon what governing law their contract shall preside under. If such a clause is not included, the courts can look at contextual factors (e.g., location of parties) to make a determination.
 
-This comes to you as a part of Clausehound's exciting new collaboration with Mondaq!
+Certain articles within this post were linked and referenced with the permission of Mondaq.com, through our exciting content collaboration with them.  To access Mondaq’s large database of articles written by top law firm lawyers from around the world, you must leave our site and create a free account on theirs.

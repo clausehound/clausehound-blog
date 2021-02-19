@@ -3,44 +3,52 @@ title: "Tips On What To Look For When Reviewing An IP Transfer Agreement"
 author: alva@clausehound.com
 tags: ["aching","Playbooks"]
 date: 2017-08-31 17:37:39
-description: "Prior to sending your drafted agreement to a counterparty of executing the agreement, it is important to thoroughly review the agreement for both content and form. These are some of the key items that..."
+description: "Prior to sending your drafted agreement to a counterparty of executing the agreement, it is important to thoroughly review the agreement for both content and form. These are some of the key items that a drafter should keep in mind when reviewing an agreement." 
 ---
 
 Prior to sending your drafted agreement to a counterparty of executing the agreement, it is important to thoroughly review the agreement for both content and form. These are some of the key items that a drafter should keep in mind when reviewing an agreement. 
 
  
 
-1. ** 1. Is the IP transfer Agreement operational?**
+### 1. Is the IP Transfer Agreement operational?
 
--Are the clauses of the IP transfer agreement enforceable according to law?-Are the correct parties included in the IP transfer agreement?-Do the parties have signing authority?
-
- 
-
-1.  2. Are the goals of the IP transfer agreement being achieved?
-
--Is the intellectual property correctly described?-Is there any additional intellectual property that need to be included in this agreement?-Do the time lines correspond to realistic ability to perform the contract?-Is the pricing clear?-Is the ‘business’ properly defined for the purposes of confidentiality, non- solicitation and non-competition purposes?-Has the non-assignable and non-transferable intellectual property been addressed in the agreement?
+- Are the clauses of the IP transfer agreement enforceable according to law?
+- Are the correct parties included in the IP transfer agreement?
+- Do the parties have signing authority?
 
  
 
-1.  3. Are references throughout the agreement correct?
+### 2. Are the goals of the IP transfer agreement being achieved?
 
-Example: (1) ... with its principal place of business at [INSERT LOCATION] (the "Assignor")-Is the "Assignor" used correctly throughout the agreement?
-
- 
-
-1.  4. Are capitalized terms properly defined?
-
- 
-
-1.  5. Is the correct legislation referenced in the agreement? 
+- Is the intellectual property correctly described?
+- Is there any additional intellectual property that need to be included in this agreement?
+- Do the time lines correspond to realistic ability to perform the contract?
+- Is the pricing clear?
+- Is the ‘business’ properly defined for the purposes of confidentiality, non- solicitation and non-competition purposes?
+- Has the non-assignable and non-transferable intellectual property been addressed in the agreement?
 
  
 
-1.  6. Is the numbering consistent? 
+### 3. Are references throughout the agreement correct?
+
+- Example: (1) ... with its principal place of business at [INSERT LOCATION] (the "Assignor")
+- Is the "Assignor" used correctly throughout the agreement?
 
  
 
-1.  7. Is all of the ‘boilerplate’ included/applicable?
+### 4. Are capitalized terms properly defined?
+
+ 
+
+### 5. Is the correct legislation referenced in the agreement? 
+
+ 
+
+### 6. Is the numbering consistent? 
+
+ 
+
+### 7. Is all of the ‘boilerplate’ included/applicable?
 
  
 
@@ -53,4 +61,4 @@ Example: (1) ... with its principal place of business at [INSERT LOCATION] (the 
 
  
 
-1.  8. Are all track changes & comments removed prior to sending to Counterparty?
+### 8. Are all track changes & comments removed prior to sending to Counterparty?

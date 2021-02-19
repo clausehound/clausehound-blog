@@ -3,14 +3,12 @@ title: "Late Night Musings"
 author: alva+AlkarimNasser@clausehound.com
 tags: ["Journey","AlkarimNasser"]
 date: 2017-12-23 19:26:12
-description: "Links from this article:Original post on medium.comOriginally posted on Medium.com by Alkarim Nasser.
-“Happiness is a journey, not a destination.” — Alf..."
+description: "If we truly believe that happiness is in the journey, then why do we always goal off the destination?"
 ---
 
-**Links from this article:**
-[Original post on medium.com](https://medium.com/@alkarim/late-night-musings-33b7bf7d57ea)
 
-Originally posted on Medium.com by Alkarim Nasser.
+
+
 
 *“Happiness is a journey, not a destination.” — Alfred D. Souza*
 
@@ -24,4 +22,9 @@ What if instead of having such rigid ideas of what we want, we strived for a sta
 
 If we truly believe that happiness is in the journey, then why do we always goal off the destination?
 
-Alkarim is a member of Founder's Only and occasionally guest posts here.
+
+*Originally posted on [Medium.com by Alkarim Nasser](https://medium.com/@alkarim/late-night-musings-33b7bf7d57ea).*
+
+*---*
+
+*Alkarim is a member of Founder's Only and occasionally guest posts here.*

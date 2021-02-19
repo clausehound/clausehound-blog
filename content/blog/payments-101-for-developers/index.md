@@ -3,20 +3,12 @@ title: "Payments 101 for Developers"
 author: alva@clausehound.com
 tags: ["Announcements","aching"]
 date: 2018-06-04 17:52:27
-description: "Links from this article:
-Event page
-
-
-
-The Business Development Bank of Canada has shared us with this event hosted by Visa Canada.
-
-The focus..."
+description: "The Business Development Bank of Canada has shared us with this event hosted by Visa Canada."
 ---
 
-[https://www.eventbrite.com/e/payments-101-for-developers-tickets-46168895409](https://www.eventbrite.com/e/payments-101-for-developers-tickets-46168895409)
-**Links from this article:**[Event page](https://www.eventbrite.com/e/payments-101-for-developers-tickets-46168895409)
 
-The Business Development Bank of Canada has shared us with this event hosted by Visa Canada.
+
+The **Business Development Bank of Canada** has shared us with this event hosted by Visa Canada.
 
 The focus will be on how developers can make a better experience for their users when paying for their product or service.
 

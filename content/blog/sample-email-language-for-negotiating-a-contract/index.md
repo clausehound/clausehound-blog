@@ -3,15 +3,7 @@ title: "Sample Email Language for Negotiating a Contract"
 author: mifras@clausehound.com
 tags: ["mnazeer","Playbooks"]
 date: 2017-03-22 15:56:19
-description: "Dear [INSERT NAME], 
-
- 
-
-We are excited about the possibility of doing business with you!
-
- 
-
-Attached is a draft [INSERT AGREEMENT] which we believe captures the discussions we have had to date...."
+description: "Here is a Sample Email Language for Negotiating a Contract."
 ---
 
 Dear [INSERT NAME], 
@@ -34,7 +26,7 @@ Given our mutual desire to finalize this agreement  [as soon as possible / by [I
 
  
 
-Best Regards
+Best Regards,
 
  
 

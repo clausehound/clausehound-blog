@@ -1,14 +1,9 @@
 ---
-title: "These aren’t my pants — and other ways I’m bootstrapping my way to the top."
+title: "These aren’t my pants - and other ways I’m bootstrapping my way to the top."
 author: IlanaBenAri@clausehound.com
 tags: ["Journey","Ilana Ben-Ari"]
 date: 2017-07-21 15:14:50
-description: "This article was originally posted on medium.
-
-
-
- 
-These are photographs of me at various events that I’ve spoken at. None of these outfits are mine. The pants are my sister’s, the shirts my roommat..."
+description: "This article was originally posted on medium. There are a lot of secrets when it comes to starting a business. The first secret I discovered when I started my own business, designing toys that teach empathy and failure, was that entrepreneurs barely pay themselves for at least the first few years."
 ---
 
 This article was originally posted on [medium](http://bit.ly/2tGnIIg).
@@ -21,7 +16,7 @@ There are a lot of secrets when it comes to starting a business. The first secre
 
 That day still hasn’t come for me.
 
-**When I used to have pants**
+### When I used to have pants
 
 In 2010 I quit my job as a lighting designer, moved in with circus performers in an old theatre space in Montreal, and got a $1,200 artists grant to make toys and teach myself how to start a business.
 
@@ -41,7 +36,7 @@ Now, four years after officially starting [Twenty One Toys](http://twentyonetoys
 
 So I started searching for work that combined design and social innovation, but it wasn’t simple. Eventually, it dawned on me that I had to start my own social enterprise with design at its core. What I was trying to do with the [Empathy Toy](http://empathytoy.com/getting-started/) in education was so strange and unknown; I knew no one else would understand it enough to make it work — so I designed a company to bring my ideas to life.
 
-**I’ve got $1,200 — I’m rich!**
+### I’ve got $1,200 — I’m rich!
 
 The artists’ grant I received in 2010 was for $1,200. It paid for a website where I wrote about my research and answered questions around design, which cost $400, thanks to my friend Anna, who cut me a deal. It was more like a blog of my research and ideas, but what I didn’t realize at the time was that I was building my SEO strategy. I used the rest of the funds to pay for prototypes made at my friend Harvey’s jewelry studio, and the rest went to two conference tickets: one for [BitNorth](http://www.bitnorth.com/), an unconference in the woods of Quebec, and the other for [The Feast](http://feastongood.com/) in New York. Both conferences not only opened my eyes to the incredible work engineers, designers, and entrepreneurs were doing to make the world a better place — it also was the beginning of my acceptance that I wasn’t just a designer, I was a design-entrepreneur.
 
@@ -53,26 +48,26 @@ I then ended my European summer in Finland, at a startup accelerator called [Sta
 
 A typical day at [StartUp Sauna](http://startupsauna.com/) in Finland. FYI — Those ARE my pants, shoes and jacket. Purchased before quitting my job.
 
-**I don’t have €25k — I’m broke!**
+### I don’t have €25k — I’m broke!
 
 I came back to Canada defeated and broke. I’d spent the last of my savings working to win that grant, and now I had nothing. One of my best friends convinced me to move in with her in Toronto. She said I could sleep on her couch, borrow her clothes and sneak into her workplace at the [Centre for Social Innovation](https://socialinnovation.org/location/csi-annex/) until I got back on my feet. So I slept on her couch for months, sneaking into every education conference I could, bouncing around between Montreal and Toronto. I gatecrashed more events, kept writing in my blog, and started getting requests to use the toys in youth programs in Uganda and Trinidad. I went back to Harvey’s studio in Montreal, made 8 more prototypes. Sanded them in another best friend’s lab, and sent them on their way.
 
 Then, just a month after publicly announcing the name [Twenty One Toys](http://twentyonetoys.com/pages/press-awards), I made my first official toy sale to a school board in Toronto. Thanks to a consultant I met at one of those unconferences, a school board [found my TEDx talk on Twitter](http://twentyonetoys.com/blogs/toys-games-for-play-based-learning/14398637-our-toys-at-dufferin-peel-catholic) and put in a pre-order for 30 toy sets. I nervously asked: “Great! Can you pay in full and wait 5 months for me to manufacture?” They agreed. The following week we won 3 awards — The Centre for Social Innovation’s [Youth Agents of Change Award](https://socialinnovation.org/2012-agents-of-change-youth/) (free rent and mentorship!), the [Youth Social Innovation Capital Fund](http://www.youthsocialinnovation.org/) (a 2-year $10k loan), and the [Spin Master Innovation Award](http://twentyonetoys.com/blogs/our-learning-revolution/14398705-celebrating-innovative-entrepreneurs-with-the-canadian-youth-business-foundation) (a 4-year $50k loan with mentorship). I bought pants immediately.
 
-**Why I’m still not wearing my own pants**
+### Why I’m still not wearing my own pants
 
 That was over 4 years ago. I’ve managed to continue bootstrapping my business through a combination of award loans, pre-orders, my personal lines of credit, and now sales. While 4 years seem like a lifetime, that’s early days for a business; we’ve had plenty of bumps along the way, and lots of moments where I thought we wouldn’t make it. The statistics are scary. Inc. Magazine says it best: [“25% of new businesses don’t make it past year one… 50% of all new businesses fail within five years.](http://www.inc.com/thomas-koulopoulos/5-of-the-most-surprising-statistics-about-start-ups.html)” But, on the bright side, that same article said “only 10% of the business[es] that make it past year 5 will die off in the following year, and only 6% in the 10th year… Rather than try to go for broke in the early years, consider building your foundation so that you can take greater risk in outlier years when you do have the safety of an established business to fall back on.”
 
 What bootstrapping means to me is that I am still building that foundation, and keeping costs as low as possible. We’ve gone into production 4 times, and the first 3 were through pre-orders, either from a few big customers or a successful Kickstarter campaign. I’ve taken short-term loans from friends, maxed out credit cards to make it past tough months, and — most recently — the SheEO [Radical Generosity fund](https://www.sheeo.world/) helped us go into our 4th production run early — and we were only out of stock for a month. We’ve won 16 awards to date (you can find [some of them here](http://twentyonetoys.com/pages/press-awards)) and our Empathy Toy is now in 45 countries, 1,000 schools, and 100 offices. I have an incredible team and we’re growing! For now, I’m still just a train station for money. Every time we make a sale, we need to make more toys. Every time we grow, we need to hire more people, pay more rent, and buy more insurance. I’m still not on payroll, but getting closer — as in, January of 2017 closer…
 
-**“Don’t give up. Beginning is only hard”**
+### “Don’t give up. Beginning is only hard”
 
 Before I started a business, when I heard the term entrepreneur or “businessman” I would picture Robin Williams in HOOK: at his son’s baseball game, on his cellphone, being a bad father.
 
 What I see now is my grandpa, who bootstrapped his own business with my grandmother for almost 70 years. I never called them bootstrapping entrepreneurs, but that’s what they were. They retired just last year and this was the best piece of advice I’ve received:
 
-What does bootstrapping really mean? It means it’s YOUR boots and, most likely, other people’s pants. It’s also worth noting that not everyone even has the privilege of borrowing pants. I don’t have investors, but I **do **have an incredible support system of family and friends, who lend me couches, clothes, and even [donate trips](https://www.instagram.com/p/BDIxChGRRUm/?taken-by=ilanabenari%27) and computers along the way.
+What does bootstrapping really mean? It means it’s YOUR boots and, most likely, other people’s pants. It’s also worth noting that not everyone even has the privilege of borrowing pants. I don’t have investors, but I **do** have an incredible support system of family and friends, who lend me couches, clothes, and even [donate trips](https://www.instagram.com/p/BDIxChGRRUm/?taken-by=ilanabenari%27) and computers along the way.
 
 So the next time you see a bootstrapping entrepreneur, cut them some slack, and maybe buy them a coffee, or lend them a pair of pants, or a couch to crash on while they wait for their train to come in. It’ll make a world of difference.
 
-*Ilana is a member of *[*Founder’s Only*](http://clausehound.com/founders-only)* and occasionally guest-posts here.*
+*Ilana is a member of Founder’s Only and occasionally guest-posts here.*

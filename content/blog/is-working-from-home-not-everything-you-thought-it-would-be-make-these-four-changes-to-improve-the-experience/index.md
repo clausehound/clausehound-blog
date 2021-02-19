@@ -3,15 +3,11 @@ title: "Is working from home not everything you thought it would be? Make these 
 author: aunterman@cobaltcounsel.com
 tags: ["Announcements","aunterman"]
 date: 2017-05-01 11:02:34
-description: "Links from this article:
-Avoid Pitfalls of Working From Home
-
-
-Clausehound’s partner organization, Bullfrog Insurance, has written a blog on wa..."
+description: "Clausehound’s partner organization, Bullfrog Insurance, has written a blog on ways to increase your productivity and quality of life for self-employed people."
 ---
 
-[https://pixabay.com/en/computer-phone-mobile-phone-laptop-1572183/](https://pixabay.com/en/computer-phone-mobile-phone-laptop-1572183/)
-**Links from this article:**[Avoid Pitfalls of Working From Home](http://bullfroginsurance.com/blog/avoid-pitfalls-of-working-from-home/)
 
-Clausehound’s partner organization, Bullfrog Insurance, has written a blog on ways to increase your productivity and quality of life for self-employed people. These suggestions from Bullfrog Insurance will help maintain your productivity, creativity, and enthusiasm for work. Remember why you decided to be your own boss in the first place and make sure your life is structured to achieve those goals. 
+
+Clausehound’s partner organization, **Bullfrog Insurance**, has written a blog on ways to increase your productivity and quality of life for self-employed people. These suggestions from Bullfrog Insurance will help maintain your productivity, creativity, and enthusiasm for work. Remember why you decided to be your own boss in the first place and make sure your life is structured to achieve those goals. 
+
 To read the whole article, please click [here](http://bullfroginsurance.com/blog/avoid-pitfalls-of-working-from-home/). 

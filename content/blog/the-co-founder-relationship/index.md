@@ -3,22 +3,16 @@ title: "The Co-Founder Relationship"
 author: rajah@cobaltcounsel.com
 tags: ["Journey","Rajah"]
 date: 2017-11-03 14:13:24
-description: "Links from this article:
-Julie's podcast series
-Part 1 of co-founder series
-Part 2 of co-founder series
-Part 3 of co-founder series
-
-Julie Zuzek 'the Corporate Yogi' and I have been friends for nearl..."
+description: "Julie Zuzek 'the Corporate Yogi' and I have been friends for nearly a decade, and I have often tried to apply her approach to the 'entrepreneur mindset' over the course of my own founder journey.  I had a chance to recently listen to her podcast series on co-founders."
 ---
 
-**Links from this article:**[Julie's podcast series](http://www.thecorporateyogi.com/podcast/)[Part 1 of co-founder series](http://bit.ly/2qq4IJT)[Part 2 of co-founder series](http://bit.ly/2psD0Lv)[Part 3 of co-founder series](http://bit.ly/2qj1J8t)
 
-Julie Zuzek "the Corporate Yogi" and I have been friends for nearly a decade, and I have often tried to apply her approach to the “entrepreneur mindset” over the course of my own founder journey.  I had a chance to recently listen to her podcast series on co-founders.
+
+**Julie Zuzek** "the Corporate Yogi" and I have been friends for nearly a decade, and I have often tried to apply her approach to the “entrepreneur mindset” over the course of my own founder journey.  I had a chance to recently listen to her podcast series on co-founders.
 
  
 
-Julie's compete podcast series can be found here:  ([http://www.thecorporateyogi.com/podcast/](http://www.thecorporateyogi.com/podcast/) ) and to listen to the series on co-founders, check out the following links:
+Julie's complete podcast series can be found here:  ([http://www.thecorporateyogi.com/podcast/](https://thecorporateyogi.com/podcast/) ) and to listen to the series on co-founders, check out the following links:
 
  
 
@@ -42,7 +36,7 @@ This series on co-founders also shares the stories and successes of two sets of 
 
 4. Mutual respect and having fun (versus job advancement/wealth creation) make the journey worthwhile.
 
-The third item above - co-founder/executives as fluid dynamics, caused me the most discomfort, as it was a reminder that your co-founders/senior executive relationships are a constant work-in-progress.  People are constantly surprising, and of course the most important people on your team can also cause the greatest and most impactful (positive and negative) surprises.
+The third item above - co-founder/executives as **fluid dynamics**, caused me the most discomfort, as it was a reminder that your co-founders/senior executive relationships are a constant work-in-progress.  People are constantly surprising, and of course the most important people on your team can also cause the greatest and most impactful (positive and negative) surprises.
 
  
 

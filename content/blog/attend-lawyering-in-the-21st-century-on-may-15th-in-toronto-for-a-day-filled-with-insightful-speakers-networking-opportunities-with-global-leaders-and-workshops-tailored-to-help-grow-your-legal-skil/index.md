@@ -3,19 +3,14 @@ title: "Attend Lawyering In The 21st Century on May 15th in Toronto for a day fi
 author: aunterman@cobaltcounsel.com
 tags: ["Events","aunterman"]
 date: 2017-05-08 13:18:51
-description: "Links from this article:
-Lawyering in the 21st Century
-
-
-
-On May 15th, 2017, LexisNexis and the Legal Innovation Zone, where Clausehound is located, i..."
+description: "On May 15th, 2017, LexisNexis and the Legal Innovation Zone, where Clausehound is located, is hosting an interactive forum discussing innovations and transformations in law firms and legal departments."
 ---
 
-[http://www.lexisnexis.ca/en-ca/micro/innovationsummit/home.page](http://www.lexisnexis.ca/en-ca/micro/innovationsummit/home.page)
-**Links from this article:**[Lawyering in the 21st Century](http://www.lexisnexis.ca/en-ca/micro/innovationsummit/home.page)
 
-On May 15th, 2017, LexisNexis and the Legal Innovation Zone, where Clausehound is located, is hosting an interactive forum discussing innovations and transformations in law firms and legal departments. Lawyering in the 21st Century will include insightful speakers, networking opportunities, and workshops tailored to help transform law firms and legal departments. Whether you are In-House Counsel, a Senior Partner or a Sole Practitioner, you will benefit from acquiring practical skills to implement innovation and drive positive change in your legal practice.** **
-The event takes place at 55 Dundas Street West in Toronto.
+
+On May 15th, 2017, **LexisNexis** and the **Legal Innovation Zone**, where Clausehound is located, is hosting an interactive forum discussing innovations and transformations in law firms and legal departments. Lawyering in the 21st Century will include insightful speakers, networking opportunities, and workshops tailored to help transform law firms and legal departments. 
+
+Whether you are In-House Counsel, a Senior Partner or a Sole Practitioner, you will benefit from acquiring practical skills to implement innovation and drive positive change in your legal practice. The event takes place at 55 Dundas Street West in Toronto.
 
  
 

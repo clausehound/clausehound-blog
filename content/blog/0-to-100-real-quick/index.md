@@ -3,8 +3,7 @@ title: "0 to 100 Real Quick"
 author: SheetalJaitly@clausehound.com
 tags: ["Journey","Sheetal Jaitly"]
 date: 2017-08-04 15:06:31
-description: "This article was originally posted on Medium.  Additional notes added within this Founder's Journey column.
-Amazing news this week from the Tribe! We just hit the century mark for the number of emplo..."
+description: "This article was originally posted on Medium.  Additional notes added within this Founder's Journey column. Amazing news this week from the Tribe! We just hit the century mark for the number of employees worldwide."
 ---
 
 This article was originally posted on [Medium](https://medium.com/tribalscale/0-to-100-real-quick-116f7478d71b).  Additional notes added within this Founder's Journey column.
@@ -17,18 +16,14 @@ I feel that amping up our diversity DNA at the 100 mark is perfect timing. We ha
 
 In the past year, we’ve been actively involved in the community about diversity issues by hosting events and sponsoring diverse causes. We did this not only to attract diverse talent to TribalScale, but to also create more awareness about diversity issues in the current tech ecosystem.
 
-Key Stats
+
+
+### Key Stats
 
 - **About 22% of our leadership team is female**
 - **Our Tribe speaks 22 different languages**
 
-Our Nationalities
 
-Our Ethnicities
-
-Languages We Speak
-
-Gender Split by DepartmentOur Gender Split
 
  
 
@@ -40,4 +35,4 @@ Meritocracy is one of our core values and we reward and empower our employees ba
 
 However, we have A LOT more work to do. So I’ve been on the hunt for diverse talent, and meeting with various leaders to ideate and strategize on how to build a diverse team. As a first step, I want to publish our diversity stats to the public, and I’ll continue to publish more often. I also challenge others to do the same.
 
-*Sheetal is a member of *[*Founder’s Only*](http://clausehound.com/founders-only)* and occasionally guest-posts here.*
+*Sheetal is a member of Founder’s Only and occasionally guest-posts here.*
