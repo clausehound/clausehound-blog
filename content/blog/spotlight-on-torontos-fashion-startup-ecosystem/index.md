@@ -3,18 +3,12 @@ title: "Spotlight on: Toronto's Fashion Startup Ecosystem"
 author: alva@clausehound.com
 tags: ["Announcements","aching"]
 date: 2017-10-13 11:39:07
-description: "Links from this article:
-Original Enterprise Toronto article
-
-Our partner organization Enterprise Toronto has recently published an article on the Fashion industry in Toronto.
-
-In 30 years, the fas..."
+description: "Our partner organization Enterprise Toronto has recently published an article on the Fashion industry in Toronto."
 ---
 
-[http://startupheretoronto.com/type/profiles/spotlight-torontos-fashion-startup-ecosystem/](http://startupheretoronto.com/type/profiles/spotlight-torontos-fashion-startup-ecosystem/)
-**Links from this article:**[Original Enterprise Toronto article](http://startupheretoronto.com/type/profiles/spotlight-torontos-fashion-startup-ecosystem/)
 
-Our partner organization Enterprise Toronto has recently published an article on the Fashion industry in Toronto.
+
+Our partner organization **Enterprise Toronto** has recently published an article on the Fashion industry in Toronto.
 
 In 30 years, the fashion sector in Toronto has grown from 20,000 jobs to 50,000 jobs, and the city has a become a hub for fashion innovation.
 

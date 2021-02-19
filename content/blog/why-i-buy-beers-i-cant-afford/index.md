@@ -3,15 +3,10 @@ title: "Why I Buy Beers I Can't Afford"
 author: alva+ChrisSnoyer@clausehound.com
 tags: ["Journey","ChrisSnoyer"]
 date: 2017-09-29 12:38:41
-description: "Links from this article:
-Original Linkedin article
-
-Originally posted on Linkedin, with additional comments from discussions with Founders Only.
-
-When you’re a young, broke student, beers are like go..."
+description: "Originally posted on Linkedin, with additional comments from discussions with Founders Only. When you’re a young, broke student, beers are like gold. The difference between then and now (I hope) is that as adults, we don’t have a general ledger tracking who owes who a Budweiser, two rum and cokes, or three bites of a footlong sub."
 ---
 
-**Links from this article:**[Original Linkedin article](https://www.linkedin.com/pulse/why-i-buy-beers-cant-afford-chris-snoyer/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Bo%2B3uydBqS4OZdl98NTN0aA%3D%3D)
+
 
 Originally posted on [Linkedin](https://www.linkedin.com/pulse/why-i-buy-beers-cant-afford-chris-snoyer/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3Bo%2B3uydBqS4OZdl98NTN0aA%3D%3D), with additional comments from discussions with Founders Only.
 
@@ -29,7 +24,11 @@ As we mature, we tend to form more friendships outside of the bar than in, but t
 
 Chatting with Rajah at Founder’s Only who is constantly making introductions: Rajah reminisced that in 2011 when Multiplicity (multiplicity.media) was founded, they incubated companies in a co-working space and as rent they charged the companies either cash or “karma” - karma would be in the form of helpful introductions from one founder’s contacts to another. “It's all good karma.”
 
-He shared: “After a decade of making intro’s for Founders I’ve found that I’m actually really slow at it, because I’m trying to thoughtfully tailor an introduction message.” His techniques: 1. bring folks together - like we do at our Founder’s Only breakfasts or at other Multiplicity events; 2. share his contact list openly with shoot-from-the-hip introductions - i.e. send introductions without asking first - if your friends are really your friends they won’t mind; and 3. it might be worthwhile to give them the heads up that someone might reach out.
+He shared: “After a decade of making intro’s for Founders I’ve found that I’m actually really slow at it, because I’m trying to thoughtfully tailor an introduction message.” 
+His techniques: 
+- bring folks together - like we do at our Founder’s Only breakfasts or at other Multiplicity events; 
+- share his contact list openly with shoot-from-the-hip introductions - i.e. send introductions without asking first - if your friends are really your friends they won’t mind; and 
+- it might be worthwhile to give them the heads up that someone might reach out.
 
 Again, I don’t keep a ledger, but I can reasonably assume that the more time I spend propelling others, the more people there are on this earth who want to see me win. I know this, because I’m lucky enough to have had many great friends and mentors of my own, and I’d love nothing more than to see THEM win. It’s this feeling exactly that makes me wonder why so many people are so timid to ask for help. All of those people who are in a position to help you? They didn’t get there alone. They’ll have a laundry list of people who played a part in their success, and if they don’t have amnesia, they’re looking for a chance to jump in and pay it forward. (Okay, this isn’t true of everyone, some people are just jerks….)
 
@@ -41,4 +40,4 @@ Plain and simple: Helping another achieve their goals will do nothing to hinder 
 
 Oh, and those jerks who are in it for themselves? It’s possible that they’ll wind up with a nicer sailboat than you, but I promise they’ll be jealous of your crew!
 
-Chris Snoyer is a member of Founder’s Only and occasionally guest posts here.
+*Chris Snoyer is a member of Founder’s Only and occasionally guest posts here.*

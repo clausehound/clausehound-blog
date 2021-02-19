@@ -3,12 +3,9 @@ title: "I Accidentally Yelled at an Employee. How Do I Make Amends?"
 author: alva@clausehound.com
 tags: ["Announcements","aching"]
 date: 2018-03-28 05:04:56
-description: "Links from this article:Original Collage HR articleOur partner organization recently posted about how to apologize to employees for some mistakes...."
+description: "Our partner organization recently posted about how to apologize to employees for some mistakes."
 ---
 
-[https://www.collage.co/magazine/hr-advice-yelled-at-employee-jane-watson/](https://www.collage.co/magazine/hr-advice-yelled-at-employee-jane-watson/)
-**Links from this article:**
-[Original Collage HR article](https://www.collage.co/magazine/hr-advice-yelled-at-employee-jane-watson/)
 
 Our partner organization recently posted about how to apologize to employees for some mistakes.
 

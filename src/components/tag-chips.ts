@@ -20,7 +20,8 @@ const useStyles = makeStyles((theme: Theme) => ({
 }));
 
 // TODO: this should be built in somewhere
-const formatTagLink = (tag: string): string => tag.replace(/ /g, "-").replace(/#/g, "");
+const formatTagLink = (tag: string): string =>
+  tag.replace(/ /g, "-").replace(/#/g, "");
 
 const TagChips: FC<Props> = ({ tags }) => {
   const classes = useStyles();
@@ -29,7 +30,7 @@ const TagChips: FC<Props> = ({ tags }) => {
   return h(
     "div",
     {
-      className: classes.root,
+      className: `${classes.root} post-tags`,
     },
     tags.map(tag =>
       h(Chip, {

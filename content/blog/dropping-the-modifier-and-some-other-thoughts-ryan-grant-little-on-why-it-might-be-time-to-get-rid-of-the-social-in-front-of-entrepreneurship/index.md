@@ -3,16 +3,10 @@ title: "Dropping the Modifier and Some Other Thoughts: Ryan Grant Little on why 
 author: RyanGrantLittle@clausehoud.com
 tags: ["Journey","Ryan Grant Little"]
 date: 2017-07-28 13:36:54
-description: "Links from this article:
-tbd Article
-
-Originally posted on tbd.
-
-I don’t think I’ve ever been particularly comfortable with a lot of the nomenclature we use in ‘our sector’ (not crazy about that te..."
+description: "Originally posted on tbd. I have always been an entrepreneur, period, and feel a little bit precious—and discounted—when the modifier ‘social’ is in front of it."
 ---
 
-[https://www.tbd.community/en/a/ryan-grant-little-social-entrepreneurship](https://www.tbd.community/en/a/ryan-grant-little-social-entrepreneurship)
-**Links from this article:**[tbd Article](https://www.tbd.community/en/a/ryan-grant-little-social-entrepreneurship)
+
 
 Originally posted on [tbd](https://www.tbd.community/en/a/ryan-grant-little-social-entrepreneurship).
 
@@ -34,4 +28,4 @@ To see how the traditional philanthropy approach of ‘make my fortune now; give
 
 It’s the world upside down when we celebrate as heroes the people who make the hundredth chat platform while the people who are tirelessly innovating to solve the refugee crisis are on page ten filed under ‘human interest.’ But, if nothing else has become clear in the course of the last year, the world is upside down. By couching the work we do in terms like ‘social’, I believe we are artificially and unnecessarily shrinking our sandbox. We are excluding large swaths of capital because its owners have preconceived notions that equate ‘social’ with ‘charity’. Some of the important problems we are working on will never have the potential to make big financial returns and indeed some will always require that the majority of their funding come from charitable sources, and that’s ok. But let’s start by thinking big about how to approach our solutions before painting ourselves into a corner as the little siblings of the ‘real entrepreneurs’. Let’s identify and use the resources that are at our disposal and not put artificial boundaries around the work we do, just because it happens to be making the world a better place.
 
-*Ryan is a member of *[*Founder’s Only*](http://clausehound.com/founders-only)* and occasionally guest-posts here.*
+*Ryan is a member of Founder’s Only and occasionally guest-posts here.*

@@ -3,16 +3,16 @@ title: "The Government Doesn't Want Your Waste - New Rules For Landowning Corpor
 author: info@clausehound.com
 tags: ["Announcements","info@clausehound.com"]
 date: 2017-10-06 15:38:38
-description: "There are new reporting requirements for all corporations incorporated under the Ontario Business Corporations Act (OBCA), that went into effect in December 2016 under the Forfeited Corporate Property..."
+description: "There are new reporting requirements for all corporations incorporated under the Ontario Business Corporations Act (OBCA), that went into effect in December 2016 under the Forfeited Corporate Property Act, 2015."
 ---
 
 There are new reporting requirements for all corporations incorporated under the *Ontario Business Corporations Act* (OBCA), that went into effect in December 2016 under the *Forfeited Corporate Property Act, 2015*.
 
-**Why?**
+### Why?
 
 When a corporation that owns land is dissolved, if no one claims the land, the land ‘escheats’ (reverts in ownership) to the government of Ontario. The government does not want these properties, because they often result in large expenses related to environmental cleanups. To prevent this, the government is requiring OBCA corporations to keep a registry of land ownership, with supporting documentation available for the government to inspect, so that issues of this type can be identified before the corporation is dissolved. The government hopes to prevent these environmental cleanups from becoming a government expense.
 
-**The Details**
+### The Details
 
 Corporations that are incorporated on or after December 10, 2016 must comply with the requirements in Section 140.1 of the OBCA immediately, and corporations incorporated before that date have until December 18, 2018 to comply.
 
@@ -24,24 +24,20 @@ The registry must include the following information: municipal address, if any; 
 
 It is recommended that this registry and the required supporting documentation be kept in the corporate Minute Books.
 
-**What to do**
+### What to do
 
-**Please let your lawyer know if you have an OBCA corporation with an ownership interest in land in Ontario, or if such a corporation acquires an ownership interest in land in Ontario in the future.**
+Let your lawyer know if you have an OBCA corporation with an ownership interest in land in Ontario, or if such a corporation acquires an ownership interest in land in Ontario in the future.
 
-**If you don’t comply**
+### If you don’t comply
 
 Failure to comply can attract a fine of $25,000 and/or liability for D&O for costs of environmental cleanup of any lands of dissolved corporations that revert to the government of Ontario.
 
-**Takeaways**
+### Takeaways
 
-- 
-OBCA corporations with an ownership interest in land in Ontario must maintain a registry of such ownership interests at their registered address (s. 140.1 OBCA)
+- OBCA corporations with an ownership interest in land in Ontario must maintain a registry of such ownership interests at their registered address (s. 140.1 OBCA)
 
-- 
-The Ontario government does not want to pay for environmental cleanup of land owned by an OBCA corporation which is dissolved while it still owns the land
+- The Ontario government does not want to pay for environmental cleanup of lands owned by an OBCA corporation which is dissolved while it still owns the land
 
-- 
-This does not apply to mortgage or lease interests
+- This does not apply to mortgage or lease interests
 
-- 
-Directors and officers can be liable for costs of environmental cleanup after dissolution of the corporation if a registry is not maintained
+- Directors and officers can be liable for costs of environmental cleanup after dissolution of the corporation if a registry is not maintained

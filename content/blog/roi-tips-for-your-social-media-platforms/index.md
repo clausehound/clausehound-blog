@@ -3,14 +3,12 @@ title: "ROI Tips for Your Social Media Platforms"
 author: alva@clausehound.com
 tags: ["Announcements","aching"]
 date: 2017-12-08 12:11:16
-description: "Links from this article:Original Bullfrog Insurance articleOur partner organization Bullfrog Insurance recently posted an article on getting the m..."
+description: "Our partner organization Bullfrog Insurance recently posted an article on getting the most out of your social media."
 ---
 
-[http://bullfroginsurance.com/blog/roi-tips-social-media-platforms/](http://bullfroginsurance.com/blog/roi-tips-social-media-platforms/)
-**Links from this article:**
-[Original Bullfrog Insurance article](http://bullfroginsurance.com/blog/roi-tips-social-media-platforms/)
 
-Our partner organization Bullfrog Insurance recently posted an article on getting the most out of your social media.
+
+Our partner organization **Bullfrog Insurance** recently posted an article on getting the most out of your social media.
 
 It presents some great points to boost the effectiveness of your outreach by finetuning your approach.
 

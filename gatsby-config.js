@@ -9,7 +9,7 @@ module.exports = {
     },
   },
   plugins: [
-    'gatsby-plugin-typescript',
+    "gatsby-plugin-typescript",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -36,6 +36,13 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: "gatsby-remark-external-links",
+            options: {
+              target: "_blank",
+              rel: "nofollow noopener",
+            },
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
               showCaptions: true,
@@ -56,6 +63,53 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
+      resolve: `gatsby-plugin-csv-feed`,
+      options: {
+        query: `
+        {
+          site {
+            siteMetadata {
+              title
+              description
+              siteUrl
+              site_url: siteUrl
+            }
+          }
+        }
+        `,
+        feeds: [
+          {
+            query: `
+          {
+            allMarkdownRemark(
+              sort: { fields: [frontmatter___date], order: DESC }
+              limit: 65535
+            ) {
+              edges {
+                node {
+                  fields {
+                    slug
+                  }
+                  frontmatter {
+                    title
+                    date
+                    tags
+                  }
+                }
+              }
+            }
+          }`,
+            serialize: ({ query: { site, allMarkdownRemark } }) =>
+              allMarkdownRemark.edges.map(edge => ({
+                ...edge.node.frontmatter,
+                url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
+              })),
+            output: "/blog-feed.csv",
+          },
+        ],
+      },
+    },
+    {
       resolve: `gatsby-plugin-feed`,
       options: {
         query: `
@@ -70,8 +124,9 @@ module.exports = {
           }
         }
         `,
-        feeds: [{
-          query: `
+        feeds: [
+          {
+            query: `
           {
             allMarkdownRemark(
               sort: { fields: [frontmatter___date], order: DESC }
@@ -91,12 +146,14 @@ module.exports = {
               }
             }
           }`,
-          serialize: ({ query: { site, allMarkdownRemark } }) => allMarkdownRemark.edges.map(edge => ({
-            ...edge.node.frontmatter,
-            url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
-          })),
-          output: "/rss.xml",
-        }],
+            serialize: ({ query: { site, allMarkdownRemark } }) =>
+              allMarkdownRemark.edges.map(edge => ({
+                ...edge.node.frontmatter,
+                url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
+              })),
+            output: "/rss.xml",
+          },
+        ],
       },
     },
     `gatsby-plugin-material-ui`,
@@ -125,17 +182,19 @@ module.exports = {
       options: {
         trackingId: "UA-68109182-1",
         head: false,
+        // Delays sending pageview hits on route update (in milliseconds)
+        pageTransitionDelay: 750,
       },
     },
     `gatsby-plugin-sitemap`,
     {
       resolve: "gatsby-plugin-netlify-cache",
       options: {
-        cachePublic: true
-      }
+        cachePublic: true,
+      },
     },
   ],
   mapping: {
-    'MarkdownRemark.frontmatter.author': `AuthorJson`,
+    "MarkdownRemark.frontmatter.author": `AuthorJson`,
   },
-}
+};

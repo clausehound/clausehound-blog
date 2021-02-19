@@ -3,16 +3,8 @@ title: "Startup Financial Modeling, Part 4: The Balance Sheet, Cash Flow and Uni
 author: rajah@cobaltcounsel.com
 tags: ["Small Business Corner","Rajah"]
 date: 2016-11-10 18:29:50
-description: "Links from this article:Multiplicity MediaMultiplicity Media Small Business Community“What’s Cool” articleStartup Financial Modeling
-
-Powe..."
+description: "Powered by Multiplicity"
 ---
-
-**Links from this article:**
-[Multiplicity Media](https://multiplicitylabs.com/)
-[Multiplicity Media Small Business Community](https://multiplicitylabs.com/)
-[“What’s Cool” article](https://multiplicitylabs.com/2016/11/04/whats-cool-october-31/)
-[Startup Financial Modeling](http://www.techstars.com/content/accelerators/startup-financial-modeling-part-4-balance-sheet-cash-flow-unit-economics/)
 
 Powered by [Multiplicity Media](https://multiplicitylabs.com/)
 
