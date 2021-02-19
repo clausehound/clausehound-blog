@@ -3,9 +3,7 @@ title: "EVENTS: L-Spark 2016 Toronto"
 author: rajah@cobaltcounsel.com
 tags: ["Commercial Activities","Events","Rajah"]
 date: 2016-05-26 14:08:55
-description: "Clausehound will be attending the L-SPARK 2016 in Toronto.
-
-'L-SPARK is the only Canadian Incubator and Accelerator that focuses exclusively on Enterpris..."
+description: "Clausehound will be attending the L-SPARK 2016 in Toronto."
 ---
 
 **Clausehound will be attending the L-SPARK 2016 in Toronto.**

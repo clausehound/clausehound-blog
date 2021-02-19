@@ -3,6 +3,7 @@ title: "This Robot Just Wants To Hug A Jellyfish Without Committing Jellymurder"
 author: alva@clausehound.com
 tags: ["aching","POTL"]
 date: 2017-10-13 19:24:53
+description: "This Robot Just Wants To Hug A Jellyfish Without Committing Jellymurder"
 ---
 
 <div class="post-content">

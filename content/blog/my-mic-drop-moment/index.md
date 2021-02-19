@@ -3,14 +3,12 @@ title: "My Mic Drop Moment"
 author: alva+EricJanssen@clausehound.com
 tags: ["Journey","EricJanssen"]
 date: 2018-05-04 10:17:15
-description: "Links from this article:Original Medium articleOriginally posted on Medium by Eric Janssen, who is a member of Founder’s Only and occasionally guest pos..."
+description: "Originally posted on Medium by Eric Janssen, who is a member of Founder’s Only and occasionally guest posts here."
 ---
 
-[https://medium.com/@ewrjanssen/my-mic-drop-moment-e68dcc81a292﻿](https://medium.com/@ewrjanssen/my-mic-drop-moment-e68dcc81a292﻿)
-**Links from this article:**
-[Original Medium article](https://medium.com/@ewrjanssen/my-mic-drop-moment-e68dcc81a292﻿)
 
-Originally posted on [Medium](https://medium.com/@ewrjanssen/my-mic-drop-moment-e68dcc81a292) by Eric Janssen, who is a member of Founder’s Only and occasionally guest posts here.
+
+
 
 Every time I prep a sales session for a group of entrepreneurs, I seriously contemplate turning my 90-minute session into a 90-second session.
 
@@ -30,6 +28,6 @@ Be real. Be honest.
 
 Use the next 88 minutes to do the above.
 
-Start now.
+Start now. (mic drop)
 
-[mic drop]
+*Originally posted on [Medium](https://medium.com/@ewrjanssen/my-mic-drop-moment-e68dcc81a292) by Eric Janssen, who is a member of Founder’s Only and occasionally guest posts here.*

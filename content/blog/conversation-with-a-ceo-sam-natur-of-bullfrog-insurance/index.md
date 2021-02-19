@@ -3,10 +3,10 @@ title: "Conversation with a CEO - Sam Natur, of Bullfrog Insurance."
 author: rajah@cobaltcounsel.com
 tags: ["Journey","Rajah"]
 date: 2017-08-18 13:42:03
-description: "We had a chance to talk to Sam Natur, President and CEO of Bullfrog Insurance about his Founder journey.  Here were some of the highlights from his conversation with Rajah Lehal, Founder of Clausehound..."
+description: "We had a chance to talk to Sam Natur, President and CEO of Bullfrog Insurance about his Founder journey.  Here were some of the highlights from his conversation with Rajah Lehal, Founder of Clausehound.com."
 ---
 
-We had a chance to talk to Sam Natur, President and CEO of [Bullfrog Insurance](https://bullfroginsurance.com/) about his Founder journey.  Here were some of the highlights from his conversation with Rajah Lehal, Founder of Clausehound.com.
+We had a chance to talk to Sam Natur, President and CEO of [Bullfrog Insurance](https://bullfroginsurance.com/) about his Founder journey.  Here were some of the highlights from his conversation with Rajah Lehal, Founder of [Clausehound.com](https://about.clausehound.com/).
 
 **Rajah**: Sam, how did you prepare to be a Founder?
 
@@ -18,7 +18,7 @@ We had a chance to talk to Sam Natur, President and CEO of [Bullfrog Insurance](
 
 **Sam**: I feel like I never work a day.  If you don’t love what you do, make a change.  There is no secret or complexity to this.  When you love what you do, you will always work at it longer and harder than most.  I’ve lost count of how many times I’ve heard “You’re still working on that?  Wow - I would have given up by now!”  When you are excited about an initiative, the possibilities are limitless because your energy and attention to the endeavor will be endless – and that is the advantage you will have over all others.  That is the advantage only you have.
 
-**Rajah**: I have to agree, when I get up, I check my emails first thing and it’s always with a sense of curiosity and never dread.  I’m excited to get “crack-in” on my work, so I guess it’s not really work?  But to think about why someone would be crazy enough to wear the ship captain's hat, as a Founder. still requires a healthy amount of masochism.  I’ve figured out that for me that’s because I’m creative and impatient - a bad combination.
+**Rajah**: I have to agree, when I get up, I check my emails first thing and it’s always with a sense of curiosity and never dread.  I’m excited to get “crack-in” on my work, so I guess it’s not really work?  But to think about why someone would be crazy enough to wear the ship captain's hat, as a Founder still requires a healthy amount of masochism.  I’ve figured out that for me that’s because I’m creative and impatient - a bad combination.
 
 **Rajah**: Sam, once you have an idea how hard is it to start?
 
@@ -38,4 +38,4 @@ We had a chance to talk to Sam Natur, President and CEO of [Bullfrog Insurance](
 
 **Rajah**: Cool.
 
-*Sam Natur is CEO and President of [Bullfrog Insurance](https://bullfroginsurance.com/), a member of **[Founder’s Only](http://clausehound.com/founders-only),** and occasionally guest-posts here.*
+*Sam Natur is CEO and President of [Bullfrog Insurance](https://bullfroginsurance.com/), a member of Founder’s Only, and occasionally guest-posts here.*

@@ -3,18 +3,12 @@ title: "How Civic Technology in Toronto Makes the City More Open"
 author: alva@clausehound.com
 tags: ["Announcements","aching"]
 date: 2017-09-15 12:23:49
-description: "Links from this article:
-Enterprise Toronto Article
-
-Our partner organization Enterprise Toronto released an article about the growth of civic technology in Toronto.
-
-Many companies are using techn..."
+description: "Our partner organization Enterprise Toronto released an article about the growth of civic technology in Toronto."
 ---
 
-[http://startupheretoronto.com/type/profiles/civic-technology-toronto-makes-city-open/](http://startupheretoronto.com/type/profiles/civic-technology-toronto-makes-city-open/)
-**Links from this article:**[Enterprise Toronto Article](http://startupheretoronto.com/type/profiles/civic-technology-toronto-makes-city-open/)
 
-Our partner organization Enterprise Toronto released an article about the growth of civic technology in Toronto.
+
+Our partner organization **Enterprise Toronto** released an article about the growth of civic technology in Toronto.
 
 Many companies are using technology to help residents of Toronto push through the daunting barriers of civic engagement so they can easily access government information or communicate with city hall.
 

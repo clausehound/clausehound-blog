@@ -1,0 +1,4 @@
+/* global css variable is created to style hubspot chatbot */
+#hubspot-messages-iframe-container > iframe {
+  margin-bottom: 0;
+}

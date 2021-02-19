@@ -3,22 +3,16 @@ title: "Can a Founder Legally Promise Equity in a Company that Doesn't Yet Exist
 author: frahman@cobaltcounsel.com
 tags: ["Not for Profit Articles of Incorporation","frahman"]
 date: 2017-02-28 12:00:06
-description: "Links from this article:
-Fedel v Tan
-Small Business Law Library
-Articles of Incorporation
-
-Serial entrepreneurs are..."
+description: "Serial entrepreneurs are constantly coming up with the ‘next big idea’. During the excitement of starting the process of building a business, incorporating might not be the first thing on an entrepreneur’s mind."
 ---
 
-[https://clausehound.com/legal-contract/16119/?utm_source=blog&amp;utm_campaign=promiseEquity&amp;utm_medium=referral#!/document=](https://clausehound.com/legal-contract/16119/?utm_source=blog&amp;utm_campaign=promiseEquity&amp;utm_medium=referral#!/document=)
-**Links from this article:**[Fedel v Tan](http://www.canlii.org/en/on/onca/doc/2010/2010onca473/2010onca473.html?searchUrlHash=AAAAAQAFZmVkZWwAAAAAAQ&amp;resultIndex=1)[Small Business Law Library](https://clausehound.com/small-business-law-library/?utm_source=blog&amp;utm_campaign=promiseEquity&amp;utm_medium=referral)[Articles of Incorporation](https://clausehound.com/legal-contract/16119/?utm_source=blog&amp;utm_campaign=promiseEquity&amp;utm_medium=referral#!/document=)
 
-Serial entrepreneurs are constantly coming up with the ‘next big idea’. During the excitement of starting the process of building a business, incorporating might not be the first thing on an entrepreneur’s mind. Employees might be promised shares in a corporation that doesn’t even exist. Can the employees enforce this promise?
+
+**Serial entrepreneurs** are constantly coming up with the ‘next big idea’. During the excitement of starting the process of building a business, incorporating might not be the first thing on an entrepreneur’s mind. Employees might be promised shares in a corporation that doesn’t even exist. Can the employees enforce this promise?
 
  
 
-**Contractual Promises Made Pre-Incorporation**
+### Contractual Promises Made Pre-Incorporation
 
  
 
@@ -30,29 +24,32 @@ In [*Fedel v Tan*](http://www.canlii.org/en/on/onca/doc/2010/2010onca473/2010onc
 
  
 
-[Source](https://pixabay.com/en/confirm-accept-web-icon-correct-1174801/)
+
 
  
 
-**Benefits of Incorporating Immediately**
+### Benefits of Incorporating Immediately
 
  
 
 Although parties can create binding vesting contracts prior to incorporation, there are a number of benefits to incorporating a business immediately:
 
-**Investors: **When searching for investors to invest in your next big idea, they will be looking to invest in a legal entity, rather than financing individual founders. It is a good idea to have the company incorporated before looking for investors and funding.
+### Investors:
+When searching for investors to invest in your next big idea, they will be looking to invest in a legal entity, rather than financing individual founders. It is a good idea to have the company incorporated before looking for investors and funding.
 
  
 
-**Employees: **Founders may decide to pay new employees out of their pocket prior to incorporation. However, hiring employees by a legal entity can result in tax benefits, and IP assignment from the employee to the company. Furthermore, it eliminates the additional step of entering into a second employment agreement after incorporation.
+### Employees: 
+Founders may decide to pay new employees out of their pocket prior to incorporation. However, hiring employees by a legal entity can result in tax benefits, and IP assignment from the employee to the company. Furthermore, it eliminates the additional step of entering into a second employment agreement after incorporation.
 
  
 
-**Intellectual Property: **If you are coming up with the ‘next big idea’, it is likely that you will have some IP to protect. It is also likely that you will want the IP to be the property of the company, and not individual founders. Incorporating the business will protect the IP of the company and will ensure that IP is assigned to the legal entity. Incorporating early is also a good idea where founders want to protect their unique company name.
+### Intellectual Property: 
+If you are coming up with the ‘next big idea’, it is likely that you will have some IP to protect. It is also likely that you will want the IP to be the property of the company, and not individual founders. Incorporating the business will protect the IP of the company and will ensure that IP is assigned to the legal entity. Incorporating early is also a good idea where founders want to protect their unique company name.
 
  
 
-Check out Clausehound’s [Small Business Law Library](https://clausehound.com/small-business-law-library/?utm_source=blog&amp;utm_campaign=promiseEquity&amp;utm_medium=referral) for standard incorporation documents, such as [Articles of Incorporation](https://clausehound.com/legal-contract/16119/?utm_source=blog&amp;utm_campaign=promiseEquity&amp;utm_medium=referral#!/document=)!
+Check out Clausehound’s [Small Business Law Library](https://www.clausehound.com/documents/) for standard incorporation documents, such as [Articles of Incorporation](https://clausehound.com/legal-contract/16119/?utm_source=blog&amp;utm_campaign=promiseEquity&amp;utm_medium=referral#!/document=)!
 
  
 
