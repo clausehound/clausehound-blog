@@ -10,4 +10,5 @@ An expert opinion is usually needed to determine whether this would be a worthwh
 
 **Takeaway:**
 
-- When faced with expropriation it is prudent for a landowner to obtain expert advice, and to obtain an independent appraisal of the land, buidlings, business relocation costs etc. It is important however to wait until the expropriation process has been formally triggered before obtaining an appraisal or negotiating with the expropriating authority.
+- When faced with expropriation it is prudent for a landowner to obtain expert advice, and to obtain an independent appraisal of the land, buidlings, business relocation costs etc. 
+- It is important however to wait until the expropriation process has been formally triggered before obtaining an appraisal or negotiating with the expropriating authority.
