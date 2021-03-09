@@ -2,8 +2,8 @@
 title: "Cross-Border Agreements and Choice of Law: How Companies Can Control their Location for Litigation or Arbitration When Faced With a Dispute, and Why That Matters"
 author: rajah@cobaltcounsel.com
 tags: ["Litigation", "Arbitration", "Dispute Resolution"]
-date: 2021-02-08
-description: "This article will discuss how to ensure that your choice of law and forum for dispute resolution clauses are enfrofeable."
+date: 2021-03-08
+description: "This article will discuss how to ensure that your choice of law and forum for dispute resolution clauses are enforceable."
 ---
 
 When operating in multiple jurisdictions, it is crucial to draft contracts with provisions that may help you select an optimal litigation venue for your business
