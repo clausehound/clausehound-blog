@@ -188,11 +188,11 @@ deafness, illness, senility, or similar disability; and
 
  In paragraph 41, the Justices in Heller noted that the arbitration clause constituted a contracting out of the Employment Standards Act:
  
-    “Given my conclusion regarding the meaning of "employment standard", it follows that the Arbitration Clause constitutes a contracting out of the ESA. It
-    eliminates the right of the appellant (or any other driver) to make a complaint to the Ministry of Labour regarding the actions of Uber and their possible
-    violation of the requirements of the ESA. In doing so, it deprives the appellant of the right to have an ESO investigate his complaint. This is of some
-    importance for, among other reasons, if a complaint is made then the Ministry of Labour bears the burden of investigating the complaint. That burden does not
-    fall on the appellant. Under the Arbitration Clause, of course, the appellant would bear the entire burden of proving his claim.”
+*“Given my conclusion regarding the meaning of "employment standard", it follows that the Arbitration Clause constitutes a contracting out of the ESA. It
+eliminates the right of the appellant (or any other driver) to make a complaint to the Ministry of Labour regarding the actions of Uber and their possible
+violation of the requirements of the ESA. In doing so, it deprives the appellant of the right to have an ESO investigate his complaint. This is of some
+importance for, among other reasons, if a complaint is made then the Ministry of Labour bears the burden of investigating the complaint. That burden does not
+fall on the appellant. Under the Arbitration Clause, of course, the appellant would bear the entire burden of proving his claim.”*
     
 ##### ii. illegal because contrary to Public Policy
 
@@ -200,8 +200,8 @@ A clause that is deemed contrary to public policy can be deemed to be invalid. T
 claim Heller might have against Uber in Canadian courts, and put substantial logistical and financial hardship on Heller when faced with filing arbitration. The
 court noted that, beyond mere unconscionability: 
 
-    Contractual stipulations that foreclose access to legally determined dispute resolution -- as the arbitration agreement in this case does -- are unenforceable
-    not because they are unconscionable, but because they undermine the rule of law by denying access to justice. They are therefore contrary to public policy.
+*Contractual stipulations that foreclose access to legally determined dispute resolution -- as the arbitration agreement in this case does -- are unenforceable
+not because they are unconscionable, but because they undermine the rule of law by denying access to justice. They are therefore contrary to public policy.*
 
 *Access to justice was distinguished from unconscionability*, providing another avenue for rejecting the clause.
 
@@ -212,19 +212,19 @@ have decided upon. A clause embedded in a commercial contract that attempts to s
 legislation. Some acts use the doctrine of lex loci contractus, or, the law of the place where the contract is made. This can be seen in Section 123 of the
 Insurance Act of Ontario:
 
-    123. Where the subject-matter of a contract of insurance is property in Ontario or an insurable interest of a person resident in Ontario, the contract of
-    insurance, if signed, countersigned, issued or delivered in Ontario or committed to the post office or to any carrier, messenger or agent to be delivered
-    or handed over to the insured or the insured’s assign or agent in Ontario shall be deemed to evidence a contract made therein, and the contract shall be
-    construed according to the law thereof, and all money payable under the contract shall be paid at the office of the chief officer or agent in Ontario of the
-    insurer in lawful money of Canada. R.S.O. 1990, c. I.8, s. 123 
+*123. Where the subject-matter of a contract of insurance is property in Ontario or an insurable interest of a person resident in Ontario, the contract of
+insurance, if signed, countersigned, issued or delivered in Ontario or committed to the post office or to any carrier, messenger or agent to be delivered
+or handed over to the insured or the insured’s assign or agent in Ontario shall be deemed to evidence a contract made therein, and the contract shall be
+construed according to the law thereof, and all money payable under the contract shall be paid at the office of the chief officer or agent in Ontario of the
+insurer in lawful money of Canada. R.S.O. 1990, c. I.8, s. 123* 
 
 Another example can be seen in personal property and security law. In *Gimli Auto Ltd. v. BDO Dunwoody* [1998] A.J. No. 537, the Alberta court analyzed the Alberta
 PPS legislation conflict of law provision in paragraph 8 and 9:
 
-    One need not consider common-law choice-of-law rules, because Alberta's P.P.S.A. replaces them with new statutory choice-of-law rules. (So do all the other
-    P.P.S.A.'s, and they are very similar, though that probably does not matter much here.) Nor need one consider a choice-of-law clause in a lease, for the
-    statute sets which law applies. Nor is this a suit between two parties to a contract. The whole point of the P.P.S.A. is to overrule certain contractual or
-    property rights: Re Giffen, The lessor and lessee could not, by contracting that the lease would be valid even if not registered, bind others. 
+*One need not consider common-law choice-of-law rules, because Alberta's P.P.S.A. replaces them with new statutory choice-of-law rules. (So do all the other
+P.P.S.A.'s, and they are very similar, though that probably does not matter much here.) Nor need one consider a choice-of-law clause in a lease, for the
+statute sets which law applies. Nor is this a suit between two parties to a contract. The whole point of the P.P.S.A. is to overrule certain contractual or
+property rights: Re Giffen, The lessor and lessee could not, by contracting that the lease would be valid even if not registered, bind others.* 
 
 ### Takeaways
 
