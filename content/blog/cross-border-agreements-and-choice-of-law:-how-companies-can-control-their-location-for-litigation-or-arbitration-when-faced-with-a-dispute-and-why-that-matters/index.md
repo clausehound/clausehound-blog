@@ -1,6 +1,6 @@
 ---
 title: "Cross-Border Agreements and Choice of Law: How Companies Can Control their Location for Litigation or Arbitration When Faced With a Dispute, and Why That Matters"
-author: rajah@cobaltcounsel.com
+author: ghancock@ryerson.ca
 tags: ["Litigation", "Arbitration", "Dispute Resolution"]
 date: 2021-03-08
 description: "This article will discuss how to ensure that your choice of law and forum for dispute resolution clauses are enforceable."
@@ -234,7 +234,3 @@ To ensure your choice of law and forum for dispute resolution clauses are enforc
 * Legal:  Choice of venue or law is consistent with legislation
 * Not unconscionable:  No Imbalance of bargaining power, no unduly harsh terms
 * Not contrary to public policy:  No restriction of justice will occur as a result of impossible-to-fulfil terms
-
-Written by: Geordie Hancock
-
-Edited by: Rajah Legal
