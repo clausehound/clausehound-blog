@@ -78,3 +78,8 @@ This approach was also supported in [Reeves v. Russell (2009)](https://www.canli
 3. **Possible solution:**  Recruit a board of advisors, or ombudspersons who can advise in situations where the sole director has a conflict of interest - this presents a weak shield as compared to the other two solutions.
 
 
+Written by: Weylin Lobo
+
+Edited by: Rajah Lehal
+
+
