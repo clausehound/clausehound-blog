@@ -237,4 +237,4 @@ To ensure your choice of law and forum for dispute resolution clauses are enforc
 * Not unconscionable:  No Imbalance of bargaining power, no unduly harsh terms
 * Not contrary to public policy:  No restriction of justice will occur as a result of impossible-to-fulfil terms
 
-Edited by: Rajah Lehal
+Edited by: Rajah Lehal 
