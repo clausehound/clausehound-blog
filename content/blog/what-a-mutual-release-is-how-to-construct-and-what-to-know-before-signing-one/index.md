@@ -2,7 +2,7 @@
 title: "What a Mutual Release is, how to construct, and what to know before signing one"
 author: Drew Beshay, Rajah Lehal
 tags: []
-date: Fri May 21 2021 11:37:16 GMT-0400 (Eastern Daylight Time)
+date: 05/21/2021
 description: "A Mutual Release is an agreement between two parties that each one will give up some or all legal claims they have or may have in the future against one another. A mutual release agreement is..."
 ---
 
