@@ -139,4 +139,5 @@ can sufficiently consider and discuss with their independent legal advisor or la
 return to work would not involve a hostile work environment.
 
 Written by:  Sajan Dhindsa
+
 Edited by: Rajah Lehal
