@@ -3,7 +3,7 @@ title: "BLog Bite: Why EDI instead of DEI?"
 author: rajah@cobaltcounsel.com
 tags: ["Equity", "Diversity"]
 date: 2021-06-22
-description: "In this short article, we try to tackle a question that we've gotten asked recently, Why EDI instead of DEI?
+description: "In this short article, we try to tackle a question that we've gotten asked recently, Why EDI instead of DEI?"
 ---
 
 We've encountered this question quite a bit recently regarding *Why EDI instead of DEI*?
