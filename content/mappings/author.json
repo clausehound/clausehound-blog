@@ -201,9 +201,14 @@
     "first": "Evan",
     "last": "Sinclair"
   },
-  { 
+  {
+    "id": "ghancock@ryerson.ca",
+    "first": "Geordie",
+    "last": "Hancock"
+  },
+  {
     "id": "ethan@clausehound.com",
     "first": "Ethan",
     "last": "Pereira"
-  }
-]
+  } 
+ ]

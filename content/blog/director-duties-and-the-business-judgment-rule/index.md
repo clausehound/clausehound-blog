@@ -138,4 +138,4 @@ or search our articles on board liability, fiduciary duty, business and judgemen
 
 Written by: Mark Kiggundu
 
-Edited by: Rajah Legal
+Edited by: Rajah Lehal 
