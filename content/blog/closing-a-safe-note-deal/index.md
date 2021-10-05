@@ -3,9 +3,11 @@ title: "Closing a SAFE Note Deal"
 author: ethan@clausehound.com
 tags: ["SAFE", "SAFE Note"]
 date: 2021-10-04
-description: "Now that you’ve identified your investors and have received a commitment for financing, it’s time to start thinking through closing. Below will
-outline how to properly close and document the deal."
+description: "This article will outline how to close and document a SAFE note deal."
 ---
+
+Now that you’ve identified your investors and have received a commitment for financing, it’s time to start thinking through closing. Below will
+outline how to properly close and document the deal.
 
 #### Closing the Deal
 
