@@ -1,6 +1,6 @@
 ---
 title: "4 Tips on Integrating Legal Technology"
-author: Rajah Lehal <rajah@cobaltcounsel.com>
+author: rajah@cobaltcounsel.com
 tags: [technology]
 date: 2021-09-14
 description: "Here are 3 (three) ways in which you can easily and effectively integrate legal technologies into your work."
