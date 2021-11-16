@@ -145,7 +145,7 @@ with investors and (3) present a professional and organized image.
 and user retention are important in establishing your businesses base and viability. Remember: numbers are king. 
 
 * FOMO, or the fear of missing out, can be used very effectively within the business world. No investor wants to feel as if they are going to lose out on the next 
-big idea. 
+big idea.  
 
 *This article is provided for informational purposes only and does not create a lawyer-client relationship with the reader. It is not legal
 advice and should not be regarded as such. Any reliance on the information is solely at the reader’s own risk. [Clausehound.com](https://clausehound.com/documents)
