@@ -26,7 +26,7 @@ evaluate a startup based on certain indicators of risk and success. Within the l
 etc.) and the further up the ladder a company is, the more viable they look to potential investors. The rungs on the ladder must be **customized** for different
 investors who will be searching for certain qualities based on their funds’ objectives. [Learn more about the Ladder of Proof](https://www.youtube.com/watchv=QYPjbaV0ubM). 
 
-***Top Tip**: Determine what rungs should be included on your ladder and how they will demonstrate your company's value to investors.*
+**Top Tip**: Determine what rungs should be included on your ladder and how they will demonstrate your company's value to investors.
 
 In our experience, the ladder of proof was very useful in helping us determine **what information we should be sharing** and, more importantly, **who** we should
 be sharing it with.
@@ -60,9 +60,9 @@ advisors.
 A challenge is then put out to your advisors, investors, service providers (and anyone else who wants you to succeed), to **fill in as many warm leads as possible**
 to the investor list.
  
-***Top Tip**: The fundraising process is about matching the correct fund to the right company. Funds in the industry have a mandate to invest, so they are actively
+**Top Tip**: The fundraising process is about matching the correct fund to the right company. Funds in the industry have a mandate to invest, so they are actively
 looking for talent and ideas to capitalize on. Keep this in mind and market your company’s value proposition vigorously. Not every fund will be right for you and
-that is okay.*
+that is okay.
 
 ### 3. Setting Up Calls 
 
@@ -72,9 +72,9 @@ While seeming mundane, setting up calls can be an important part of the fundrais
 * Consolidate all of your calls into a **short sprint period**. 
   * This will help you stay focused and continuously refine your pitch. A potential sprint period could involve making 5 calls a day for 2 months straight. 
  
-***Top tip**: Use a calendar tool like the Calendly app to create boundaries around the timing of meetings (for example only allow for meetings to be booked in a 14 
+**Top tip**: Use a calendar tool like the Calendly app to create boundaries around the timing of meetings (for example only allow for meetings to be booked in a 14 
 day period). Use this to: (1) create a sense of urgency for investors to have an opportunity to look at your company (2) avoid playing ‘email tag’ with investors
-and (3) present a professional and organized image.* 
+and (3) present a professional and organized image.
 
 ### 4. Avoiding ‘Waste of time’ Conversations
 
@@ -88,7 +88,7 @@ That might sound like a blanket statement, however, although all conversations s
 your business to others** they are considering investing in, and rather than advancing yourself in the investment process, you might merely be providing business
 model information to benefit another company.
 
-***Top Tip**: Value your time at all expense.*
+**Top Tip**: Value your time at all expense.
 
 As noted in section 2 above, make sure that the fund you are approaching **is interested in your company**, your market, your stage and isn’t investing in a
 competitor, so that you have a viable shot, before wasting your valuable time.
@@ -111,8 +111,8 @@ Structure your fundraising campaign strategically. Only ‘drip-out’ materials
 interested in your near-term goals, do not only talk about your **long term dream** (and vice versa). Ensure that the materials are conveyed in a medium they
 understand.  
 
-***Top Tip**: Heavily feature metrics and numbers-based information in your drip materials. Certain statistics like increased usage, customer growth, transaction
-response time and user retention are important in establishing your businesses base and viability. Remember: numbers are king.*
+**Top Tip**: Heavily feature metrics and numbers-based information in your drip materials. Certain statistics like increased usage, customer growth, transaction
+response time and user retention are important in establishing your businesses base and viability. Remember: numbers are king.
 
 ### 6. Seeking out a Term Sheet 
 
@@ -125,8 +125,8 @@ your company.
 Let investors know that they are **not the only party** that you are engaging with and that (if applicable) you have other offers already on the table. Promote your
 company’s value proposition frequently and confidently, even comparing your potential to other companies within your industry. 
 
-***Top Tip**: FOMO, or the fear of missing out, can be used very effectively within the business world. No investor wants to feel as if they are going to lose out
-on the next big idea.*
+**Top Tip**: FOMO, or the fear of missing out, can be used very effectively within the business world. No investor wants to feel as if they are going to lose out
+on the next big idea.
 
 ### Takeaway
 
@@ -146,7 +146,3 @@ and user retention are important in establishing your businesses base and viabil
 
 * FOMO, or the fear of missing out, can be used very effectively within the business world. No investor wants to feel as if they are going to lose out on the next 
 big idea. 
-
-*This article is provided for informational purposes only and does not create a lawyer-client relationship with the reader. It is not legal
-advice and should not be regarded as such. Any reliance on the information is solely at the reader’s own risk. [Clausehound.com](https://clausehound.com/documents)
-is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.* 
