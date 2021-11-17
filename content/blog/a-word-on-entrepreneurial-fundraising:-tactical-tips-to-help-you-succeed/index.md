@@ -1,6 +1,6 @@
 ---
 title: "A Word on Entrepreneurial Fundraising: Tactical Tips to help you Succeed "
-author: Rajah@cobaltcounsel.com
+author: priya@clausehound.com
 tags: ['Investors', 'Fundraising', 'Entrepreneur']
 date: 2021-11-16
 description: " The Clausehound team has supported many companies through the fundraising process with deeply annotated investor documents and FAQs.
@@ -146,3 +146,5 @@ and user retention are important in establishing your businesses base and viabil
 
 * FOMO, or the fear of missing out, can be used very effectively within the business world. No investor wants to feel as if they are going to lose out on the next 
 big idea. 
+
+Edited By: Rajah Lehal
