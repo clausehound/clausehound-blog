@@ -45,10 +45,10 @@ A quick response is a necessity during work hours, but may not be so accessible 
 ### 8. Push, don’t pull. Wherever possible, proactively report. 
 As noted above, screenshots, updated lists in email form, maybe even screenshots of your list, will be preferred to dropping your items into a list and expecting your colleagues to retrieve. When entering a new environment, you will often note that others are working at the speed of lightning. To avoid being a disruption to workflow in a new environment, keep these helpful tips in mind.
 
-### Choose chat vs phone/video calls to collect information.
+### 9. Choose chat vs phone/video calls to collect information.
 
 If you are trying to collect an answer from someone else - avoid phone calls/Zoom calls unless perhaps for a daily scrum or especially complex problem. Calls add “weight” but effective use of chat tools will make the day lighter. Be mindful that a call during the middle of work requires the other person to be personable and solve problems. This can put the other person behind tremendously and it breaks the chain of thoughts and momentum. What needs to be communicated via a call can be easily communicated via chat by breaking the questions into simple forms where the other person can answer with either a yes or a no. Think about whether a screenshot of a file you’re working on combined with a chat question can get you to the answer faster than breaking for a call.
 
-### Answering questions that are asked.
+### 10. Answering questions that are asked.
 
 It’s common for questions to be missed when you’re skimming through your emails and chat messages. Read and reread the message - if there are 3 questions, answer all 3 directly. The extra message loops that are created by missing a question will create friction on smooth communication. This sounds like an easy thing to do, but requires “gearing down”, which is something that a lot of law students and junior lawyers have trouble with. Answer the questions directly, and where you assume that the questions are heading in a direction, it’s never bad to answer the additional questions that you’re assuming are being asked … but make sure that you ask the questions that ARE being asked first.
