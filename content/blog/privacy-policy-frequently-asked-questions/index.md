@@ -1,5 +1,5 @@
 ---
-title: "PRIVACY POLICY - FREQUENTLY ASKED QUESTIONS"
+title: "Privacy Policy - Frquently Asked Questions"
 author: sahil@clausehound.com
 tags: ["privacy policy"]
 date: 2021-07-30
