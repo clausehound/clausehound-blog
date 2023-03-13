@@ -1,3 +1,10 @@
+---
+title: "How to change the legal name of the Company: A detailed Checklist"
+author: awilliams@cobaltcounsel.com
+tags: []
+date: 2023-03-13 13:20:00
+---
+
 # How to change the legal name of the Company: A detailed Checklist
 
 If you are currently in the process of renaming the legal name of a company, it’s a good idea to have a thorough understanding of how to execute the change efficiently. 
