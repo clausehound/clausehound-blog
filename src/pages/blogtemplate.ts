@@ -7,9 +7,7 @@ import {
   ChangeEvent,
 } from "react";
 import { graphql } from "gatsby";
-import {
-  makeStyles,
-} from "@material-ui/core/styles";
+import { makeStyles } from "@mui/styles";
 import slugify from "slugify";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
@@ -17,7 +15,7 @@ import SEO from "../components/seo";
 const useStyles = makeStyles({
   root: {
     "& label": { paddingTop: "0.2rem" },
-  }
+  },
 });
 
 interface Data {

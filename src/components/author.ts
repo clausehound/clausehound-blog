@@ -1,5 +1,5 @@
 import { FC, createElement as h } from "react";
-import { makeStyles } from "@material-ui/core/styles";
+import { makeStyles } from "@mui/styles";
 import { Link } from "gatsby";
 import Image, { GatsbyImageProps } from "gatsby-image";
 

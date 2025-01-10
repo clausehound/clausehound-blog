@@ -1,5 +1,5 @@
 import { FC, createElement as h } from "react";
-import { makeStyles } from "@material-ui/core";
+import { makeStyles } from "@mui/styles";
 import { Link, graphql } from "gatsby";
 import { Helmet } from "react-helmet";
 

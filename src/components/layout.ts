@@ -1,12 +1,9 @@
 import { FC, createElement as h } from "react";
 import { Link } from "gatsby";
-import {
-  createMuiTheme,
-  MuiThemeProvider,
-  makeStyles,
-} from "@material-ui/core/styles";
-import { amber, lightBlue, grey } from "@material-ui/core/colors";
-import useMediaQuery from "@material-ui/core/useMediaQuery";
+import { makeStyles } from "@mui/styles";
+import { createTheme, ThemeProvider } from "@mui/material/styles";
+import { amber, lightBlue, grey } from "@mui/material/colors";
+import useMediaQuery from "@mui/material/useMediaQuery";
 
 import { rhythm, scale } from "../utils/typography";
 
@@ -63,12 +60,12 @@ const typography = {
   },
 } as const;
 
-const themeLight = createMuiTheme({
+const themeLight = createTheme({
   palette: paletteLight,
   typography,
 });
 
-const themeDark = createMuiTheme({
+const themeDark = createTheme({
   palette: paletteDark,
   typography,
 });
@@ -147,7 +144,7 @@ const Layout: FC<Props> = ({ location, title, children }) => {
     "div",
     { className: classes.root },
     h(
-      MuiThemeProvider,
+      ThemeProvider,
       {
         theme: darkMode ? themeDark : themeLight,
       },

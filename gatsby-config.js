@@ -188,21 +188,9 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
     {
-      resolve: "gatsby-plugin-netlify-cache",
-      options: {
-        cachePublic: true,
-      },
-    },
-    {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
         pixelId: "946837209425086",
-      },
-    },
-    {
-      resolve: `gatsby-plugin-linkedin-insight`,
-      options: {
-        partnerId: `3630777`,
       },
     },
   ],

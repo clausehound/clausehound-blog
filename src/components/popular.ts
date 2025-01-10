@@ -3,7 +3,7 @@
 // run fastest if it's built into the static bundle, so there it goes.
 import { createElement as h } from "react";
 import { Link } from "gatsby";
-import { Typography } from "@material-ui/core";
+import { Typography } from "@mui/material";
 
 // TODO: Load from graphql
 const popularPosts = [
