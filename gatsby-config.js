@@ -152,6 +152,7 @@ module.exports = {
                 url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
               })),
             output: "/rss.xml",
+            title: "Clausehound Blog RSS Feed",
           },
         ],
       },
