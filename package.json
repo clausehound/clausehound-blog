@@ -70,11 +70,11 @@
     "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
   },
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider gatsby build",
+    "develop": "NODE_OPTIONS=--openssl-legacy-provider gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "serve": "gatsby serve",
+    "serve": "NODE_OPTIONS=--openssl-legacy-provider gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   }
 }
