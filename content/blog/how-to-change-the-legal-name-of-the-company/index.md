@@ -5,7 +5,7 @@ tags: []
 date: 2023-03-13 13:20:00
 ---
 
-If you are currently in the process of renaming the legal name of a company, it’s a good idea to have a thorough understanding of how to execute the change efficiently. 
+If you are currently in the process of renaming the legal name of a company, it’s a good idea to have a thorough understanding of how to execute the change efficiently.
 
 Here are some of our recommended guidelines and responses to frequently asked questions when changing a legal name of a company.
 
