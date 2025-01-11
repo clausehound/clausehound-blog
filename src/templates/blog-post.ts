@@ -221,9 +221,7 @@ export const pageQuery = graphql`
           bio
           image {
             childImageSharp {
-              fluid(maxWidth: 320, maxHeight: 320) {
-                ...GatsbyImageSharpFluid
-              }
+              gatsbyImageData(layout: FIXED)
             }
           }
         }
