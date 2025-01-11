@@ -2,7 +2,6 @@ import { FC, createElement as h } from "react";
 import { Chip, Theme } from "@mui/material";
 import { makeStyles } from "@mui/styles";
 import { Link, navigate } from "gatsby";
-import Image, { GatsbyImageProps } from "gatsby-image";
 
 interface Props {
   tags: ReadonlyArray<string>;

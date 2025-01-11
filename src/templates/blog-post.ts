@@ -11,7 +11,7 @@ import Popular from "../components/popular";
 import TagChips from "../components/tag-chips";
 import { scale } from "../utils/typography";
 import { authors } from "../utils/filters";
-import { GatsbyImageProps } from "gatsby-image";
+import { GatsbyImageProps } from "gatsby-plugin-image";
 import HubspotForm from "../components/hubspotForm";
 
 const useStyles = makeStyles(theme => ({
