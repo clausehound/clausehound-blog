@@ -1,5 +1,5 @@
 import { FC, createElement as h, useEffect } from "react";
-import { makeStyles } from "@material-ui/core";
+import { makeStyles } from "@mui/styles";
 import { trackCustomEvent } from "gatsby-plugin-google-analytics";
 
 const useStyles = makeStyles(theme => ({

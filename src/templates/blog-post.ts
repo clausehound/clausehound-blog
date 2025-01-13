@@ -1,5 +1,5 @@
 import { FC, createElement as h } from "react";
-import { makeStyles } from "@material-ui/core";
+import { makeStyles } from "@mui/styles";
 import { Link, graphql } from "gatsby";
 import { Helmet } from "react-helmet";
 
@@ -11,7 +11,7 @@ import Popular from "../components/popular";
 import TagChips from "../components/tag-chips";
 import { scale } from "../utils/typography";
 import { authors } from "../utils/filters";
-import { GatsbyImageProps } from "gatsby-image";
+import { GatsbyImageProps } from "gatsby-plugin-image";
 import HubspotForm from "../components/hubspotForm";
 
 const useStyles = makeStyles(theme => ({
@@ -221,9 +221,7 @@ export const pageQuery = graphql`
           bio
           image {
             childImageSharp {
-              fluid(maxWidth: 320, maxHeight: 320) {
-                ...GatsbyImageSharpFluid
-              }
+              gatsbyImageData(layout: FIXED)
             }
           }
         }

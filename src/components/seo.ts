@@ -9,7 +9,7 @@ import { FC, createElement as h } from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
-import { useTheme } from "@material-ui/core/styles";
+import { useTheme } from "@mui/styles";
 
 interface MetaDescription {
   content: string;

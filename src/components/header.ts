@@ -11,8 +11,8 @@ import {
   makeStyles,
   useScrollTrigger,
   useTheme,
-} from "@material-ui/core";
-import LanguageIcon from "@material-ui/icons/Language";
+} from "@mui/material";
+import LanguageIcon from "@mui/icons-material/Language";
 
 import Logo from "./logo";
 
@@ -58,15 +58,15 @@ const Header: FC<Props> = () => {
         ref: head,
         style: { position: "sticky" },
       },
-        h(
-          Link,
-          {
-            to: "/",
-            className: classes.logo,
-            style: { boxShadow: "none", alignSelf: "flex-end" },
-          },
-          h(Logo, { style: { height: "1.2rem", width: "auto" } }),
-        ),
+      h(
+        Link,
+        {
+          to: "/",
+          className: classes.logo,
+          style: { boxShadow: "none", alignSelf: "flex-end" },
+        },
+        h(Logo, { style: { height: "1.2rem", width: "auto" } }),
+      ),
     ),
   );
 };

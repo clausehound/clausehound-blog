@@ -1,5 +1,5 @@
 import { FC, createElement as h, Fragment } from "react";
-import { Chip } from "@material-ui/core";
+import { Chip } from "@mui/material";
 import { Link, navigate } from "gatsby";
 import { rhythm } from "../utils/typography";
 import { authors } from "../utils/filters";
