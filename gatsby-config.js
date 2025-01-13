@@ -193,6 +193,8 @@ module.exports = {
         pixelId: "946837209425086",
       },
     },
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-image",
   ],
   mapping: {
     "MarkdownRemark.frontmatter.author": `AuthorJson`,

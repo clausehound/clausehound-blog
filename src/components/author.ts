@@ -51,7 +51,7 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
       className: classes.root,
       to: `/${id}`,
     },
-    image?.childImageSharp?.fluid &&
+    image?.childImageSharp?.gatsbyImageData &&
       h(GatsbyImage, {
         image: image.childImageSharp.gatsbyImageData,
         alt: `picture of ${first}`,
