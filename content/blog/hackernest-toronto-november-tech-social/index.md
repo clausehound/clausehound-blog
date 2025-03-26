@@ -3,16 +3,10 @@ title: "HackerNest Toronto November Tech Social"
 author: alva@clausehound.com
 tags: ["Events","aching"]
 date: 2017-11-25 16:35:06
-description: "Links from this article:
-HackerNest event page
-
-
-Our partner organization HackerNest is hosting a tech meetup in Toronto!
-Join them for a night of cas..."
+description: "Our partner organization HackerNest is hosting a tech meetup in Toronto this November 27!"
 ---
 
-[https://www.meetup.com/HackerNest/events/235112504/](https://www.meetup.com/HackerNest/events/235112504/)
-**Links from this article:**[HackerNest event page](https://www.meetup.com/HackerNest/events/235112504/)
+
 
 Our partner organization HackerNest is hosting a tech meetup in Toronto!
 
