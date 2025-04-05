@@ -3,8 +3,7 @@ title: "No waiver necessary for a medical emergency"
 author: rajah@cobaltcounsel.com
 tags: ["No Waiver","Rajah"]
 date: 2016-10-27 15:15:14
-description: "In the event of a medical emergency, the consent of the patient is not required when the doctor believes the treatment is necessary.
-For example, in M..."
+description: "This article discusses that a waiver is not required in the even of a medical emergency, if the doctor believes that treatment is necessary."
 ---
 
 In the event of a medical emergency, the consent of the patient is not required when the doctor believes the treatment is necessary.
