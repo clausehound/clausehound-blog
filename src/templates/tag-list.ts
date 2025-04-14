@@ -1,5 +1,5 @@
 import { FC, createElement as h } from "react";
-import { Typography } from "@material-ui/core";
+import { Typography } from "@mui/material";
 import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";

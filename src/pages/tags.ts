@@ -1,6 +1,6 @@
 import { FC, createElement as h, useMemo, useState } from "react";
-import { Button, ButtonGroup, Typography } from "@material-ui/core";
-import { ArrowDropDown, ArrowDropUp } from "@material-ui/icons";
+import { Button, ButtonGroup, Typography } from "@mui/material";
+import { ArrowDropDown, ArrowDropUp } from "@mui/icons-material";
 import { Link, graphql } from "gatsby";
 import Bio from "../components/bio";
 import Layout from "../components/layout";
@@ -40,7 +40,8 @@ const byTag = (rev?: boolean) => (a: Tag, b: Tag) =>
   (rev ? -1 : 1) * a.tag.localeCompare(b.tag);
 
 // TODO: this should be built in somewhere
-const formatTagLink = (tag: string): string => tag.replace(/ /g, "-").replace(/#/g, "");
+const formatTagLink = (tag: string): string =>
+  tag.replace(/ /g, "-").replace(/#/g, "");
 
 const notAuthor = ({ tag }: Tag): boolean => !authors.has(tag);
 
@@ -58,9 +59,7 @@ const TagsTemplate: FC<Props> = ({
   const sortedTags = useMemo(() => {
     switch (sortBy) {
       case "total":
-        return tags
-          .filter(notAuthor)
-          .sort(byTotalCount(rev));
+        return tags.filter(notAuthor).sort(byTotalCount(rev));
       case "tag":
       default: {
         return tags.filter(notAuthor).sort(byTag(rev));

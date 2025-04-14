@@ -1,7 +1,7 @@
 import { FC, createElement as h } from "react";
-import { makeStyles } from "@material-ui/core/styles";
+import { makeStyles } from "@mui/styles";
 import { Link } from "gatsby";
-import Image, { GatsbyImageProps } from "gatsby-image";
+import { GatsbyImage, GatsbyImageProps } from "gatsby-plugin-image";
 
 interface Props {
   id: string;
@@ -51,9 +51,9 @@ const Author: FC<Props> = ({ first, id, image, last }) => {
       className: classes.root,
       to: `/${id}`,
     },
-    image?.childImageSharp?.fluid &&
-      h(Image, {
-        fluid: image.childImageSharp.fluid,
+    image?.childImageSharp?.gatsbyImageData &&
+      h(GatsbyImage, {
+        image: image.childImageSharp.gatsbyImageData,
         alt: `picture of ${first}`,
         className: classes.avatar,
         imgStyle: {

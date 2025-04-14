@@ -60,7 +60,6 @@ module.exports = {
         ],
       },
     },
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-csv-feed`,
@@ -152,6 +151,7 @@ module.exports = {
                 url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
               })),
             output: "/rss.xml",
+            title: "Clausehound Blog RSS Feed",
           },
         ],
       },
@@ -188,23 +188,13 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
     {
-      resolve: "gatsby-plugin-netlify-cache",
-      options: {
-        cachePublic: true,
-      },
-    },
-    {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
         pixelId: "946837209425086",
       },
     },
-    {
-      resolve: `gatsby-plugin-linkedin-insight`,
-      options: {
-        partnerId: `3630777`,
-      },
-    },
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-image",
   ],
   mapping: {
     "MarkdownRemark.frontmatter.author": `AuthorJson`,
