@@ -12,12 +12,12 @@ September 26, 2016
 Toronto, ON:
 
 ### ALERT:  WEATHER-DEFERRED BY ONE WEEK - NEW DATE OCTOBER 6.
-On October 6, between 11:00am to 5:00pm, [Clausehound.com](https://about.clausehound.com/) will be participating in the Gould Street Party hosted by [Ryerson Digital Media Zone - Zone Learning](https://www.ryerson.ca/zone-learning/events/). Clausehound will be demonstrating our software between 3:00 to 5:00 pm on Gould Street directly next to Ryerson University. 
+On October 6, between 11:00am to 5:00pm, [Clausehound.com](https://clausehound.com/) will be participating in the Gould Street Party hosted by [Ryerson Digital Media Zone - Zone Learning](https://www.ryerson.ca/zone-learning/events/). Clausehound will be demonstrating our software between 3:00 to 5:00 pm on Gould Street directly next to Ryerson University. 
 
 Ryerson DMZ Zone Learning's Gould Street Party is a unique opportunity for students & interested parties to speak directly with the participating startups’ staff and test their products.  (This event was originally scheduled for September 29.)
 
 ### Who we are: 
-[Clausehound.com](https://about.clausehound.com/) is a legal tool geared towards entrepreneurs, small businesses and lawyers alike to help draft legal documents to make businesses more productive. Our software hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary (from five continents) and instructional videos. We even offer a concierge service (pro feature) to assist should you have any questions while trying to source an agreement.
+[Clausehound.com](https://clausehound.com/) is a legal tool geared towards entrepreneurs, small businesses and lawyers alike to help draft legal documents to make businesses more productive. Our software hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary (from five continents) and instructional videos. We even offer a concierge service (pro feature) to assist should you have any questions while trying to source an agreement.
 
 Clausehound.com will also be hosting a ‘fishbowl contest’ during our demonstration (between 3 and 5 p.m.).  Event attendees can drop a business card into our fishbowl for the chance at winning a one year subscription to Clausehound’s [Small Business Law Library](https://www.clausehound.com/documents/) including access to our concierge (a pro feature). Our concierge will source documents for you that do not presently exist in our library. The value of this promotion is $600, a great prize for the lucky winner.
 

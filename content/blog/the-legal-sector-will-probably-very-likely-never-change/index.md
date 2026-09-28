@@ -6,7 +6,7 @@ date: 2017-07-13 15:36:34
 description: "If there is one thing I am sure I have in common with Clausehound founder, Rajah Lehal, it’s that I am positive, that when starting his own company,  he was told by nearly everyone he bumped into that the sector he was going after was too unique and would never change."
 ---
 
-If there is one thing I am sure I have in common with [Clausehound](https://about.clausehound.com/) founder, Rajah Lehal, it’s that I am positive, that when starting his own company,  he was told by nearly everyone he bumped into that the sector he was going after was too unique and would never change. 
+If there is one thing I am sure I have in common with [Clausehound](https://clausehound.com/) founder, Rajah Lehal, it’s that I am positive, that when starting his own company,  he was told by nearly everyone he bumped into that the sector he was going after was too unique and would never change. 
 
  
 

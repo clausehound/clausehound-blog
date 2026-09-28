@@ -11,7 +11,7 @@ September 19, 2016 Toronto, ON:
 On October 28, 2016, between 12:00-5:30 PM, Clausehound.com will be featured at the **Toronto Tech Summit** located at the St. Lawrence Centre for the Arts. We’re celebrating new achievements and want to offer you some appealing incentives. The Toronto Tech Summit is a fantastic event where many innovative and experienced speakers will discuss the development of technological capabilities and how that can be leveraged to craft incredible experiences through technology. Members of the Clausehound.com team have attended two prior Toronto Tech Summit events, and we believe it is a great event.
 
 ### Who we are: 
-[Clausehound.com](https://about.clausehound.com/) is a legal tool geared towards entrepreneurs, small businesses and lawyers alike to help draft legal documents to make businesses more productive. The software hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a concierge service (pro feature) should you have any questions while trying to source an agreement.
+[Clausehound.com](https://clausehound.com/) is a legal tool geared towards entrepreneurs, small businesses and lawyers alike to help draft legal documents to make businesses more productive. The software hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a concierge service (pro feature) should you have any questions while trying to source an agreement.
 
 
 

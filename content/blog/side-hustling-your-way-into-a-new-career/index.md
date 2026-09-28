@@ -30,7 +30,7 @@ If you click through you’ll get a good summary of the article. After listening
 
  
 
-This discussion on how to start by side-hustling and turning your-side hustle into your full time business will resonate with many of our [Clausehound](https://about.clausehound.com/) users who in many cases are just starting their own freelance projects that will bud into fantastic full time businesses.  I was impressed with Kelly’s willingness to share her financial approach to budgeting and her actual financial numbers on her pathway to success.
+This discussion on how to start by side-hustling and turning your-side hustle into your full time business will resonate with many of our [Clausehound](https://clausehound.com/) users who in many cases are just starting their own freelance projects that will bud into fantastic full time businesses.  I was impressed with Kelly’s willingness to share her financial approach to budgeting and her actual financial numbers on her pathway to success.
 
  
 

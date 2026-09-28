@@ -18,4 +18,4 @@ Minerals in the ground are not the only resources that can be developed and sold
 
  
 
-Are you a Startup Company looking for discounted legal services? Check out [Clausehound.com](https://about.clausehound.com/) and our Business Law Library [here!](https://www.clausehound.com/documents/)
+Are you a Startup Company looking for discounted legal services? Check out [Clausehound.com](https://clausehound.com/) and our Business Law Library [here!](https://www.clausehound.com/documents/)

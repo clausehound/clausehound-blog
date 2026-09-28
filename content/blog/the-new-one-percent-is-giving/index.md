@@ -20,7 +20,7 @@ Which, for now, means that it is goodwill, good karma and positive intentions.  
 
 ### Can I get a little help from my friends?  Can I add one more percent?
 
-Right now the shares invested with Upside are mine and mine alone.  I’d like to have our company join me in thinking socially, and to that end, I have put a proposal in to the board and shareholders of my beloved [Clausehound.com](https://about.clausehound.com/) to have an additional 1% in shares be contributed by the business.  I would think this is a no-brainer because our company has always been supportive to devoting time to social impact activities; but at the same time it’s not a no-brainer because the role of the company board of directors in a for-profit corporation is to protect the shareholders and to maximize profit.  So the conversation needs to be had - and the proposal is in.
+Right now the shares invested with Upside are mine and mine alone.  I’d like to have our company join me in thinking socially, and to that end, I have put a proposal in to the board and shareholders of my beloved [Clausehound.com](https://clausehound.com/) to have an additional 1% in shares be contributed by the business.  I would think this is a no-brainer because our company has always been supportive to devoting time to social impact activities; but at the same time it’s not a no-brainer because the role of the company board of directors in a for-profit corporation is to protect the shareholders and to maximize profit.  So the conversation needs to be had - and the proposal is in.
 
 It would be great if we were all in on this together.
 
@@ -38,7 +38,7 @@ Third - getting face-to-face with the people whose lives are impacted by the pro
 
 ### 3 to 4%?  That’s a lot of percentage points
 
-Ha - my beloved [Clausehound](https://about.clausehound.com/) is not a healthy happy puppy, rather we are a starving startup, seeking our next several rounds of financing, so against the advice of every blog post on succeeding as an entrepreneur, this post proposes taking on more, doing less, and stretching ourselves even thinner.  (So - hopefully this isn’t my last post!  :p)
+Ha - my beloved [Clausehound](https://clausehound.com/) is not a healthy happy puppy, rather we are a starving startup, seeking our next several rounds of financing, so against the advice of every blog post on succeeding as an entrepreneur, this post proposes taking on more, doing less, and stretching ourselves even thinner.  (So - hopefully this isn’t my last post!  :p)
 
 But we startup people are all resourceful, hard working, tenacious and problem solving types - can we bear a minus 3% or more on productivity?  Yes, I think we can.
 

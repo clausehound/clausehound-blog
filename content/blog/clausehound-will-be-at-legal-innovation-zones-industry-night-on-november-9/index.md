@@ -17,7 +17,7 @@ Clausehound.com and our $10 per month [small business law library](https://www.c
 
 In conjunction with this announcement, **Clausehound will be offering free one month subscriptions to our Small Business Law Library** (which allows the unlocking and download of three legal documents) to all visitors of Industry Night! Speak with us on November 9th to receive your promotional code!
 
-[Clausehound.com](https://about.clausehound.com/) will also be hosting a ‘fishbowl contest’ in which event attendees can drop a business card into our fishbowl for the chance at winning a one year subscription to Clausehound’s Small Business Law Library including access to our concierge (a pro feature).  Our concierge will source documents for you that do not presently exist in our library. The value of this promotion is $600, a great prize for the lucky winner.  
+[Clausehound.com](https://clausehound.com/) will also be hosting a ‘fishbowl contest’ in which event attendees can drop a business card into our fishbowl for the chance at winning a one year subscription to Clausehound’s Small Business Law Library including access to our concierge (a pro feature).  Our concierge will source documents for you that do not presently exist in our library. The value of this promotion is $600, a great prize for the lucky winner.  
 
 Clausehound.com is proud to be participating in such a great legal technology event, and we look forward to showcasing our new product to Toronto’s legal and tech communities.
 

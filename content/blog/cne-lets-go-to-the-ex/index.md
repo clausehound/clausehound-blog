@@ -27,7 +27,7 @@ Toronto, ON:
 From August 19 to August 21, 2016, Clausehound.com will be featured at the Canadian National Exhibition [Innovation Garage](https://theex.com/) located at Hall F in the Enercare Centre. We’re celebrating new achievements and want to offer you some appealing incentives.
 
 ### Who we are: 
-[Clausehound.com](https://about.clausehound.com/) is a legal tool geared towards entrepreneurs, small businesses and lawyers alike to help draft legal documents to make businesses more productive. The software hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a 24-hour concierge service should you have any questions while trying to source an agreement.
+[Clausehound.com](https://clausehound.com/) is a legal tool geared towards entrepreneurs, small businesses and lawyers alike to help draft legal documents to make businesses more productive. The software hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a 24-hour concierge service should you have any questions while trying to source an agreement.
 
 ### Support of the CNE Emerging Entrepreneur’s Pitch Competition:   
 

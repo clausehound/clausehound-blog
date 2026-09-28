@@ -8,7 +8,7 @@ description: "Our team is growing at my beloved Clausehound.com, and that is gre
 
 
 
-Our team is growing at my beloved [Clausehound.com](https://about.clausehound.com/), and that is great.  It is no longer a big panic to get from version to version or from demo to demo.  New staff and old staff are starting to create their own groups of friends and this has prompted me to think about the kind of culture that we want to be known for.
+Our team is growing at my beloved [Clausehound.com](https://clausehound.com/), and that is great.  It is no longer a big panic to get from version to version or from demo to demo.  New staff and old staff are starting to create their own groups of friends and this has prompted me to think about the kind of culture that we want to be known for.
 
 We have a pretty good filter with which to recruit new members of our team.  We use the **SWAN methodology to hiring** (I referred to that in [this article](../journey-into-hiring-diversity/):  smart, works hard, ambitious, nice).  But hiring “swans” isn’t the same as defining culture, as I’ve found out.
 
@@ -87,7 +87,7 @@ I debated this statement with a colleague - Starbucks with its global corporate 
 
 Ultimately, everyone has to go to work - where you are going to do that should reflect your own culture, and it is my hope that our chosen culture is one that creates a lasting bond.  
 
-**So who are we?**  Me - I am intellectually curious, I like to get out of my desk, do things/try things, meet people, to understand things.  So is the case for the customers and members of my beloved [Clausehound.com](https://about.clausehound.com/), they are DIY’ers, who want to learn, who would like to read the details and fine print, and to think about the documents that they are signing.  And our team are intellectually curious too, and they are “swans”.  It’s non-stop learning for our young and growing team, both informally, and formally - you’ll see our team members huddled up at company growth training programs, or huddled around our training sessions held by our senior software engineers.
+**So who are we?**  Me - I am intellectually curious, I like to get out of my desk, do things/try things, meet people, to understand things.  So is the case for the customers and members of my beloved [Clausehound.com](https://clausehound.com/), they are DIY’ers, who want to learn, who would like to read the details and fine print, and to think about the documents that they are signing.  And our team are intellectually curious too, and they are “swans”.  It’s non-stop learning for our young and growing team, both informally, and formally - you’ll see our team members huddled up at company growth training programs, or huddled around our training sessions held by our senior software engineers.
 
 Organizationally, our budget is not a Starbucks, McKinsey or BCE budget, but we’ve gone a long way by giving our young team a lot of responsibility and in doing so, by creating a massive learning experience.
 

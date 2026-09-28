@@ -29,4 +29,4 @@ This article is useful for a licensor or licensee of patent/IP who may wish to c
 
  
 
-Are you a Startup Company looking for discounted legal services? Check out [Clausehound.com](https://about.clausehound.com/) and its Small Business Library [here!](https://www.clausehound.com/documents/)
+Are you a Startup Company looking for discounted legal services? Check out [Clausehound.com](https://clausehound.com/) and its Small Business Library [here!](https://www.clausehound.com/documents/)

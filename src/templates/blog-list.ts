@@ -51,7 +51,7 @@ const BlogList: FC<Props> = ({ data, location, pageContext }) => {
       null,
       h("script", {
         id: "hs-script-loader",
-        src: `//js.hs-scripts.com/${process.env.HUBSPOT_ACCOUNT_NUMBER}.js`,
+        src: `//js.hs-scripts.com/${process.env.HUBSPOT_ACCOUNT_NUMBER || "5646626"}.js`,
       }),
     ),
     h(

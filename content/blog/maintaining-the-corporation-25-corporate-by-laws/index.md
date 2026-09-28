@@ -14,4 +14,4 @@ The by-laws (with the exception of the various provisions relating to the agents
 
 Shareholders can only vote to ratify or not to ratify the by-laws adopted by the board of directors. Shareholders cannot repeal, amend or modify the by-laws in any way because these powers are statutorily given to the Directors.
 
-To see sample by-laws on [Clausehound.com](https://about.clausehound.com/), please visit the [Small Business Law Library](https://www.clausehound.com/documents/).
+To see sample by-laws on [Clausehound.com](https://clausehound.com/), please visit the [Small Business Law Library](https://www.clausehound.com/documents/).

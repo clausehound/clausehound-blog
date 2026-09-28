@@ -15,6 +15,6 @@ Be it resolved that I will work smarter. I will stop using my commuting time to 
 
 Be it resolved that I will let myself be open to the chaos. I will shut my laptop hours before bed. I'll put aside thoughts of investors and daily active users, and will just "hang". I have the privilege of meeting new people every day on the road in my job. I will make new friends and will hang out with old friends. I will go with the flow.
 
-Be it resolved that 2017 will be the breakthrough year for my beloved [Clausehound](https://about.clausehound.com/).
+Be it resolved that 2017 will be the breakthrough year for my beloved [Clausehound](https://clausehound.com/).
 
 Here we go!

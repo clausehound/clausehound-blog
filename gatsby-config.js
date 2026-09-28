@@ -9,6 +9,10 @@ module.exports = {
     },
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: { siteUrl: `https://blog.clausehound.com` },
+    },
     "gatsby-plugin-typescript",
     {
       resolve: `gatsby-source-filesystem`,

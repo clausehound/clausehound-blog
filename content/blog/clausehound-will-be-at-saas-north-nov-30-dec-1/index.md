@@ -16,7 +16,7 @@ Deadline to purchase early bird tickets is today, October 14!
 SAAS NORTH is Canada’s first SaaS Conference designed to connect the top SaaS founders, investors and executives to learn, network and grow over a 2 day event in Ottawa, Canada. This event promises tactical content and actionable conversations delivered by world class thought leaders in SaaS.
 
 ### Who we are: 
-[Clausehound.com](https://about.clausehound.com/) and our [$10 per month small business law library](https://www.clausehound.com/documents/) is cloud-based software for entrepreneurs, small businesses and lawyers alike to help with the drafting of legal documents. Clausehound hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a concierge service (pro feature) should you have any questions while trying to source an agreement.
+[Clausehound.com](https://clausehound.com/) and our [$10 per month small business law library](https://www.clausehound.com/documents/) is cloud-based software for entrepreneurs, small businesses and lawyers alike to help with the drafting of legal documents. Clausehound hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a concierge service (pro feature) should you have any questions while trying to source an agreement.
 
 In conjunction with this announcement, Clausehound will be offering a free download of our terms of use and privacy policy – come by our booth and receive your free gift!
 

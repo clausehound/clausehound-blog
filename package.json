@@ -12,6 +12,7 @@
     "@material-ui/icons": "^4.5.1",
     "gatsby": "^2.18.7",
     "gatsby-image": "^2.2.34",
+    "gatsby-plugin-canonical-urls": "^2.10.0",
     "gatsby-plugin-csv-feed": "^2.0.0",
     "gatsby-plugin-facebook-pixel": "^1.0.8",
     "gatsby-plugin-feed": "^2.3.23",

@@ -20,7 +20,7 @@ Attendees will have the opportunity to learn from one another and encourage the 
 
 ### Who we are: 
 
-[Clausehound.com](https://about.clausehound.com/) and our $10 per month small business law library is cloud-based software for entrepreneurs, small businesses and lawyers alike to help with the drafting of legal documents. Clausehound hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a concierge service (pro feature) should you have any questions while trying to source an agreement.
+[Clausehound.com](https://clausehound.com/) and our $10 per month small business law library is cloud-based software for entrepreneurs, small businesses and lawyers alike to help with the drafting of legal documents. Clausehound hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a concierge service (pro feature) should you have any questions while trying to source an agreement.
 
 
 

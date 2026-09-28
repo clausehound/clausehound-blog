@@ -8,7 +8,7 @@ description: "By now we think we're pretty smart - we've made it easier for folk
 
 
 
-By now we think we're pretty smart - we've made it easier for folks to navigate and read one of the most complicated things in the world to read - legal documents.  But then along has come "smart contracts", to remind our team at my beloved [Clausehound.com](https://about.clausehound.com/) that there's always someone "smarter" out there.  While not a post on my personal founder's journey, this is something that we're watching carefully from a product perspective to see where the "smart money" is going.
+By now we think we're pretty smart - we've made it easier for folks to navigate and read one of the most complicated things in the world to read - legal documents.  But then along has come "smart contracts", to remind our team at my beloved [Clausehound.com](https://clausehound.com/) that there's always someone "smarter" out there.  While not a post on my personal founder's journey, this is something that we're watching carefully from a product perspective to see where the "smart money" is going.
 
  
 

@@ -40,7 +40,7 @@ You would laugh if you could see the little windowless cubby that I work out of 
 
  
 
-Hiring diversity has been described as a means to helping a business to understand their users and product from a variety of perspectives.  We have discussed this topic previously in [this article](../journey-into-hiring-diversity/), and [this article](../mayors-diversity-and-inclusion-pledge-for-toronto-technology-and-innovation-events/), and [this article](../0-to-100-real-quick/).  When I look around the office at my beloved [Clausehound.com](https://about.clausehound.com/), the diversity is obvious. What’s not obvious is how we are learning from one another, or adapting our processes or product.  Maybe the learnings and adaptations are more subtle than I realize?
+Hiring diversity has been described as a means to helping a business to understand their users and product from a variety of perspectives.  We have discussed this topic previously in [this article](../journey-into-hiring-diversity/), and [this article](../mayors-diversity-and-inclusion-pledge-for-toronto-technology-and-innovation-events/), and [this article](../0-to-100-real-quick/).  When I look around the office at my beloved [Clausehound.com](https://clausehound.com/), the diversity is obvious. What’s not obvious is how we are learning from one another, or adapting our processes or product.  Maybe the learnings and adaptations are more subtle than I realize?
 
  
 

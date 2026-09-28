@@ -42,4 +42,4 @@ Example: A simple, 2 share class [Articles of Incorporation](https://clausehound
 Remember that an Ontario corporation must file an Annual Return (which is not related to taxation, just registration of the business) within 60 days of incorporation. This may alternatively be completed directly through the Ontario government. 
  
 
-Incorporating a business is a crucial step in starting your business pursuits on the right foot. If you require help or guidance on incorporating your business, email [info@clausehound.com](mailto:info@clausehound.com) and let [Clausehound.com](https://about.clausehound.com/) connect you with one of our affiliate lawyers to help usher you through the process! 
+Incorporating a business is a crucial step in starting your business pursuits on the right foot. If you require help or guidance on incorporating your business, email [info@clausehound.com](mailto:info@clausehound.com) and let [Clausehound.com](https://clausehound.com/) connect you with one of our affiliate lawyers to help usher you through the process! 

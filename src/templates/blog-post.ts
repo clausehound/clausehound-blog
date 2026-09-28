@@ -86,10 +86,9 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
     h(
       Helmet,
       null,
-      h("script", { src: "https://www.clausehound.com/dist/clausehound.js" }),
       h("script", {
         id: "hs-script-loader",
-        src: `//js.hs-scripts.com/${process.env.HUBSPOT_ACCOUNT_NUMBER}.js`,
+        src: `//js.hs-scripts.com/${process.env.HUBSPOT_ACCOUNT_NUMBER || "5646626"}.js`,
       }),
     ),
     h(
@@ -186,7 +185,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
         "This article is provided for informational purposes only and does not create a lawyer-client relationship with the reader. It is not legal advice and should not be regarded as such. Any reliance on the information is solely at the reader’s own risk. ",
         h(
           "a",
-          { href: "https://clausehound.com/documents" },
+          { href: "https://clausehound.com" },
           "Clausehound.com",
         ),
         " is a legal tool geared towards entrepreneurs, early-stage businesses and small businesses alike to help draft legal documents to make businesses more productive.",

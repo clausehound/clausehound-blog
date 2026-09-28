@@ -12,7 +12,7 @@ September 19, 2016 Toronto, ON:
 This post is to remind subscribers that on October 25, 2016, between 9:00 AM - 4:00 PM, Clausehound.com will be featured at **Enterprise Toronto’s Small Business Forum** located at the Toronto Metro Convention Centre. Clausehound continues to celebrate new achievements by offering OUR BIGGEST SPONSORSHIP PACKAGE EVER to attendees of Enterprise Toronto’s Small Business Forum. The Small Business Forum hosts over 2,500 entrepreneurs and provides an exceptional lineup of speakers, including Mayor John Tory. Clausehound is excited to meet many of Canada’s best up-and-coming entrepreneurs and small businesses at the Small Business Forum!
 
 ### Who we are: 
-[Clausehound.com](https://about.clausehound.com/) and our [$10 per month small business law library](https://www.clausehound.com/documents/) is cloud-based software for entrepreneurs, small businesses and lawyers alike to help with the drafting of legal documents. Clausehound hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a concierge service (pro feature) should you have any questions while trying to source an agreement.
+[Clausehound.com](https://clausehound.com/) and our [$10 per month small business law library](https://www.clausehound.com/documents/) is cloud-based software for entrepreneurs, small businesses and lawyers alike to help with the drafting of legal documents. Clausehound hosts tens of thousands of legal clauses, contracts, articles, lawyer commentary and instructional videos. We even offer a concierge service (pro feature) should you have any questions while trying to source an agreement.
 
 
 

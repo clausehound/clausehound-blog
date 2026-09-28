@@ -38,7 +38,7 @@ The extent to which these clauses are implemented is dependent on either party�
 
  
 
-You can view [Clausehound’s](https://about.clausehound.com/) sample Software Development Agreement [here!](https://clausehound.com/legal-contract/15832/#!/document=)
+You can view [Clausehound’s](https://clausehound.com/) sample Software Development Agreement [here!](https://clausehound.com/legal-contract/15832/#!/document=)
 
  
 

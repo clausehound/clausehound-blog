@@ -11,7 +11,7 @@ description: "On September 27th, between 12:00-1:00pm, Clausehound.com will be a
 September 26, 2016
 Toronto, ON:
 
-On September 27th, between 12:00-1:00pm, [Clausehound.com](https://about.clausehound.com/) will be attending **Lunch & Law hosted by the Legal Innovation Zone (which is also the location of the Clausehound office!)**. 
+On September 27th, between 12:00-1:00pm, [Clausehound.com](https://clausehound.com/) will be attending **Lunch & Law hosted by the Legal Innovation Zone (which is also the location of the Clausehound office!)**. 
 
 Lunch & Law is a fantastic event where keynote speakers discuss relevant legal issues with participants. The keynote speaker on September 27th will be **Peter Carayiannis**, founder of Conduit Law Profession Corporation and co-founder of StandIn. Clausehound looks forward engaging with other legal innovators at Lunch & Law and further participating with the Legal Innovation Zone’s always exciting and educational events.
 

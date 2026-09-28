@@ -6,7 +6,7 @@ date: 2017-08-18 13:42:03
 description: "We had a chance to talk to Sam Natur, President and CEO of Bullfrog Insurance about his Founder journey.  Here were some of the highlights from his conversation with Rajah Lehal, Founder of Clausehound.com."
 ---
 
-We had a chance to talk to Sam Natur, President and CEO of [Bullfrog Insurance](https://bullfroginsurance.com/) about his Founder journey.  Here were some of the highlights from his conversation with Rajah Lehal, Founder of [Clausehound.com](https://about.clausehound.com/).
+We had a chance to talk to Sam Natur, President and CEO of [Bullfrog Insurance](https://bullfroginsurance.com/) about his Founder journey.  Here were some of the highlights from his conversation with Rajah Lehal, Founder of [Clausehound.com](https://clausehound.com/).
 
 **Rajah**: Sam, how did you prepare to be a Founder?
 
