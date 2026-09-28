@@ -70,7 +70,7 @@ const BlogPostTemplate: FC<Props> = ({ data, pageContext, location }) => {
   const { previous, next } = pageContext;
   const { author } = post.frontmatter;
   const classes = useStyles();
-  const tags = post.frontmatter.tags.filter(tag => !authors.has(tag));
+  const tags = (post.frontmatter.tags || []).filter(tag => !authors.has(tag));
 
   return h(
     Layout,

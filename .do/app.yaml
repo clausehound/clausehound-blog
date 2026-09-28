@@ -1,0 +1,25 @@
+# DigitalOcean App Platform spec. Deploys on every push to master.
+# Apply: doctl apps create --spec .do/app.yaml  (or: doctl apps update <id> --spec .do/app.yaml)
+name: clausehound-blog
+region: tor
+domains:
+  - domain: blog.clausehound.com
+    type: PRIMARY
+    zone: clausehound.com
+  - domain: tech.clausehound.com
+    type: ALIAS
+    zone: clausehound.com
+static_sites:
+  - name: site
+    github:
+      repo: clausehound/clausehound-blog
+      branch: master
+      deploy_on_push: true
+    dockerfile_path: Dockerfile
+    output_dir: /app/public
+    error_document: 404.html
+    # cobaltcounsel.com reads rss.xml client-side (was a netlify.toml header)
+    cors:
+      allow_origins:
+        - exact: https://www.cobaltcounsel.com
+        - exact: https://cobaltcounsel.com
